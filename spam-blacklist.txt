@@ -1,7 +1,8 @@
  #<!-- leave this line exactly as it is --> <pre> 
 # This is a list of domain names which are considered spam. If you see 
 # link spam, you may add the offender to this list.
-
+#
+# It's not quite as exciting as it looks, currently this list is only read once per hour.
 
 ltjz2000.com
 ticketsmyway.com
