@@ -43,7 +43,6 @@ wines-cellar\.info
 lemai\.com
 shouji\.com
 voip99\.(com|net)
-testing12345
 
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
 
