@@ -1,3 +1,8 @@
+ #<!-- leave this line exactly as it is --> <pre> 
+# This is a list of domain names which are considered spam. If you see 
+# link spam, you may add the offender to this list.
+
+
 ltjz2000.com
 ticketsmyway.com
 emmss.com
@@ -10,7 +15,6 @@ mongolie.mn
 zw88.com
 sj55.com
 odyssei.com
-voip99.(com|net)
 shop263.com
 88aabb.com
 freedom4sale.com
@@ -36,3 +40,5 @@ www.0008888.com
 www.lemai.com
 www.shouji.com
 voip99.(com|net)
+
+ #</pre> <!-- leave this line exactly as it is -->
