@@ -1024,4 +1024,19 @@ lipitor-lawsuit\.uni\.cc
 w\.interia\.pl
 fm\.interia\.pl
 
+# From http://meta.wikimedia.org/wiki/User_talk:67.166.109.226
+googlesweb\.com
+fssj\.com
+wujing-eyes\.com
+htsb999\.com
+lekaka\.com
+16198\.com
+shijiweb\.com
+kejiaoyuan\.com\.cn
+sunnyworld\.com\.cn
+stent\.com\.cn
+kaoyan\.biz
+kejiaoyuan\.com\.cn
+mddcx\.com
+
  #</pre> <!-- leave this line exactly as it is -->
