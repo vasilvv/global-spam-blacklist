@@ -135,6 +135,8 @@ enhancemysearch\.com # same
 51dragon\.com # spammed extensively on other wikis, spammed on meta by DragOn
 home\.tiscali\.be/wallpaperheaven
 bertelsmann2club\.be\.funpic\.de # requested on talk page
+kajagoogoomania\.proboards33\.com # spammed on several en: articles by different anons
+duranduran\.cjb\.net # same as above, both requested on talk
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.6x\.to
