@@ -47,7 +47,7 @@ shouji\.com
 voip99\.(com|net)
 
 
-# The rest is a copy from http://wikiblacklist.blogspot.com, thanks guys
+# The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
 
 #Top level domains to block: (your choice)
 #\.cn(/|:|$) #china
@@ -136,10 +136,12 @@ sex-zone
 lazy-stars
 eblja
 liuhecai
--pics\.com(/|:|$)
-\.[0-9]+\.com(/|:|$) #domain is only numbers
-\.[0-9]+\.net(/|:|$)
--[a-z]+\.biz(/|:|$)
+
+# These won't work with MediaWiki:
+#-pics\.com(/|:|$)
+#\.[0-9]+\.com(/|:|$) #domain is only numbers
+#\.[0-9]+\.net(/|:|$)
+#-[a-z]+\.biz(/|:|$)
 
 
 
