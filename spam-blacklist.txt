@@ -759,7 +759,7 @@ gopages\.net
 pornxxxsearch\.com
 divaporn\.com
 virginsplanet\.com
-porn\.com
+# porn\.com
 porn\.biz
 porn\.us
 realyoungboy\.com
