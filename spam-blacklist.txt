@@ -56,13 +56,20 @@ ganzao\.68l\.com
 5556669\.com
 6667776\.com
 e-business168\.com
-wikipediasucks\.com # site run by some cultists that libels Jimbo's baby daughter and wife
-
+[0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
 # end CCNGROUP-TJ
 to8.com            # http://en.wiktionary.org/w/wiki.phtml?title=Wiktionary:Esperanto_index&diff=112487&oldid=112087
 ec51\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Help:Contents&diff=117242&oldid=117235
 ec91\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Qur%27an&diff=117271&oldid=117268
-[0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
+
+# 2004-12-20 one spammer hit source, skwiktionary and enwikibooks from 202.108.59.100. This group:
+nuoya-hd\.com      # 1: http://sk.wiktionary.org/w/wiki.phtml?title=Wikislovn%C3%ADk:Povolenia&diff=651&oldid=648
+renzhengwang\.com  # 2: http://sk.wiktionary.org/w/wiki.phtml?title=Wikislovn%C3%ADk:Ot%C3%A1zky_a_Odpovede&diff=652&oldid=649
+886611\.com        # 3: http://wikisource.org/w/index.php?title=France%2C_pr%C3%A9sidentielle_1995&diff=0&oldid=28373
+cp868\.com         # 4: http://en.wikibooks.org/w/wiki.phtml?title=GAT:_asterism&diff=78745&oldid=76877
+b2m\.cn            # 
+emay\.cn           # 
+jlsun\.com         # 
 
 
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
@@ -187,7 +194,7 @@ ad-ope\.com
 ama-son\.com
 microzovd\.com
 smut\.com
-\.4t\.com
+#\.4t\.com          #conflicted with link at en Number_of_the_Beast_(numerology)
 haugeprint\.co\.uk
 logical-planet\.co\.uk
 -luxuries\.co\.uk
@@ -818,7 +825,7 @@ bjzufang\.com
 ccxx\.net
 dstmedia\.com
 gyhx\.com
-bbell\.com
+#bbell\.com           #may have blocked juliandibbell.com
 cambridge-group\.org
 glory-vision\.com
 bjerwai\.com
