@@ -209,8 +209,8 @@ www\.amelatine\.com # spammed on fr.wp: reported by AlNo
 \.marine\.ru
 \.mordovia\.ru
 \.mordovia\.su
-# \.msk\.ru
-\.msk\.su
+.*-.*\.msk\.ru
+.*-.*\.msk\.su
 \.murmansk\.su
 \.mytis\.ru
 \.nalchik\.ru
