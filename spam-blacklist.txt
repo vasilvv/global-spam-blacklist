@@ -48,7 +48,6 @@ shouji\.com
 voip99\.(com|net)
 ganzao\.68l\.com
 LostLiners\.de
-buy-tramadol-1\.uni\.cc
 
 # CCNGROUP-TJ spammer, generally numeric
 33335556\.com
@@ -143,6 +142,12 @@ predictive-dialers\.org # same
 software-engine\.org # same
 51dragon\.com # spammed on meta by DragOn
 # --------------------------------------------
+# Aphaia added some from talk and what see found on meta RC
+buy-tramadol-1\.uni\.cc spammed on meta by 12.154.125.81
+www\.travel-images\.com
+cgi\.ebay\.com
+# --------------------------------------------
+
 
 #-------------------------------------------------------------------------------------
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
