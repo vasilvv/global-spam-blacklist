@@ -135,6 +135,8 @@ lingshengdown\.com
 serverlogic3\.com # one site inserted into edit forms by hyperlinker malware
 enhancemysearch\.com # same
 
+home\.tiscali\.be/wallpaperheaven
+
 #-------------------------------------------------------------------------------------
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
 #-------------------------------------------------------------------------------------
