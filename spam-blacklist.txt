@@ -132,6 +132,7 @@ pxxi100\.51\.net
 lingshengdown\.com
 
 serverlogic3\.com # one site inserted into edit forms by hyperlinker malware
+enhancemysearch\.com # same
 
 #-------------------------------------------------------------------------------------
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
