@@ -147,6 +147,10 @@ cn80051\.1816\.net
 \.b3\.nu # same
 newsmotion\.com # requested on talk, spammed on en # 2005-02-18
 
+# ----
+# Brittys wake: Aphaia wrote down them 
+www\.fibromyalgie-treffpunkt\.de # spammed on DEWP by 172.180.229.141 ~~~~~ 
+
 ### BEGIN RUSSIAN SPAM SECTION
 \.6x\.to
 \.uni\.cc
