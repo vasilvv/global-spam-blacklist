@@ -127,7 +127,15 @@ xh008\.com
 artmtm\.nease\.net
 pxxi100\.51\.net
 
+# http://en.wikinews.org/w/index.php?title=Venezuela-Colombia_crisis_continues&diff=prev&oldid=18407
+# http://en.wikibooks.org/w/index.php?title=Horn&diff=86272&oldid=86247
+lingshengdown\.com 
+
+
+
+#-------------------------------------------------------------------------------------
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
+#-------------------------------------------------------------------------------------
 
 #Top level domains to block: (your choice)
 #\.cn(/|:|$) #china
