@@ -62,7 +62,7 @@ wikipediasucks\.com # site run by some cultists that libels Jimbo's baby daughte
 to8.com            # http://en.wiktionary.org/w/wiki.phtml?title=Wiktionary:Esperanto_index&diff=112487&oldid=112087
 ec51\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Help:Contents&diff=117242&oldid=117235
 ec91\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Qur%27an&diff=117271&oldid=117268
-
+[0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
 
 
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
