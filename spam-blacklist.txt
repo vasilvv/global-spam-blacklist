@@ -204,7 +204,7 @@ semsk\.su
 sochi\.su
 # spb\.ru
 # spb\.su
-\.tagil\.ru
+\.tagil\.ru   # First dot added to not block ntagil.ru
 tashkent\.su
 termez\.su
 togliatti\.su
@@ -264,7 +264,7 @@ chatsex
 onlinesex
 adultporn
 adultvideo
-adultweb
+adultweb\. # dot added to allow adultweblaw.com
 hardcoresex
 hardcoreporn
 teenporn
@@ -294,7 +294,7 @@ janet-jackson
 2large
 oa274
 -horoskop
-latex-
+# latex- ----> Blocks much related to LaTeX markup language; not a good idea
 fuel-dispenser
 fueling-dispenser
 huojia
@@ -302,7 +302,7 @@ jinxinghj
 telematicsone
 telematiksone
 a-mortgage
-1stop-
+# 1stop-   ----> removed for being overly broad
 diamondabrasives
 reuterbrook
 sex-plugin
@@ -539,7 +539,7 @@ by-and-by\.com
 egyway\.com
 xxx\.biz
 bucuo\.net
--china\.com
+# -china\.com ---> removed for being overly broad
 cqhyjx\.com
 qjfy\.com
 guilintour\.net
@@ -600,7 +600,7 @@ casino-online-on-line\.com
 eczz\.com
 211\.157\.35\.153
 musica\.org\.es
-y365\.com
+\.y365\.com # Added the first dot to avoid overbroad blocking
 -cam\.us
 -cam-chat\.com
 -chat-room\.us
@@ -870,11 +870,11 @@ timescooter\.com
 sbt-scooter\.com
 dlctc\.com
 # com\.cn
-sh\.cn
+# sh\.cn
 frhpcn\.com
 zzwz\.net
 ktawebdesign\.com
-freewebpage\.org
+# freewebpage\.org
 webtechin\.com
 tpmschina\.com
 sandwiki\.com
@@ -896,8 +896,6 @@ creditcards\.com
 ink-cartridges\.com
 internet-dial-up\.com
 1stop-mens-magazines\.com
-1stop-penguins\.com
-1stop
 casinowatchdogs\.com
 gamblingmethods\.com
 bslh\.net
@@ -985,7 +983,7 @@ peak-e\.com
 gotooa\.com
 211\.157\.35\.153
 cfeenet\.com
-tsinghua\.edu\.cn
+#tsinghua\.edu\.cn
 longsuncard\.com
 ychzn\.com
 sxcoal\.com
