@@ -1051,4 +1051,8 @@ mddcx\.com
 # http://en.wiktionary.org/w/index.php?title=Special:Contributions&target=213.154.101.199
 pornpitstop\.net
 
+# on request of german wp
+diecarolinger\.de 
+khg-edith-stein\.de
+
  #</pre> <!-- leave this line exactly as it is -->
