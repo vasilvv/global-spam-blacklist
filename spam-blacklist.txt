@@ -143,8 +143,8 @@ acmetranslation\.com
 commerce-translation\.com
 cn80051\.1816\.net
 0302\.net
-xs3\.com # similar to 6x.to and uni.cc, commercially spammed on other wikis
-b3\.nu # same
+\.xs3\.com # similar to 6x.to and uni.cc, commercially spammed on other wikis
+\.b3\.nu # same
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.6x\.to
