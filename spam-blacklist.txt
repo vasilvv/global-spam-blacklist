@@ -204,6 +204,7 @@ semsk\.su
 sochi\.su
 # spb\.ru
 # spb\.su
+# tagil\.ru   ---> removed from the list. Blocked the valid webpage ntagil.ru, government site of a Russian city
 tashkent\.su
 termez\.su
 togliatti\.su
