@@ -72,6 +72,12 @@ emay\.cn           #
 jlsun\.com         # 
 
 home\.graffiti\.net # repeat de spammer http://de.wikipedia.org/w/index.php?title=Lorentzkraft&diff=prev&oldid=3816534
+jbbjcc\.com        # wikinews http://en.wikinews.org/w/index.php?title=User:Dvnkfjdsnvkjd&oldid=8702
+
+
+
+
+
 
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
 
