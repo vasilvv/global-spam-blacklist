@@ -113,6 +113,12 @@ kgc-networks\.com # http://en.wikinews.org/w/index.php?title=User:Angela&curid=9
 smokaz\.com
 nakurka\.ru       # one of the above links redirected here
 
+# http://en.wikinews.org/w/index.php?title=Venezuela-Colombia_crisis_continues&diff=prev&oldid=18407
+# http://en.wikibooks.org/w/index.php?title=Horn&diff=86272&oldid=86247
+lingshengdown\.com
+
+# --------------------------------------------
+# silsor's section, so I can keep track easier
 rackstorage\.cn   # http://hu.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Homokoz%C3%B3&diff=57916&oldid=57891
 dimmo\.net
 seov\.net
@@ -127,15 +133,14 @@ house263\.com
 xh008\.com
 artmtm\.nease\.net
 pxxi100\.51\.net
-
-# http://en.wikinews.org/w/index.php?title=Venezuela-Colombia_crisis_continues&diff=prev&oldid=18407
-# http://en.wikibooks.org/w/index.php?title=Horn&diff=86272&oldid=86247
-lingshengdown\.com
-
 serverlogic3\.com # one site inserted into edit forms by hyperlinker malware
 enhancemysearch\.com # same
-
 home\.tiscali\.be/wallpaperheaven
+literotica-story\.uni\.cc # spammed on meta by 218.111.54.89
+voip-guide\.org # spammed on meta by 220.227.152.36
+predictive-dialers\.org # same
+software-engine\.org # same
+# --------------------------------------------
 
 #-------------------------------------------------------------------------------------
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
