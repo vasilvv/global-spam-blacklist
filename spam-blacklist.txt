@@ -47,6 +47,7 @@ shouji\.com
 voip99\.(com|net)
 ganzao\.68l\.com
 LostLiners\.de
+# historyofnations\.net # why was this here? commented out for now
 
 # CCNGROUP-TJ spammer, generally numeric
 33335556\.com
@@ -135,11 +136,6 @@ pxxi100\.51\.net
 serverlogic3\.com # one site inserted into edit forms by hyperlinker malware
 enhancemysearch\.com # same
 home\.tiscali\.be/wallpaperheaven
-voip-guide\.org # spammed on meta by 220.227.152.36
-predictive-dialers\.org # same
-software-engine\.org # same
-51dragon\.com # spammed on meta by DragOn
-Pain-relief\.bashkiria\.ru # spammed on meta by 68.224.25.134
 bertelsmann2club\.be\.funpic\.de # requested on talk page
 Cigarettes\.nov\.su
 Shopping\.grozny\.su
@@ -174,7 +170,6 @@ Baccarat\.murmansk\.su # by request on talk
 
 # --------------------------------------------
 # Aphaia added some from talk and what see found on meta RC
-buy-tramadol-1\.uni\.cc # spammed on meta by 12.154.125.81
 www\.travel-images\.com # requested on talk
 cgi\.ebay\.com # requested on talk
 hydrocodone-detox\.uni\.cc # spamming on jawiki
@@ -828,7 +823,7 @@ go\.nease\.net
 timescooter\.com
 sbt-scooter\.com
 dlctc\.com
-#com\.cn
+# com\.cn
 sh\.cn
 frhpcn\.com
 zzwz\.net
