@@ -137,89 +137,89 @@ home\.tiscali\.be/wallpaperheaven
 bertelsmann2club\.be\.funpic\.de # requested on talk page
 
 ### BEGIN RUSSIAN SPAM SECTION
-6x\.to
-uni\.cc
-abkhazia\.su
-adygeya\.ru
-adygeya\.su
-aktyubinsk\.su
-arkhangelsk\.su
-armenia\.su
-ashgabad\.su
-azerbaijan\.su
-balashov\.su
-bashkiria\.ru
-bashkiria\.su
-belgorod\.ru
-belgorod\.su
-bir\.ru
-bryansk\.su
-bukhara\.su
-cbg\.ru
-chimkent\.su
-dagestan\.ru
-dagestan\.su
-east-kazakhstan\.su
-exnet\.su
-georgia\.su
+\.6x\.to
+\.uni\.cc
+\.abkhazia\.su
+\.adygeya\.ru
+\.adygeya\.su
+\.aktyubinsk\.su
+\.arkhangelsk\.su
+\.armenia\.su
+\.ashgabad\.su
+\.azerbaijan\.su
+\.balashov\.su
+\.bashkiria\.ru
+\.bashkiria\.su
+\.belgorod\.ru
+\.belgorod\.su
+\.bir\.ru
+\.bryansk\.su
+\.bukhara\.su
+\.cbg\.ru
+\.chimkent\.su
+\.dagestan\.ru
+\.dagestan\.su
+\.east-kazakhstan\.su
+\.exnet\.su
+\.georgia\.su
 \.grozny\.ru
-grozny\.su
-ivanovo\.su
-jambyl\.su
-kalmykia\.ru
-kalmykia\.su
-kaluga\.su
-karacol\.su
-karaganda\.su
-karelia\.su
-kemerovo\.ru
-khakassia\.su
-komi\.su
-krasnodar\.su
-kurgan\.su
-kustanai\.ru
-kustanai\.su
-lenug\.su
-mangyshlak\.su
-marine\.ru
-mordovia\.ru
-mordovia\.su
-# msk\.ru
-msk\.su
-murmansk\.su
-mytis\.ru
-nalchik\.ru
-nalchik\.su
-navoi\.su
-north-kazakhstan\.su
-# nov\.ru
-nov\.su
-obninsk\.su
-penza\.su
-pokrovsk\.su
-pyatigorsk\.ru
-# ru\.net
-samara\.su
-semsk\.su
-sochi\.su
-# spb\.ru
-# spb\.su
+\.grozny\.su
+\.ivanovo\.su
+\.jambyl\.su
+\.kalmykia\.ru
+\.kalmykia\.su
+\.kaluga\.su
+\.karacol\.su
+\.karaganda\.su
+\.karelia\.su
+\.kemerovo\.ru
+\.khakassia\.su
+\.komi\.su
+\.krasnodar\.su
+\.kurgan\.su
+\.kustanai\.ru
+\.kustanai\.su
+\.lenug\.su
+\.mangyshlak\.su
+\.marine\.ru
+\.mordovia\.ru
+\.mordovia\.su
+# \.msk\.ru
+\.msk\.su
+\.murmansk\.su
+\.mytis\.ru
+\.nalchik\.ru
+\.nalchik\.su
+\.navoi\.su
+\.north-kazakhstan\.su
+# \.nov\.ru
+\.nov\.su
+\.obninsk\.su
+\.penza\.su
+\.pokrovsk\.su
+\.pyatigorsk\.ru
+# \.ru\.net
+\.samara\.su
+\.semsk\.su
+\.sochi\.su
+# \.spb\.ru
+# \.spb\.su
 \.tagil\.ru   # First dot added to not block ntagil.ru
-tashkent\.su
-termez\.su
-togliatti\.su
-troitsk\.su
-tselinograd\.su
-tula\.su
-tuva\.su
-vladikavkaz\.ru
-vladikavkaz\.su
-vladimir\.ru
-vladimir\.su
-vologda\.su
-yakutia\.su
-percocet\.spb\.su
-pillsbook\.com
+\.tashkent\.su
+\.termez\.su
+\.togliatti\.su
+\.troitsk\.su
+\.tselinograd\.su
+\.tula\.su
+\.tuva\.su
+\.vladikavkaz\.ru
+\.vladikavkaz\.su
+\.vladimir\.ru
+\.vladimir\.su
+\.vologda\.su
+\.yakutia\.su
+\.percocet\.spb\.su
+\.pillsbook\.com
 ### END RUSSIAN SPAM SECTION
 
 #-------------------------------------------------------------------------------------
