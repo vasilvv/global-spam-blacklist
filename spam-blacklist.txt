@@ -219,6 +219,7 @@ vladimir\.su
 vologda\.su
 yakutia\.su
 percocet\.spb\.su
+pillsbook\.com
 ### END RUSSIAN SPAM SECTION
 
 
