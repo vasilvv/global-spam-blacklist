@@ -1030,8 +1030,8 @@ dhxy\.net
 diylabel\.com
 zappmedia\.de
 lipitor-lawsuit\.uni\.cc
-w\.interia\.pl
-fm\.interia\.pl
+# w\.interia\.pl # http://meta.wikimedia.org/w/index.php?title=Sites_using_MediaWiki&diff=prev&oldid=103592
+# fm\.interia\.pl # http://meta.wikimedia.org/w/index.php?title=User:Jimbo_Wales&diff=prev&oldid=106512
 
 # From http://meta.wikimedia.org/wiki/User_talk:67.166.109.226
 googlesweb\.com
