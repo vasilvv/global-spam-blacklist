@@ -209,6 +209,7 @@ Gambling\.grozny\.ru
 Pain-relief\.bashkiria\.ru
 Tramadol\.cbg\.ru
 Percocet\.vladikavkaz\.ru
+fragment\.6x\.to
 
 # --------------------------------------------
 # Aphaia added some from talk and what see found on meta RC
