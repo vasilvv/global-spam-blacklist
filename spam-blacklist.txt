@@ -1,7 +1,7 @@
  #<!-- leave this line exactly as it is --> <pre> 
 # This is a list of domain names which are considered spam.  If you see 
 # link spam, you may add the offender to this list.  Changes should take
-# effect within an hour.  Please do not use this list against spam that can
+# effect immediately.  Please do not use this list against spam that can
 # be dealt with by user blocking or protection of a small number of pages.
 #
 # Syntax is as follows: 
