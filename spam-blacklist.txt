@@ -165,6 +165,7 @@ ganzao\.88118888\.com # en.wikiquote by 60.26.34.193
 www\.a688\.net
 www\.hsfangzhen\.com
 www\.jifamark\.com/xhj.htm
+www\.h345\.com/Hotel
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
