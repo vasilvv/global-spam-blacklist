@@ -1022,5 +1022,7 @@ dhxy\.net
 diylabel\.com
 zappmedia\.de
 lipitor-lawsuit\.uni\.cc
+w\.interia\.pl
+fm\.interia\.pl
 
  #</pre> <!-- leave this line exactly as it is -->
