@@ -218,7 +218,7 @@ vladimir\.ru
 vladimir\.su
 vologda\.su
 yakutia\.su
-percocet.spb.su
+percocet\.spb\.su
 ### END RUSSIAN SPAM SECTION
 
 
