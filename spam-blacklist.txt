@@ -49,16 +49,7 @@ LostLiners\.de
 # historyofnations\.net # why was this here? commented out for now
 
 # CCNGROUP-TJ spammer, generally numeric
-# 33335556\.com
-# 333555\.com
-# 3335558\.com
-# 3336668\.com
-# 5556663\.com
-# 5556669\.com
-# 6667776\.com
-e-business168\.com
-[0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
-# end CCNGROUP-TJ
+# [0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
 
 # CCNGROUP-GD and CHINANET-GD spammer, from list at http://wiki.creativecommons.org/wiki/Spam_blocks
 no-1.org\.cn
