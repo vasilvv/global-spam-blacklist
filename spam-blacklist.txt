@@ -210,9 +210,10 @@ Gambling\.grozny\.ru
 Pain-relief\.bashkiria\.ru
 Tramadol\.cbg\.ru
 Percocet\.vladikavkaz\.ru
+
 # --------------------------------------------
 # Aphaia added some from talk and what see found on meta RC
-buy-tramadol-1\.uni\.cc spammed on meta by 12.154.125.81
+buy-tramadol-1\.uni\.cc # spammed on meta by 12.154.125.81
 www\.travel-images\.com # requested on talk
 cgi\.ebay\.com # requested on talk
 hydrocodone-detox\.uni\.cc # spamming on jawiki
