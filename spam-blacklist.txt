@@ -162,7 +162,7 @@ dagestan\.su
 east-kazakhstan\.su
 exnet\.su
 georgia\.su
-# grozny\.ru
+^grozny\.ru
 grozny\.su
 ivanovo\.su
 jambyl\.su
