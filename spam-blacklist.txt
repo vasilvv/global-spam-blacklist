@@ -222,14 +222,6 @@ percocet\.spb\.su
 pillsbook\.com
 ### END RUSSIAN SPAM SECTION
 
-
-# --------------------------------------------
-# Aphaia added some from talk and what see
-www\.travel-images\.com #  found on meta RC
-cgi\.ebay\.com # requested on talk
-# --------------------------------------------
-
-
 #-------------------------------------------------------------------------------------
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
 #-------------------------------------------------------------------------------------
