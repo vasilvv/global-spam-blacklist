@@ -45,6 +45,7 @@ wines-cellar\.info
 lemai\.com
 shouji\.com
 voip99\.(com|net)
+ganzao\.68l\.com
 
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
 
