@@ -48,6 +48,7 @@ ganzao\.68l\.com
 LostLiners\.de
 # historyofnations\.net # why was this here? commented out for now
 
+
 # CCNGROUP-TJ spammer, generally numeric
 # [0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
 
@@ -104,6 +105,9 @@ nakurka\.ru       # one of the above links redirected here
 # http://en.wikinews.org/w/index.php?title=Venezuela-Colombia_crisis_continues&diff=prev&oldid=18407
 # http://en.wikibooks.org/w/index.php?title=Horn&diff=86272&oldid=86247
 lingshengdown\.com
+
+property2u\.com    # http://en.wikipedia.org/w/index.php?title=Australia&diff=10856810&oldid=10856766 and others
+
 
 # --------------------------------------------
 # silsor's section, so I can keep track easier
