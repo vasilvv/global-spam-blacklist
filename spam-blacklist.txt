@@ -217,8 +217,8 @@ www\.jifamark\.com/xhj.htm
 \.marine\.ru
 \.mordovia\.ru
 \.mordovia\.su
-.*-.*\.msk\.ru
-.*-.*\.msk\.su
+\.msk\.ru
+\.msk\.su
 \.murmansk\.su
 \.mytis\.ru
 \.nalchik\.ru
@@ -236,7 +236,7 @@ www\.jifamark\.com/xhj.htm
 \.semsk\.su
 \.sochi\.su
 .*-.*\.spb\.ru
-spb\.su
+\.spb\.su
 \.tagil\.ru   # First dot added to not block ntagil.ru
 \.tashkent\.su
 \.termez\.su
