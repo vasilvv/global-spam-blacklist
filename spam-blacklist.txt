@@ -1,14 +1,14 @@
  #<!-- leave this line exactly as it is --> <pre> 
 # This is a list of domain names which are considered spam. If you see 
 # link spam, you may add the offender to this list.
-# 
+#
 # Syntax is as follows: 
 #   * Everything from a "#" character to the end of the line is a comment
 #   * Every non-blank line is a regex fragment which will only match inside URLs
 #
 # First Wikimedia's local list:
 
-[http://ltjz2000.com foo]
+ltjz2000\.com
 ticketsmyway\.com
 emmss\.com
 paidsurveysforall\.com
