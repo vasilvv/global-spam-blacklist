@@ -108,6 +108,9 @@ dongyiqi\.com     # "
 
 oskceo\.com       # http://meta.wikimedia.org/w/index.php?title=Main_Page&diff=88799&oldid=88673
 
+kgc-networks\.com # http://en.wikinews.org/w/index.php?title=User:Angela&curid=966&diff=8617&oldid=8616
+smokaz\.com
+nakurka\.ru       # one of the above links redirected here
 
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
 
