@@ -228,7 +228,7 @@ www\.amelatine\.com # spammed on fr.wp: reported by AlNo
 \.semsk\.su
 \.sochi\.su
 .*-.*\.spb\.ru
-.*-.*\.spb\.su 
+\.spb\.su 
 # \.spb\.su
 \.tagil\.ru   # First dot added to not block ntagil.ru
 \.tashkent\.su
