@@ -1,7 +1,7 @@
  #<!-- leave this line exactly as it is --> <pre> 
 # This is a list of domain names which are considered spam.  If you see 
 # link spam, you may add the offender to this list.  Changes should take
-# effect immediately.  Please do not use this list against spam that can
+# effect within an hour.  Please do not use this list against spam that can
 # be dealt with by user blocking or protection of a small number of pages.
 #
 # Syntax is as follows: 
@@ -16,7 +16,7 @@ emmss\.com
 paidsurveysforall\.com
 hukuki\.net
 webrank\.cn
-gerhard\.paducktions.net
+gerhard\.paducktions\.net
 emmss\.net
 mongolie\.mn
 zw88\.com
@@ -49,16 +49,7 @@ LostLiners\.de
 # historyofnations\.net # why was this here? commented out for now
 
 # CCNGROUP-TJ spammer, generally numeric
-# 33335556\.com
-# 333555\.com
-# 3335558\.com
-# 3336668\.com
-# 5556663\.com
-# 5556669\.com
-# 6667776\.com
-e-business168\.com
-[0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
-# end CCNGROUP-TJ
+# [0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
 
 # CCNGROUP-GD and CHINANET-GD spammer, from list at http://wiki.creativecommons.org/wiki/Spam_blocks
 no-1.org\.cn
@@ -135,91 +126,111 @@ enhancemysearch\.com # same
 51dragon\.com # spammed extensively on other wikis, spammed on meta by DragOn
 home\.tiscali\.be/wallpaperheaven
 bertelsmann2club\.be\.funpic\.de # requested on talk page
+(duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com # spammed on several en: articles by different anons
+(duranduran|limahlmania|kaja.*)\.cjb\.net # same as above, both requested on talk
+autospectator\.com # requested on talk
+golfcards\.com # requested on talk
+golftour\.de # requested on talk
+presidentcard\.com # requested on talk
+# These have been spammed on zillions of other wikis, see google: # 2005-02-15
+flash.*\.51\.net
+gghggh\.com
+paper-translation\.com
+law-translation\.com
+book-translation\.com
+sowang\.com
+acmetranslation\.com
+commerce-translation\.com
+cn80051\.1816\.net
+0302\.net
+\.xs3\.com # similar to 6x.to and uni.cc, commercially spammed on other wikis
+\.b3\.nu # same
+newsmotion\.com # requested on talk, spammed on en # 2005-02-18
 
 ### BEGIN RUSSIAN SPAM SECTION
-6x\.to
-uni\.cc
-abkhazia\.su
-adygeya\.ru
-adygeya\.su
-aktyubinsk\.su
-arkhangelsk\.su
-armenia\.su
-ashgabad\.su
-azerbaijan\.su
-balashov\.su
-bashkiria\.ru
-bashkiria\.su
-belgorod\.ru
-belgorod\.su
-bir\.ru
-bryansk\.su
-bukhara\.su
-cbg\.ru
-chimkent\.su
-dagestan\.ru
-dagestan\.su
-east-kazakhstan\.su
-exnet\.su
-georgia\.su
+\.6x\.to
+\.uni\.cc
+\.abkhazia\.su
+\.adygeya\.ru
+\.adygeya\.su
+\.aktyubinsk\.su
+\.arkhangelsk\.su
+\.armenia\.su
+\.ashgabad\.su
+\.azerbaijan\.su
+\.balashov\.su
+\.bashkiria\.ru
+\.bashkiria\.su
+\.belgorod\.ru
+\.belgorod\.su
+\.bir\.ru
+\.bryansk\.su
+\.bukhara\.su
+\.cbg\.ru
+\.chimkent\.su
+\.dagestan\.ru
+\.dagestan\.su
+\.east-kazakhstan\.su
+\.exnet\.su
+\.georgia\.su
 \.grozny\.ru
-grozny\.su
-ivanovo\.su
-jambyl\.su
-kalmykia\.ru
-kalmykia\.su
-kaluga\.su
-karacol\.su
-karaganda\.su
-karelia\.su
-kemerovo\.ru
-khakassia\.su
-komi\.su
-krasnodar\.su
-kurgan\.su
-kustanai\.ru
-kustanai\.su
-lenug\.su
-mangyshlak\.su
-marine\.ru
-mordovia\.ru
-mordovia\.su
-# msk\.ru
-msk\.su
-murmansk\.su
-mytis\.ru
-nalchik\.ru
-nalchik\.su
-navoi\.su
-north-kazakhstan\.su
-# nov\.ru
-nov\.su
-obninsk\.su
-penza\.su
-pokrovsk\.su
-pyatigorsk\.ru
-# ru\.net
-samara\.su
-semsk\.su
-sochi\.su
-# spb\.ru
-# spb\.su
+\.grozny\.su
+\.ivanovo\.su
+\.jambyl\.su
+\.kalmykia\.ru
+\.kalmykia\.su
+\.kaluga\.su
+\.karacol\.su
+\.karaganda\.su
+\.karelia\.su
+\.kemerovo\.ru
+\.khakassia\.su
+\.komi\.su
+\.krasnodar\.su
+\.kurgan\.su
+\.kustanai\.ru
+\.kustanai\.su
+\.lenug\.su
+\.mangyshlak\.su
+\.marine\.ru
+\.mordovia\.ru
+\.mordovia\.su
+# \.msk\.ru
+\.msk\.su
+\.murmansk\.su
+\.mytis\.ru
+\.nalchik\.ru
+\.nalchik\.su
+\.navoi\.su
+\.north-kazakhstan\.su
+# \.nov\.ru
+\.nov\.su
+\.obninsk\.su
+\.penza\.su
+\.pokrovsk\.su
+\.pyatigorsk\.ru
+# \.ru\.net
+\.samara\.su
+\.semsk\.su
+\.sochi\.su
+# \.spb\.ru
+# \.spb\.su
 \.tagil\.ru   # First dot added to not block ntagil.ru
-tashkent\.su
-termez\.su
-togliatti\.su
-troitsk\.su
-tselinograd\.su
-tula\.su
-tuva\.su
-vladikavkaz\.ru
-vladikavkaz\.su
-vladimir\.ru
-vladimir\.su
-vologda\.su
-yakutia\.su
-percocet\.spb\.su
-pillsbook\.com
+\.tashkent\.su
+\.termez\.su
+\.togliatti\.su
+\.troitsk\.su
+\.tselinograd\.su
+\.tula\.su
+\.tuva\.su
+\.vladikavkaz\.ru
+\.vladikavkaz\.su
+\.vladimir\.ru
+\.vladimir\.su
+\.vologda\.su
+\.yakutia\.su
+\.percocet\.spb\.su
+\.pillsbook\.com
 ### END RUSSIAN SPAM SECTION
 
 #-------------------------------------------------------------------------------------
@@ -449,7 +460,6 @@ kan365\.com
 yuding\.org
 sex-fu\.com
 geneostar\.com
-princess-mononoke\.com
 a--e\.com
 card-lottery\.org
 nikeshoesshop\.com
@@ -852,7 +862,6 @@ olderlady\.net
 dominatrix-domination\.com
 mailorder-steroids\.com
 contactlensesprice\.com
-merkey\.net
 xmyyz\.com
 lct3000\.com
 wuyue\.cn
@@ -1008,9 +1017,6 @@ catsky\.com
 dhxy\.net
 diylabel\.com
 zappmedia\.de
-infoweb\.co\.nz
 lipitor-lawsuit\.uni\.cc
-
-
 
  #</pre> <!-- leave this line exactly as it is -->
