@@ -146,6 +146,8 @@ cn80051\.1816\.net
 \.xs3\.com # similar to 6x.to and uni.cc, commercially spammed on other wikis
 \.b3\.nu # same
 newsmotion\.com # requested on talk, spammed on en # 2005-02-18
+linktrim\.com # latest target of spammers on [[:en:PHP]]
+notlong\.com # same - another link shortening service
 
 # ----
 # Brittys wake: Aphaia wrote down them 
