@@ -156,11 +156,8 @@ Phone\.belgorod\.su
 Percocet\.spb\.su
 Phone\.north-kazakhstan\.su
 Hobby\.armenia\.su
-Gambling\.bryansk\.su
 Baccarat\.aktyubinsk\.su
 Prescription\.kalmykia\.ru
-Gambling\.adygeya\.ru
-Hobby\.adygeya\.ru
 Gambling\.grozny\.ru
 Pain-relief\.bashkiria\.ru
 Tramadol\.cbg\.ru
@@ -168,6 +165,9 @@ Percocet\.vladikavkaz\.ru
 6x\.to # EXTENSIVE spam on en: at least
 uni\.cc # EXTENSIVE spam on en: at least
 Baccarat\.murmansk\.su # by request on talk
+mordovia\.su
+adygeya\.ru
+bryansk\.su
 
 # --------------------------------------------
 # Aphaia added some from talk and what see
