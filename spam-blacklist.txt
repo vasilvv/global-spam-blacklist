@@ -10,8 +10,6 @@
 #
 # First Wikimedia's local list:
 
-thisdomaindoesnotexist\.com
-
 ltjz2000\.com
 ticketsmyway\.com
 emmss\.com
