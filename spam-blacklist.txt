@@ -186,7 +186,7 @@ ad-ope\.com
 ama-son\.com
 microzovd\.com
 smut\.com
-\.4t\.com
+#\.4t\.com          #conflicted with link at en Number_of_the_Beast_(numerology)
 haugeprint\.co\.uk
 logical-planet\.co\.uk
 -luxuries\.co\.uk
@@ -817,7 +817,7 @@ bjzufang\.com
 ccxx\.net
 dstmedia\.com
 gyhx\.com
-bbell\.com
+#bbell\.com           #may have blocked juliandibbell.com
 cambridge-group\.org
 glory-vision\.com
 bjerwai\.com
