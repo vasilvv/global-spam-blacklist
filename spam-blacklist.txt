@@ -141,6 +141,7 @@ voip-guide\.org # spammed on meta by 220.227.152.36
 predictive-dialers\.org # same
 software-engine\.org # same
 51dragon\.com # spammed on meta by DragOn
+effect-side-zocor\.uni\.cc # spammed on meta by 201.4.209.18
 # --------------------------------------------
 # Aphaia added some from talk and what see found on meta RC
 buy-tramadol-1\.uni\.cc spammed on meta by 12.154.125.81
