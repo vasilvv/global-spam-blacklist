@@ -135,6 +135,7 @@ artmtm\.nease\.net
 pxxi100\.51\.net
 serverlogic3\.com # one site inserted into edit forms by hyperlinker malware
 enhancemysearch\.com # same
+51dragon\.com # spammed on meta by DragOn
 home\.tiscali\.be/wallpaperheaven
 bertelsmann2club\.be\.funpic\.de # requested on talk page
 Cigarettes\.nov\.su
