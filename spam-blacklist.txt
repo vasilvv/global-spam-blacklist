@@ -170,6 +170,7 @@ Tramadol\.cbg\.ru
 Percocet\.vladikavkaz\.ru
 6x\.to # EXTENSIVE spam on en: at least
 uni\.cc # EXTENSIVE spam on en: at least
+Baccarat\.murmansk\.su # by request on talk
 
 # --------------------------------------------
 # Aphaia added some from talk and what see found on meta RC
