@@ -1129,4 +1129,9 @@ contactlensesprice\.com
 xmyyz\.com
 lct3000\.com
 wuyue\.cn
-curtainnet\.com</pre>
+curtainnet\.com
+
+# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=81.214.99.44
+xxx-me\.info
+thirty-one\.info
+</pre>
