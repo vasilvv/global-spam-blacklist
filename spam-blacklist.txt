@@ -131,7 +131,7 @@ parishilton
 paris-hilton
 paris-tape
 janet-jackson
-sibel-kekilli
+#sibel-kekilli
 2large
 oa274
 -horoskop
@@ -349,7 +349,7 @@ eastdb\.com
 \.omnia\.co\.uk
 shopper-jobs\.us
 -outlet\.de
--spiele\.de
+#-spiele\.de
 -kaufen\.de
 -partner\.nl
 -partner\.de
