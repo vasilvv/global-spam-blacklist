@@ -47,6 +47,22 @@ lemai\.com
 shouji\.com
 voip99\.(com|net)
 ganzao\.68l\.com
+# CCNGROUP-TJ spammer, generally numeric
+33335556\.com
+333555\.com
+3335558\.com
+3336668\.com
+5556663\.com
+5556669\.com
+6667776\.com
+e-business168\.com
+
+# end CCNGROUP-TJ
+to8.com            # http://en.wiktionary.org/w/wiki.phtml?title=Wiktionary:Esperanto_index&diff=112487&oldid=112087
+ec51\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Help:Contents&diff=117242&oldid=117235
+ec91\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Qur%27an&diff=117271&oldid=117268
+
+
 
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
 
@@ -727,7 +743,7 @@ casinowatchdogs\.com
 gamblingmethods\.com
 bslh\.net
 trainque\.com
-infoweb\.co\.nz
+#infoweb\.co\.nz
 newmediadesigns\.co\.uk
 neue\.co\.uk
 aarrss\.com
