@@ -170,10 +170,11 @@ uni\.cc # EXTENSIVE spam on en: at least
 Baccarat\.murmansk\.su # by request on talk
 
 # --------------------------------------------
-# Aphaia added some from talk and what see found on meta RC
-www\.travel-images\.com # requested on talk
+# Aphaia added some from talk and what see
+www\.travel-images\.com #  found on meta RC
 cgi\.ebay\.com # requested on talk
 hydrocodone-detox\.uni\.cc # spamming on jawiki
+Mexico-pharmacy\.semsk\.su # spam on meta
 # --------------------------------------------
 
 
