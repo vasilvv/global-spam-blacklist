@@ -693,7 +693,7 @@ go\.nease\.net
 timescooter\.com
 sbt-scooter\.com
 dlctc\.com
-com\.cn
+#com\.cn
 sh\.cn
 frhpcn\.com
 zzwz\.net
