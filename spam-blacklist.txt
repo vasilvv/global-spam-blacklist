@@ -1,7 +1,8 @@
  #<!-- leave this line exactly as it is --> <pre> 
-# This is a list of domain names which are considered spam. If you see 
-# link spam, you may add the offender to this list. Changes should take
-# effect immediately. 
+# This is a list of domain names which are considered spam.  If you see 
+# link spam, you may add the offender to this list.  Changes should take
+# effect immediately.  Please do not use this list against spam that can
+# be dealt with by user blocking or minor page protection.
 #
 # Syntax is as follows: 
 #   * Everything from a "#" character to the end of the line is a comment
