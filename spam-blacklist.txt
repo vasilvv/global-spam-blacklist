@@ -4,8 +4,6 @@
 #
 # These are regex fragments, hence the "\" before every "."
 #
-# It's not quite as exciting as it looks, currently this list is only read once per hour.
-#
 # First Wikimedia's local list:
 
 ltjz2000\.com
