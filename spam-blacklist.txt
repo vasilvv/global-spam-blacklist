@@ -161,7 +161,6 @@ fibromyalgie-treffpunkt\.de # spammed on DEWP by 172.180.229.141
 \.freewebpage\.org  # spammed on meta: by 222.45.24.152, 222.45.24.42, Chinese spam
 sexyladies\.eroticalservers\.net # spammed on meta by 217.156.50.242
 www\.amelatine\.com # spammed on fr.wp: reported by AlNo
-battery\.spb\.su # spammed on meta, perhaps by a bot 
 ganzao\.88118888\.com # en.wikiquote by 60.26.34.193
 www\.a688\.net/bmarketingsoft5\.htm
 www\.a688\.net/bmarketingsoft3\.htm
@@ -237,7 +236,7 @@ www\.jifamark\.com/xhj.htm
 \.semsk\.su
 \.sochi\.su
 .*-.*\.spb\.ru
-.*-.*\.spb\.su
+spb\.su
 \.tagil\.ru   # First dot added to not block ntagil.ru
 \.tashkent\.su
 \.termez\.su
