@@ -152,7 +152,6 @@ newsmotion\.com # requested on talk, spammed on en # 2005-02-18
 www\.fibromyalgie-treffpunkt\.de # spammed on DEWP by 172.180.229.141 ~~~~~ 
 
 ### BEGIN RUSSIAN SPAM SECTION
-\.6x\.to
 \.uni\.cc
 \.abkhazia\.su
 \.adygeya\.ru
