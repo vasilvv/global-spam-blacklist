@@ -8,7 +8,7 @@
 #
 # First Wikimedia's local list:
 
-http://ltjz2000.com
+[http://ltjz2000.com foo]
 ticketsmyway\.com
 emmss\.com
 paidsurveysforall\.com
