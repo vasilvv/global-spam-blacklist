@@ -83,6 +83,9 @@ chinamimi\.net
 gift800\.net
 #end CRTC
 
+# 2005-01-28 
+home\.tiscali\.be #http://de.wikipedia.org/w/index.php?title=Hubschrauber&curid=2200&diff=4233735&oldid=4233691
+
 to8\.com            # http://en.wiktionary.org/w/wiki.phtml?title=Wiktionary:Esperanto_index&diff=112487&oldid=112087
 ec51\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Help:Contents&diff=117242&oldid=117235
 ec91\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Qur%27an&diff=117271&oldid=117268
