@@ -95,6 +95,10 @@ cp868\.com         # 4: http://en.wikibooks.org/w/wiki.phtml?title=GAT:_asterism
 b2m\.cn            # 
 emay\.cn           # 
 jlsun\.com         # 
+hanlang88\.com      # http://meta.wikimedia.org/w/index.php?title=Translation_requests/WMF/Our_projects/Zh:&diff=86009&oldid=85989
+100jjy\.com        # http://meta.wikimedia.org/w/index.php?title=Translation_requests/WMF/Our_projects/Zh:&diff=85618&oldid=85616
+nnuuoo\.51\.net    # http://meta.wikimedia.org/w/index.php?title=Translation_requests/WMF/Our_projects/Zh:&diff=85618&oldid=85616
+ny528\.51\.net     # http://meta.wikimedia.org/w/index.php?title=Translation_requests/WMF/Our_projects/Zh:&diff=85618&oldid=85616
 
 home\.graffiti\.net # repeat de spammer http://de.wikipedia.org/w/index.php?title=Lorentzkraft&diff=prev&oldid=3816534
 jbbjcc\.com        # wikinews http://en.wikinews.org/w/index.php?title=User:Dvnkfjdsnvkjd&oldid=8702
