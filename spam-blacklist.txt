@@ -1,6 +1,6 @@
  #<!-- leave this line exactly as it is --> <pre> 
-# This is a list of domain names which are considered spam.  If you see 
-# link spam, you may add the offender to this list.  Changes should take
+# This is a list of domain names which are considered spam.  Please check
+# the guidelines on the talk page when adding entries.  Changes should take
 # effect immediately.  Please do not use this list against spam that can
 # be dealt with by user blocking or protection of a small number of pages.
 #
@@ -156,7 +156,7 @@ boenicke-keramik\.de # spam campaign on de: - requested on talk
 
 # ----
 # Brittys wake: Aphaia wrote down them 
-www\.fibromyalgie-treffpunkt\.de # spammed on DEWP by 172.180.229.141 ~~~~~ 
+fibromyalgie-treffpunkt\.de # spammed on DEWP by 172.180.229.141 ~~~~~ 
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
