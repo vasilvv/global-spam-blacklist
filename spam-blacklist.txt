@@ -148,6 +148,7 @@ cn80051\.1816\.net
 newsmotion\.com # requested on talk, spammed on en # 2005-02-18
 linktrim\.com # latest target of spammers on [[:en:PHP]]
 notlong\.com # same - another link shortening service
+boenicke-keramik\.de # spam campaign on de: - requested on talk
 
 # ----
 # Brittys wake: Aphaia wrote down them 
