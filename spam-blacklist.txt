@@ -157,6 +157,8 @@ boenicke-keramik\.de # spam campaign on de: - requested on talk
 # ----
 # Brittys wake: Aphaia wrote down them 
 fibromyalgie-treffpunkt\.de # spammed on DEWP by 172.180.229.141 ~~~~~ 
+\.go\.51\.net # spammed on meta: by 222.45.24.152; Chinese spam 
+\.freewebpage\.org  # spammed on meta: by 222.45.24.152, 222.45.24.42, Chinese spam
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
