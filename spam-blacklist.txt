@@ -112,6 +112,21 @@ kgc-networks\.com # http://en.wikinews.org/w/index.php?title=User:Angela&curid=9
 smokaz\.com
 nakurka\.ru       # one of the above links redirected here
 
+rackstorage\.cn   # http://hu.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Homokoz%C3%B3&diff=57916&oldid=57891
+dimmo\.net
+seov\.net
+google-seo\.net
+vbzx\.net
+5782601\.net
+xazl\.net
+guizang\.net
+wikidragon\.net
+houseso\.cn
+house263\.com
+xh008\.com
+artmtm\.nease\.net
+pxxi100\.51\.net
+
 # The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
 
 #Top level domains to block: (your choice)
