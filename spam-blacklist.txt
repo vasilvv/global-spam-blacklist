@@ -128,12 +128,21 @@ home\.tiscali\.be/wallpaperheaven
 bertelsmann2club\.be\.funpic\.de # requested on talk page
 (duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com # spammed on several en: articles by different anons
 (duranduran|limahlmania|kaja.*)\.cjb\.net # same as above, both requested on talk
-
 autospectator\.com # requested on talk
 golfcards\.com # requested on talk
 golftour\.de # requested on talk
 presidentcard\.com # requested on talk
-
+# These have been spammed on zillions of other wikis, see google: # 2005-02-15
+flash.*\.51\.net
+gghggh\.com
+paper-translation\.com
+law-translation\.com
+book-translation\.com
+sowang\.com
+acmetranslation\.com
+commerce-translation\.com
+cn80051\.1816\.net
+0302\.net
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.6x\.to
