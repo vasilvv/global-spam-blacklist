@@ -10,6 +10,9 @@
 #
 # First Wikimedia's local list:
 
+# i'll remove this in a moment
+kate-testing-spam-blacklist\.example\.com
+
 ltjz2000\.com
 ticketsmyway\.com
 emmss\.com
