@@ -168,12 +168,13 @@ www\.jifamark\.com/xhj.htm
 www\.h345\.com/Hotel
 www\.epackshop\.net 
 www\.hzyage\.com
+## specially for Chinese spams ...
 www\.copychina\.cn 
 www\.zhkaw\.com
 www\.myseo\.com\.cn
 hz\.livingchina\.cn
 www\.dzsc\.com 
-www\.02188888888\.com\/itcp009
+www\.02188888888\.com/itcp009 # on enwikiquote
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
