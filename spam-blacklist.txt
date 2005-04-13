@@ -242,6 +242,7 @@ www\.02188888888\.com/itcp009 # on enwikiquote
 \.semsk\.su
 \.sochi\.su
 .*-.*\.spb\.ru
+\.spb\.su
 \.tagil\.ru   # First dot added to not block ntagil.ru
 \.tashkent\.su
 \.termez\.su
