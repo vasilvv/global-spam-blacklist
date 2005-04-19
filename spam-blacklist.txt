@@ -175,6 +175,7 @@ www\.myseo\.com\.cn
 hz\.livingchina\.cn
 www\.dzsc\.com 
 www\.02188888888\.com/itcp009 # on enwikiquote
+www\.1177888888\.com
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
