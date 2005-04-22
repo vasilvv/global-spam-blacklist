@@ -1148,4 +1148,21 @@ thirty-one\.info
 
 # Added by Yann from Foenyx request
 m0re\.net
+
+# Added by Brion from spam by 82.140.103.144
+# http://meta.wikimedia.org/w/index.php?title=Help:Editing&diff=123052&oldid=123041
+b0ne\.com
+slyip\.net
+gotgeeks\.com
+3d-game\.com
+dynalias\.net
+is-a-geek\.com
+kicks-ass\.net
+homelinux\.com
+serveftp\.com
+myvnc\.com
+sytes\.net
+zapto\.org
+no-ip\.info
+
 </pre>
