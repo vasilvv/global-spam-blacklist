@@ -1161,6 +1161,8 @@ kicks-ass\.net
 homelinux\.com
 serveftp\.com
 myvnc\.com
+mobic\.sytes\.net
+naproxen\.zapto\.org
 no-ip\.info
 
 </pre>
