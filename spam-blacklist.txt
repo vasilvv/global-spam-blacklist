@@ -1149,6 +1149,9 @@ thirty-one\.info
 # Added by Yann from Foenyx request
 m0re\.net
 
+# Added by elian on Achim's request (de:)
+hagensafrika\.de
+
 # Added by Brion from spam by 82.140.103.144
 # http://meta.wikimedia.org/w/index.php?title=Help:Editing&diff=123052&oldid=123041
 b0ne\.com
