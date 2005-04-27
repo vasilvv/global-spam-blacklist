@@ -1205,7 +1205,6 @@ nazari\.org
 ns01\.us
 ns1\.name
 opank\.com
-pcanywhere\.net
 pharm-x\.com
 plorp\.com
 reform\.com
