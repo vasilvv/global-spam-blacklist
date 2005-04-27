@@ -1173,6 +1173,7 @@ no-ip\.info
 
 === 27-4-2005 ===
 
+<pre>
 # Added by Yann after spamming on 27-4-2005 on 3 wikis
 2mydns\.com
 2mydns\.net
