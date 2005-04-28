@@ -1169,11 +1169,7 @@ myvnc\.com
 mobic\.sytes\.net
 naproxen\.zapto\.org
 no-ip\.info
-</pre>
 
-=== 27-4-2005 ===
-
-<pre>
 # Added by Yann after spamming on 27-4-2005 on 3 wikis
 # http://wikisource.org/w/index.php?title=User_talk:Angela&curid=49&diff=65352&oldid=65350
 2mydns\.com
