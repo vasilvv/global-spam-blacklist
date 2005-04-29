@@ -1213,7 +1213,6 @@ trickip\.net
 trickip\.org
 ugly\.as
 velek\.com
-win\.com
 www1\.biz
 x24hr\.com
 ygto\.com
