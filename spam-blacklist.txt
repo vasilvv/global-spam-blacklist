@@ -1175,7 +1175,6 @@ no-ip\.info
 2mydns\.net
 2myip\.com
 3-a\.net
-a\.la
 aus\.cc
 b33r\.net
 bestdeals\.at
