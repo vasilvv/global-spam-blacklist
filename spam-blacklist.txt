@@ -177,6 +177,7 @@ hz\.livingchina\.cn
 www\.dzsc\.com 
 www\.02188888888\.com/itcp009 # on enwikiquote
 www\.1177888888\.com
+www\.isoway-yoga\.com/ # on meta, chinese spam
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
