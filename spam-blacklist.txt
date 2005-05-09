@@ -1170,4 +1170,8 @@ myvnc\.com
 mobic\.sytes\.net
 naproxen\.zapto\.org
 no-ip\.info
+
+# Added by Yann on 09.05.2005
+# http://ml.wikipedia.org/w/index.php?title=Wikipedia:Sandbox&diff=2847&oldid=2846
+utenti\.lycos\.it/pills1
 </pre>
