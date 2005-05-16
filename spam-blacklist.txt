@@ -179,6 +179,7 @@ www\.02188888888\.com/itcp009 # on enwikiquote
 www\.1177888888\.com
 www\.isoway-yoga\.com/ # on meta, chinese spam
 www\.seo88\.com # on meta & enwikiquote
+www\.kufurao\.net # on enwq, pprn site
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
