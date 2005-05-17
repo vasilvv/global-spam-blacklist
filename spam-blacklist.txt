@@ -50,8 +50,8 @@ LostLiners\.de
 
 
 # CCNGROUP-TJ spammer, generally numeric
-# [0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
-[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*\.com #6 or more
+# [0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms - was troublesome
+[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*\.com #6 or more - requested on talk
 
 # CCNGROUP-GD and CHINANET-GD spammer, from list at http://wiki.creativecommons.org/wiki/Spam_blocks
 no-1.org\.cn
@@ -155,6 +155,7 @@ newsmotion\.com # requested on talk, spammed on en # 2005-02-18
 linktrim\.com # latest target of spammers on [[:en:PHP]]
 notlong\.com # same - another link shortening service
 boenicke-keramik\.de # spam campaign on de: - requested on talk
+handycool\.de # requested on talk
 
 # ----
 # Brittys wake: Aphaia wrote down them 
