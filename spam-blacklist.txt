@@ -51,6 +51,7 @@ LostLiners\.de
 
 # CCNGROUP-TJ spammer, generally numeric
 # [0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
+[0-9][0-9][0-9][0-9][0-9][0-9][0-9]*\.com #6 or more
 
 # CCNGROUP-GD and CHINANET-GD spammer, from list at http://wiki.creativecommons.org/wiki/Spam_blocks
 no-1.org\.cn
