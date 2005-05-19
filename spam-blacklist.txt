@@ -157,6 +157,7 @@ notlong\.com # same - another link shortening service
 boenicke-keramik\.de # spam campaign on de: - requested on talk
 handycool\.de # requested on talk
 25340\.rapidforum\.com # requested on talk
+spkpfh\.de # requested on talk
 
 # ----
 # Brittys wake: Aphaia wrote down them 
