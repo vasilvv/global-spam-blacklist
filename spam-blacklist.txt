@@ -157,7 +157,6 @@ notlong\.com # same - another link shortening service
 boenicke-keramik\.de # spam campaign on de: - requested on talk
 handycool\.de # requested on talk
 25340\.rapidforum\.com # requested on talk
-spkpfh\.de # requested on talk
 zymq\.com # requested on talk
 taichifollowme # spammed by same IP as zymq.com, registered by same person
 
