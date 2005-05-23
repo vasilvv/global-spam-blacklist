@@ -159,6 +159,7 @@ handycool\.de # requested on talk
 zymq\.com # requested on talk
 taichifollowme # spammed by same IP as zymq.com, registered by same person
 13288888888 # requested on talk
+\.pl2\.info # requested on talk
 
 # ----
 # Brittys wake: Aphaia wrote down them 
