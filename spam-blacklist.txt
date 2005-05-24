@@ -1180,4 +1180,8 @@ no-ip\.info
 # Added by Yann on 09.05.2005
 # http://ml.wikipedia.org/w/index.php?title=Wikipedia:Sandbox&diff=2847&oldid=2846
 utenti\.lycos\.it/pills1
+
+# Added by brion may 23, 2005
+# attacking many 3rd-party sites
+p2l\.info
 </pre>
