@@ -1183,4 +1183,11 @@ utenti\.lycos\.it/pills1
 # Added by brion may 23, 2005
 # attacking many 3rd-party sites
 p2l\.info
+
+# Added by brion may 25, 2005
+# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=82.77.137.102
+# http://meta.wikimedia.org/w/index.php?title=Talk:Video_policy&diff=0
+# http://meta.wikimedia.org/w/index.php?title=User:Brynosaurus&diff=prev&oldid=135137
+qx5\.net
+
 </pre>
