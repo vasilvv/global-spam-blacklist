@@ -1191,4 +1191,55 @@ p2l\.info
 # http://meta.wikimedia.org/w/index.php?title=User:Brynosaurus&diff=prev&oldid=135137
 qx5\.net
 
+# Added by brion may 27, 2005
+# spam by 218.82.139.237 on http://en.wikinews.org/wiki/Interwiki (deleted)
+\.117000\.com
+\.126hao\.com
+\.51lac\.com
+\.52lac\.net
+\.563000\.com
+\.606162\.com
+\.70678\.com
+\.77556\.net
+\.borncompany\.com
+\.chinacarcenter\.net
+\.cncarcenter\.com
+\.cnticket\.net
+\.companyforyou\.com
+\.curevitiligo\.com
+\.dela88\.com
+\.designatchina\.com
+\.dreamathk\.com
+\.dreamatsh\.com
+\.dreamhk\.org
+\.duweb\.w2\.ftpcn\.cn
+\.goodticket\.org
+\.googletosh\.org
+\.haungsanok\.com
+\.jptrip\.org
+\.myshcompany\.com
+\.okcompany\.org
+\.okrentcar\.org
+\.postdream\.org
+\.printingok\.net
+\.ptrip\.net
+\.regsh\.com
+\.rentbuscompany\.net
+\.rentcarcenter\.com
+\.rentcarok\.org
+\.shbuscenter\.com
+\.shcarcenter\.com
+\.shrentcar\.com
+\.shticketcenter\.com
+\.shtranslate\.com
+\.ticketcenter\.cn
+\.translatebbs\.com
+\.tripto\.com
+\.tt001\.com
+\.tt002\.com
+\.tt003\.com
+\.tt004\.com
+\.tt005\.com
+\.utranslate\.org
+\.utranslation\.net
 </pre>
