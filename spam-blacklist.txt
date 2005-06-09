@@ -1280,4 +1280,11 @@ yorkinstrument\.com
 hg-fix\.com
 hgfix\.org
 hg-fix\.org
+wxzgyb\.com
+yy-ls\.com
+xd-fw\.com
+hdchina\.com
+gmldsb\.com
+tljsrq\.com
+ryhgsb\.com
 </pre>
