@@ -1262,4 +1262,17 @@ qx5\.net
 # http://meta.wikimedia.org/wiki/Special:Contributions/Bjgyg
 bjicp\.org
 lucking\.com\.cn
+
+# added by brion, 2005-06-10
+# http://sk.wiktionary.org/w/index.php?title=Connection&oldid=2678
+17ip\.com
+bj-united\.com\.cn
+carlack\.cn
+cnpeonyflowers\.com
+hsdvi\.com
+husemachinery\.com
+tzonline\.cn
+tzpet\.com\.cn
+x-rainbow\.com\.cn
+yorkinstrument\.com
 </pre>
