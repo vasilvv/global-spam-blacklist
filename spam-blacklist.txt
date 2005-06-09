@@ -1275,4 +1275,9 @@ tzonline\.cn
 tzpet\.com\.cn
 x-rainbow\.com\.cn
 yorkinstrument\.com
+
+# in zh wp many, 2005-06-09
+hg-fix\.com
+hgfix\.org
+hg-fix\.org
 </pre>
