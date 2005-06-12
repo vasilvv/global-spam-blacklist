@@ -919,7 +919,7 @@ musica\.org\.es
 -cams\.com
 -amateur\.com
 -webcams\.com
--show\.com
+#-show\.com # disabled by brion, 2005-06-12, as it conflicts with good addrs
 -cam\.com
 -chat\.com
 xyzdown\.com
