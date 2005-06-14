@@ -201,6 +201,7 @@ www\.isoway-yoga\.com/ # on meta, chinese spam
 www\.seo88\.com # on meta & enwikiquote
 www\.kufurao\.net # on enwq, pprn site
 www\.MatchstickCats\.com # on enwp, reported by Linuxbeak@#wikimedia
+flats\.h1\.ru # on several wikis including en & ruwp, by request
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
