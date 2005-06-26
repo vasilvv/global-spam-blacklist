@@ -1296,4 +1296,8 @@ crazypussy\.info
 # added by brion, 2005-06-14
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=81.214.170.20
 \.mysweetie\.info
+
+# added by brion, 2005-06-24
+# http://en.wikipedia.org/wiki/Special:Contributions/195.162.39.2
+\.xl\.ru
 </pre>
