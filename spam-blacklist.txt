@@ -1323,4 +1323,6 @@ tm259\.com
 49sms\.com
 530sms\.com
 
+# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=81.214.166.90
+goodasses\.info
 </pre>
