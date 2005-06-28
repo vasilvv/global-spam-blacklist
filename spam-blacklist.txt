@@ -1300,4 +1300,8 @@ crazypussy\.info
 # added by brion, 2005-06-24
 # http://en.wikipedia.org/wiki/Special:Contributions/195.162.39.2
 \.xl\.ru
+
+# added by shizhao, 2005-06-28
+# http://zh.wikipedia.org/wiki/Special:Contributions/61.51.133.137
+\readnovel\.com
 </pre>
