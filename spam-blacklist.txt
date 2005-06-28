@@ -1304,4 +1304,23 @@ crazypussy\.info
 # added by shizhao, 2005-06-28
 # http://zh.wikipedia.org/wiki/Special:Contributions/61.51.133.137
 readnovel\.com
+
+# in zh wp many, 2005-06-28
+4394\.com
+48123\.com
+tm003\.com
+18019\.com
+5ball\.org
+001003\.com
+67067\.com
+15016\.com
+6y7y\.com
+p003\.com
+2y3y\.com
+tm259\.com
+33044\.com
+11033\.com
+49sms\.com
+530sms\.com
+
 </pre>
