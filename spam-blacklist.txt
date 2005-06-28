@@ -1303,5 +1303,5 @@ crazypussy\.info
 
 # added by shizhao, 2005-06-28
 # http://zh.wikipedia.org/wiki/Special:Contributions/61.51.133.137
-\readnovel\.com
+readnovel\.com
 </pre>
