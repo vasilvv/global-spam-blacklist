@@ -1325,7 +1325,8 @@ tm259\.com
 
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=81.214.166.90
 goodasses\.info
-</pre>
 
 # Added by Raul654 6/28/05
 crazyabouttv\.com
+
+</pre>
