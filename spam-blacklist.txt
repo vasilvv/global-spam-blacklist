@@ -1329,4 +1329,8 @@ goodasses\.info
 # Added by Raul654 6/28/05
 crazyabouttv\.com
 
+# Added by shizhao 7/4/05
+167bt\.com
+bitspirit\.com\.cn
+
 </pre>
