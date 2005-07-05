@@ -1331,7 +1331,7 @@ crazyabouttv\.com
 
 # Added by shizhao 7/4/05
 167bt\.com
-bitspirit\.com\.cn
+\.bitspirit\.com\.cn
 
 #spamming lots of wikis from different IPs
 fidosoft\.de
