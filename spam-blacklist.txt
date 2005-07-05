@@ -1333,4 +1333,6 @@ crazyabouttv\.com
 167bt\.com
 bitspirit\.com\.cn
 
+#spamming lots of wikis from different IPs
+fidosoft\.de
 </pre>
