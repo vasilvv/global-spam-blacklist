@@ -114,6 +114,13 @@ riba\.unixserverhosting\.com  # http://www.konversation.org/wiki/index.php?title
 ohhmybaby\.info
 free-porn-friend-finder-adult\.info
 
+# Probable spyware-advertised link
+# http://en.wikipedia.org/w/index.php?title=Catgirl&diff=prev&oldid=18420241
+consumeralertsystem\.com
+
+
+
+
 # --------------------------------------------
 # silsor's section, so I can keep track easier
 rackstorage\.cn   # http://hu.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Homokoz%C3%B3&diff=57916&oldid=57891
