@@ -1345,4 +1345,8 @@ fidosoft\.de
 
 # Added by shizhao 7/7/05
 tencent\.cc
+
+# Added by shizhao 7/13/05
+00856\.com
+
 </pre>
