@@ -1349,4 +1349,24 @@ tencent\.cc
 # Added by shizhao 7/13/05
 00856\.com
 
+# Added by shizhao 7/19/05
+zggift\.com
+buy214\.com
+lmlqzs\.com
+7b\.net\.cn
+51flower\.cn
+lmlqzs\.com
+1car\.cn
+lmzg\.cn
+66guilin\.com
+mojw\.com
+zzhxsb\.com
+bjshunsui\.com
+qhycchina\.com
+9s6\.com
+fullmelon\.com
+xuemeipaper\.com
+sem\.org\.cn
+ecyy\.com
+ecyy\.cn
 </pre>
