@@ -1369,4 +1369,7 @@ xuemeipaper\.com
 sem\.org\.cn
 ecyy\.com
 ecyy\.cn
+
+# Added by Andre Engels 7/20/05
+sexkanjer\.nl # sexspammer on nl
 </pre>
