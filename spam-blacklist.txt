@@ -610,7 +610,7 @@ cragrats
 parishilton
 paris-hilton
 paris-tape
-janet-jackson
+#janet-jackson ----> removed for blocking official website janet-jackson.com
 #sibel-kekilli
 2large
 oa274
@@ -1195,7 +1195,7 @@ gotgeeks\.com
 dynalias\.net
 is-a-geek\.com
 kicks-ass\.net
-homelinux\.com
+soma\.homelinux\.com
 serveftp\.com
 myvnc\.com
 mobic\.sytes\.net
@@ -1372,4 +1372,5 @@ ecyy\.cn
 
 # Added by Andre Engels 7/20/05
 sexkanjer\.nl # sexspammer on nl
+show-your-pussy
 </pre>
