@@ -1373,10 +1373,11 @@ ecyy\.cn
 # Added by Andre Engels 7/20/05
 sexkanjer\.nl # sexspammer on nl
 show-your-pussy
-</pre>
 
 nerdcamp\.net
 duplo\.dnip\.net
 funnydog\.prettyfar\.com
 fakir\.zenno\.info
 shemtop\.bpa\.nu
+
+</pre>
