@@ -1380,4 +1380,7 @@ funnydog\.prettyfar\.com
 fakir\.zenno\.info
 shemtop\.bpa\.nu
 
+# Added by Raul654 7/26/05
+kqueue\.dnip\.net
+
 </pre>
