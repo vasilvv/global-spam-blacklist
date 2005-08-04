@@ -1389,5 +1389,6 @@ mixmeteo\.ru
 sealse\.com
 serjen\.com
 es-standart\.com
+static\.net
 
 </pre>
