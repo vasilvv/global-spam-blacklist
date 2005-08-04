@@ -1383,4 +1383,11 @@ shemtop\.bpa\.nu
 # Added by Raul654 7/26/05
 kqueue\.dnip\.net
 
+# Added by Datrio 8/4/05
+nonews\.ru
+mixmeteo\.ru
+sealse\.com
+serjen\.com
+es-standart\.com
+
 </pre>
