@@ -1144,4 +1144,10 @@ serjen\.com
 es-standart\.com
 static\.net
 
+# Added by UninvitedCompany 8/5/05
+-handys\.de 
+handy-fun\.tk 
+handy-kaufhaus\.tk 
+
+
 </pre>
