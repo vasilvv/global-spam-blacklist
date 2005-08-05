@@ -1148,6 +1148,6 @@ static\.net
 -handys\.de 
 handy-fun\.tk 
 handy-kaufhaus\.tk 
-
+hostfuck\.com
 
 </pre>
