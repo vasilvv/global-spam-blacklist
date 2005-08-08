@@ -1150,4 +1150,11 @@ handy-fun\.tk
 handy-kaufhaus\.tk 
 hostfuck\.com
 
+# Added by brion 2005-08-08
+# http://meta.wikimedia.org/wiki/Talk:Spam_blacklist#Enwiki_drug_spammer
+webzdarma\.cz
+bigsitecity\.com
+newmail\.ru
+mujweb\.cz
+\.sweb\.cz
 </pre>
