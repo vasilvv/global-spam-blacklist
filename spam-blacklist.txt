@@ -1167,4 +1167,27 @@ phentermine\.webzdarma\.cz
 carisoprodol\.webzdarma\.cz
 sexforfree\.webzdarma\.cz
 
+# Added by Andre Engels, 2005-08-09
+# German repeated spammers
+\.modz\.de
+viagra100\.tk
+viagra100\.net
+# Japanese sex spammer
+aftar\.bpa\.nu
+crionica\.bpa\.nu
+streamings\.cable\.nu
+fectr\.dundeeleagues\.ca
+sherlok\.homes\.com\.au
+duplo\.dnip\.net
+author\.nerdcamp\.net
+chaka\.nerdcamp\.net
+dabest\.nerdcamp\.net
+ferdrubt\.nerdcamp\.net
+freedom\.nerdcamp\.net
+popov\.nerdcamp\.net
+funnydog\.prettyfar\.com
+perfection\.prettyfar\.com
+whoisi\.whyza\.net
+bidlo\.zenno\.info
+fakir\.zenno\.info
 </pre>
