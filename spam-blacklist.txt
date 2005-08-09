@@ -1153,10 +1153,10 @@ hostfuck\.com
 # Added by brion 2005-08-08
 # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist#Enwiki_drug_spammer
 #webzdarma\.cz < considered too broad
-#bigsitecity\.com < considered too broad
+#bigsitecity\.com 
 newmail\.ru
 #mujweb\.cz < considered too broad
-#\.sweb\.cz
+#\.sweb\.cz < considered too broad
 
 # Replacing overly broad once above - Andre Engels, 2005-08-09
 heavytools\.webzdarma\.cz
