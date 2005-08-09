@@ -260,7 +260,7 @@ chinaplay\.org  # On enwq.
 \.mordovia\.ru
 \.mordovia\.su
 \.msk\.ru
-\.msk\.su
+# \.msk\.su   # removed for being overly broad - ~~~~
 \.murmansk\.su
 \.mytis\.ru
 \.nalchik\.ru
@@ -949,7 +949,7 @@ dynalias\.net
 is-a-geek\.com
 kicks-ass\.net
 soma\.homelinux\.com
-serveftp\.com
+ultram\.serveftp\.com # restricted to subdomain ultram - ~~~~
 myvnc\.com
 mobic\.sytes\.net
 naproxen\.zapto\.org
@@ -1152,9 +1152,19 @@ hostfuck\.com
 
 # Added by brion 2005-08-08
 # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist#Enwiki_drug_spammer
-webzdarma\.cz
-bigsitecity\.com
+#webzdarma\.cz < considered too broad
+#bigsitecity\.com < considered too broad
 newmail\.ru
-mujweb\.cz
-\.sweb\.cz
+#mujweb\.cz < considered too broad
+#\.sweb\.cz
+
+# Replacing overly broad once above - ~~~~
+heavytools\.webzdarma\.cz
+phentermine-online
+hydrocodone\.webzdarma\.cz
+spyware\.webzdarma\.cz
+phentermine\.webzdarma\.cz
+carisoprodol\.webzdarma\.cz
+sexforfree\.webzdarma\.cz
+
 </pre>
