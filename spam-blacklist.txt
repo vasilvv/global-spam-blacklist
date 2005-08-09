@@ -277,8 +277,8 @@ chinaplay\.org  # On enwq.
 \.samara\.su
 \.semsk\.su
 \.sochi\.su
-.*-.*\.spb\.ru
-\.spb\.su
+#.*-.*\.spb\.ru  # re-block when whitelisting possible
+#\.spb\.su    # re-block when whitelisting possible
 \.tagil\.ru   # First dot added to not block ntagil.ru
 \.tashkent\.su
 \.termez\.su
