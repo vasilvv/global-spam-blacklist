@@ -1195,4 +1195,7 @@ perfection\.prettyfar\.com
 whoisi\.whyza\.net
 bidlo\.zenno\.info
 fakir\.zenno\.info
+
+# Added by UninvitedCompany, 8/10/2005
+petitiononline\.com
 </pre>
