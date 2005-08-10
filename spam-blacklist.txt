@@ -1151,10 +1151,10 @@ handy-kaufhaus\.tk
 hostfuck\.com
 
 # Added by brion 2005-08-08
-# http://meta.wikimedia.org/wiki/Talk:Spam_blacklist#Enwiki_drug_spammer
+# http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/completed_additions#Enwiki_drug_spammer
 #webzdarma\.cz < considered too broad
 #bigsitecity\.com 
-newmail\.ru
+#newmail\.ru
 #mujweb\.cz < considered too broad
 #\.sweb\.cz < considered too broad
 
@@ -1166,6 +1166,8 @@ spyware\.webzdarma\.cz
 phentermine\.webzdarma\.cz
 carisoprodol\.webzdarma\.cz
 sexforfree\.webzdarma\.cz
+viagra\.newmail\.ru
+phentermine\.newmail\.ru
 
 # Added by Andre Engels, 2005-08-09
 # German repeated spammers
