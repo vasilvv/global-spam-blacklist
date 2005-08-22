@@ -1207,4 +1207,22 @@ phentermine-drugs\.euro\.tm
 # http://meta.wikimedia.org/w/index.php?title=Talk:Eliminating_index.php_from_the_url&diff=196092&oldid=196063
 [A-Za-z-]*drugs\.euro\.tm
 
+# http://meta.wikimedia.org/w/index.php?title=T%C3%A4wge_Bit&diff=prev&oldid=196043
+21jewelry\.com
+mrjeweller\.us
+detox-kit\.com
+adipex.shengen\.ru
+levitra.shengen\.ru
+lortab.shengen\.ru
+diazepam.shengen\.ru
+protonix.shengen\.ru
+hydrocodone.shengen\.ru
+detox-kit\.com
+tests-market\.com
+toe.shengen\.ru
+detox.shengen\.ru
+jewelry.shengen\.ru
+
+
+
 #</pre>
