@@ -1203,4 +1203,8 @@ all-hotels-motels\.com
 # Added by James F., 2005.vii.21, as requested by CraigSpurrier
 buyhydrocodone\.afraid\.org
 phentermine-drugs\.euro\.tm
-</pre>
+
+# http://meta.wikimedia.org/w/index.php?title=Talk:Eliminating_index.php_from_the_url&diff=196092&oldid=196063
+[A-Za-z-]*drugs\.euro\.tm
+
+#</pre>
