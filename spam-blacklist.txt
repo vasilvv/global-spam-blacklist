@@ -1227,4 +1227,11 @@ jewelry.shengen\.ru
 # http://en.wikipedia.org/w/index.php?title=Special:Contributions&target=24.66.29.108
 \.host\.sk
 
+# Added by Yann on 25-8-2005 (from Meta)
+phenterminex\.freespaces\.com
+phentermine-pills\.euro\.tm
+smartsearch\.name
+fanny-girls\.info
+hotsex\.free-pussy\.org
+
 #</pre>
