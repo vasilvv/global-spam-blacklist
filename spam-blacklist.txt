@@ -1239,4 +1239,7 @@ smartsearch\.name
 fanny-girls\.info
 hotsex\.free-pussy\.org
 
+# Annoying user on fr:
+\.etunisie\.net
+
 #</pre>
