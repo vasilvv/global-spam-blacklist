@@ -1242,4 +1242,8 @@ hotsex\.free-pussy\.org
 # Annoying user on fr:
 \.etunisie\.net
 
+# Some nl spam links
+\.hostfuck\.com
+gensei-ryu\.nl
+
 #</pre>
