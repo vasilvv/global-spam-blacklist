@@ -1246,4 +1246,10 @@ hotsex\.free-pussy\.org
 \.hostfuck\.com
 gensei-ryu\.nl
 
+# ~~~~
+# Zenno.info spam links
+epsilon\.zenno\.info
+googlesuka\.zenno\.info
+stol\.zenno\.info
+
 #</pre>
