@@ -1252,4 +1252,8 @@ epsilon\.zenno\.info
 googlesuka\.zenno\.info
 stol\.zenno\.info
 
+# http://meta.wikimedia.org/wiki/Special:Contributions/220.161.154.90
+shoesbuy\.com
+shoesshop\.biz
+
 #</pre>
