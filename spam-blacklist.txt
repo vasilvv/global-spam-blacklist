@@ -214,7 +214,7 @@ chinaplay\.org  # On enwq.
 158hk\.org # on ja.wiki
 158hk\.net
 hksaa\.net
-
+news\.scenecritique\.com #on Jawp, 05-09-12
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
