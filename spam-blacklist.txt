@@ -216,6 +216,52 @@ chinaplay\.org  # On enwq.
 hksaa\.net
 news\.scenecritique\.com #on Jawp, 05-09-12
 
+### Links from Sj, from GV Wiki (http://cyber.law.harvard.edu/globalvoices/wiki) and other MW sites
+#
+#    The .to bandit (prolific; lots of sites)
+# http://cyber.law.harvard.edu/globalvoices/wiki/index.php?title=Global_Voices_Draft_Manifesto&diff=0
+\.go\.to
+\.connect\.to
+\.drive\.to
+\.run\.to
+\.surf\.to
+#    Russian spam
+\.front\.ru
+\.narod\.ru
+\.shengen\.ru
+\.visa-usa\.ru
+#    Chinese spam
+\.town-china\.cn
+\.anteyi\.cn
+\.atetech\.com\.cn
+\.ic37\.com
+91yg\.com
+51wisdom\.com
+56918\.com
+air520\.com
+021boy\.com
+ywxjm\.com
+#    Others
+\.detox-kit\.com
+\.21jewelry\.com
+\.maclenet\.com
+\.mrjeweller\.us
+\.t35\.com
+\.lxhost\.com
+\.125mb\.com
+\.linemd\.com
+\.buyremedy\.com
+\.fineaction\.com
+online-levitra-4sale\.com
+online-poker\.webpark\.pl
+gambling-forums\.net
+adultfriend\.404host\.com
+homedb\.slife\.com
+info-for-home\.slife\.com
+balder\.prohosting\.com
+WTHP[0-9]\.disney\.com
+# -- (how'd they get those domains?  weird.)
+
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
 \.abkhazia\.su
@@ -300,8 +346,9 @@ news\.scenecritique\.com #on Jawp, 05-09-12
 \.pillsbook\.com
 ### END RUSSIAN SPAM SECTION
 
+
 #-------------------------------------------------------------------------------------
-# The rest is derived from http://wikiblacklist.blogspot.com, thanks guys
+# The following is derived from http://wikiblacklist.blogspot.com, thanks guys
 #-------------------------------------------------------------------------------------
 
 #Top level domains to block: (your choice)
@@ -396,9 +443,7 @@ liuhecai
 #-[a-z]+\.biz(/|:|$)
 
 
-
 #Other specific domains:
-
 
 west263\.com
 firmasiden\.com
@@ -934,6 +979,14 @@ wuyue\.cn
 curtainnet\.com
 toobis\.com
 
+
+#-------------------------------------------------------------------------------------
+########                                                                      
+##                          More recent lists and additions                       
+########                                                                      
+#-------------------------------------------------------------------------------------
+
+
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=81.214.99.44
 xxx-me\.info
 thirty-one\.info
@@ -1094,18 +1147,15 @@ goodasses\.info
 # Added by Raul654 6/28/05
 crazyabouttv\.com
 
-# Added by shizhao 7/4/05
+# Added by shizhao 7/4/05 to 7/9/05
 167bt\.com
 \.bitspirit\.com\.cn
+tencent\.cc
+00856\.com
 
 #spamming lots of wikis from different IPs
 fidosoft\.de
 
-# Added by shizhao 7/7/05
-tencent\.cc
-
-# Added by shizhao 7/13/05
-00856\.com
 
 # Added by shizhao 7/19/05
 zggift\.com
@@ -1213,6 +1263,7 @@ phentermine-drugs\.euro\.tm
 [A-Za-z-]*drugs\.euro\.tm
 
 # http://meta.wikimedia.org/w/index.php?title=T%C3%A4wge_Bit&diff=prev&oldid=196043
+# Note that shengen.ru should be blocked alltogether
 21jewelry\.com
 mrjeweller\.us
 detox-kit\.com
