@@ -230,6 +230,9 @@ news\.scenecritique\.com #on Jawp, 05-09-12
 \.narod\.ru
 \.shengen\.ru
 \.visa-usa\.ru
+\.nonews\.ru
+\.2x4\.ru
+\.newmail\.ru
 #    Chinese spam
 \.town-china\.cn
 \.anteyi\.cn
@@ -241,6 +244,11 @@ news\.scenecritique\.com #on Jawp, 05-09-12
 air520\.com
 021boy\.com
 ywxjm\.com
+\.haole\.cn
+\.gguu\.com
+idc2008\.cn
+google-in-china\.org
+\.dzsc\.com
 #    Others
 \.detox-kit\.com
 \.21jewelry\.com
@@ -259,8 +267,34 @@ adultfriend\.404host\.com
 homedb\.slife\.com
 info-for-home\.slife\.com
 balder\.prohosting\.com
-WTHP[0-9]\.disney\.com
-# -- (how'd they get those domains?  weird.)
+WTHP[0-9]\.disney\.com  #--(how'd they get those domains?  weird.)
+\.p21\.info
+\.forexhsi\.com
+\.sexy-maidens\.info
+\.tempurpedics\.org
+\.kanod\.com 
+\.hilbort\.com
+\.guvax\.com
+\.leronex\.com
+\.sekob\.com
+\.usefulresults\.com
+\.welllook\.com
+\.18servers\.com
+\.ds4a\.com
+\.linemd\.com
+\.sexus\.host
+\.1min\.us
+allfioricet\.com
+allvicodin\.com
+diazepampill\.com 
+russia\.webmatrixhosting.net
+## General hosts with large #s of spambot subdomains.  What to do here?
+# \.netfirms\.com # (25+ separate spambot subdomains)
+# \.host\.sk      # (10+ separate spambot subdomains)
+# \.fiberia\.com  # (many separate spambot subdomains)
+# \.webzdarma\.cz # (many)
+# \.sweb\.cz      # (many)
+
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
@@ -435,6 +469,7 @@ sex-zone
 lazy-stars
 eblja
 liuhecai
+buy-viagra
 
 # These won't work with MediaWiki:
 #-pics\.com(/|:|$)
