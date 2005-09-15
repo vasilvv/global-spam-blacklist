@@ -1342,4 +1342,7 @@ stol\.zenno\.info
 shoesbuy\.com
 shoesshop\.biz
 
+# from zh
+28k8\.com
+
 #</pre>
