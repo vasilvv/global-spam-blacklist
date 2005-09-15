@@ -225,15 +225,12 @@ news\.scenecritique\.com #on Jawp, 05-09-12
 \.drive\.to
 \.run\.to
 \.surf\.to
-#    Russian spam
-\.front\.ru
-\.narod\.ru
-\.shengen\.ru
+##    Russian spam
+\.shengen\.ru  # apparently has acceptable uses, but do a google search for the domain
 \.visa-usa\.ru
-\.nonews\.ru
 \.2x4\.ru
 \.newmail\.ru
-#    Chinese spam
+##    Chinese spam
 \.town-china\.cn
 \.anteyi\.cn
 \.atetech\.com\.cn
@@ -249,7 +246,7 @@ ywxjm\.com
 idc2008\.cn
 google-in-china\.org
 \.dzsc\.com
-#    Others
+##    Others
 \.detox-kit\.com
 \.21jewelry\.com
 \.maclenet\.com
@@ -288,13 +285,15 @@ allfioricet\.com
 allvicodin\.com
 diazepampill\.com 
 russia\.webmatrixhosting.net
-## General hosts with large #s of spambot subdomains.  What to do here?
+## General hosts with large #s of spambot subdomains, but also useful ones.  Touch choices.
 # \.netfirms\.com # (25+ separate spambot subdomains)
 # \.host\.sk      # (10+ separate spambot subdomains)
 # \.fiberia\.com  # (many separate spambot subdomains)
 # \.webzdarma\.cz # (many)
 # \.sweb\.cz      # (many)
-
+# \.front\.ru 
+# \.narod\.ru 
+# \.nonews\.ru
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
