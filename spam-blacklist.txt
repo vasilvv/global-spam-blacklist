@@ -1346,5 +1346,5 @@ shoesshop\.biz
 28k8\.com
 \.8z\.cn
 \.8z\.cn
-\.reeds\.com\.cn/
+\.reeds\.com\.cn
 #</pre>
