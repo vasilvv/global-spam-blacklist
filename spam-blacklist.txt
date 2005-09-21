@@ -1350,4 +1350,19 @@ shoesshop\.biz
 # Raul's additions
 15ern\.com
 
-#</pre>
+# from zh 
+\.6iuhecai\.com
+\.xinyicom\.com
+\.ltdcr\.com
+\.ltdcr\.net
+\.ltdcr\.org
+\.ltdcr\.cn
+\.hkccr\.org
+\.hkce\.org
+\.hkce\.net
+\.cegcr\.com
+\.cegcr\.net
+\.hktmr\.com
+\.hkltdcr\.org
+\.tradeinvests\.com
+\.ovecr\.cn</pre>
