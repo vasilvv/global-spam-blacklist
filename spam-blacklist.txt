@@ -1366,5 +1366,5 @@ shoesshop\.biz
 \.hkltdcr\.org
 \.tradeinvests\.com
 \.ovecr\.cn
-
+\.bjicp\.com
 #</pre>
