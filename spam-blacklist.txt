@@ -1367,4 +1367,5 @@ shoesshop\.biz
 \.tradeinvests\.com
 \.ovecr\.cn
 \.bjicp\.com
+cnfibernet\.com\.cn
 #</pre>
