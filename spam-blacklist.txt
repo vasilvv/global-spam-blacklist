@@ -182,6 +182,7 @@ cruise-guide\.org
 wedding-knot\.com
 predictive-dialers\.org
 mycompiere\.com # requested on talk # 2005-06-16
+losthorizons\.com # requested on talk # 2005-09-25
 
 # ----
 # Brittys wake: Aphaia wrote down them 
