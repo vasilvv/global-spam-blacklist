@@ -1368,4 +1368,8 @@ shoesshop\.biz
 \.ovecr\.cn
 \.bjicp\.com
 cnfibernet\.com\.cn
+
+# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=64.16.178.204
+# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=65.78.124.29
+pharmacy\.rr\.nu
 #</pre>
