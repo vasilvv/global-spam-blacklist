@@ -230,7 +230,12 @@ news\.scenecritique\.com #on Jawp, 05-09-12
 \.shengen\.ru  # apparently has acceptable uses, but do a google search for the domain
 \.visa-usa\.ru
 \.2x4\.ru
-\.newmail\.ru
+##    Free russian hosts with acceptable uses
+# \.pp\.ru
+# \.newmail\.ru
+# \.nm\.ru
+# \.chat\.ru
+# \.euro\.ru
 ##    Chinese spam
 \.town-china\.cn
 \.anteyi\.cn
