@@ -1375,6 +1375,7 @@ shoesshop\.biz
 \.bjicp\.com
 cnfibernet\.com\.cn
 \.tvsou\.com
+\.54163\.com
 
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=64.16.178.204
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=65.78.124.29
