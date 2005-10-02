@@ -1380,8 +1380,4 @@ cnfibernet\.com\.cn
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=64.16.178.204
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=65.78.124.29
 pharmacy\.rr\.nu
-
-# oscar's additions
-# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=85.100.226.82
-http://www35.websamba.com
 #</pre>
