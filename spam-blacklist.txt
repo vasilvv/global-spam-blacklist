@@ -1381,3 +1381,6 @@ cnfibernet\.com\.cn
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=65.78.124.29
 pharmacy\.rr\.nu
 #</pre>
+
+#4 October 05, Mindspillage
+\.coolhost\.biz
