@@ -1380,7 +1380,11 @@ cnfibernet\.com\.cn
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=64.16.178.204
 # http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=65.78.124.29
 pharmacy\.rr\.nu
-#</pre>
+#
 
 #4 October 05, Mindspillage
 \.coolhost\.biz
+
+#7 October 05 Hashar (spam on fr:)
+fuckfactor\.com
+</pre>
