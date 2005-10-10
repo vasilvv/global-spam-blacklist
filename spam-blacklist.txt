@@ -1386,7 +1386,7 @@ pharmacy\.rr\.nu
 #4 October 05
 \.coolhost\.biz
 #10 Oct 05
-\.hotweb.pp.ru
+\.hotweb\.pp\.ru
 \.webtech\.pp\.ru
 
 #7 October 05 Hashar (spam on fr:)
