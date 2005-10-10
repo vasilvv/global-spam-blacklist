@@ -1382,8 +1382,12 @@ cnfibernet\.com\.cn
 pharmacy\.rr\.nu
 #
 
-#4 October 05, Mindspillage
+#additions by Mindspillage
+#4 October 05
 \.coolhost\.biz
+#10 Oct 05
+\.hotweb.pp.ru
+\.webtech\.pp\.ru
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
