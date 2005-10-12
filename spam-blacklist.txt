@@ -260,7 +260,6 @@ google-in-china\.org
 \.21jewelry\.com
 \.maclenet\.com
 \.mrjeweller\.us
-\.t35\.com
 \.lxhost\.com
 \.125mb\.com
 \.linemd\.com
