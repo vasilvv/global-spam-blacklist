@@ -184,6 +184,8 @@ predictive-dialers\.org
 mycompiere\.com # requested on talk # 2005-06-16
 losthorizons\.com # requested on talk # 2005-09-25
 glmf33\.fr\.fm # requested on talk # 2005-10-12
+online-shopping\.wb\.st # requested on talk # 2005-10-12
+spaland # requested on talk, this *should* be unique enough  # 2005-10-12
 
 # ----
 # Brittys wake: Aphaia wrote down them 
