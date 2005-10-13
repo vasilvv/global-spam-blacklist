@@ -1298,7 +1298,6 @@ bidlo\.zenno\.info
 fakir\.zenno\.info
 
 # Added by UninvitedCompany, 8/10/2005
-petitiononline\.com
 all-hotels-motels\.com
 
 # Added by James F., 2005.vii.21, as requested by CraigSpurrier
