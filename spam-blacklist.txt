@@ -186,6 +186,10 @@ losthorizons\.com # requested on talk # 2005-09-25
 glmf33\.fr\.fm # requested on talk # 2005-10-12
 online-shopping\.wb\.st # requested on talk # 2005-10-12
 spaland # requested on talk, this *should* be unique enough  # 2005-10-12
+888\.web\.com # temporary, requested on talk # 2005-10-13
+pokera\.web\.com # temporary, requested on talk # 2005-10-13
+big\.de\.com # temporary, requested on talk # 2005-10-13
+payday-loan\.de\.com # temporary, requested on talk # 2005-10-13
 
 # ----
 # Brittys wake: Aphaia wrote down them 
