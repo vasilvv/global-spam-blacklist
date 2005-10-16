@@ -219,10 +219,6 @@ www\.kufurao\.net # on enwq, pprn site
 www\.MatchstickCats\.com # on enwp, reported by Linuxbeak@#wikimedia
 flats\.h1\.ru # on several wikis including en & ruwp, by request
 chinaplay\.org  # On enwq.
-158hk\.org # on ja.wiki
-158hk\.net
-hksaa\.net
-news\.scenecritique\.com #on Jawp, 05-09-12
 
 ### Links from Sj, from GV Wiki (http://cyber.law.harvard.edu/globalvoices/wiki) and other MW sites
 #
