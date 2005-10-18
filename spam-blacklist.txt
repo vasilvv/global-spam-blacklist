@@ -191,6 +191,8 @@ spaland # requested on talk, this *should* be unique enough  # 2005-10-12
 pokera\.web\.com # temporary, requested on talk # 2005-10-13
 big\.de\.com # temporary, requested on talk # 2005-10-13
 payday-loan\.de\.com # temporary, requested on talk # 2005-10-13
+www\.liss-kompendium\.de # requested on talk # 2005-10-18
+home\.arcor\.de\/eberhard\.liss # requested on talk # 2005-10-18
 
 # ----
 # Brittys wake: Aphaia wrote down them 
