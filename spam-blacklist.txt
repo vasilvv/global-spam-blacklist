@@ -198,7 +198,7 @@ home\.arcor\.de\/eberhard\.liss # requested on talk # 2005-10-18
 # geocities\.com\/enspaland # requested on talk # 2005-10-19
 # geocities\.com\/railwayguide # requested on talk # 2005-10-19
 # dmoz\.org\/profiles\/spaland\.html # requested on talk # 2005-10-19
-*spaland* # testing spam behaviour
+*spalantern* # testing spam behaviour
 
 # ----
 # Brittys wake: Aphaia wrote down them 
