@@ -186,13 +186,17 @@ mycompiere\.com # requested on talk # 2005-06-16
 losthorizons\.com # requested on talk # 2005-09-25
 glmf33\.fr\.fm # requested on talk # 2005-10-12
 online-shopping\.wb\.st # requested on talk # 2005-10-12
-spaland # requested on talk, this *should* be unique enough  # 2005-10-12
 888\.web\.com # temporary, requested on talk # 2005-10-13
 pokera\.web\.com # temporary, requested on talk # 2005-10-13
 big\.de\.com # temporary, requested on talk # 2005-10-13
 payday-loan\.de\.com # temporary, requested on talk # 2005-10-13
 www\.liss-kompendium\.de # requested on talk # 2005-10-18
 home\.arcor\.de\/eberhard\.liss # requested on talk # 2005-10-18
+dmoz\.org\/Bookmarks\/S\/spaland # requested on talk # 2005-10-19
+geocities\.com\/hungarybusiness\/spaland\.htm # requested on talk # 2005-10-19
+geocities\.com\/spalandhu # requested on talk # 2005-10-19
+geocities\.com\/enspaland # requested on talk # 2005-10-19
+geocities\.com\/railwayguide # requested on talk # 2005-10-19
 
 # ----
 # Brittys wake: Aphaia wrote down them 
