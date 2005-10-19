@@ -183,6 +183,7 @@ cruise-guide\.org
 wedding-knot\.com
 predictive-dialers\.org
 mycompiere\.com # requested on talk # 2005-06-16
+mycompiere\.net # requested on talk # 2005-10-19
 losthorizons\.com # requested on talk # 2005-09-25
 glmf33\.fr\.fm # requested on talk # 2005-10-12
 online-shopping\.wb\.st # requested on talk # 2005-10-12
