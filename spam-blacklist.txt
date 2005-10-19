@@ -192,12 +192,13 @@ big\.de\.com # temporary, requested on talk # 2005-10-13
 payday-loan\.de\.com # temporary, requested on talk # 2005-10-13
 www\.liss-kompendium\.de # requested on talk # 2005-10-18
 home\.arcor\.de\/eberhard\.liss # requested on talk # 2005-10-18
-dmoz\.org\/Bookmarks\/S\/spaland # requested on talk # 2005-10-19
-geocities\.com\/hungarybusiness\/spaland\.htm # requested on talk # 2005-10-19
-geocities\.com\/spalandhu # requested on talk # 2005-10-19
-geocities\.com\/enspaland # requested on talk # 2005-10-19
-geocities\.com\/railwayguide # requested on talk # 2005-10-19
-dmoz\.org\/profiles\/spaland\.html # requested on talk # 2005-10-19
+# dmoz\.org\/Bookmarks\/S\/spaland # requested on talk # 2005-10-19
+# geocities\.com\/hungarybusiness\/spaland\.htm # requested on talk # 2005-10-19
+# geocities\.com\/spalandhu # requested on talk # 2005-10-19
+# geocities\.com\/enspaland # requested on talk # 2005-10-19
+# geocities\.com\/railwayguide # requested on talk # 2005-10-19
+# dmoz\.org\/profiles\/spaland\.html # requested on talk # 2005-10-19
+*spaland* # testing spam behaviour
 
 # ----
 # Brittys wake: Aphaia wrote down them 
