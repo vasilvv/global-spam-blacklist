@@ -1401,4 +1401,7 @@ pharmacy\.rr\.nu
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
+
+#23 oct elian (spam on de)
+\.zap3x\.com
 </pre>
