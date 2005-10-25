@@ -201,6 +201,7 @@ geocities\.com\/railwayguide # requested on talk # 2005-10-19
 dmoz\.org\/profiles\/spaland\.html # requested on talk # 2005-10-19
 101languages\.net # requested on talk # 2005-10-24
 teneriferesorts\.com # spam on enwiki: http://en.wikipedia.org/wiki/Special:Contributions/194.224.166.206 # 2005-10-24
+wik1\.info # requested on talk # 2005-10-25
 
 # ----
 # Brittys wake: Aphaia wrote down them 
