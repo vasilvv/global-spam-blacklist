@@ -204,6 +204,8 @@ teneriferesorts\.com # spam on enwiki: http://en.wikipedia.org/wiki/Special:Cont
 wik1\.info # requested on talk # 2005-10-25
 mq6\.info # linkfarm, requested on talk # 2005-10-27
 seymour-james\.com # requested on talk # 2005-10-31
+rx-seote\.com # requested on talk # 2005-10-31
+mx\.gs # some kind of free redirect service - no legitimate use on wikis # requested on talk # 2005-10-31
 
 # ----
 # Brittys wake: Aphaia wrote down them 
