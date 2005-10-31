@@ -203,6 +203,7 @@ dmoz\.org\/profiles\/spaland\.html # requested on talk # 2005-10-19
 teneriferesorts\.com # spam on enwiki: http://en.wikipedia.org/wiki/Special:Contributions/194.224.166.206 # 2005-10-24
 wik1\.info # requested on talk # 2005-10-25
 mq6\.info # linkfarm, requested on talk # 2005-10-27
+seymour-james\.com # requested on talk # 2005-10-31
 
 # ----
 # Brittys wake: Aphaia wrote down them 
