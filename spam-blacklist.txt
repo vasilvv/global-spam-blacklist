@@ -144,13 +144,12 @@ enhancemysearch\.com # same
 home\.tiscali\.be/wallpaperheaven
 bertelsmann2club\.be\.funpic\.de # requested on talk page
 (duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com # spammed on several en: articles by different anons
-(duranduran|limahlmania|kaja.*)\.cjb\.net # same as above, both requested on talk
+(duranduran|limahlmania)\.cjb\.net # same as above, both requested on talk
 autospectator\.com # requested on talk
 golfcards\.com # requested on talk
 golftour\.de # requested on talk
 presidentcard\.com # requested on talk
 # These have been spammed on zillions of other wikis, see google: # 2005-02-15
-flash.*\.51\.net
 gghggh\.com
 paper-translation\.com
 law-translation\.com
@@ -384,7 +383,7 @@ russia\.webmatrixhosting.net
 \.samara\.su
 \.semsk\.su
 \.sochi\.su
-#.*-.*\.spb\.ru  # re-block when whitelisting possible
+#.*-.*\.spb\.ru  # re-block when whitelisting possible # without .*
 #\.spb\.su    # re-block when whitelisting possible
 \.tagil\.ru   # First dot added to not block ntagil.ru
 \.tashkent\.su
