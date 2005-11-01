@@ -286,7 +286,6 @@ gambling-forums\.net
 adultfriend\.404host\.com
 homedb\.slife\.com
 info-for-home\.slife\.com
-balder\.prohosting\.com
 WTHP[0-9]\.disney\.com  #--(how'd they get those domains?  weird.)
 \.p21\.info
 \.forexhsi\.com
