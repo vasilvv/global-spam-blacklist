@@ -205,6 +205,8 @@ mq6\.info # linkfarm, requested on talk # 2005-10-27
 seymour-james\.com # requested on talk # 2005-10-31
 rx-seote\.com # requested on talk # 2005-10-31
 mx\.gs # some kind of free redirect service - no legitimate use on wikis # requested on talk # 2005-10-31
+98\.to # requested on talk # 2005-11-04 # a Chinese domain host? not used on any project.
+welcome\.to # requested on talk # 2005-11-04 # a URL hiding service - no legitimate use
 
 # ----
 # Brittys wake: Aphaia wrote down them 
