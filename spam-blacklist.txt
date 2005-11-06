@@ -207,6 +207,7 @@ rx-seote\.com # requested on talk # 2005-10-31
 mx\.gs # some kind of free redirect service - no legitimate use on wikis # requested on talk # 2005-10-31
 98\.to # requested on talk # 2005-11-04 # a Chinese domain host? not used on any project.
 welcome\.to # requested on talk # 2005-11-04 # a URL hiding service - no legitimate use
+www5f\.biglobe\.ne\.jp\/~kokumin-shinbun # requested on talk # 2005-11-06
 
 # ----
 # Brittys wake: Aphaia wrote down them 
