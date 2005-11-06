@@ -208,6 +208,8 @@ mx\.gs # some kind of free redirect service - no legitimate use on wikis # reque
 98\.to # requested on talk # 2005-11-04 # a Chinese domain host? not used on any project.
 welcome\.to # requested on talk # 2005-11-04 # a URL hiding service - no legitimate use
 www5f\.biglobe\.ne\.jp\/~kokumin-shinbun # requested on talk # 2005-11-06
+viprape\.com # requested on talk # 2005-11-06
+golft\.nl # requested on talk # domain hiding service # 2005-11-06
 
 # ----
 # Brittys wake: Aphaia wrote down them 
