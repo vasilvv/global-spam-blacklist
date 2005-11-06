@@ -210,6 +210,7 @@ welcome\.to # requested on talk # 2005-11-04 # a URL hiding service - no legitim
 www5f\.biglobe\.ne\.jp\/~kokumin-shinbun # requested on talk # 2005-11-06
 viprape\.com # requested on talk # 2005-11-06
 golft\.nl # requested on talk # domain hiding service # 2005-11-06
+privatepages\.servik\.com # spammed on the talk page for the spam blacklist, way to go spammers # 2005-11-06
 
 # ----
 # Brittys wake: Aphaia wrote down them 
