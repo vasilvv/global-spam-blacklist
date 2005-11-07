@@ -204,13 +204,19 @@ wik1\.info # requested on talk # 2005-10-25
 mq6\.info # linkfarm, requested on talk # 2005-10-27
 seymour-james\.com # requested on talk # 2005-10-31
 rx-seote\.com # requested on talk # 2005-10-31
-mx\.gs # some kind of free redirect service - no legitimate use on wikis # requested on talk # 2005-10-31
+\.mx\.gs # some kind of free redirect service - no legitimate use on wikis # requested on talk # 2005-10-31
 98\.to # requested on talk # 2005-11-04 # a Chinese domain host? not used on any project.
 welcome\.to # requested on talk # 2005-11-04 # a URL hiding service - no legitimate use
 www5f\.biglobe\.ne\.jp\/~kokumin-shinbun # requested on talk # 2005-11-06
 viprape\.com # requested on talk # 2005-11-06
-golft\.nl # requested on talk # domain hiding service # 2005-11-06
+\.golft\.nl # requested on talk # domain hiding service # 2005-11-06
 privatepages\.servik\.com # spammed on the talk page for the spam blacklist, way to go spammers # 2005-11-06
+\.euro\.tm # requested on talk # another domain redirect service # 2005-11-07
+\.site\.tc # part of euro.tm domain redirect service
+\.corp\.st # same
+\.perso\.tc # same
+\.asso\.ws # same
+\.societe\.st # same
 
 # ----
 # Brittys wake: Aphaia wrote down them 
