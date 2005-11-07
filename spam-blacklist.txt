@@ -217,6 +217,19 @@ privatepages\.servik\.com # spammed on the talk page for the spam blacklist, way
 \.perso\.tc # same
 \.asso\.ws # same
 \.societe\.st # same
+\.zwap\.to # requested on talk # another domain redirect service # 2005-11-07
+\.can\.ac # same service as above
+\.clan\.ac # same service as above
+\.cool\.ac # same service as above
+\.explode\.to # same service as above
+\.hot\.ac # same service as above
+\.just-go\.to # same service as above
+\.propel\.to # same service as above
+\.zlap\.to # same service as above
+\.zlip\.to # same service as above
+\.zmack\.to # same service as above
+\.znap\.to # same service as above
+\.zwitch\.to # same service as above
 
 # ----
 # Brittys wake: Aphaia wrote down them 
