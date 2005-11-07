@@ -230,6 +230,7 @@ privatepages\.servik\.com # spammed on the talk page for the spam blacklist, way
 \.zmack\.to # same service as above
 \.znap\.to # same service as above
 \.zwitch\.to # same service as above
+ubtt\.org # requested on talk # 2005-11-07
 
 # ----
 # Brittys wake: Aphaia wrote down them 
