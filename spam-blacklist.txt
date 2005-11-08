@@ -233,6 +233,11 @@ privatepages\.servik\.com # spammed on the talk page for the spam blacklist, way
 ubtt\.org # requested on talk # 2005-11-07
 joia\.com # requested on talk # appears to be a cracked site - remove later # 2005-11-08
 prtime\.ru # requested on talk # 2005-11-08
+hydrocodone # common drug spam # 2005-11-08
+didrex # common drug spam # 2005-11-08
+tamiflu # common drug spam # 2005-11-08
+phentermine # common drug spam # 2005-11-08
+adipex # common drug spam # 2005-11-08
 
 # ----
 # Brittys wake: Aphaia wrote down them 
