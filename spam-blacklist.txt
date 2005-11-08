@@ -232,6 +232,7 @@ privatepages\.servik\.com # spammed on the talk page for the spam blacklist, way
 \.zwitch\.to # same service as above
 ubtt\.org # requested on talk # 2005-11-07
 joia\.com # requested on talk # appears to be a cracked site - remove later # 2005-11-08
+prtime\.ru # requested on talk # 2005-11-08
 
 # ----
 # Brittys wake: Aphaia wrote down them 
