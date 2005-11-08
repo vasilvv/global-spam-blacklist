@@ -238,6 +238,10 @@ didrex # common drug spam # 2005-11-08
 tamiflu # common drug spam # 2005-11-08
 phentermine # common drug spam # 2005-11-08
 adipex # common drug spam # 2005-11-08
+sultryserver # requested on talk # 2005-11-08
+aazman.com # pure spam, requested on talk # 2005-11-08
+
+### EREIAMJH
 
 # ----
 # Brittys wake: Aphaia wrote down them 
