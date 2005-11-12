@@ -1098,7 +1098,6 @@ gotgeeks\.com
 3d-game\.com
 dynalias\.net
 is-a-geek\.com
-kicks-ass\.net
 soma\.homelinux\.com
 ultram\.serveftp\.com # restricted to subdomain ultram - Andre Engels, 2005-08-09
 myvnc\.com
