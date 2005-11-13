@@ -1454,6 +1454,6 @@ fuckfactor\.com
 hosting\.q4w\.net
 
 # http://en.wikipedia.org/w/index.php?title=User_talk:Prozak&diff=28207831&oldid=28207180
-green-tea[a-z-]*\.co\.nr
+green-tea[0-9a-z-]*\.co\.nr
 
  #</pre> <!-- leave this line exactly as it is -->
