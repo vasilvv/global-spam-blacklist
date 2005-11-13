@@ -1448,4 +1448,9 @@ fuckfactor\.com
 
 #3rd November 05 by Datrio (spam on de)
 \.meinskype\.de
+
+# http://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&diff=28207588&oldid=28205513
+# http://en.wikipedia.org/w/index.php?title=MediaWiki_talk:Nogomatch&diff=28206731&oldid=28202132
+hosting\.q4w\.net
+
  #</pre> <!-- leave this line exactly as it is -->
