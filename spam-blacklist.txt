@@ -1453,4 +1453,7 @@ fuckfactor\.com
 # http://en.wikipedia.org/w/index.php?title=MediaWiki_talk:Nogomatch&diff=28206731&oldid=28202132
 hosting\.q4w\.net
 
+# http://en.wikipedia.org/w/index.php?title=User_talk:Prozak&diff=28207831&oldid=28207180
+green-tea-300\.co\.nr
+
  #</pre> <!-- leave this line exactly as it is -->
