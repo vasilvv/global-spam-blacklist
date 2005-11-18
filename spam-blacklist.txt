@@ -1456,4 +1456,8 @@ hosting\.q4w\.net
 # http://en.wikipedia.org/w/index.php?title=User_talk:Prozak&diff=28207831&oldid=28207180
 green-tea[0-9a-z-]*\.co\.nr
 
+# 19 november reported by amgine
+# http://en.wikinews.org/w/index.php?title=Special:Contributions&target=192.114.65.98 etc
+dralex\.info
+
  #</pre> <!-- leave this line exactly as it is -->
