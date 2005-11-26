@@ -1458,4 +1458,8 @@ green-tea[0-9a-z-]*\.co\.nr
 # http://en.wikinews.org/w/index.php?title=Special:Contributions&target=192.114.65.98 etc
 dralex\.info
 
+# Requested by Ta bu shi da yu, added by Tim Starling
+# http://en.wikipedia.org/w/index.php?title=USA_PATRIOT_Act&diff=prev&oldid=29158543
+nastydollars\.com
+
  #</pre> <!-- leave this line exactly as it is -->
