@@ -349,6 +349,8 @@ allvicodin\.com
 diazepampill\.com 
 russia\.webmatrixhosting\.net
 zya9\.info
+\.p2l\.info
+azzacash\.com
 ## General hosts with large #s of spambot subdomains, but also useful ones.  Touch choices.
 # \.netfirms\.com # (25+ separate spambot subdomains)
 # \.host\.sk      # (10+ separate spambot subdomains)
