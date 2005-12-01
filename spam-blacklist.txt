@@ -347,7 +347,8 @@ WTHP[0-9]\.disney\.com  #--(how'd they get those domains?  weird.)
 allfioricet\.com
 allvicodin\.com
 diazepampill\.com 
-russia\.webmatrixhosting.net
+russia\.webmatrixhosting\.net
+zya9\.info
 ## General hosts with large #s of spambot subdomains, but also useful ones.  Touch choices.
 # \.netfirms\.com # (25+ separate spambot subdomains)
 # \.host\.sk      # (10+ separate spambot subdomains)
