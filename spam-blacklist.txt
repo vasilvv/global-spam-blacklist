@@ -1465,5 +1465,7 @@ dralex\.info
 # http://en.wikipedia.org/w/index.php?title=USA_PATRIOT_Act&diff=prev&oldid=29158543
 nastydollars\.com
 
+# http://as.wikibooks.org/w/index.php?title=Wikibooks:General_disclaimer&curid=1446&diff=2706&oldid=2634
+4t7e\.info
 
  #</pre> <!-- leave this line exactly as it is -->
