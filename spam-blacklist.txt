@@ -1469,6 +1469,6 @@ nastydollars\.com
 4t7e\.info
 
 # 4 dec 05, persistant spammer on de --elian
-\.cyperthug\.de
+\.cyberthug\.de
 
  #</pre> <!-- leave this line exactly as it is -->
