@@ -1468,4 +1468,7 @@ nastydollars\.com
 # http://as.wikibooks.org/w/index.php?title=Wikibooks:General_disclaimer&curid=1446&diff=2706&oldid=2634
 4t7e\.info
 
+# 4 dec 05, persistant spammer on de --elian
+\.cyperthug\.de
+
  #</pre> <!-- leave this line exactly as it is -->
