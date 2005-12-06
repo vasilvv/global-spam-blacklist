@@ -1471,4 +1471,7 @@ nastydollars\.com
 # 4 dec 05, persistant spammer on de --elian
 \.cyberthug\.de
 
+# Tepeating spammer on many projects
+010b\.info
+
  #</pre> <!-- leave this line exactly as it is -->
