@@ -1474,4 +1474,6 @@ nastydollars\.com
 # Tepeating spammer on many projects
 010b\.info
 
+# dec 10, spammer on en requested by. zigger
+e16\.info
  #</pre> <!-- leave this line exactly as it is -->
