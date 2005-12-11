@@ -25,7 +25,7 @@ sj55\.com
 odyssei\.com
 shop263\.com
 88aabb\.com
-freedom4sale\.com
+#freedom4sale\.com
 targetwords\.com
 searchmiracle\.com
 17train\.com
@@ -245,6 +245,9 @@ crazymaidens\.info # requested on talk # 2005-11-12
 villepin2007\.org # requested on talk # 2005-11-15
 robbeklobbe # requested on talk # 2005-11-16
 web524\.beta\.web\.expressmedia\.de # same as above # 2005-11-17
+www\.angelfire\.com\/poetry\/seidel # requested on talk from de: # 2005-12-11
+webloga\.com # requested on talk # 2005-12-11
+lucky7\.to # requested on talk # 2005-12-11
 ### EREIAMJH
 
 # ----
@@ -1413,7 +1416,7 @@ shoesshop\.biz
 
 # from zh 
 \.6iuhecai\.com
-\.xinyicom\.com
+# \.xinyicom\.com
 \.ltdcr\.com
 \.ltdcr\.net
 \.ltdcr\.org
