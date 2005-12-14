@@ -118,8 +118,9 @@ free-porn-friend-finder-adult\.info
 # http://en.wikipedia.org/w/index.php?title=Catgirl&diff=prev&oldid=18420241
 consumeralertsystem\.com
 
-
-
+# --------------------------------------------
+# villy's section (User:Jean-Christophe Chazalette)
+b2.boards2go\.com
 
 # --------------------------------------------
 # silsor's section, so I can keep track easier
