@@ -202,7 +202,7 @@ dmoz\.org\/profiles\/spaland\.html # requested on talk # 2005-10-19
 teneriferesorts\.com # spam on enwiki: http://en.wikipedia.org/wiki/Special:Contributions/194.224.166.206 # 2005-10-24
 wik1\.info # requested on talk # 2005-10-25
 mq6\.info # linkfarm, requested on talk # 2005-10-27
-seymour-james\.com # requested on talk # 2005-10-31
+# seymour-james\.com # requested on talk # 2005-10-31 rmvd on request
 rx-seote\.com # requested on talk # 2005-10-31
 \.mx\.gs # some kind of free redirect service - no legitimate use on wikis # requested on talk # 2005-10-31
 98\.to # requested on talk # 2005-11-04 # a Chinese domain host? not used on any project.
