@@ -1486,5 +1486,7 @@ e16\.info
 b2\.boards2go\.com
 h1\.ripway\.com
 
+# Amgine's
+justlovexx\.net
 
  #</pre> <!-- leave this line exactly as it is -->
