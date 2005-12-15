@@ -1490,5 +1490,7 @@ h1\.ripway\.com
 
 # Amgine's
 justlovexx\.net
+no-ip\.info
+
 
  #</pre> <!-- leave this line exactly as it is -->
