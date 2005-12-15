@@ -121,8 +121,9 @@ consumeralertsystem\.com
 # --------------------------------------------
 # villy's section (User:Jean-Christophe Chazalette)
 b2.boards2go\.com
-h1.ripway.\com
-justlovexx.\net
+h1.ripway\.com
+justlovexx\.net
+viagra-drugs.no-ip\.info 
 
 # --------------------------------------------
 # silsor's section, so I can keep track easier
@@ -1456,7 +1457,7 @@ fuckfactor\.com
 #23 oct elian (spam on de)
 \.zap3x\.com
 
-# http://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&diff=28207588&oldid=28205513
+# http://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&diff=28207588&amp;oldid=28205513
 # http://en.wikipedia.org/w/index.php?title=MediaWiki_talk:Nogomatch&diff=28206731&oldid=28202132
 hosting\.q4w\.net
 
