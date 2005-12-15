@@ -1478,6 +1478,9 @@ nastydollars\.com
 # 4 dec 05, persistant spammer on de --elian
 \.cyberthug\.de
 
+# 15 dec 05, upon request of german wikinewsies --elian
+\.g155\.info
+
 # Tepeating spammer on many projects
 010b\.info
 
