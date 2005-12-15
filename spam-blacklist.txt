@@ -122,6 +122,7 @@ consumeralertsystem\.com
 # villy's section (User:Jean-Christophe Chazalette)
 b2.boards2go\.com
 h1.ripway.\com
+justlovexx.\net
 
 # --------------------------------------------
 # silsor's section, so I can keep track easier
