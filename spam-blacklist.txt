@@ -1482,6 +1482,9 @@ nastydollars\.com
 # 15 dec 05, upon request of german wikinewsies --elian
 \.g155\.info
 
+# 18 dec, temporary, please remove after a week if I forget --elian
+\.geschichtswissenschaften\.com
+
 # Tepeating spammer on many projects
 010b\.info
 
