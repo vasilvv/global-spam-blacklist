@@ -120,8 +120,8 @@ consumeralertsystem\.com
 
 # --------------------------------------------
 # villy's section (User:Jean-Christophe Chazalette)
-b2.boards2go\.com
-h1.ripway\.com
+b2\.boards2go\.com
+h1\.ripway\.com
 justlovexx\.net
 viagra-drugs.no-ip\.info 
 viagra-drugs.pills-pharmacy.\net
@@ -1490,10 +1490,6 @@ nastydollars\.com
 
 # dec 10, spammer on en requested by. zigger
 e16\.info
-
-# http://sr.wikipedia.org/w/index.php?title=%D0%94%D0%B5%D1%84%D0%B8%D0%BD%D0%B8%D1%86%D0%B8%D1%98%D0%B0&curid=19604&diff=169275&oldid=156719
-b2\.boards2go\.com
-h1\.ripway\.com
 
 # Amgine's
 justlovexx\.net
