@@ -369,6 +369,12 @@ azzacash\.com
 # \.narod\.ru 
 # \.nonews\.ru
 
+# --------------------------------------------
+# Korg's section
+# 10 - 19.12.2005
+white\.prohosting\.com
+# $3a
+
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
 \.abkhazia\.su
