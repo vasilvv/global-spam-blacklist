@@ -1512,4 +1512,7 @@ adult\.dynu\.net
 # Massive spam
 f9zs\.info
 
+# Datrio, by request from IRC
+vendweb\.com
+
  #</pre> <!-- leave this line exactly as it is -->
