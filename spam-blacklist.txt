@@ -373,6 +373,7 @@ azzacash\.com
 # Korg's section
 # 10 - 19.12.2005
 white\.prohosting\.com
+4ljd\.info
 # $3a
 
 ### BEGIN RUSSIAN SPAM SECTION
