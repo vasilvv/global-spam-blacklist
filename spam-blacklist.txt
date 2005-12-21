@@ -1512,7 +1512,6 @@ adult\.dynu\.net
 
 # Massive spam
 f9zs\.info
-4ljd\.info
 
 # Datrio, by request from IRC
 vendweb\.com
