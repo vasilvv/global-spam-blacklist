@@ -378,7 +378,9 @@ white\.prohosting\.com
 buy-cheap-meds\.us
 julie\.xxserv\.com
 pills-pharmacy\.net
-# $4a
+searchterror\.com
+lycos1\.com
+# $6a
 
 
 ### BEGIN RUSSIAN SPAM SECTION
