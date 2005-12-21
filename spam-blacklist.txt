@@ -369,12 +369,16 @@ azzacash\.com
 # \.narod\.ru 
 # \.nonews\.ru
 
+
 # --------------------------------------------
 # Korg's section
 # 10 - 19.12.2005
 white\.prohosting\.com
 4ljd\.info
-# $3a
+buy-cheap-meds\.us
+julie\.xxserv\.com
+# $4a
+
 
 ### BEGIN RUSSIAN SPAM SECTION
 \.uni\.cc
