@@ -384,7 +384,9 @@ pills-pharmacy\.net
 searchterror\.com
 lycos1\.com
 0s48\.info
-# $6a
+torontonian\.com
+1stOK\.com
+# $10a
 
 
 ### BEGIN RUSSIAN SPAM SECTION
