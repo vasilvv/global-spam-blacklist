@@ -1533,5 +1533,6 @@ f9zs\.info
 
 # Datrio, by request from IRC
 vendweb\.com
+xthost\.info
 
  #</pre> <!-- leave this line exactly as it is -->
