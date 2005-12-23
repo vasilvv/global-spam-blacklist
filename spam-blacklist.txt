@@ -390,7 +390,8 @@ torontonian\.com
 # $10a
 # 23.12.2005
 vacarreno\.net
-# $11b
+wiki\.servetown\.com
+# $12b
 
 
 ### BEGIN RUSSIAN SPAM SECTION
