@@ -375,7 +375,8 @@ azzacash\.com
 
 # --------------------------------------------
 # Korg's section
-# 10 - 19.12.2005
+#
+# 19.12.2005
 white\.prohosting\.com
 4ljd\.info
 buy-cheap-meds\.us
@@ -387,6 +388,9 @@ lycos1\.com
 torontonian\.com
 1stOK\.com
 # $10a
+# 23.12.2005
+vacarreno\.net
+# $11b
 
 
 ### BEGIN RUSSIAN SPAM SECTION
