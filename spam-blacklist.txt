@@ -1531,6 +1531,7 @@ www\.look4vacation\.com
 
 # Datrio
 adult\.dynu\.net
+celika\.dynu\.net #add by Suisui
 
 # Massive spam
 f9zs\.info
