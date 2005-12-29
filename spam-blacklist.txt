@@ -1512,9 +1512,6 @@ nastydollars\.com
 # 15 dec 05, upon request of german wikinewsies --elian
 \.g155\.info
 
-# 18 dec, temporary, please remove after a week if I forget --elian
-\.geschichtswissenschaften\.com
-
 # Tepeating spammer on many projects
 010b\.info
 
@@ -1536,11 +1533,14 @@ www\.look4vacation\.com
 adult\.dynu\.net
 celika\.dynu\.net #add by Suisui
 
-# Massive spam
-f9zs\.info
-
 # Datrio, by request from IRC
 vendweb\.com
 xthost\.info
+
+# Massive spam
+f9zs\.info
+
+# Suisui
+caribvoice\.org
 
  #</pre> <!-- leave this line exactly as it is -->
