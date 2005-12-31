@@ -289,9 +289,9 @@ www\.MatchstickCats\.com # on enwp, reported by Linuxbeak@#wikimedia
 flats\.h1\.ru # on several wikis including en & ruwp, by request
 chinaplay\.org  # On enwq.
 ## On Swedish plea, 05-12-31
-www\.games-soft\.net/sex_games\.html
-www\.2adultflashgames\.com/
-www\.xtrastats\.com/webcams/free-adult-webcam-live-chat/
+www\.games-soft\.net\/sex_games\.html
+www\.2adultflashgames\.com\/
+www\.xtrastats\.com\/webcams\/free-adult-webcam-live-chat\/
 
 ### Links from Sj, from GV Wiki (http://cyber.law.harvard.edu/globalvoices/wiki) and other MW sites
 #
