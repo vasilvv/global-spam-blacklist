@@ -1553,6 +1553,8 @@ f9zs\.info
 caribvoice\.org
 raus\.de
 
-# Datrio, spam on Commons
+# Datrio, spam on Commons and Wikinews
 ijijiji\.com
+\.5g6y\.info
+
  #</pre> <!-- leave this line exactly as it is -->
