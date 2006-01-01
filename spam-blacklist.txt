@@ -270,8 +270,8 @@ www\.amelatine\.com # spammed on fr.wp: reported by AlNo
 ganzao\.88118888\.com # en.wikiquote by 60.26.34.193
 www\.a688\.net
 www\.hsfangzhen\.com
-www\.jifamark\.com/xhj.htm
-www\.h345\.com/Hotel
+www\.jifamark\.com\/xhj.htm
+www\.h345\.com\/Hotel
 www\.epackshop\.net 
 www\.hzyage\.com
 ## specially for Chinese spams ...
