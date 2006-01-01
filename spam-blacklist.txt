@@ -1552,4 +1552,7 @@ f9zs\.info
 # Suisui
 caribvoice\.org
 raus\.de
+
+# Datrio, spam on Commons
+ijijiji\.com
  #</pre> <!-- leave this line exactly as it is -->
