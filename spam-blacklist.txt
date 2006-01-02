@@ -1549,6 +1549,7 @@ be\.tt
 fr\.tt
 at\.nr
 de\.nr
+servik\.com
 
 # Brian0918
 www\.look4vacation\.com 
