@@ -642,7 +642,7 @@ yucaibooks\.com
 bjicp\.net
 [0-9]+epson\.com
 newboyu\.com
-[0-9]+books\.com
+# [0-9]+books\.com # 2100books.com is ok
 digital-projector\.net
 ponytest\.com
 [0-9]+flower\.com
