@@ -1465,6 +1465,7 @@ fr\.tt
 at\.nr
 de\.nr
 servik\.com
+90d7\.info
 
 # Brian0918
 www\.look4vacation\.com 
