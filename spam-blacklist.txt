@@ -1450,7 +1450,8 @@ pills-pharmacy\.be
 daj\.pl
 98\.to // Hégésippe's list
 us\.tf
-at\.tf
+# at\.tf modifying
+buy-
 ch\.tf
 us\.ma
 be\.ma
