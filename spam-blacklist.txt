@@ -1467,6 +1467,7 @@ de\.nr
 servik\.com
 90d7\.info
 executiveshuttleservice\.com
+dir\.fasthoster\.de
 
 # Brian0918
 www\.look4vacation\.com 
