@@ -1490,4 +1490,10 @@ raus\.de
 ijijiji\.com
 \.5g6y\.info
 
+# [5:04pm] egg: anyone alive? i need an address to be blacklisted. http://meta.wikimedia.org/wiki/Spam_blacklist
+# [5:04pm] egg: this one: dir.fasthoster.de
+# [5:05pm] egg: there's a massive robot attack on cswiki.
+# [5:05pm] egg: brion: ping
+dir\.fasthoster\.de
+
  #</pre> <!-- leave this line exactly as it is -->
