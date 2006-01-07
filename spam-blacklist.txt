@@ -404,6 +404,8 @@ stadianet\.com
 \.fw\.nu
 \[*\.5g6y\.info
 (alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
+sex\.hut1\.ru
+vanjatka\.be
 # $15b
 
 #-------------------------------------------------------------------------------------
