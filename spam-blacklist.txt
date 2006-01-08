@@ -395,7 +395,7 @@ lycos1\.com
 torontonian\.com
 1stOK\.com
 # 
-# $10a
+# *10a
 vacarreno\.net
 wiki\.servetown\.com
 cumfiesta4\.us
@@ -406,10 +406,15 @@ stadianet\.com
 (alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
 sex\.hut1\.ru
 vanjatka\.be
+#
+# *20b
 vorbo\.com
 stdhost\.net
 kelly-hosting\.com
-# $15b
+101hosters\.com
+cvh100\.com
+onix1000\.com
+# *26c
 
 #-------------------------------------------------------------------------------------
 # The following is derived from http://wikiblacklist.blogspot.com, thanks guys
