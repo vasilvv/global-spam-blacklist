@@ -385,7 +385,7 @@ azzacash\.com
 # Korg's section
 #
 white\.prohosting\.com
-4ljd\.info
+\[*\.4ljd\.info
 buy-cheap-meds\.us
 julie\.xxserv\.com
 pills-pharmacy\.net
@@ -414,6 +414,7 @@ kelly-hosting\.com
 101hosters\.com
 cvh100\.com
 onix1000\.com
+\[*\.k6je\.info
 # *26c
 
 #-------------------------------------------------------------------------------------
