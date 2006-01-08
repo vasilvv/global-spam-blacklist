@@ -1470,10 +1470,9 @@ fr\.tt
 at\.nr
 de\.nr
 servik\.com
-90d7\.info
+\[*\.90d7\.info
 executiveshuttleservice\.com
 dir\.fasthoster\.de
-90d7\.info
 kwik\.to
 
 # Brian0918
