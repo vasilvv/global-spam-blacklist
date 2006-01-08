@@ -1512,5 +1512,22 @@ dir\.fasthoster\.de
 #it.wiki - User:M7 (M/)
 signoraggio\.com
 
+#de.wiki - User:M7 (M/)
+animemanga\.de
+bleach\.de
+detektivconan\.de
+digitalmonsters\.de
+dragonballz\.de
+gundamwing\.de
+gundamseed\.de
+hikarunogo\.de
+inuyasha\.de
+naruto\.de
+onepiece\.de
+princeoftennis\.de
+ranma\.de
+shaman-king\.de
+yugioh\.de
+fanart\.de
 
  #</pre> <!-- leave this line exactly as it is -->
