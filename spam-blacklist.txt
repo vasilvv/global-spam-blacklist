@@ -406,6 +406,9 @@ stadianet\.com
 (alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
 sex\.hut1\.ru
 vanjatka\.be
+vorbo\.com
+stdhost\.net
+kelly-hosting\.com
 # $15b
 
 #-------------------------------------------------------------------------------------
