@@ -421,6 +421,14 @@ piratebay\.org #test/temp
 #
 # *30c
 redirect\.hm
+drugs\.passingg\.as
+drugs\.isgre\.at
+drugs\.byinter\.net
+drugs\.lowestprices\.at
+drugs\.chickenkiller\.com
+drugs\.ignorelist\.com
+drugs\.mooo\.com
+drugs\.strangled\.net
 # *31d
 
 #-------------------------------------------------------------------------------------
