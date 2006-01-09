@@ -418,7 +418,10 @@ onix1000\.com
 thepiratebay\.org
 piratebay\.org #test/temp
 \[*\.w0qb\.info
-# *26c
+#
+# *30c
+redirect\.hm
+# *31d
 
 #-------------------------------------------------------------------------------------
 # The following is derived from http://wikiblacklist.blogspot.com, thanks guys
