@@ -429,6 +429,7 @@ drugs\.chickenkiller\.com
 drugs\.ignorelist\.com
 drugs\.mooo\.com
 drugs\.strangled\.net
+[0-9]+\.\S+\.info\/?\s+[0-9]+\s*\]
 # *31d
 
 #-------------------------------------------------------------------------------------
