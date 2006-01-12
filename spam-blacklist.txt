@@ -436,6 +436,7 @@ lol\.to
 loprox\.atwork\.to
 niaspan\.mrfriendly\.com
 tricor\.athome\.to
+7726\.info
 #
 
 #-------------------------------------------------------------------------------------
