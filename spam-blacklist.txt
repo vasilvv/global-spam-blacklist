@@ -1522,6 +1522,7 @@ f9zs\.info
 caribvoice\.org
 raus\.de\/crashme\/
 northwestairlines\.bravehost\.com #ja.ws,wkt
+news\.scenecritique\.com #20060115jawiki
 
 # Datrio, spam on Commons and Wikinews
 ijijiji\.com
