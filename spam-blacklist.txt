@@ -1488,8 +1488,8 @@ us\.tf
 # at\.tf modifying
 buy-
 ch\.tf
-us\.ma$
-be\.ma$
+us\.ma[\]\b\s]
+be\.ma[\]\b\s]
 ca\.tt
 1stOK\.com
 es\.tt
