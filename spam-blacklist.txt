@@ -386,13 +386,13 @@ azzacash\.com
 # Korg's section
 #
 white\.prohosting\.com
-\[*\.4ljd\.info
+4ljd\.info
 buy-cheap-meds\.us
 julie\.xxserv\.com
 pills-pharmacy\.net
 searchterror\.com
 lycos1\.com
-\[*\.0s48\.info
+0s48\.info
 torontonian\.com
 1stOK\.com
 # 
@@ -415,10 +415,10 @@ kelly-hosting\.com
 101hosters\.com
 cvh100\.com
 onix1000\.com
-\[*\.k6je\.info
+k6je\.info
 thepiratebay\.org
 piratebay\.org #test/temp
-\[*\.w0qb\.info
+w0qb\.info
 #
 # *30c
 redirect\.hm
