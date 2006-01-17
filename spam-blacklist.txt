@@ -130,6 +130,10 @@ buy-valium-online\.fuks\.pl
 buy-ambien-online\.fuks\.pl
 home-business-0\.t35\.com
 freewebs\.com\/home-business-0 #http://commons.wikimedia.org/w/index.php?title=User_talk%3ANotafish&diff=1119497&oldid=1119022
+celebrities\.evac4\.com #http://meta.wikimedia.org/w/index.php?title=Help:Editing&curid=2841&diff=272016&oldid=271988
+games\.net4free\.org #http://ja.wikisource.org/w/index.php?title=%E3%83%8E%E3%83%BC%E3%83%88:Main_Page:%E6%97%A5%E6%9C%AC%E8%AA%9E&curid=2264&diff=6701&oldid=6642
+hornyblog\.org #http://meta.wikimedia.org/w/index.php?title=Help:Editing&diff=prev&oldid=272697
+torrie-wilson\.org #http://meta.wikimedia.org/w/index.php?title=Help:Editing&diff=prev&oldid=272697
 
 # --------------------------------------------
 # silsor's section, so I can keep track easier
@@ -150,7 +154,7 @@ pxxi100\.51\.net
 serverlogic3\.com # one site inserted into edit forms by hyperlinker malware
 enhancemysearch\.com # same
 51dragon\.com # spammed extensively on other wikis, spammed on meta by DragOn
-home\.tiscali\.be/wallpaperheaven
+home\.tiscali\.be\/wallpaperheaven
 bertelsmann2club\.be\.funpic\.de # requested on talk page
 (duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com # spammed on several en: articles by different anons
 (duranduran|limahlmania)\.cjb\.net # same as above, both requested on talk
@@ -201,6 +205,7 @@ big\.de\.com # temporary, requested on talk # 2005-10-13
 payday-loan\.de\.com # temporary, requested on talk # 2005-10-13
 www\.liss-kompendium\.de # requested on talk # 2005-10-18
 home\.arcor\.de\/eberhard\.liss # requested on talk # 2005-10-18
+home\.arcor-online\.de\/eberhard\.liss # spammer evaded above entry # 2006-01-12
 dmoz\.org\/Bookmarks\/S\/spaland # requested on talk # 2005-10-19
 geocities\.com\/hungarybusiness\/spaland\.htm # requested on talk # 2005-10-19
 geocities\.com\/spalandhu # requested on talk # 2005-10-19
@@ -385,13 +390,13 @@ azzacash\.com
 # Korg's section
 #
 white\.prohosting\.com
-\[*\.4ljd\.info
+4ljd\.info
 buy-cheap-meds\.us
 julie\.xxserv\.com
 pills-pharmacy\.net
 searchterror\.com
 lycos1\.com
-\[*\.0s48\.info
+0s48\.info
 torontonian\.com
 1stOK\.com
 # 
@@ -402,7 +407,7 @@ cumfiesta4\.us
 stadianet\.com
 (asiangirlss|chickens|freeadult69|japanesegirl|matures|onlybestsex|sexgirls|supergirls\d*|wiki|wikipedia)\.servik\.com
 \.fw\.nu
-\[*\.5g6y\.info
+5g6y\.info
 (alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
 sex\.hut1\.ru
 vanjatka\.be
@@ -414,8 +419,35 @@ kelly-hosting\.com
 101hosters\.com
 cvh100\.com
 onix1000\.com
-\[*\.k6je\.info
-# *26c
+k6je\.info
+# thepiratebay\.org
+# piratebay\.org #test/temp
+w0qb\.info
+#
+# *30c
+redirect\.hm
+drugs\.passingg\.as
+drugs\.isgre\.at
+drugs\.byinter\.net
+drugs\.lowestprices\.at
+drugs\.chickenkiller\.com
+drugs\.ignorelist\.com
+drugs\.mooo\.com
+drugs\.strangled\.net
+[0-9]+\.\S+\.info\/?\s+[0-9]+\s*\]
+#
+# *40d
+lol\.to
+loprox\.atwork\.to
+niaspan\.mrfriendly\.com
+tricor\.athome\.to
+7726\.info
+cc3\.be
+freesexyhouse\.com
+freewebs\.com\/diet-about-diet
+skozlozop\.com
+z0rder\.tripod\.com
+#
 
 #-------------------------------------------------------------------------------------
 # The following is derived from http://wikiblacklist.blogspot.com, thanks guys
@@ -1464,22 +1496,22 @@ us\.tf
 # at\.tf modifying
 buy-
 ch\.tf
-us\.ma$
-be\.ma
+us\.ma([\/\]\b\s]|$)
+be\.ma([\/\]\b\s]|$)
 ca\.tt
 1stOK\.com
 es\.tt
 3xforum\.ro
-be\.ma
 be\.tt
 fr\.tt
 at\.nr
 de\.nr
 servik\.com
-\[*\.90d7\.info
+90d7\.info
 executiveshuttleservice\.com
 dir\.fasthoster\.de
 kwik\.to
+joke34\.info
 
 # Brian0918
 www\.look4vacation\.com 
@@ -1499,6 +1531,7 @@ f9zs\.info
 caribvoice\.org
 raus\.de\/crashme\/
 northwestairlines\.bravehost\.com #ja.ws,wkt
+news\.scenecritique\.com #20060115jawiki
 
 # Datrio, spam on Commons and Wikinews
 ijijiji\.com
@@ -1512,6 +1545,7 @@ dir\.fasthoster\.de
 
 #it.wiki - User:M7 (M/)
 signoraggio\.com
+megabustybimbos\.com
 
 #de.wiki - User:M7 (M/)
 animemanga\.de
