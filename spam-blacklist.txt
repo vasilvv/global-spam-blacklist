@@ -420,6 +420,8 @@ kelly-hosting\.com
 cvh100\.com
 onix1000\.com
 k6je\.info
+# thepiratebay\.org
+# piratebay\.org #test/temp
 w0qb\.info
 #
 # *30c
