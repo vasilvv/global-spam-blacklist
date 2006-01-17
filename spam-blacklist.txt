@@ -1477,6 +1477,9 @@ nastydollars\.com
 # 15 dec 05, upon request of german wikinewsies --elian
 \.g155\.info
 
+# --elian 17th january
+\.mp3\.com/users/
+
 # Tepeating spammer on many projects
 010b\.info
 
