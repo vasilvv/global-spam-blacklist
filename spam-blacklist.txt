@@ -1517,6 +1517,8 @@ joke34\.info
 # Brian0918
 www\.look4vacation\.com 
 bulgaria-houses\.com #spam on EN by 68.6.209.121
+hawaiicity\.com #purposely hidden spam on EN by 85.192.128.179
+
 
 # Datrio
 adult\.dynu\.net
