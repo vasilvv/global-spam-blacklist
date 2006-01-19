@@ -1572,5 +1572,10 @@ fanart\.de
 
 #commons
 health-medical\.be
+ignorelist\.com
+freewebs\.com\/diet-about-diet
+fioricet-drugs\.mooo\.com
+ultram-drugs\.strangled\.net
+kwik\.to
 
  #</pre> <!-- leave this line exactly as it is -->
