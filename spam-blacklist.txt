@@ -1486,7 +1486,7 @@ e16\.info
 
 # Amgine's
 justlovexx\.net
-no-ip\.info
+# no-ip\.info # <-- false positives detected, removed by Tim Starling
 www\.g155\.info
 www\.f9zs\.info
 4ljd\.info
