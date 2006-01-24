@@ -1487,32 +1487,19 @@ e16\.info
 
 # Amgine's
 justlovexx\.net
-# no-ip\.info # <-- false positives detected, removed by Tim Starling
 www\.g155\.info
 www\.f9zs\.info
 4ljd\.info
 pills-pharmacy\.be
-daj\.pl
 98\.to # Hégésippe's list
-us\.tf
-# at\.tf modifying
-buy-
-# ch\.tf # <-- false positives detected, removed by Tim Starling
 us\.ma([\/\]\b\s]|$)
 be\.ma([\/\]\b\s]|$)
-ca\.tt
 1stOK\.com
-es\.tt
 3xforum\.ro
-be\.tt
-fr\.tt
-at\.nr
-de\.nr
 servik\.com
 90d7\.info
 executiveshuttleservice\.com
 dir\.fasthoster\.de
-kwik\.to
 joke34\.info
 4wj6\.info
 
@@ -1578,6 +1565,5 @@ ignorelist\.com
 freewebs\.com\/diet-about-diet
 fioricet-drugs\.mooo\.com
 ultram-drugs\.strangled\.net
-kwik\.to
 
  #</pre> <!-- leave this line exactly as it is -->
