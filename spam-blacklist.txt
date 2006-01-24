@@ -1297,7 +1297,7 @@ mixmeteo\.ru
 sealse\.com
 serjen\.com
 es-standart\.com
-static\.net
+\.static\.net
 
 # Added by UninvitedCompany 8/5/05
 -handys\.de 
