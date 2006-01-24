@@ -1496,7 +1496,7 @@ daj\.pl
 us\.tf
 # at\.tf modifying
 buy-
-ch\.tf
+# ch\.tf # <-- false positives detected, removed by Tim Starling
 us\.ma([\/\]\b\s]|$)
 be\.ma([\/\]\b\s]|$)
 ca\.tt
