@@ -1573,4 +1573,6 @@ ultram-drugs\.strangled\.net
 #Added by Raul654 on Jan 25 2006 - constant spamming on en main page
 all\.yard\.ru
 
+w9uh\.info
+
  #</pre> <!-- leave this line exactly as it is -->
