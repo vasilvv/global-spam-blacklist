@@ -495,7 +495,10 @@ sexchat
 chatsex
 onlinesex
 adultporn
-adultvideo
+
+# Removal requested on [[w:User talk:Tim Starling]], for linking to adultvideonews.com
+#adultvideo
+
 adultweb\. # dot added to allow adultweblaw.com
 hardcoresex
 hardcoreporn
