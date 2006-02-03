@@ -1579,7 +1579,7 @@ all\.yard\.ru
 sleepgoodmusic\.com
 w9uh\.info
 wikipedia\.on\.nimp\.org
-on\.nimp\.org
+\.on\.nimp\.org
 
 #Delphine's little list
 a85\.no-ip\.biz
