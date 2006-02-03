@@ -1581,9 +1581,9 @@ w9uh\.info
 wikipedia\.on\.nimp\.org
 \.on\.nimp\.org
 
-#Used by the GNAA to link to malware pages
-\tinyurl\.com
-\tinylink\.com
+#Used by the GNAA to link to malware pages; added by Raul654 on Feb 3
+\tinyurl\.com\/
+\tinylink\.com\/
 
 #Delphine's little list
 a85\.no-ip\.biz
