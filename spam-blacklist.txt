@@ -1582,8 +1582,8 @@ wikipedia\.on\.nimp\.org
 \.on\.nimp\.org
 
 #Used by the GNAA to link to malware pages; added by Raul654 on Feb 3
-tinyurl\.com\/
-tinylink\.com\/
+tinyurl\.com
+tinylink\.com
 url123\.com
 
 #Delphine's little list
