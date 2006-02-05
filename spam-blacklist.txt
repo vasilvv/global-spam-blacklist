@@ -1587,6 +1587,8 @@ tinylink\.com
 url123\.com
 tinyr\.us
 ln-s\.net # silsor
+xrl\.us 
+tny\.se
 
 #Delphine's little list
 a85\.no-ip\.biz
