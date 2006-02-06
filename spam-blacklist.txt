@@ -1589,6 +1589,7 @@ tinyr\.us
 ln-s\.net # silsor
 xrl\.us 
 tny\.se
+compactURL\.com
 
 #Delphine's little list
 a85\.no-ip\.biz
