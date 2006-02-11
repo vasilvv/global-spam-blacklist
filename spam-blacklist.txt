@@ -1594,7 +1594,6 @@ tinyurl\.co\.uk
 
 #Lir's site - he's been spamming it (evading his arbcom block at the same time) 
 kapitalism\.net
-lir\.wikipediareview\.com
 
 #Delphine's little list
 a85\.no-ip\.biz
