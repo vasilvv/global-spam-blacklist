@@ -1600,6 +1600,6 @@ lir\.wikipediareview\.com
 a85\.no-ip\.biz
 
 #Essjay's list
-omninerd\.org 
+omninerd\.com
 
  #</pre> <!-- leave this line exactly as it is -->
