@@ -1599,4 +1599,7 @@ lir\.wikipediareview\.com
 #Delphine's little list
 a85\.no-ip\.biz
 
+#Essjay's list
+omninerd\.org 
+
  #</pre> <!-- leave this line exactly as it is -->
