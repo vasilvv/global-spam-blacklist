@@ -1592,6 +1592,7 @@ tny\.se
 compactURL\.com
 tinyurl\.co\.uk
 urlcut\.com
+shurl.net
 
 #Lir's site - he's been spamming it (evading his arbcom block at the same time) 
 kapitalism\.net
