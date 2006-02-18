@@ -134,6 +134,7 @@ celebrities\.evac4\.com #http://meta.wikimedia.org/w/index.php?title=Help:Editin
 games\.net4free\.org #http://ja.wikisource.org/w/index.php?title=%E3%83%8E%E3%83%BC%E3%83%88:Main_Page:%E6%97%A5%E6%9C%AC%E8%AA%9E&curid=2264&diff=6701&oldid=6642
 hornyblog\.org #http://meta.wikimedia.org/w/index.php?title=Help:Editing&diff=prev&oldid=272697
 torrie-wilson\.org #http://meta.wikimedia.org/w/index.php?title=Help:Editing&diff=prev&oldid=272697
+pharmacy\.pumag\.net #http://as.wikipedia.org/w/index.php?title=Help%3AContents&diff=5956&oldid=5913
 
 # --------------------------------------------
 # silsor's section, so I can keep track easier
