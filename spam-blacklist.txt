@@ -1608,4 +1608,7 @@ a85\.no-ip\.biz
 
 #Essjay's list
 
+#requested by Epopt
+coinable\.com
+
  #</pre> <!-- leave this line exactly as it is -->
