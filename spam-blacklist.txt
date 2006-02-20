@@ -264,6 +264,7 @@ web524\.beta\.web\.expressmedia\.de # same as above # 2005-11-17
 www\.angelfire\.com\/poetry\/seidel # requested on talk from de: # 2005-12-11
 webloga\.com # requested on talk # 2005-12-11
 lucky7\.to # requested on talk # 2005-12-11
+degrassi\.dumbbaby\.net # from [[:en:WP:ANI]]
 ### EREIAMJH
 
 # ----
