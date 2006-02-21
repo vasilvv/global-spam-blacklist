@@ -1596,6 +1596,7 @@ tinyurl\.co\.uk
 urlcut\.com
 shurl\.net
 1tiny\.com
+o-rly\.net
 
 # The following is added by a spyware, see talk
 ntsearch\.com
