@@ -1609,7 +1609,27 @@ a85\.no-ip\.biz
 
 #Essjay's list
 
-#requested by Epopt
-coinable\.com
+#requests
+coinable\.com #by epopt
+meltemi\.pl 
+cheap-airline-tickets\.be 
+pills-pharmacy\.us 
+www-search\.be 
+viprape\.com 
+kwik\.to 
+bestdeals\.at
+rr\.nu
+passingg\.as
+ontheweb\.nu
+isgre\.at
+byinter\.net
+lowestprices\.at 
+girlswantmore\.info
+qiiq\.info
+e-dsp\.com
+putinbay\.com
+pibinfo\.com
+putinbayphotos\.com
+put-in-bayonline\.com
 
  #</pre> <!-- leave this line exactly as it is -->
