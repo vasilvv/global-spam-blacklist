@@ -1599,9 +1599,11 @@ urlcut\.com
 shurl\.net
 1tiny\.com
 o-rly\.net
+yatuc\.com # added by D.M.
 
 # The following is added by a spyware, see talk
 ntsearch\.com
+
 
 #Lir's site - he's been spamming it (evading his arbcom block at the same time) 
 kapitalism\.net
