@@ -1588,21 +1588,57 @@ w9uh\.info
 wikipedia\.on\.nimp\.org
 \.on\.nimp\.org
 
-#Used by the GNAA to link to malware pages; added by Raul654 on Feb 3
-tinyurl\.com
-tinylink\.com
-url123\.com
-tinyr\.us
-ln-s\.net # silsor
-xrl\.us 
-tny\.se
-compactURL\.com
-tinyurl\.co\.uk
-urlcut\.com
-shurl\.net
+#URL shortners 
+#Used by the GNAA to link to malware pages; added by Raul654 on Feb 3 
+#Expanded pre-emptively on Feb 26 
 1tiny\.com
+301url\.com
+6url\.com
+ataja\.es
+babyurl\.com
+compactURL\.com
+digbig\.com
+doiop\.com
+eb\.cx
+elfurl\.com
+flingk\.com
+lin\.kz
+link.toolbot\.com
+linkezy\.com
+linktrim\.com
+ln-s\.net # silsor
+lnk\.in
+makeashorterlink\.com
+metamark\.net
+minilien\.com
+notlong\.com
 o-rly\.net
+paulding\.net
+qurl\.net
+shorl\.com
+shortlinks\.co\.uk
+shurl\.net
+shurl\.org
+simurl\.com
+smcurl\.com
+snipurl\.com
+tighturl\.com
+tinyclick\.com 
+tinylink\.com
+tinyr\.us
+tinyurl\.co\.uk
+tinyurl\.com
+tny\.se
+url.etusivu\.net
+url123\.com
+url\.fm
+urlcut\.com
+urlmask\.com
+urlx\.org
+w3t\.org
+xrl\.us 
 yatuc\.com # added by D.M.
+yep\.it
 
 # The following is added by a spyware, see talk
 ntsearch\.com
