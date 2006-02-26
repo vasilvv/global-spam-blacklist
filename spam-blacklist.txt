@@ -1515,6 +1515,9 @@ www\.ChezBrandon\.com
 searchyourporn\.info
 adult-area\.info
 
+# D.M.: used for shock links
+goatse\.ca 
+
 # Brian0918
 www\.look4vacation\.com 
 bulgaria-houses\.com #spam on EN by 68.6.209.121
