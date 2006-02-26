@@ -1603,7 +1603,7 @@ eb\.cx
 elfurl\.com
 flingk\.com
 lin\.kz
-link.toolbot\.com
+link\.toolbot\.com
 linkezy\.com
 linktrim\.com
 ln-s\.net # silsor
