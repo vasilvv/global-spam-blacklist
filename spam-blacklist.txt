@@ -1615,6 +1615,7 @@ notlong\.com
 o-rly\.net
 paulding\.net
 qurl\.net
+runurl\.com
 shorl\.com
 shortlinks\.co\.uk
 shurl\.net
