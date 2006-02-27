@@ -1677,6 +1677,7 @@ pibinfo\.com
 putinbayphotos\.com
 put-in-bayonline\.com
 
-www\.muturzikin\.com # DM
+muturzikin\.com # DM
+bizorigin\.com # DM
 
  #</pre> <!-- leave this line exactly as it is -->
