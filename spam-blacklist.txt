@@ -1456,6 +1456,8 @@ pharmacy\.rr\.nu
 #10 Oct 05
 \.hotweb\.pp\.ru
 \.webtech\.pp\.ru
+#1 Mar 06
+\.rockphiles\.com 
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
