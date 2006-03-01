@@ -1679,4 +1679,5 @@ put-in-bayonline\.com
 muturzikin\.com # DM
 bizorigin\.com # DM
 
+haber18\.com
  #</pre> <!-- leave this line exactly as it is -->
