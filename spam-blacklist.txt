@@ -1657,6 +1657,7 @@ kapitalism\.net
 a85\.no-ip\.biz
 
 #Essjay's list
+starswelove\.com #spamming on en.wikipedia
 
 #requests
 coinable\.com #by epopt
