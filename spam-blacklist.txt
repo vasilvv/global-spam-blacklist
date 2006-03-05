@@ -1596,6 +1596,7 @@ wikipedia\.on\.nimp\.org
 #URL shortners 
 #Used by the GNAA to link to malware pages; added by Raul654 on Feb 3 
 #Expanded pre-emptively on Feb 26 
+0rz\.net
 1tiny\.com
 301url\.com
 6url\.com
@@ -1681,11 +1682,24 @@ putinbay\.com
 pibinfo\.com
 putinbayphotos\.com
 put-in-bayonline\.com
-
 muturzikin\.com # DM
 bizorigin\.com # DM
-
 haber18\.com
+haber18\.com 
+kimim\.com
+misterwatchonline\.com
+zrhwiki\.ch
+lopezzz\.be
+putinbayresort\.com
+furosemide\.be
+toprol\.be
+lisinopril\.be
+synthroid\.be
+norvasc\.be
+physicsarchives\.com
+webzdarma\.cz
+nascarspace\.com
+logos\.com
 
 virginporn\.info #Requested on talkpage
 qklinkserver\.com #Requested on talkpage
