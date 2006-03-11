@@ -1696,7 +1696,7 @@ lisinopril\.be
 synthroid\.be
 norvasc\.be
 physicsarchives\.com
-webzdarma\.cz
+# webzdarma\.cz <- considered too broad. Do you have the specific site(s)?
 nascarspace\.com
 www\.logos\.com
 iquebec\.com
