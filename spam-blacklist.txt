@@ -1659,6 +1659,7 @@ a85\.no-ip\.biz
 
 #Essjay's list
 starswelove\.com #spamming on en.wikipedia
+armchairgm\.com #mass linkspamming on en.wikipedia, requested on Admin's Noticeboard
 
 #requests
 coinable\.com #by epopt
