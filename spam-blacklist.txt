@@ -1621,6 +1621,7 @@ minilien\.com
 notlong\.com
 o-rly\.net
 paulding\.net
+qrl\.be
 qurl\.net
 runurl\.com
 shorl\.com
