@@ -1460,6 +1460,8 @@ pharmacy\.rr\.nu
 \.rockphiles\.com 
 #1 Mar 06 (requested by Dmcdevit, see http://en.wikipedia.org/wiki/User:Uriah923/OmniNerd)
 \.omninerd\.com 
+#20 Mar 06 - spamming en.wikipedia
+\.yadoo\.cn
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
