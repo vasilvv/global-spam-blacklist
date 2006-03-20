@@ -1599,7 +1599,7 @@ wikipedia\.on\.nimp\.org
 #URL shortners 
 #Used by the GNAA to link to malware pages; added by Raul654 on Feb 3 
 #Expanded pre-emptively on Feb 26 
-0rz\.net
+#0rz\.net # on zh wp many user talk page used
 1tiny\.com
 301url\.com
 6url\.com
