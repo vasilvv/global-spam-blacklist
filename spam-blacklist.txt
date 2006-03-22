@@ -1523,6 +1523,7 @@ girls\.info
 sprot2\.com
 efl-law\.com
 eslcafe\.com
+myflooring\.org
 
 # D.M.: used for shock links
 goatse\.ca 
