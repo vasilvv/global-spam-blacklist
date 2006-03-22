@@ -1550,6 +1550,8 @@ raus\.de\/crashme\/
 northwestairlines\.bravehost\.com #ja.ws,wkt
 news\.scenecritique\.com #20060115jawiki
 mp3\.com\/users\/
+2ch\.bufuu\.mnw\.jp
+www\.16ch\.net
 
 # Datrio, spam on Commons and Wikinews
 ijijiji\.com
