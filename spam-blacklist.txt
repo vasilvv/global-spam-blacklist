@@ -1536,6 +1536,7 @@ hawaiicity\.com #purposely hidden spam on EN by 85.192.128.179
 fulfillmentinformation\.com #spam on EN by 71.202.24.81
 hotnewdesign\.blogspot\.com #spam on EN by 71.202.24.81
 nova68\.com #spam on EN by 71.202.24.81
+tempurpedicshop\.com #spam on EN by 71.202.24.81
 
 # Datrio
 adult\.dynu\.net
