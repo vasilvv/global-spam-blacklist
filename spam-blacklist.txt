@@ -1462,6 +1462,8 @@ pharmacy\.rr\.nu
 \.omninerd\.com 
 #20 Mar 06 - spamming en.wikipedia
 \.yadoo\.cn
+#25 Mar 06 - spamming en.wikipedia
+\detoxiy\.com
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
