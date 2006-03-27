@@ -1526,6 +1526,7 @@ sprot2\.com
 efl-law\.com
 eslcafe\.com
 myflooring\.org
+scmantraffic\.com
 
 # D.M.: used for shock links
 goatse\.ca 
