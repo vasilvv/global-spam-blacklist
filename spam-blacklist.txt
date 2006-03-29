@@ -1541,6 +1541,8 @@ hotnewdesign\.blogspot\.com #spam on EN by 71.202.24.81
 nova68\.com #spam on EN by 71.202.24.81
 tempurpedicshop\.com #spam on EN by 71.202.24.81
 
+investing-central\.com #spam on EN by 128.226.208.98
+
 # Datrio
 adult\.dynu\.net
 celika\.dynu\.net #add by Suisui
