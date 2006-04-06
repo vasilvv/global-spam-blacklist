@@ -1465,6 +1465,8 @@ pharmacy\.rr\.nu
 \.yadoo\.cn
 #25 Mar 06 - spamming en.wikipedia
 detoxiy\.com
+#6 Apr 06 - spamming other wikis
+rx\.auto\.pl
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
