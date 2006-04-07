@@ -1534,6 +1534,7 @@ eslcafe\.com
 myflooring\.org
 scmantraffic\.com
 funpic\.de
+efl-law\.org
 
 # D.M.: used for shock links
 goatse\.ca 
