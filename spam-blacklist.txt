@@ -264,6 +264,7 @@ www\.angelfire\.com\/poetry\/seidel # requested on talk from de: # 2005-12-11
 webloga\.com # requested on talk # 2005-12-11
 lucky7\.to # requested on talk # 2005-12-11
 degrassi\.dumbbaby\.net # from [[:en:WP:ANI]]
+discuss\.freeforumsite\.com # requested on IRC # http://en.wikipedia.org/w/index.php?title=Thomas%20Pynchon&diff=47336059&oldid=47335869
 ### EREIAMJH
 
 # ----
