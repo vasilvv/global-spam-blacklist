@@ -1,8 +1,8 @@
  #<!-- leave this line exactly as it is --> <pre> 
 # This is a list of domain names which are considered spam.  Please check
-# the guidelines on the talk page when adding entries.  Changes should take
-# effect immediately.  Please do not use this list against spam that can
-# be dealt with by user blocking or protection of a small number of pages.
+# the guidelines on the talk page when adding entries. Please do not use this 
+# list against spam that can be dealt with by user blocking or protection of a 
+# small number of pages.
 #
 # Syntax is as follows: 
 #   * Everything from a "#" character to the end of the line is a comment
