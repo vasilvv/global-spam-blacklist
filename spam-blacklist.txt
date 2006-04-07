@@ -1745,6 +1745,6 @@ find-web\.info #Requested by freakofnurture
 bypills\.net #Requested by freakofnurture
 web-best\.info #Requested by freakofnurture
 
-wikipediareview\.com #repeated spamming to en
+\.wikipediareview\.com #repeated spamming to en
 
  #</pre> <!-- leave this line exactly as it is -->
