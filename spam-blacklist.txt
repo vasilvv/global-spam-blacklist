@@ -1495,11 +1495,13 @@ nastydollars\.com
 # http://as.wikibooks.org/w/index.php?title=Wikibooks:General_disclaimer&curid=1446&diff=2706&oldid=2634
 4t7e\.info
 
+# elian's
 # 4 dec 05, persistant spammer on de --elian
 \.cyberthug\.de
-
 # 15 dec 05, upon request of german wikinewsies --elian
 \.g155\.info
+# 10th april 06, persistent spammer on de
+dinge-ohne-namen\.de
 
 # Tepeating spammer on many projects
 010b\.info
