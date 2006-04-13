@@ -1694,7 +1694,8 @@ armchairgm\.com #mass linkspamming on en.wikipedia, requested on Admin's Noticeb
 zorpia\.com #en.wiki spam
 xanax.umaxnet\.com #en.wiki spam
 free-web-polls\.com #en.wiki spam
-superlongpenis\com #Even more en.wiki spam...
+superlongpenis\.com #Even more en.wiki spam...
+therealincome\.com #More en.wiki spam 
 
 #requests
 coinable\.com #by epopt
