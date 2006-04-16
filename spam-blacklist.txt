@@ -1754,7 +1754,7 @@ kensmen\.com/catholic # requested by JzG
 
 namebase\.org
 wikipedia-watch\.org    #Daniel Brandt stuff
-google-watch\.org
-cia-on-campus\.org
+google-watch\.org       #These sites are redirecting all requests that come
+cia-on-campus\.org      #from Wikimedia sites to a third-part site.
 scroogle\.org
  #</pre> <!-- leave this line exactly as it is -->
