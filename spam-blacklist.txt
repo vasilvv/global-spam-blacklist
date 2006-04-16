@@ -1752,4 +1752,9 @@ web-best\.info #Requested by freakofnurture
 fisheaters\.com # requested by JzG
 kensmen\.com/catholic # requested by JzG
 
+namebase\.org
+wikipedia-watch\.org    #Daniel Brandt stuff
+google-watch\.org
+cia-on-campus\.org
+scroogle\.org
  #</pre> <!-- leave this line exactly as it is -->
