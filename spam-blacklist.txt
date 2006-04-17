@@ -1757,4 +1757,6 @@ wikipedia-watch\.org    #Daniel Brandt stuff
 google-watch\.org       #These sites are redirecting all requests that come
 cia-on-campus\.org      #from Wikimedia sites to a third-part site.
 scroogle\.org
+yahoo-watch\.org        #Love and kisses, Daniel. This train don't stop.
+                        #By the way, I don't mind being on Hivemind.
  #</pre> <!-- leave this line exactly as it is -->
