@@ -1574,6 +1574,7 @@ mp3\.com\/users\/
 2ch\.bufuu\.mnw\.jp
 www\.16ch\.net
 www\.remus\.dti\.ne\.jp\/\~wings\/ # 210.159.130.78
+www\.angelplace\.jp #20060418
 
 # Datrio, spam on Commons and Wikinews
 ijijiji\.com
