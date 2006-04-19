@@ -1575,6 +1575,8 @@ mp3\.com\/users\/
 www\.16ch\.net
 www\.remus\.dti\.ne\.jp\/\~wings\/ # 210.159.130.78
 www\.angelplace\.jp #20060418
+eronavi\.st
+www\.ark-web\.net
 
 # Datrio, spam on Commons and Wikinews
 ijijiji\.com
