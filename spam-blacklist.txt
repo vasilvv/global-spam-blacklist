@@ -1700,6 +1700,7 @@ xanax.umaxnet\.com #en.wiki spam
 free-web-polls\.com #en.wiki spam
 superlongpenis\.com #Even more en.wiki spam...
 therealincome\.com #More en.wiki spam 
+doubleblue\.info #Site contains personal information about Wikipedians, and is being used to stalk and harass them.
 
 #requests
 coinable\.com #by epopt
