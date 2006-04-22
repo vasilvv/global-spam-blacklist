@@ -1461,7 +1461,7 @@ pharmacy\.rr\.nu
 #1 Mar 06 (requested by Danny)
 \.rockphiles\.com 
 #1 Mar 06 (requested by Dmcdevit, see http://en.wikipedia.org/wiki/User:Uriah923/OmniNerd)
-\.omninerd\.com 
+\.omninerd\.com  # Do not remove. See http://meta.wikimedia.org/wiki/Spam_blacklist/recurring_requests
 #20 Mar 06 - spamming en.wikipedia
 \.yadoo\.cn
 #25 Mar 06 - spamming en.wikipedia
