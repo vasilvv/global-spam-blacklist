@@ -1702,6 +1702,7 @@ free-web-polls\.com #en.wiki spam
 superlongpenis\.com #Even more en.wiki spam...
 therealincome\.com #More en.wiki spam 
 doubleblue\.info #Site contains personal information about Wikipedians, and is being used to stalk and harass them.
+wikipediareview\.com #WR is being used to circumvent the blacklisting of doubleblue.info; see my note on the talk page
 
 #requests
 coinable\.com #by epopt
