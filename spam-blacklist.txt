@@ -1634,6 +1634,10 @@ shaman-king\.de
 yugioh\.de
 fanart\.de
 
+#as per request on talk page - User:M7 (M/)
+adult-contact\.info
+7-24porn\.com
+
 #commons
 health-medical\.be
 ignorelist\.com
