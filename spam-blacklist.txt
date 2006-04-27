@@ -1790,8 +1790,6 @@ cia-on-campus\.org
 scroogle\.org
 yahoo-watch\.org
 
-wikitruth\.info #per recommendation of B. Patrick, the Foundation's attorney. 
-
 ?bahhbahhbahhfoo\.monkey # Testing triple slash glitch
 
  #</pre> <!-- leave this line exactly as it is -->
