@@ -1557,6 +1557,7 @@ myflooring\.org
 scmantraffic\.com
 funpic\.de
 efl-law\.org
+guitar-poll\.com
 
 # D.M.: used for shock links
 goatse\.ca 
@@ -1791,7 +1792,5 @@ scroogle\.org
 yahoo-watch\.org
 
 wikitruth\.info #per recommendation of B. Patrick, the Foundation's attorney. 
-
-?bahhbahhbahhfoo\.monkey # Testing triple slash glitch
 
  #</pre> <!-- leave this line exactly as it is -->
