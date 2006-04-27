@@ -1561,6 +1561,7 @@ guitar-poll\.com
 republika\.pl
 konecco\.com
 supergirls4\.tripod\.com
+unoriginal\.co\.uk
 
 # D.M.: used for shock links
 goatse\.ca 
