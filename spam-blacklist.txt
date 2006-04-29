@@ -1560,7 +1560,7 @@ scmantraffic\.com
 funpic\.de
 efl-law\.org
 guitar-poll\.com
-republika\.pl
+# republika\.pl -- too broad, popular free host in Poland
 konecco\.com
 supergirls4\.tripod\.com
 unoriginal\.co\.uk
