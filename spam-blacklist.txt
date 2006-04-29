@@ -1687,6 +1687,7 @@ notlong\.com
 o-rly\.net
 paulding\.net
 qrl\.be
+qurl\.com
 qurl\.net
 runurl\.com
 shorl\.com
