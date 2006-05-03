@@ -1620,6 +1620,7 @@ www\.zorpia\.com # Many dozens of replica watch spam sites
 www\.comunalia\.com/replica
 www\.blogcu\.com # many dozens of replica watch spam sites
 gaestebuch\.007box\.de
+sove\.info
 
 # D.M.: used for shock links
 goatse\.ca 
