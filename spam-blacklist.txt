@@ -1615,9 +1615,11 @@ club1\.blog-city\.com
 club2.blog-city.com
 club3\.blog-city\.com
 club4\.blog-city\.com
-www\.zorpia\.com
+www\.zorpia\.com # Many dozens of replica watch spam sites
 \.blogspirit\.com
 www\.comunalia\.com/replica
+www\.blogcu\.com # many dozens of replica watch spam sites
+gaestebuch\.007box\.de
 
 # D.M.: used for shock links
 goatse\.ca 
