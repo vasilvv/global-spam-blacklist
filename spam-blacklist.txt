@@ -1615,7 +1615,9 @@ club1\.blog-city\.com
 club2.blog-city.com
 club3\.blog-city\.com
 club4\.blog-city\.com
-
+www\.zorpia\.com
+\.blogspirit\.com
+www\.comunalia\.com/replica
 
 # D.M.: used for shock links
 goatse\.ca 
