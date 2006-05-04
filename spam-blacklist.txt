@@ -1628,6 +1628,8 @@ gozilla\.info
 scmantraffic\.com
 medrapid\.info
 canadian-pharmacy-portal\.com
+algohio\.com
+\.altavista\.in\.ua
 
 # D.M.: used for shock links
 goatse\.ca 
