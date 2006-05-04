@@ -1626,6 +1626,7 @@ mujweb\.cz
 www\.gayhomes\.net
 gozilla\.info
 scmantraffic\.com
+medrapid\.info
 
 # D.M.: used for shock links
 goatse\.ca 
