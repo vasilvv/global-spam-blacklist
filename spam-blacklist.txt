@@ -1630,6 +1630,7 @@ medrapid\.info
 canadian-pharmacy-portal\.com
 algohio\.com
 \.altavista\.in\.ua
+www\.artezia\.net
 
 # D.M.: used for shock links
 goatse\.ca 
