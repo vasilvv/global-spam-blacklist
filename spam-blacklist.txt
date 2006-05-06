@@ -1491,8 +1491,6 @@ buyhyd\.wyger\.nl
 003biz\.5u\.com
 004biz\.i8\.com
 yourpharm\.vstore\.ca
-#29 Apr 06
-www\.greattearoomsofamerica\.com #requested by Tawker, coming from multiple IPs
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
