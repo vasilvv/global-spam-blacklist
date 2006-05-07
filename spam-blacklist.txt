@@ -1652,9 +1652,9 @@ s-sex4you\.tripod\.com
 works1\.netfirms\.com
 works-at-home14\.tripod\.com
 green-tea?\.netfirms\.com
-*phentermine\.netfirms\.com
+[\w\W]+phentermine\.netfirms\.com
 lunesta\.netfirms\.com
-*where\.netfirms\.com
+[\w\W]+where\.netfirms\.com
 best-weight-loss-diet\.netfirms\.com
 best-weight-loss-diet\.netfirms\.com
 ephedra-weight-loss\.netfirms\.com
@@ -1662,10 +1662,10 @@ incognitto\.tripod\.com
 slow-weight-loss\.netfirms\.com
 weight-loss-for-women\.netfirms\.com
 hydrocodone?\.b0x\.com
-*on-line\.tripod\.com
-*medicine\.netfirms\.com
+[\w\W]+on-line\.tripod\.com
+[\w\W]+medicine\.netfirms\.com
 xf\.cz
-*hydrocodone\.tripod\.com
+[\w\W]+hydrocodone\.tripod\.com
 
 # D.M.: used for shock links
 goatse\.ca 
