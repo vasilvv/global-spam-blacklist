@@ -1633,6 +1633,8 @@ www\.artezia\.net
 ohost\.de
 freehostonline\.com
 websamba\.com
+www\.luckysportsmanagement\.com
+www\.steveyzerman\.com
 
 # D.M.: used for shock links
 goatse\.ca 
