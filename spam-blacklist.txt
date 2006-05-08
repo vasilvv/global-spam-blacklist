@@ -1323,7 +1323,7 @@ hostfuck\.com
 #bigsitecity\.com 
 #newmail\.ru
 #mujweb\.cz < considered too broad
-\.sweb\.cz # < considered too broad < restored by Amgine: dozens more. Webhost's responsibility.
+#\.sweb\.cz < considered too broad
 
 # Replacing overly broad once above - Andre Engels, 2005-08-09
 heavytools\.webzdarma\.cz
@@ -1630,42 +1630,6 @@ canadian-pharmacy-portal\.com
 algohio\.com
 \.altavista\.in\.ua
 www\.artezia\.net
-ohost\.de
-freehostonline\.com
-websamba\.com
-www\.luckysportsmanagement\.com
-www\.steveyzerman\.com
-buy-hydrocodone\.webzdarma\.cz
-phentermine\.webzdarma\.cz
-levitra\.webzdarma\.cz
-wz\.cz
-buy-viagra-online\.webzdarma\.cz
-jarmyl\.tripod\.com
-rx-phentermine\.tripod\.com
-lunesta\.tripod\.com
-buy-viagra-online?\.tripod\.com
-hydrocodone?\.ds4a\.com
-xanax-pills\.tripod\.com
-valium-online\.tripod\.com
-sex4you\.webzdarma\.cz
-s-sex4you\.tripod\.com
-works1\.netfirms\.com
-works-at-home14\.tripod\.com
-green-tea?\.netfirms\.com
-[\w\W]+phentermine\.netfirms\.com
-lunesta\.netfirms\.com
-[\w\W]+where\.netfirms\.com
-best-weight-loss-diet\.netfirms\.com
-best-weight-loss-diet\.netfirms\.com
-ephedra-weight-loss\.netfirms\.com
-incognitto\.tripod\.com
-slow-weight-loss\.netfirms\.com
-weight-loss-for-women\.netfirms\.com
-hydrocodone?\.b0x\.com
-[\w\W]+on-line\.tripod\.com
-[\w\W]+medicine\.netfirms\.com
-xf\.cz
-[\w\W]+hydrocodone\.tripod\.com
 
 # D.M.: used for shock links
 goatse\.ca 
