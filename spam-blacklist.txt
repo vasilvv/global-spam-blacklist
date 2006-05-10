@@ -457,6 +457,7 @@ health-medical\.be
 w9uh\.info
 aspsupergirls\.as\.funpic\.de
 (allmed|comeds)\.blogs\.eurosport\.com
+dare14\.com
 #
 
 #-------------------------------------------------------------------------------------
