@@ -1606,10 +1606,10 @@ hothouse\.linux\.dk
 www\.true-search\.net
 www\.wikipedia\.741\.com
 freesexxx\.blog-city\.com
-freesexxx\1.blog-city\.com
-freesexxx\2.blog-city\.com
-freesexxx\3.blog-city\.com
-freesexxx\4.blog-city\.com
+freesexxx1\.blog-city\.com
+freesexxx2\.blog-city\.com
+freesexxx3\.blog-city\.com
+freesexxx4\.blog-city\.com
 club\.blog-city\.com
 club1\.blog-city\.com
 club2.blog-city.com
