@@ -1675,6 +1675,7 @@ goatse\.ca
 www\.look4vacation\.com 
 bulgaria-houses\.com #spam on EN by 68.6.209.121
 hawaiicity\.com #purposely hidden spam on EN by 85.192.128.179
+postersinc\.com #spam on EN by 159.250.24.195
 
 fulfillmentinformation\.com #spam on EN by 71.202.24.81
 hotnewdesign\.blogspot\.com #spam on EN by 71.202.24.81
