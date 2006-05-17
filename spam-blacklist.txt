@@ -1891,7 +1891,7 @@ don-search\.com #Requested by freakofnurture
 find-web\.info #Requested by freakofnurture
 bypills\.net #Requested by freakofnurture
 web-best\.info #Requested by freakofnurture
-fisheaters\.com # requested by JzG
+#fisheaters\.com # requested by JzG
 kensmen\.com/catholic # requested by JzG
 
 #These sites are redirecting requests from Wikimedia sites to a third-party site.
