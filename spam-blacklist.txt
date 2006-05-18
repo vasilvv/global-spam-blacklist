@@ -1667,6 +1667,7 @@ on-line\.tripod\.com
 medicine\.netfirms\.com
 xf\.cz
 hydrocodone\.tripod\.com
+xmail\.net
 
 # D.M.: used for shock links
 goatse\.ca 
