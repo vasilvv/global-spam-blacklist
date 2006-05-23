@@ -1702,6 +1702,7 @@ toutelapoesie\.com
 topsites\.blog\.expedia\.fr
 buysanfranciscotours\.com
 buyalcatraztours\.com
+greattearoomsofamerica\.com
 
 # D.M.: used for shock links
 goatse\.ca 
