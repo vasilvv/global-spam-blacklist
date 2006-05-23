@@ -1700,6 +1700,8 @@ justachat\.com
 westwoodbapt\.org
 toutelapoesie\.com
 topsites\.blog\.expedia\.fr
+buysanfranciscotours\.com
+buyalcatraztours\.com
 
 # D.M.: used for shock links
 goatse\.ca 
