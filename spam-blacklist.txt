@@ -1679,6 +1679,7 @@ datasheet\.org\.uk
 icbank\.com # <- may be broad, will check later - Amgine
 alphaworks\.ibm\.com
 bestincosmetics\.com
+videposters\.es
 
 # D.M.: used for shock links
 goatse\.ca 
