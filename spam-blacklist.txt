@@ -1668,6 +1668,11 @@ medicine\.netfirms\.com
 xf\.cz
 hydrocodone\.tripod\.com
 xmail\.net
+site\.voila\.fr/cine-passion
+cine-passion\.site\.voila\.fr
+nezumi\.dumousseau\.free\.fr
+ann\.ledoux\.free\.fr
+cechail\.site\.voila\.fr
 
 # D.M.: used for shock links
 goatse\.ca 
