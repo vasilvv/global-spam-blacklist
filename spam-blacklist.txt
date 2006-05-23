@@ -1677,6 +1677,7 @@ datasheet4u\.com
 digchip\.com
 datasheet\.org\.uk
 icbank\.com # <- may be broad, will check later - Amgine
+alphaworks\.ibm\.com
 
 # D.M.: used for shock links
 goatse\.ca 
