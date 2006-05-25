@@ -4,7 +4,7 @@
 # list against spam that can be dealt with by user blocking or protection of a 
 # small number of pages.
 #
-# Syntax is as follows: benefits-of-honey.com
+# Syntax is as follows: 
 #   * Everything from a "#" character to the end of the line is a comment
 #   * Every non-blank line is a regex fragment which will only match hosts
 #     inside URLs
