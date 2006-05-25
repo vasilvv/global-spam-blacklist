@@ -1710,6 +1710,7 @@ pharma-store\.docspages\.com
 tablets\.php5\.cz
 no-amazon\.com
 benefits-of-honey\.com
+blagoslovenie\.rovno\.ua
 
 # D.M.: used for shock links
 goatse\.ca 
