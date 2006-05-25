@@ -1703,6 +1703,8 @@ topsites\.blog\.expedia\.fr
 buysanfranciscotours\.com
 buyalcatraztours\.com
 greattearoomsofamerica\.com
+whale\.to
+vaccination\.org\.uk
 
 # D.M.: used for shock links
 goatse\.ca 
