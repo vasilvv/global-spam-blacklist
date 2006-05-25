@@ -1708,6 +1708,7 @@ vaccination\.org\.uk
 seemalaysia\.org
 pharma-store\.docspages\.com
 tablets\.php5\.cz
+no-amazon\.com
 
 # D.M.: used for shock links
 goatse\.ca 
