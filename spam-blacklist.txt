@@ -1705,6 +1705,9 @@ buyalcatraztours\.com
 greattearoomsofamerica\.com
 whale\.to
 vaccination\.org\.uk
+seemalaysia\.org
+pharma-store\.docspages\.com
+tablets\.php5\.cz
 
 # D.M.: used for shock links
 goatse\.ca 
