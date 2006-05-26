@@ -1883,6 +1883,11 @@ superlongpenis\.com #Even more en.wiki spam...
 therealincome\.com #More en.wiki spam 
 doubleblue\.info #Site contains personal information about Wikipedians, and is being used to stalk and harass them.
 virtualneopetz\.com #Spamming on en from dynamic IPs
+stvincent.od\.ua # spam domain
+odessa\.ua # spam domain
+rovno\.ua # spam domain
+pru.in\.ua # spam domain
+uzhgorod\.ua # spam domain # All from en.wiki's ANI
 
 #requests
 coinable\.com #by epopt
