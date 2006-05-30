@@ -1954,4 +1954,7 @@ cia-on-campus\.org
 scroogle\.org
 yahoo-watch\.org
 
+# from zh wp 2006-5-30
+www\.stanleyng\.net
+
  #</pre> <!-- leave this line exactly as it is -->
