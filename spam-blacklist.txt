@@ -1958,5 +1958,6 @@ yahoo-watch\.org
 
 # from zh wp 2006-5-30
 www\.stanleyng\.net
+www\.etpass\.com
 
  #</pre> <!-- leave this line exactly as it is -->
