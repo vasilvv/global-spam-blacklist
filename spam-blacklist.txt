@@ -1957,7 +1957,8 @@ scroogle\.org
 yahoo-watch\.org
 
 # from zh wp 2006-5-30
-www\.stanleyng\.net
-www\.etpass\.com
+stanleyng\.net
+etpass\.com
+ppstream\.com
 
  #</pre> <!-- leave this line exactly as it is -->
