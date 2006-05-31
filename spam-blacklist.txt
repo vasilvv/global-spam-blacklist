@@ -53,9 +53,9 @@ LostLiners\.de
 # [0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
 
 # CCNGROUP-GD and CHINANET-GD spammer, from list at http://wiki.creativecommons.org/wiki/Spam_blocks
-no-1.org\.cn
+no-1\.org\.cn
 18show\.cn
-5118.net\.cn
+5118\.net\.cn
 s018\.org
 so18\.net
 18show\.org
@@ -123,8 +123,8 @@ consumeralertsystem\.com
 b2\.boards2go\.com
 h1\.ripway\.com
 justlovexx\.net
-viagra-drugs.no-ip\.info 
-viagra-drugs.pills-pharmacy.\net
+viagra-drugs\.no-ip\.info 
+viagra-drugs\.pills-pharmacy\.\net
 purchase-xanax-online\.daj\.pl
 buy-valium-online\.fuks\.pl
 buy-ambien-online\.fuks\.pl
@@ -173,7 +173,7 @@ acmetranslation\.com
 commerce-translation\.com
 cn80051\.1816\.net
 0302\.net
-\.xs3\.com # similar to 6x.to and uni.cc, commercially spammed on other wikis
+\.xs3\.com # similar to 6x\.to and uni\.cc, commercially spammed on other wikis
 \.b3\.nu # same
 newsmotion\.com # requested on talk, spammed on en # 2005-02-18
 linktrim\.com # latest target of spammers on [[:en:PHP]]
@@ -182,7 +182,7 @@ boenicke-keramik\.de # spam campaign on de: - requested on talk
 handycool\.de # requested on talk
 25340\.rapidforum\.com # requested on talk
 zymq\.com # requested on talk
-taichifollowme # spammed by same IP as zymq.com, registered by same person
+taichifollowme # spammed by same IP as zymq\.com, registered by same person
 13288888888 # requested on talk
 azzacash # requested on talk # 2005-05-26
 ebusiness-cards\.org # all requested on talk # 2005-05-30
@@ -218,14 +218,14 @@ wik1\.info # requested on talk # 2005-10-25
 mq6\.info # linkfarm, requested on talk # 2005-10-27
 rx-seote\.com # requested on talk # 2005-10-31
 \.mx\.gs # some kind of free redirect service - no legitimate use on wikis # requested on talk # 2005-10-31
-98\.to # requested on talk # 2005-11-04 # a Chinese domain host? not used on any project.
+98\.to # requested on talk # 2005-11-04 # a Chinese domain host? not used on any project\.
 welcome\.to # requested on talk # 2005-11-04 # a URL hiding service - no legitimate use
 www5f\.biglobe\.ne\.jp\/~kokumin-shinbun\/S47\/4708 # requested on talk # 2005-11-06
 viprape\.com # requested on talk # 2005-11-06
 \.golft\.nl # requested on talk # domain hiding service # 2005-11-06
 privatepages\.servik\.com # spammed on the talk page for the spam blacklist, way to go spammers # 2005-11-06
 \.euro\.tm # requested on talk # another domain redirect service # 2005-11-07
-\.site\.tc # part of euro.tm domain redirect service
+\.site\.tc # part of euro\.tm domain redirect service
 \.corp\.st # same
 \.perso\.tc # same
 \.asso\.ws # same
@@ -264,37 +264,37 @@ www\.angelfire\.com\/poetry\/seidel # requested on talk from de: # 2005-12-11
 webloga\.com # requested on talk # 2005-12-11
 lucky7\.to # requested on talk # 2005-12-11
 degrassi\.dumbbaby\.net # from [[:en:WP:ANI]]
-discuss\.freeforumsite\.com # requested on IRC # http://en.wikipedia.org/w/index.php?title=Thomas%20Pynchon&diff=47336059&oldid=47335869
+discuss\.freeforumsite\.com # requested on IRC # http:\/\/en\.wikipedia\.org\/w\/index\.php?title=Thomas%20Pynchon&diff=47336059&oldid=47335869
 ### EREIAMJH
 
 # ----
 # Brittys wake: Aphaia wrote down them 
-fibromyalgie-treffpunkt\.de # spammed on DEWP by 172.180.229.141  
-\.go\.51\.net # spammed on meta: by 222.45.24.152; Chinese spam 
-\.freewebpage\.org  # spammed on meta: by 222.45.24.152, 222.45.24.42, Chinese spam
-sexyladies\.eroticalservers\.net # spammed on meta by 217.156.50.242
-www\.amelatine\.com # spammed on fr.wp: reported by AlNo
-ganzao\.88118888\.com # en.wikiquote by 60.26.34.193
+fibromyalgie-treffpunkt\.de # spammed on DEWP by 172\.180\.229\.141  
+\.go\.51\.net # spammed on meta: by 222\.45\.24\.152; Chinese spam 
+\.freewebpage\.org  # spammed on meta: by 222\.45\.24\.152, 222\.45\.24\.42, Chinese spam
+sexyladies\.eroticalservers\.net # spammed on meta by 217\.156\.50\.242
+www\.amelatine\.com # spammed on fr\.wp: reported by AlNo
+ganzao\.88118888\.com # en\.wikiquote by 60\.26\.34\.193
 www\.a688\.net
 www\.hsfangzhen\.com
-www\.jifamark\.com\/xhj.htm
+www\.jifamark\.com\/xhj\.htm
 www\.h345\.com\/Hotel
 www\.epackshop\.net 
 www\.hzyage\.com
-## specially for Chinese spams ...
+## specially for Chinese spams \.\.\.
 www\.copychina\.cn 
 www\.zhkaw\.com
 www\.myseo\.com\.cn
 hz\.livingchina\.cn
 www\.dzsc\.com 
-www\.02188888888\.com/itcp009 # on enwikiquote
+www\.02188888888\.com\/itcp009 # on enwikiquote
 www\.1177888888\.com
-www\.isoway-yoga\.com/ # on meta, chinese spam
+www\.isoway-yoga\.com\/ # on meta, chinese spam
 www\.seo88\.com # on meta & enwikiquote
 www\.kufurao\.net # on enwq, pprn site
 www\.MatchstickCats\.com # on enwp, reported by Linuxbeak@#wikimedia
 flats\.h1\.ru # on several wikis including en & ruwp, by request
-chinaplay\.org  # On enwq.
+chinaplay\.org  # On enwq\.
 ## On Swedish plea, 05-12-31
 www\.games-soft\.net\/sex_games\.html
 www\.2adultflashgames\.com\/
@@ -304,7 +304,7 @@ www\.zya9\.info # on lawq
 
 ### Links from Sj, from GV Wiki (http://cyber.law.harvard.edu/globalvoices/wiki) and other MW sites
 #
-#    The .to bandit (prolific; lots of sites)
+#    The \.to bandit (prolific; lots of sites)
 # http://cyber.law.harvard.edu/globalvoices/wiki/index.php?title=Global_Voices_Draft_Manifesto&diff=0
 \.go\.to
 \.connect\.to
@@ -353,7 +353,7 @@ gambling-forums\.net
 adultfriend\.404host\.com
 homedb\.slife\.com
 info-for-home\.slife\.com
-WTHP[0-9]\.disney\.com  #--(how'd they get those domains?  weird.)
+WTHP[0-9]\.disney\.com  #--(how'd they get those domains?  weird\.)
 \.p21\.info
 \.forexhsi\.com
 \.sexy-maidens\.info
@@ -377,7 +377,7 @@ russia\.webmatrixhosting\.net
 zya9\.info
 \.p2l\.info
 azzacash\.com
-## General hosts with large #s of spambot subdomains, but also useful ones.  Touch choices.
+## General hosts with large #s of spambot subdomains, but also useful ones\.  Touch choices\.
 # \.netfirms\.com # (25+ separate spambot subdomains)
 # \.host\.sk      # (10+ separate spambot subdomains)
 # \.fiberia\.com  # (many separate spambot subdomains)
@@ -423,7 +423,7 @@ cvh100\.com
 onix1000\.com
 k6je\.info
 # thepiratebay\.org
-# piratebay\.org #test/temp
+# piratebay\.org #test\/temp
 w0qb\.info
 #
 # *30c
@@ -461,21 +461,21 @@ dare14\.com
 #
 
 #-------------------------------------------------------------------------------------
-# The following is derived from http://wikiblacklist.blogspot.com, thanks guys
+# The following is derived from http:\/\/wikiblacklist\.blogspot\.com, thanks guys
 #-------------------------------------------------------------------------------------
 
 #Top level domains to block: (your choice)
-#\.cn(/|:|$) #china
+#\.cn(\/|:|$) #china
 #one particular German spammer has been using the next 5 domains:
-#\.de\.ms(/|:|$)
-#\.de\.vu(/|:|$)
-#\.us\.ms(/|:|$)
-#\.de\.nr(/|:|$)
-#\.de\.tc(/|:|$)
+#\.de\.ms(\/|:|$)
+#\.de\.vu(\/|:|$)
+#\.us\.ms(\/|:|$)
+#\.de\.nr(\/|:|$)
+#\.de\.tc(\/|:|$)
 
 
 #Patterns in urls:
-#   You may also want to add your own profanity filters here.
+#   You may also want to add your own profanity filters here\.
 #   example: <badword> or look for a dash preceding or following the word: -<badword>
 
 s-e-x
@@ -501,15 +501,15 @@ chatsex
 onlinesex
 adultporn
 
-# Removal requested on [[w:User talk:Tim Starling]], for linking to adultvideonews.com
+# Removal requested on [[w:User talk:Tim Starling]], for linking to adultvideonews\.com
 #adultvideo
 
-adultweb\. # dot added to allow adultweblaw.com
+adultweb\. # dot added to allow adultweblaw\.com
 hardcoresex
 hardcoreporn
 teenporn
 xxxporn
-lesbiansex\. #dot added to allow .lesbiansexmafia.org
+lesbiansex\. #dot added to allow \.lesbiansexmafia\.org
 livegirl
 livenude
 livesex
@@ -529,7 +529,7 @@ cragrats
 parishilton
 paris-hilton
 paris-tape
-#janet-jackson ----> removed for blocking official website janet-jackson.com
+#janet-jackson ----> removed for blocking official website janet-jackson\.com
 #sibel-kekilli
 2large
 oa274
@@ -553,10 +553,10 @@ liuhecai
 buy-viagra
 
 # These won't work with MediaWiki:
-#-pics\.com(/|:|$)
-#\.[0-9]+\.com(/|:|$) #domain is only numbers
-#\.[0-9]+\.net(/|:|$)
-#-[a-z]+\.biz(/|:|$)
+#-pics\.com(\/|:|$)
+#\.[0-9]+\.com(\/|:|$) #domain is only numbers
+#\.[0-9]+\.net(\/|:|$)
+#-[a-z]+\.biz(\/|:|$)
 
 
 #Other specific domains:
@@ -613,7 +613,7 @@ yucaibooks\.com
 bjicp\.net
 [0-9]+epson\.com
 newboyu\.com
-# [0-9]+books\.com # 2100books.com is ok
+# [0-9]+books\.com # 2100books\.com is ok
 digital-projector\.net
 ponytest\.com
 [0-9]+flower\.com
@@ -664,7 +664,7 @@ chinamimi\.net
 fimdainternet\.com\.br
 allwoodoxford\.com
 cornishholidaysuk\.com
-169xp.com
+169xp\.com
 silberhochzeit\.de\.nr
 -diaeten\.de\.vu
 -testen\.de\.ms
@@ -798,7 +798,7 @@ mysunmun\.com
 luck-star\.com
 hailuo\.net
 jnjlnet\.com
-.sx98\.com
+\.sx98\.com
 21cnbj\.com
 cnsepm\.com
 pdjt\.com
@@ -828,7 +828,7 @@ transcosmo\.com
 ty9run\.com
 ad-www\.com
 10000s\.com
-allwally.com
+allwally\.com
 togoogle\.net
 jiayinte\.com
 pkuyy\.com
@@ -870,10 +870,10 @@ cnbjflower\.com
 huojia315\.com
 sexeach\.com
 branson-china\.com
-lycos\.co\.uk/elo575
-lycos\.es/migmigmig
-lycos\.nl/pierre141
-easyspace\.com/hkl
+lycos\.co\.uk\/elo575
+lycos\.es\/migmigmig
+lycos\.nl\/pierre141
+easyspace\.com\/hkl
 lj5\.net
 beijingxinfa\.com
 88888\.net
@@ -962,17 +962,17 @@ aauu\.net
 kykdz\.com
 china-crawfish\.com
 in-net\.ws
-yahoo\.com/a1likostar
-yahoo\.com/a0cany_2004
-yahoo\.com/a00poleroid
-yahoo\.com/a00asaz
-yahoo\.com/a0_00leksa
-yahoo\.com/stoons_cartoon
-yahoo\.com/skystarpilot
-yahoo\.com/klirinc
-yahoo\.com/fhkdfohjdfhk
-yahoo\.com/freekeramika
-yahoo\.com/aikishot
+yahoo\.com\/a1likostar
+yahoo\.com\/a0cany_2004
+yahoo\.com\/a00poleroid
+yahoo\.com\/a00asaz
+yahoo\.com\/a0_00leksa
+yahoo\.com\/stoons_cartoon
+yahoo\.com\/skystarpilot
+yahoo\.com\/klirinc
+yahoo\.com\/fhkdfohjdfhk
+yahoo\.com\/freekeramika
+yahoo\.com\/aikishot
 les-mas-de-provence\.com
 mp3prof\.com
 fullhentaimovies\.net
@@ -1102,7 +1102,7 @@ netsurf\.ru
 #-------------------------------------------------------------------------------------
 
 
-# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=81.214.99.44
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=81\.214\.99\.44
 xxx-me\.info
 thirty-one\.info
 
@@ -1112,8 +1112,8 @@ m0re\.net
 # Added by elian on Achim's request (de:)
 hagensafrika\.de
 
-# Added by Brion from spam by 82.140.103.144
-# http://meta.wikimedia.org/w/index.php?title=Help:Editing&diff=123052&oldid=123041
+# Added by Brion from spam by 82\.140\.103\.144
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Help:Editing&diff=123052&oldid=123041
 b0ne\.com
 slyip\.net
 gotgeeks\.com
@@ -1125,22 +1125,22 @@ myvnc\.com
 mobic\.sytes\.net
 naproxen\.zapto\.org
 
-# Added by Yann on 09.05.2005
-# http://ml.wikipedia.org/w/index.php?title=Wikipedia:Sandbox&diff=2847&oldid=2846
-utenti\.lycos\.it/pills1
+# Added by Yann on 09\.05\.2005
+# http:\/\/ml\.wikipedia\.org\/w\/index\.php?title=Wikipedia:Sandbox&diff=2847&oldid=2846
+utenti\.lycos\.it\/pills1
 
 # Added by brion may 23, 2005
 # attacking many 3rd-party sites
 p2l\.info
 
 # Added by brion may 25, 2005
-# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=82.77.137.102
-# http://meta.wikimedia.org/w/index.php?title=Talk:Video_policy&diff=0
-# http://meta.wikimedia.org/w/index.php?title=User:Brynosaurus&diff=prev&oldid=135137
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=82\.77\.137\.102
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Talk:Video_policy&diff=0
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=User:Brynosaurus&diff=prev&oldid=135137
 qx5\.net
 
 # Added by brion may 27, 2005
-# spam by 218.82.139.237 on http://en.wikinews.org/wiki/Interwiki (deleted)
+# spam by 218\.82\.139\.237 on http:\/\/en\.wikinews\.org\/wiki\/Interwiki (deleted)
 \.117000\.com
 \.126hao\.com
 \.51lac\.com
@@ -1192,12 +1192,12 @@ qx5\.net
 \.utranslation\.net
 
 # added by brion, 2005-06-04
-# http://meta.wikimedia.org/wiki/Special:Contributions/Bjgyg
+# http:\/\/meta\.wikimedia\.org\/wiki\/Special:Contributions\/Bjgyg
 bjicp\.org
 lucking\.com\.cn
 
 # added by brion, 2005-06-10
-# http://sk.wiktionary.org/w/index.php?title=Connection&oldid=2678
+# http:\/\/sk\.wiktionary\.org\/w\/index\.php?title=Connection&oldid=2678
 17ip\.com
 bj-united\.com\.cn
 carlack\.cn
@@ -1225,15 +1225,15 @@ ryhgsb\.com
 crazypussy\.info
 
 # added by brion, 2005-06-14
-# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=81.214.170.20
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=81\.214\.170\.20
 \.mysweetie\.info
 
 # added by brion, 2005-06-24
-# http://en.wikipedia.org/wiki/Special:Contributions/195.162.39.2
+# http:\/\/en\.wikipedia\.org\/wiki\/Special:Contributions\/195\.162\.39\.2
 \.xl\.ru
 
 # added by shizhao, 2005-06-28
-# http://zh.wikipedia.org/wiki/Special:Contributions/61.51.133.137
+# http:\/\/zh\.wikipedia\.org\/wiki\/Special:Contributions\/61\.51\.133\.137
 readnovel\.com
 
 # in zh wp many, 2005-06-28
@@ -1254,13 +1254,13 @@ tm259\.com
 49sms\.com
 530sms\.com
 
-# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=81.214.166.90
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=81\.214\.166\.90
 goodasses\.info
 
-# Added by Raul654 6/28/05
+# Added by Raul654 6\/28\/05
 crazyabouttv\.com
 
-# Added by shizhao 7/4/05 to 7/9/05
+# Added by shizhao 7\/4\/05 to 7\/9\/05
 167bt\.com
 \.bitspirit\.com\.cn
 tencent\.cc
@@ -1270,7 +1270,7 @@ tencent\.cc
 fidosoft\.de
 
 
-# Added by shizhao 7/19/05
+# Added by shizhao 7\/19\/05
 zggift\.com
 buy214\.com
 lmlqzs\.com
@@ -1291,7 +1291,7 @@ sem\.org\.cn
 ecyy\.com
 ecyy\.cn
 
-# Added by Andre Engels 7/20/05
+# Added by Andre Engels 7\/20\/05
 sexkanjer\.nl # sexspammer on nl
 show-your-pussy
 
@@ -1301,10 +1301,10 @@ funnydog\.prettyfar\.com
 zenno\.info
 shemtop\.bpa\.nu
 
-# Added by Raul654 7/26/05
+# Added by Raul654 7\/26\/05
 kqueue\.dnip\.net
 
-# Added by Datrio 8/4/05
+# Added by Datrio 8\/4\/05
 nonews\.ru
 mixmeteo\.ru
 sealse\.com
@@ -1312,19 +1312,19 @@ serjen\.com
 es-standart\.com
 \.static\.net
 
-# Added by UninvitedCompany 8/5/05
+# Added by UninvitedCompany 8\/5\/05
 -handys\.de 
 handy-fun\.tk 
 handy-kaufhaus\.tk 
 hostfuck\.com
 
 # Added by brion 2005-08-08
-# http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/completed_additions#Enwiki_drug_spammer
+# http:\/\/meta\.wikimedia\.org\/wiki\/Talk:Spam_blacklist\/completed_additions#Enwiki_drug_spammer
 #webzdarma\.cz < considered too broad
 #bigsitecity\.com 
 #newmail\.ru
 #mujweb\.cz < considered too broad
-\.sweb\.cz # < considered too broad < restored by Amgine: dozens more. Webhost's responsibility.
+\.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility\.
 
 # Replacing overly broad once above - Andre Engels, 2005-08-09
 heavytools\.webzdarma\.cz
@@ -1364,35 +1364,35 @@ whoisi\.whyza\.net
 bidlo\.zenno\.info
 fakir\.zenno\.info
 
-# Added by UninvitedCompany, 8/10/2005
+# Added by UninvitedCompany, 8\/10\/2005
 all-hotels-motels\.com
 
-# Added by James F., 2005.vii.21, as requested by CraigSpurrier
+# Added by James F\., 2005\.vii\.21, as requested by CraigSpurrier
 buyhydrocodone\.afraid\.org
 phentermine-drugs\.euro\.tm
 
-# http://meta.wikimedia.org/w/index.php?title=Talk:Eliminating_index.php_from_the_url&diff=196092&oldid=196063
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Talk:Eliminating_index\.php_from_the_url&diff=196092&oldid=196063
 [A-Za-z-]*drugs\.euro\.tm
 
-# http://meta.wikimedia.org/w/index.php?title=T%C3%A4wge_Bit&diff=prev&oldid=196043
-# Note that shengen.ru should be blocked alltogether
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=T%C3%A4wge_Bit&diff=prev&oldid=196043
+# Note that shengen\.ru should be blocked alltogether
 21jewelry\.com
 mrjeweller\.us
 detox-kit\.com
-adipex.shengen\.ru
-levitra.shengen\.ru
-lortab.shengen\.ru
-diazepam.shengen\.ru
-protonix.shengen\.ru
-hydrocodone.shengen\.ru
+adipex\.shengen\.ru
+levitra\.shengen\.ru
+lortab\.shengen\.ru
+diazepam\.shengen\.ru
+protonix\.shengen\.ru
+hydrocodone\.shengen\.ru
 detox-kit\.com
 tests-market\.com
-toe.shengen\.ru
-detox.shengen\.ru
-jewelry.shengen\.ru
+toe\.shengen\.ru
+detox\.shengen\.ru
+jewelry\.shengen\.ru
 
 # added by brion
-# http://en.wikipedia.org/w/index.php?title=Special:Contributions&target=24.66.29.108
+# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=Special:Contributions&target=24\.66\.29\.108
 about-travels\.host\.sk
 
 # Added by Yann on 25-8-2005 (from Meta)
@@ -1409,13 +1409,13 @@ hotsex\.free-pussy\.org
 \.hostfuck\.com
 gensei-ryu\.nl
 
-# ~~~~
-# Zenno.info spam links
+# [[User:AlisonW|Alison Wheeler]] 22:13, 31 May 2006 (UTC)
+# Zenno\.info spam links
 epsilon\.zenno\.info
 googlesuka\.zenno\.info
 stol\.zenno\.info
 
-# http://meta.wikimedia.org/wiki/Special:Contributions/220.161.154.90
+# http:\/\/meta\.wikimedia\.org\/wiki\/Special:Contributions\/220\.161\.154\.90
 shoesbuy\.com
 shoesshop\.biz
 
@@ -1449,8 +1449,8 @@ cnfibernet\.com\.cn
 \.tvsou\.com
 \.54163\.com
 
-# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=64.16.178.204
-# http://meta.wikimedia.org/w/index.php?title=Special:Contributions&target=65.78.124.29
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=64\.16\.178\.204
+# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=65\.78\.124\.29
 pharmacy\.rr\.nu
 #
 
@@ -1462,11 +1462,11 @@ pharmacy\.rr\.nu
 \.webtech\.pp\.ru
 #1 Mar 06 (requested by Danny)
 \.rockphiles\.com 
-#1 Mar 06 (requested by Dmcdevit, see http://en.wikipedia.org/wiki/User:Uriah923/OmniNerd)
-\.omninerd\.com  # Do not remove. See http://meta.wikimedia.org/wiki/Spam_blacklist/recurring_requests
-#20 Mar 06 - spamming en.wikipedia
+#1 Mar 06 (requested by Dmcdevit, see http:\/\/en\.wikipedia\.org\/wiki\/User:Uriah923\/OmniNerd)
+\.omninerd\.com  # Do not remove\. See http:\/\/meta\.wikimedia\.org\/wiki\/Spam_blacklist\/recurring_requests
+#20 Mar 06 - spamming en\.wikipedia
 \.yadoo\.cn
-#25 Mar 06 - spamming en.wikipedia
+#25 Mar 06 - spamming en\.wikipedia
 detoxiy\.com
 #6 Apr 06 - spamming other wikis
 rx\.auto\.pl
@@ -1499,22 +1499,22 @@ fuckfactor\.com
 #23 oct elian (spam on de)
 \.zap3x\.com
 
-# http://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&diff=28207588&amp;oldid=28205513
-# http://en.wikipedia.org/w/index.php?title=MediaWiki_talk:Nogomatch&diff=28206731&oldid=28202132
+# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=Wikipedia:Help_desk&diff=28207588&oldid=28205513
+# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=MediaWiki_talk:Nogomatch&diff=28206731&oldid=28202132
 hosting\.q4w\.net
 
-# http://en.wikipedia.org/w/index.php?title=User_talk:Prozak&diff=28207831&oldid=28207180
+# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=User_talk:Prozak&diff=28207831&oldid=28207180
 green-tea[0-9a-z-]*\.co\.nr
 
 # 19 november reported by amgine
-# http://en.wikinews.org/w/index.php?title=Special:Contributions&target=192.114.65.98 etc
+# http:\/\/en\.wikinews\.org\/w\/index\.php?title=Special:Contributions&target=192\.114\.65\.98 etc
 dralex\.info
 
 # Requested by Ta bu shi da yu, added by Tim Starling
-# http://en.wikipedia.org/w/index.php?title=USA_PATRIOT_Act&diff=prev&oldid=29158543
+# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=USA_PATRIOT_Act&diff=prev&oldid=29158543
 nastydollars\.com
 
-# http://as.wikibooks.org/w/index.php?title=Wikibooks:General_disclaimer&curid=1446&diff=2706&oldid=2634
+# http:\/\/as\.wikibooks\.org\/w\/index\.php?title=Wikibooks:General_disclaimer&curid=1446&diff=2706&oldid=2634
 4t7e\.info
 
 # elian's
@@ -1528,7 +1528,7 @@ dinge-ohne-namen\.de
 # Tepeating spammer on many projects
 010b\.info
 
-# dec 10, spammer on en requested by. zigger
+# dec 10, spammer on en requested by\. zigger
 e16\.info
 
 # Amgine's
@@ -1578,7 +1578,7 @@ www\.chasedream\.com
 www\.cn-frp\.com
 www\.cnjunhe\.com
 www\.cnsunway\.com
-www\.dshow.com\.cn
+www\.dshow\.com\.cn
 www\.evergreen-aloe\.cn
 www\.game-level\.com
 www\.guanfiu\.jp
@@ -1612,12 +1612,12 @@ freesexxx3\.blog-city\.com
 freesexxx4\.blog-city\.com
 club\.blog-city\.com
 club1\.blog-city\.com
-club2.blog-city.com
+club2\.blog-city\.com
 club3\.blog-city\.com
 club4\.blog-city\.com
 www\.zorpia\.com # Many dozens of replica watch spam sites, viagara spam
 blogspirit\.com
-www\.comunalia\.com/replica
+www\.comunalia\.com\/replica
 www\.blogcu\.com # many dozens of replica watch spam sites
 gaestebuch\.007box\.de
 sove\.info
@@ -1668,7 +1668,7 @@ medicine\.netfirms\.com
 xf\.cz
 hydrocodone\.tripod\.com
 xmail\.net
-site\.voila\.fr/cine-passion
+site\.voila\.fr\/cine-passion
 cine-passion\.site\.voila\.fr
 nezumi\.dumousseau\.free\.fr
 ann\.ledoux\.free\.fr
@@ -1716,23 +1716,23 @@ iamtv\.tv
 nigeria\.mooo\.com
 lagospicture\.mooo\.com
 
-# D.M.: used for shock links
+# D\.M\.: used for shock links
 goatse\.ca 
 
 # Brian0918
 www\.look4vacation\.com 
-bulgaria-houses\.com #spam on EN by 68.6.209.121
-hawaiicity\.com #purposely hidden spam on EN by 85.192.128.179
-postersinc\.com #spam on EN by 159.250.24.195
+bulgaria-houses\.com #spam on EN by 68\.6\.209\.121
+hawaiicity\.com #purposely hidden spam on EN by 85\.192\.128\.179
+postersinc\.com #spam on EN by 159\.250\.24\.195
 
-fulfillmentinformation\.com #spam on EN by 71.202.24.81
-hotnewdesign\.blogspot\.com #spam on EN by 71.202.24.81
-nova68\.com #spam on EN by 71.202.24.81
-tempurpedicshop\.com #spam on EN by 71.202.24.81
+fulfillmentinformation\.com #spam on EN by 71\.202\.24\.81
+hotnewdesign\.blogspot\.com #spam on EN by 71\.202\.24\.81
+nova68\.com #spam on EN by 71\.202\.24\.81
+tempurpedicshop\.com #spam on EN by 71\.202\.24\.81
 
-investing-central\.com #spam on EN by 128.226.208.98
+investing-central\.com #spam on EN by 128\.226\.208\.98
 
-licescabiesandbedbugs\.com #spam on EN by 68.158.36.56
+licescabiesandbedbugs\.com #spam on EN by 68\.158\.36\.56
 # Datrio
 adult\.dynu\.net
 celika\.dynu\.net #add by Suisui
@@ -1747,35 +1747,35 @@ f9zs\.info
 # Suisui
 caribvoice\.org
 raus\.de\/crashme\/
-northwestairlines\.bravehost\.com #ja.ws,wkt
+northwestairlines\.bravehost\.com #ja\.ws,wkt
 news\.scenecritique\.com #20060115jawiki
 mp3\.com\/users\/
 2ch\.bufuu\.mnw\.jp
 www\.16ch\.net
-www\.remus\.dti\.ne\.jp\/\~wings\/ # 210.159.130.78
+www\.remus\.dti\.ne\.jp\/\~wings\/ # 210\.159\.130\.78
 www\.angelplace\.jp #20060418
 eronavi\.st
 www\.ark-web\.net
-\.porn-host\.org #meta 81.214.96.2
+\.porn-host\.org #meta 81\.214\.96\.2
 
 # Datrio, spam on Commons and Wikinews
 ijijiji\.com
 \.5g6y\.info
 
-# [5:04pm] egg: anyone alive? i need an address to be blacklisted. http://meta.wikimedia.org/wiki/Spam_blacklist
-# [5:04pm] egg: this one: dir.fasthoster.de
-# [5:05pm] egg: there's a massive robot attack on cswiki.
+# [5:04pm] egg: anyone alive? i need an address to be blacklisted\. http:\/\/meta\.wikimedia\.org\/wiki\/Spam_blacklist
+# [5:04pm] egg: this one: dir\.fasthoster\.de
+# [5:05pm] egg: there's a massive robot attack on cswiki\.
 # [5:05pm] egg: brion: ping
 dir\.fasthoster\.de
 
-#it.wiki - User:M7 (M/)
+#it\.wiki - User:M7 (M\/)
 signoraggio\.com
 1go\.it
 wikipediaitalia\.blogspot\.com
 megabustybimbos\.com
 tropeaonline\.it
 
-#de.wiki - User:M7 (M/)
+#de\.wiki - User:M7 (M\/)
 animemanga\.de
 bleach\.de
 detektivconan\.de
@@ -1793,7 +1793,7 @@ shaman-king\.de
 yugioh\.de
 fanart\.de
 
-#as per request on talk page - User:M7 (M/)
+#as per request on talk page - User:M7 (M\/)
 adult-contact\.info
 7-24porn\.com
 
@@ -1856,7 +1856,7 @@ tinyr\.us
 tinyurl\.co\.uk
 tinyurl\.com
 tny\.se
-url.etusivu\.net
+url\.etusivu\.net
 url123\.com
 url\.fm
 urlcut\.com
@@ -1864,7 +1864,7 @@ urlmask\.com
 urlx\.org
 w3t\.org
 xrl\.us 
-yatuc\.com # added by D.M.
+yatuc\.com # added by D\.M\.
 yep\.it
 
 # The following is added by a spyware, see talk
@@ -1878,20 +1878,20 @@ kapitalism\.net
 a85\.no-ip\.biz
 
 #Essjay's list
-starswelove\.com #spamming on en.wikipedia
-armchairgm\.com #mass linkspamming on en.wikipedia, requested on Admin's Noticeboard
-zorpia\.com #en.wiki spam
-xanax.umaxnet\.com #en.wiki spam
-free-web-polls\.com #en.wiki spam
-superlongpenis\.com #Even more en.wiki spam...
-therealincome\.com #More en.wiki spam 
-doubleblue\.info #Site contains personal information about Wikipedians, and is being used to stalk and harass them.
+starswelove\.com #spamming on en\.wikipedia
+armchairgm\.com #mass linkspamming on en\.wikipedia, requested on Admin's Noticeboard
+zorpia\.com #en\.wiki spam
+xanax\.umaxnet\.com #en\.wiki spam
+free-web-polls\.com #en\.wiki spam
+superlongpenis\.com #Even more en\.wiki spam\.\.\.
+therealincome\.com #More en\.wiki spam 
+doubleblue\.info #Site contains personal information about Wikipedians, and is being used to stalk and harass them\.
 virtualneopetz\.com #Spamming on en from dynamic IPs
-stvincent.od\.ua # spam domain
+stvincent\.od\.ua # spam domain
 odessa\.ua # spam domain
 rovno\.ua # spam domain
-pru.in\.ua # spam domain
-uzhgorod\.ua # spam domain # All from en.wiki's ANI
+pru\.in\.ua # spam domain
+uzhgorod\.ua # spam domain # All from en\.wiki's ANI
 
 #requests
 coinable\.com #by epopt
@@ -1928,7 +1928,7 @@ lisinopril\.be
 synthroid\.be
 norvasc\.be
 physicsarchives\.com
-# webzdarma\.cz <- considered too broad. Do you have the specific site(s)?
+# webzdarma\.cz <- considered too broad\. Do you have the specific site(s)?
 nascarspace\.com
 \.logos\.com
 iquebec\.com
@@ -1936,7 +1936,7 @@ xenon-hebergement\.net
 adultclub\.adultserving\.com
 nigeria\.tz4\.com 
 nigeriaplanet\.proboards43\.com
-#napster\.com/player #requested on talk - evidence please, corrected syntax
+#napster\.com\/player #requested on talk - evidence please, corrected syntax
 
 virginporn\.info #Requested on talkpage
 qklinkserver\.com #Requested on talkpage
@@ -1946,9 +1946,9 @@ find-web\.info #Requested by freakofnurture
 bypills\.net #Requested by freakofnurture
 web-best\.info #Requested by freakofnurture
 fisheaters\.com # requested by JzG
-kensmen\.com/catholic # requested by JzG
+kensmen\.com\/catholic # requested by JzG
 
-#These sites are redirecting requests from Wikimedia sites to a third-party site.
+#These sites are redirecting requests from Wikimedia sites to a third-party site\.
 namebase\.org
 wikipedia-watch\.org    
 google-watch\.org       
