@@ -1492,8 +1492,6 @@ buyhyd\.wyger\.nl
 003biz\.5u\.com
 004biz\.i8\.com
 yourpharm\.vstore\.ca
-# 3 Jun 06
-pornogames4\.com
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
@@ -1894,7 +1892,6 @@ odessa\.ua # spam domain
 rovno\.ua # spam domain
 pru\.in\.ua # spam domain
 uzhgorod\.ua # spam domain # All from en\.wiki's ANI
-pornogames4\.com #Requested via IRC, en.wiki spam.
 
 #requests
 coinable\.com #by epopt
