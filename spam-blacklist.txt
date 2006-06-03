@@ -1892,6 +1892,7 @@ odessa\.ua # spam domain
 rovno\.ua # spam domain
 pru\.in\.ua # spam domain
 uzhgorod\.ua # spam domain # All from en\.wiki's ANI
+pornogames4\.com #Requested via IRC, en.wiki spam.
 
 #requests
 coinable\.com #by epopt
