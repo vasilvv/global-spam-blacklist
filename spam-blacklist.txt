@@ -46,11 +46,6 @@ shouji\.com
 voip99\.(com|net)
 ganzao\.68l\.com
 LostLiners\.de
-# historyofnations\.net # why was this here? commented out for now
-
-
-# CCNGROUP-TJ spammer, generally numeric
-# [0-9][0-9][0-9][0-9][0-9][0-9]*\.com    #5 or more character numeric .coms
 
 # CCNGROUP-GD and CHINANET-GD spammer, from list at http://wiki.creativecommons.org/wiki/Spam_blocks
 no-1\.org\.cn
@@ -75,47 +70,42 @@ chinamimi\.net
 gift800\.net
 #end CRTC
 
-\.to8\.com            # http://en.wiktionary.org/w/wiki.phtml?title=Wiktionary:Esperanto_index&diff=112487&oldid=112087
-ec51\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Help:Contents&diff=117242&oldid=117235
-ec91\.com          # http://en.wiktionary.org/w/wiki.phtml?title=Qur%27an&diff=117271&oldid=117268
+\.to8\.com 
+ec51\.com
+ec91\.com
 
 # 2004-12-20 one spammer hit source, skwiktionary and enwikibooks from 202.108.59.100. This group:
-nuoya-hd\.com      # 1: http://sk.wiktionary.org/w/wiki.phtml?title=Wikislovn%C3%ADk:Povolenia&diff=651&oldid=648
-renzhengwang\.com  # 2: http://sk.wiktionary.org/w/wiki.phtml?title=Wikislovn%C3%ADk:Ot%C3%A1zky_a_Odpovede&diff=652&oldid=649
-cp868\.com         # 4: http://en.wikibooks.org/w/wiki.phtml?title=GAT:_asterism&diff=78745&oldid=76877
-b2m\.cn            # 
-emay\.cn           # 
-jlsun\.com         # 
-hanlang88\.com      # http://meta.wikimedia.org/w/index.php?title=Translation_requests/WMF/Our_projects/Zh:&diff=86009&oldid=85989
-100jjy\.com        # http://meta.wikimedia.org/w/index.php?title=Translation_requests/WMF/Our_projects/Zh:&diff=85618&oldid=85616
-nnuuoo\.51\.net    # http://meta.wikimedia.org/w/index.php?title=Translation_requests/WMF/Our_projects/Zh:&diff=85618&oldid=85616
-ny528\.51\.net     # http://meta.wikimedia.org/w/index.php?title=Translation_requests/WMF/Our_projects/Zh:&diff=85618&oldid=85616
+nuoya-hd\.com
+renzhengwang\.com
+cp868\.com
+b2m\.cn
+emay\.cn
+jlsun\.com
+hanlang88\.com
+100jjy\.com
+nnuuoo\.51\.net
+ny528\.51\.net
 
-home\.graffiti\.net\/grafikdesign # repeat de spammer http://de.wikipedia.org/w/index.php?title=Lorentzkraft&diff=prev&oldid=3816534
+home\.graffiti\.net\/grafikdesign
 
-sjzyxh\.com       # many page creation promos and http://ml.wikipedia.org/w/index.php?title=Wikipedia:Sandbox&diff=prev&oldid=2747
-dongyiqi\.com     # "
+sjzyxh\.com
+dongyiqi\.com
 
-oskceo\.com       # http://meta.wikimedia.org/w/index.php?title=Main_Page&diff=88799&oldid=88673
+oskceo\.com
 
-kgc-networks\.com # http://en.wikinews.org/w/index.php?title=User:Angela&curid=966&diff=8617&oldid=8616
+kgc-networks\.com
 smokaz\.com
-nakurka\.ru       # one of the above links redirected here
+nakurka\.ru
 
-# http://en.wikinews.org/w/index.php?title=Venezuela-Colombia_crisis_continues&diff=prev&oldid=18407
-# http://en.wikibooks.org/w/index.php?title=Horn&diff=86272&oldid=86247
 lingshengdown\.com
 
-property2u\.com    # http://en.wikipedia.org/w/index.php?title=Australia&diff=10856810&oldid=10856766 and others
+property2u\.com
 
-riba\.unixserverhosting\.com  # http://www.konversation.org/wiki/index.php?title=Help:Editing&curid=736&diff=191&oldid=188
+riba\.unixserverhosting\.com
 
-# http://meta.wikimedia.org/w/index.php?title=Hilfe:Bearbeiten&diff=prev&oldid=135264
 ohhmybaby\.info
 free-porn-friend-finder-adult\.info
 
-# Probable spyware-advertised link
-# http://en.wikipedia.org/w/index.php?title=Catgirl&diff=prev&oldid=18420241
 consumeralertsystem\.com
 
 # --------------------------------------------
@@ -129,16 +119,16 @@ purchase-xanax-online\.daj\.pl
 buy-valium-online\.fuks\.pl
 buy-ambien-online\.fuks\.pl
 home-business-0\.t35\.com
-freewebs\.com\/home-business-0 #http://commons.wikimedia.org/w/index.php?title=User_talk%3ANotafish&diff=1119497&oldid=1119022
-celebrities\.evac4\.com #http://meta.wikimedia.org/w/index.php?title=Help:Editing&curid=2841&diff=272016&oldid=271988
-games\.net4free\.org #http://ja.wikisource.org/w/index.php?title=%E3%83%8E%E3%83%BC%E3%83%88:Main_Page:%E6%97%A5%E6%9C%AC%E8%AA%9E&curid=2264&diff=6701&oldid=6642
-hornyblog\.org #http://meta.wikimedia.org/w/index.php?title=Help:Editing&diff=prev&oldid=272697
-torrie-wilson\.org #http://meta.wikimedia.org/w/index.php?title=Help:Editing&diff=prev&oldid=272697
-pharmacy\.pumag\.net #http://as.wikipedia.org/w/index.php?title=Help%3AContents&diff=5956&oldid=5913
+freewebs\.com\/home-business-0 
+celebrities\.evac4\.com 
+games\.net4free\.org 
+hornyblog\.org
+torrie-wilson\.org
+pharmacy\.pumag\.net
 
 # --------------------------------------------
 # silsor's section, so I can keep track easier
-rackstorage\.cn   # http://hu.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Homokoz%C3%B3&diff=57916&oldid=57891
+rackstorage\.cn
 dimmo\.net
 seov\.net
 google-seo\.net
@@ -264,7 +254,7 @@ www\.angelfire\.com\/poetry\/seidel # requested on talk from de: # 2005-12-11
 webloga\.com # requested on talk # 2005-12-11
 lucky7\.to # requested on talk # 2005-12-11
 degrassi\.dumbbaby\.net # from [[:en:WP:ANI]]
-discuss\.freeforumsite\.com # requested on IRC # http:\/\/en\.wikipedia\.org\/w\/index\.php?title=Thomas%20Pynchon&diff=47336059&oldid=47335869
+discuss\.freeforumsite\.com # requested on IRC 
 ### EREIAMJH
 
 # ----
@@ -1102,7 +1092,6 @@ netsurf\.ru
 #-------------------------------------------------------------------------------------
 
 
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=81\.214\.99\.44
 xxx-me\.info
 thirty-one\.info
 
@@ -1113,7 +1102,6 @@ m0re\.net
 hagensafrika\.de
 
 # Added by Brion from spam by 82\.140\.103\.144
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Help:Editing&diff=123052&oldid=123041
 b0ne\.com
 slyip\.net
 gotgeeks\.com
@@ -1126,7 +1114,6 @@ mobic\.sytes\.net
 naproxen\.zapto\.org
 
 # Added by Yann on 09\.05\.2005
-# http:\/\/ml\.wikipedia\.org\/w\/index\.php?title=Wikipedia:Sandbox&diff=2847&oldid=2846
 utenti\.lycos\.it\/pills1
 
 # Added by brion may 23, 2005
@@ -1134,13 +1121,9 @@ utenti\.lycos\.it\/pills1
 p2l\.info
 
 # Added by brion may 25, 2005
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=82\.77\.137\.102
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Talk:Video_policy&diff=0
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=User:Brynosaurus&diff=prev&oldid=135137
 qx5\.net
 
 # Added by brion may 27, 2005
-# spam by 218\.82\.139\.237 on http:\/\/en\.wikinews\.org\/wiki\/Interwiki (deleted)
 \.117000\.com
 \.126hao\.com
 \.51lac\.com
@@ -1192,12 +1175,10 @@ qx5\.net
 \.utranslation\.net
 
 # added by brion, 2005-06-04
-# http:\/\/meta\.wikimedia\.org\/wiki\/Special:Contributions\/Bjgyg
 bjicp\.org
 lucking\.com\.cn
 
 # added by brion, 2005-06-10
-# http:\/\/sk\.wiktionary\.org\/w\/index\.php?title=Connection&oldid=2678
 17ip\.com
 bj-united\.com\.cn
 carlack\.cn
@@ -1225,15 +1206,12 @@ ryhgsb\.com
 crazypussy\.info
 
 # added by brion, 2005-06-14
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=81\.214\.170\.20
 \.mysweetie\.info
 
 # added by brion, 2005-06-24
-# http:\/\/en\.wikipedia\.org\/wiki\/Special:Contributions\/195\.162\.39\.2
 \.xl\.ru
 
 # added by shizhao, 2005-06-28
-# http:\/\/zh\.wikipedia\.org\/wiki\/Special:Contributions\/61\.51\.133\.137
 readnovel\.com
 
 # in zh wp many, 2005-06-28
@@ -1254,7 +1232,6 @@ tm259\.com
 49sms\.com
 530sms\.com
 
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=81\.214\.166\.90
 goodasses\.info
 
 # Added by Raul654 6\/28\/05
@@ -1319,12 +1296,11 @@ handy-kaufhaus\.tk
 hostfuck\.com
 
 # Added by brion 2005-08-08
-# http:\/\/meta\.wikimedia\.org\/wiki\/Talk:Spam_blacklist\/completed_additions#Enwiki_drug_spammer
 #webzdarma\.cz < considered too broad
 #bigsitecity\.com 
 #newmail\.ru
 #mujweb\.cz < considered too broad
-\.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility\.
+\.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility.
 
 # Replacing overly broad once above - Andre Engels, 2005-08-09
 heavytools\.webzdarma\.cz
@@ -1371,10 +1347,8 @@ all-hotels-motels\.com
 buyhydrocodone\.afraid\.org
 phentermine-drugs\.euro\.tm
 
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Talk:Eliminating_index\.php_from_the_url&diff=196092&oldid=196063
 [A-Za-z-]*drugs\.euro\.tm
 
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=T%C3%A4wge_Bit&diff=prev&oldid=196043
 # Note that shengen\.ru should be blocked alltogether
 21jewelry\.com
 mrjeweller\.us
@@ -1392,7 +1366,6 @@ detox\.shengen\.ru
 jewelry\.shengen\.ru
 
 # added by brion
-# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=Special:Contributions&target=24\.66\.29\.108
 about-travels\.host\.sk
 
 # Added by Yann on 25-8-2005 (from Meta)
@@ -1415,7 +1388,6 @@ epsilon\.zenno\.info
 googlesuka\.zenno\.info
 stol\.zenno\.info
 
-# http:\/\/meta\.wikimedia\.org\/wiki\/Special:Contributions\/220\.161\.154\.90
 shoesbuy\.com
 shoesshop\.biz
 
@@ -1449,10 +1421,7 @@ cnfibernet\.com\.cn
 \.tvsou\.com
 \.54163\.com
 
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=64\.16\.178\.204
-# http:\/\/meta\.wikimedia\.org\/w\/index\.php?title=Special:Contributions&target=65\.78\.124\.29
 pharmacy\.rr\.nu
-#
 
 #additions by Mindspillage
 #4 October 05
@@ -1462,8 +1431,8 @@ pharmacy\.rr\.nu
 \.webtech\.pp\.ru
 #1 Mar 06 (requested by Danny)
 \.rockphiles\.com 
-#1 Mar 06 (requested by Dmcdevit, see http:\/\/en\.wikipedia\.org\/wiki\/User:Uriah923\/OmniNerd)
-\.omninerd\.com  # Do not remove\. See http:\/\/meta\.wikimedia\.org\/wiki\/Spam_blacklist\/recurring_requests
+#1 Mar 06 (requested by Dmcdevit, see http://en.wikipedia.org/wiki/User:Uriah923/OmniNerd)
+\.omninerd\.com  # Do not remove\. See http://meta.wikimedia.org/wiki/Spam_blacklist/recurring_requests
 #20 Mar 06 - spamming en\.wikipedia
 \.yadoo\.cn
 #25 Mar 06 - spamming en\.wikipedia
@@ -1499,22 +1468,16 @@ fuckfactor\.com
 #23 oct elian (spam on de)
 \.zap3x\.com
 
-# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=Wikipedia:Help_desk&diff=28207588&oldid=28205513
-# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=MediaWiki_talk:Nogomatch&diff=28206731&oldid=28202132
 hosting\.q4w\.net
 
-# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=User_talk:Prozak&diff=28207831&oldid=28207180
 green-tea[0-9a-z-]*\.co\.nr
 
 # 19 november reported by amgine
-# http:\/\/en\.wikinews\.org\/w\/index\.php?title=Special:Contributions&target=192\.114\.65\.98 etc
 dralex\.info
 
 # Requested by Ta bu shi da yu, added by Tim Starling
-# http:\/\/en\.wikipedia\.org\/w\/index\.php?title=USA_PATRIOT_Act&diff=prev&oldid=29158543
 nastydollars\.com
 
-# http:\/\/as\.wikibooks\.org\/w\/index\.php?title=Wikibooks:General_disclaimer&curid=1446&diff=2706&oldid=2634
 4t7e\.info
 
 # elian's
