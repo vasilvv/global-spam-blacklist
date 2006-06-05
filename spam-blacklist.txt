@@ -436,7 +436,7 @@ drugs\.chickenkiller\.com
 drugs\.ignorelist\.com
 drugs\.mooo\.com
 drugs\.strangled\.net
-[0-9]+\.\S+\.info\/?\s+[0-9]+\s*\]
+[0-9]+\.[-\w\d]+\.info\/?[-\w\d]+[0-9]+[-\w\d]*\]
 #
 # *40d
 lol\.to
