@@ -1644,15 +1644,15 @@ buy-viagra-online\.webzdarma\.cz
 jarmyl\.tripod\.com
 rx-phentermine\.tripod\.com
 lunesta\.tripod\.com
-buy-viagra-online*\.tripod\.com
-hydrocodone*\.ds4a\.com
+buy-viagra-online[\w]*\.tripod\.com
+hydrocodone[\w]*\.ds4a\.com
 xanax-pills\.tripod\.com
 valium-online\.tripod\.com
 sex4you\.webzdarma\.cz
 s-sex4you\.tripod\.com
 works1\.netfirms\.com
 works-at-home14\.tripod\.com
-green-tea*\.netfirms\.com
+green-tea[\w]*\.netfirms\.com
 phentermine\.netfirms\.com
 lunesta\.netfirms\.com
 where\.netfirms\.com
@@ -1662,7 +1662,7 @@ ephedra-weight-loss\.netfirms\.com
 incognitto\.tripod\.com
 slow-weight-loss\.netfirms\.com
 weight-loss-for-women\.netfirms\.com
-hydrocodone*\.b0x\.com
+hydrocodone[\w]*\.b0x\.com
 on-line\.tripod\.com
 medicine\.netfirms\.com
 xf\.cz
