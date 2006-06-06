@@ -1915,6 +1915,7 @@ bypills\.net #Requested by freakofnurture
 web-best\.info #Requested by freakofnurture
 fisheaters\.com # requested by JzG
 kensmen\.com\/catholic # requested by JzG
+enterfin\.net\.ru #requested by Sjakkalle
 
 #These sites are redirecting requests from Wikimedia sites to a third-party site\.
 namebase\.org
