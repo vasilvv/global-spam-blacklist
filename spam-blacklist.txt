@@ -1949,7 +1949,8 @@ objectclub\.esm\.co\.jp\:8080\/myswiki
 www\.fukuikenren\.or\.jp\/wwwboard
 www\.terrybozzio\.com\/wwwboard
 swiki\.nadir\.org\/refs
-
+##fsorward
+needlustgirl\.org
 #End of Naconkantari
 
 
