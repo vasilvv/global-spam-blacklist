@@ -1935,5 +1935,22 @@ ppstream\.com
 
 #Naconkantari
 aspsupergirls\.phpnet\.us
+users\.libero.it\/seza #requested by Economist on en\.wiki for spam on Zen and Buddhism
+##redirection spam on simple\.wiki
+www\.computersci\.net\/wwwboard
+www\.hemsida\.net\/wwwboard
+www\.shieldofprayer\.org\/Requests
+www\.evilcycling\.com\/evilcrap
+redmondcyclingclub\.com\/evilmessages
+www\.novurengoi\.ru\/wwwboard
+www\.charm\.ru\/wwwboard
+wiki\.esm\.co\.jp\:8080\/myswiki
+objectclub\.esm\.co\.jp\:8080\/myswiki
+www\.fukuikenren\.or\.jp\/wwwboard
+www\.terrybozzio\.com\/wwwboard
+swiki\.nadir\.org\/refs
+
+#End of Naconkantari
+
 
  #</pre> <!-- leave this line exactly as it is -->
