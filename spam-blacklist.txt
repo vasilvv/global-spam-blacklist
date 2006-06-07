@@ -1949,6 +1949,15 @@ objectclub\.esm\.co\.jp\:8080\/myswiki
 www\.fukuikenren\.or\.jp\/wwwboard
 www\.terrybozzio\.com\/wwwboard
 swiki\.nadir\.org\/refs
+##spam on catux\.org
+t35\.com
+www\.xmail\.net\/search
+www\.xmail\.net\/ac
+doc\.svp\-info\.com
+weer\.blogs\.eurosport\.es\/files
+blog\.hr
+weer\.pbwiki\.com\/f
+
 ##fsorward
 needlustgirl\.org
 #End of Naconkantari
