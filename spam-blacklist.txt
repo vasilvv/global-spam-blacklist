@@ -1845,7 +1845,6 @@ kapitalism\.net
 a85\.no-ip\.biz
 
 #Essjay's list
-starswelove\.com #spamming on en\.wikipedia
 zorpia\.com #en\.wiki spam
 xanax\.umaxnet\.com #en\.wiki spam
 free-web-polls\.com #en\.wiki spam
