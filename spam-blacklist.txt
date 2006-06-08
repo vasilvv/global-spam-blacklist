@@ -1963,11 +1963,11 @@ weer\.pbwiki\.com\/f
 needlustgirl\.org
 #End of Naconkantari
 
-[\./]freesex\.com #                                 # 2006-06-08  Pathoschild    Hostile scripts
-[\./]lunesta.wz.cz #                                # 2006-06-08  Pathoschild    Spam
-[\./]toporol.be #                                   # 2006-06-08  Pathoschild    Spam
-[\./]zocor-1.be #                                   # 2006-06-08  Pathoschild    Spam
-This-is-a-test! #                                   # 2006-06-08  Pathoschild    Testing regex
-This-is-a-test-2!           #                       # 2006-06-08  Pathoschild    Testing regex
+freesex\.com                                  # 2006-06-08  Pathoschild    Hostile scripts
+lunesta.wz.cz                                 # 2006-06-08  Pathoschild    Spam
+toporol.be                                    # 2006-06-08  Pathoschild    Spam
+zocor-1.be                                    # 2006-06-08  Pathoschild    Spam
+allsexxdomain.com                             # 2006-06-08  Pathoschild    Spam
+
 
  #</pre> <!-- leave this line exactly as it is -->
