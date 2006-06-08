@@ -1706,7 +1706,6 @@ celika\.dynu\.net #add by Suisui
 
 # Datrio, by request from IRC
 vendweb\.com
-xthost\.info
 
 # Massive spam
 f9zs\.info
