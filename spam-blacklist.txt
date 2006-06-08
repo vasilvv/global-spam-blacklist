@@ -1519,14 +1519,12 @@ efl-law\.com
 eslcafe\.com
 myflooring\.org
 scmantraffic\.com
-funpic\.de
 efl-law\.org
 guitar-poll\.com
 # republika\.pl -- too broad, popular free host in Poland
 konecco\.com
 supergirls4\.tripod\.com
 unoriginal\.co\.uk
-funpic\.org
 English\.51hc\.com
 denwa\.omiki\.com
 www\.365igo\.cn
