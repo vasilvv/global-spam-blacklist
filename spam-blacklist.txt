@@ -1964,10 +1964,10 @@ needlustgirl\.org
 #End of Naconkantari
 
 freesex\.com                                  # 2006-06-08  Pathoschild    Hostile scripts
-lunesta.wz.cz                                 # 2006-06-08  Pathoschild    Spam
-toporol.be                                    # 2006-06-08  Pathoschild    Spam
-zocor-1.be                                    # 2006-06-08  Pathoschild    Spam
-allsexxdomain.com                             # 2006-06-08  Pathoschild    Spam
+lunesta.wz\.cz                                 # 2006-06-08  Pathoschild    Spam
+toporol\.be                                    # 2006-06-08  Pathoschild    Spam
+zocor-1\.be                                    # 2006-06-08  Pathoschild    Spam
+allsexxdomain\.com                             # 2006-06-08  Pathoschild    Spam
 
 
  #</pre> <!-- leave this line exactly as it is -->
