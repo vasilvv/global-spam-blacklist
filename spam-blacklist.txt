@@ -1962,5 +1962,6 @@ weer\.pbwiki\.com\/f
 needlustgirl\.org
 #End of Naconkantari
 
+[\./]freesex\.com                              # 2006-06-08  Pathoschild    Hostile scripts
 
  #</pre> <!-- leave this line exactly as it is -->
