@@ -1836,10 +1836,6 @@ yep\.it
 # The following is added by a spyware, see talk
 ntsearch\.com
 
-
-#Lir's site - he's been spamming it (evading his arbcom block at the same time) 
-kapitalism\.net
-
 #Delphine's little list
 a85\.no-ip\.biz
 
