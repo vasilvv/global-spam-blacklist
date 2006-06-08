@@ -1894,7 +1894,6 @@ synthroid\.be
 norvasc\.be
 physicsarchives\.com
 # webzdarma\.cz <- considered too broad\. Do you have the specific site(s)?
-nascarspace\.com
 \.logos\.com
 iquebec\.com
 xenon-hebergement\.net
