@@ -1963,8 +1963,8 @@ weer\.pbwiki\.com\/f
 needlustgirl\.org
 #End of Naconkantari
 
-freesex\.com                                  # 2006-06-08  Pathoschild    Hostile scripts
-lunesta.wz\.cz                                 # 2006-06-08  Pathoschild    Spam
+freesex\.com                                   # 2006-06-08  Pathoschild    Hostile scripts
+lunesta\.wz\.cz                                # 2006-06-08  Pathoschild    Spam
 toporol\.be                                    # 2006-06-08  Pathoschild    Spam
 zocor-1\.be                                    # 2006-06-08  Pathoschild    Spam
 allsexxdomain\.com                             # 2006-06-08  Pathoschild    Spam
