@@ -1956,11 +1956,18 @@ weer\.pbwiki\.com\/f
 needlustgirl\.org
 #End of Naconkantari
 
-freesex\.com                                   # 2006-06-08  Pathoschild    Hostile scripts
-lunesta\.wz\.cz                                # 2006-06-08  Pathoschild    Spam
-toporol\.be                                    # 2006-06-08  Pathoschild    Spam
-zocor-1\.be                                    # 2006-06-08  Pathoschild    Spam
-allsexxdomain\.com                             # 2006-06-08  Pathoschild    Spam
-
+# Added by Pathoschild
+## Search the dated archives for discussion
+## [\./] protects similiar domains by matching either www or http
+### 2006-06-08
+[\./]allsexxdomain\.com
+[\./]freesex\.com          # Hostile scripts, malicious sneak insertion into external links
+[\./]lunesta\.wz\.cz
+[\./]toporol\.be
+[\./]zocor-1\.be
+### 2007-06-09
+[\./]chocolateplanet\.org
+[\./]coffee-guide\.us
+[\./]teainfo\.org
 
  #</pre> <!-- leave this line exactly as it is -->
