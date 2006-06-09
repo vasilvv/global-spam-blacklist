@@ -1965,9 +1965,10 @@ needlustgirl\.org
 [\./]lunesta\.wz\.cz
 [\./]toporol\.be
 [\./]zocor-1\.be
-### 2007-06-09
+### 2006-06-09
 [\./]chocolateplanet\.org
 [\./]coffee-guide\.us
 [\./]teainfo\.org
+[\./]to\.pl                # URL redirector
 
  #</pre> <!-- leave this line exactly as it is -->
