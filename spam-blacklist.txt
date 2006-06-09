@@ -1959,15 +1959,16 @@ needlustgirl\.org
 ## [\./] protects similiar domains by matching either www or http
 ### 2006-06-08
 [\./]allsexxdomain\.com
-[\./]freesex\.com          # Hostile scripts, malicious sneak insertion into external links
+[\./]freesex\.com               # Hostile scripts, malicious sneak insertion into external links
 [\./]lunesta\.wz\.cz
 [\./]toporol\.be
 [\./]zocor-1\.be
 ### 2006-06-09
+[\./]architect\.architecture\.sk  # possible copyvio, no response to comments
 [\./]chocolateplanet\.org
 [\./]coffee-guide\.us
 [\./]teainfo\.org
-[\./]to\.pl                # URL redirector
+[\./]to\.pl                     # URL redirector
 [\./]topsearch10\.com
 
  #</pre> <!-- leave this line exactly as it is -->
