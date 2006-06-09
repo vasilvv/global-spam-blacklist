@@ -1968,5 +1968,6 @@ needlustgirl\.org
 [\./]coffee-guide\.us
 [\./]teainfo\.org
 [\./]to\.pl                # URL redirector
+[\./]topsearch10\.com
 
  #</pre> <!-- leave this line exactly as it is -->
