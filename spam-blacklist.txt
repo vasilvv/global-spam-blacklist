@@ -737,7 +737,6 @@ shopper-jobs\.us
 #-spiele\.de
 -kaufen\.de
 -partner\.nl
--partner\.de
 -partner\.se
 bjedin\.com
 vivaful\.com
