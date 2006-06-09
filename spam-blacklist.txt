@@ -572,7 +572,7 @@ datianmachine\.com
 ad-ope\.com
 ama-son\.com
 microzovd\.com
-smut\.com
+#smut\.com          #conflicts with [smut.com]icgenesis.com on w:Smut_(webcomic) -- Pathoschild 2006-06-09
 #\.4t\.com          #conflicted with link at en Number_of_the_Beast_(numerology)
 haugeprint\.co\.uk
 logical-planet\.co\.uk
