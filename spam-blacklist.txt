@@ -379,7 +379,7 @@ azzacash\.com
 # --------------------------------------------
 # Korg's section
 #
-white\.prohosting\.com
+(.*gui.*|.*chai?r.*|.*lamp.*|.*cook.*|.*visa.*)\.white\.prohosting\.com
 4ljd\.info
 buy-cheap-meds\.us
 julie\.xxserv\.com
