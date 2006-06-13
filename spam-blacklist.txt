@@ -1920,6 +1920,8 @@ google-watch\.org
 cia-on-campus\.org      
 scroogle\.org
 yahoo-watch\.org
+#The following site is being used to get around the scroogle.org spam blacklisting (above)
+being-ones-self\.org
 
 # from zh wp 2006-5-30
 stanleyng\.net
