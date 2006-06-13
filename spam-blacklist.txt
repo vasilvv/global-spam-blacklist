@@ -1935,6 +1935,8 @@ users\.libero\.it\/seza #requested by Economist for spam on Zen and Buddhism
 hifrienddd\.info #requested by Shanes
 rexcurry\.net #requested by Matt Crypto
 childharness\.net #requested by anon
+selfdefenseforums\.com #requested by Ashenai
+self\-defender\.net #above
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
