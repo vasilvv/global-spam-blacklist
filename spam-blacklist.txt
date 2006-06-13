@@ -1954,6 +1954,7 @@ doc\.svp\-info\.com
 weer\.blogs\.eurosport\.es\/files
 blog\.hr
 weer\.pbwiki\.com\/f
+figgles\.8k\.com
 
 ##fsorward
 needlustgirl\.org
