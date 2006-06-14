@@ -1937,6 +1937,7 @@ rexcurry\.net #requested by Matt Crypto
 childharness\.net #requested by anon
 #selfdefenseforums\.com #requested by Ashenai
 self-defender\.net #above
+ipfeurope\.com# requested by anon
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
