@@ -929,7 +929,7 @@ buch5\.com
 -watch-china\.org
 dacash\.com
 omeida\.com
-ck100\.com
+[\./]ck100\.com
 huihualin\.com
 chindata\.com
 tonzh\.com
