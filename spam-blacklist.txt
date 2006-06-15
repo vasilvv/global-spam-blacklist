@@ -1984,5 +1984,5 @@ needlustgirl\.org
 [\./]topsearch10\.com
 ### 2006-06-15
 [\./]ipfeurope\.(eu|com|net|org)
-[\./]smut\.com(?!ic)     # negative class avoids conflict
+[\./]smut\.com(?!ic)     # lookaround avoids conflict
  #</pre> <!-- leave this line exactly as it is -->
