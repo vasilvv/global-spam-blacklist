@@ -1937,7 +1937,6 @@ rexcurry\.net #requested by Matt Crypto
 childharness\.net #requested by anon
 #selfdefenseforums\.com #requested by Ashenai
 self-defender\.net #above
-ipfeurope\.com #requested by anon
 girls4fuking\.com #spam on meta
 www\.seedwiki\.com #spam on en\.wiki
 jot\.com #spam on en\.wiki
@@ -1985,5 +1984,6 @@ needlustgirl\.org
 [\./]teainfo\.org
 [\./]to\.pl                     # URL redirector
 [\./]topsearch10\.com
-
+### 2006-06-15
+[\./]ipfeurope\.(eu|com|net|org)
  #</pre> <!-- leave this line exactly as it is -->
