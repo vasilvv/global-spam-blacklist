@@ -572,7 +572,6 @@ datianmachine\.com
 ad-ope\.com
 ama-son\.com
 microzovd\.com
-#smut\.com          #conflicts with [smut.com]icgenesis.com on w:Smut_(webcomic) -- Pathoschild 2006-06-09
 #\.4t\.com          #conflicted with link at en Number_of_the_Beast_(numerology)
 haugeprint\.co\.uk
 logical-planet\.co\.uk
@@ -1985,4 +1984,5 @@ needlustgirl\.org
 [\./]topsearch10\.com
 ### 2006-06-15
 [\./]ipfeurope\.(eu|com|net|org)
+[\./]smut\.com(?!ic)            # lookaround avoids conflict with comicgenesis
  #</pre> <!-- leave this line exactly as it is -->
