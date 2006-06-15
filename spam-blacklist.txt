@@ -1939,6 +1939,8 @@ childharness\.net #requested by anon
 self-defender\.net #above
 ipfeurope\.com #requested by anon
 girls4fuking\.com #spam on meta
+www\.seedwiki\.com #spam on en\.wiki
+jot\.com #spam on en\.wiki
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
