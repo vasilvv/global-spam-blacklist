@@ -1984,4 +1984,7 @@ topsearch10\.com
 ### 2006-06-15
 ipfeurope\.(eu|com|net|org)
 smut\.com(?!ic)              # lookaround avoids conflict
+perso\.orange\.fr/jf\.dumousseaux
+art-passion\.site\.voila\.fr
+
  #</pre> <!-- leave this line exactly as it is -->
