@@ -1970,7 +1970,7 @@ needlustgirl\.org
 ## Search the dated archives for discussion
 ### 2006-06-08
 allsexxdomain\.com
-freesex\.com               # Hostile scripts, malicious sneak insertion into external links
+freesex\.com                 # Hostile scripts, malicious sneak insertion into external links
 lunesta\.wz\.cz
 toporol\.be
 zocor-1\.be
@@ -1979,9 +1979,9 @@ architect\.architecture\.sk  # possible copyvio, no response to comments
 chocolateplanet\.org
 coffee-guide\.us
 teainfo\.org
-to\.pl                     # URL redirector
+to\.pl                       # URL redirector
 topsearch10\.com
 ### 2006-06-15
 ipfeurope\.(eu|com|net|org)
-smut\.com(?!ic)     # lookaround avoids conflict
+smut\.com(?!ic)              # lookaround avoids conflict
  #</pre> <!-- leave this line exactly as it is -->
