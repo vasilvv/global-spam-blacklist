@@ -927,7 +927,7 @@ buch5\.com
 -watch-china\.org
 dacash\.com
 omeida\.com
-[\./]ck100\.com
+(?<[\./])ck100\.com
 huihualin\.com
 chindata\.com
 tonzh\.com
@@ -1892,7 +1892,7 @@ synthroid\.be
 norvasc\.be
 physicsarchives\.com
 # webzdarma\.cz <- considered too broad\. Do you have the specific site(s)?
-[\./]logos\.com
+(?<![\./])logos\.com
 iquebec\.com
 xenon-hebergement\.net
 adultclub\.adultserving\.com
@@ -1968,21 +1968,20 @@ needlustgirl\.org
 
 # Added by Pathoschild
 ## Search the dated archives for discussion
-## [\./] protects similiar domains by matching either www or http
 ### 2006-06-08
-[\./]allsexxdomain\.com
-[\./]freesex\.com               # Hostile scripts, malicious sneak insertion into external links
-[\./]lunesta\.wz\.cz
-[\./]toporol\.be
-[\./]zocor-1\.be
+allsexxdomain\.com
+freesex\.com               # Hostile scripts, malicious sneak insertion into external links
+lunesta\.wz\.cz
+toporol\.be
+zocor-1\.be
 ### 2006-06-09
-[\./]architect\.architecture\.sk  # possible copyvio, no response to comments
-[\./]chocolateplanet\.org
-[\./]coffee-guide\.us
-[\./]teainfo\.org
-[\./]to\.pl                     # URL redirector
-[\./]topsearch10\.com
+architect\.architecture\.sk  # possible copyvio, no response to comments
+chocolateplanet\.org
+coffee-guide\.us
+teainfo\.org
+to\.pl                     # URL redirector
+topsearch10\.com
 ### 2006-06-15
-[\./]ipfeurope\.(eu|com|net|org)
-[\./]smut\.com(?!ic)     # lookaround avoids conflict
+ipfeurope\.(eu|com|net|org)
+smut\.com(?!ic)     # lookaround avoids conflict
  #</pre> <!-- leave this line exactly as it is -->
