@@ -1962,6 +1962,9 @@ weer\.blogs\.eurosport\.es\/files
 blog\.hr
 weer\.pbwiki\.com\/f
 figgles\.8k\.com
+##spam on sonikmatter\.com
+trafu\.com
+pantyhose-net\.com
 ##fsorward
 needlustgirl\.org
 
