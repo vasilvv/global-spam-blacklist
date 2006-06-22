@@ -1929,17 +1929,18 @@ stanleyng\.net
 etpass\.com
 ppstream\.com
 
-#Naconkantari
+##Naconkantari
+
 aspsupergirls\.phpnet\.us
-users\.libero\.it\/seza #requested by Economist for spam on Zen and Buddhism
-hifrienddd\.info #requested by Shanes
-rexcurry\.net #requested by Matt Crypto
-childharness\.net #requested by anon
-#selfdefenseforums\.com #requested by Ashenai
-self-defender\.net #above
-girls4fuking\.com #spam on meta
-#www\.seedwiki\.com #spam on en\.wiki
-jot\.com #spam on en\.wiki
+users\.libero\.it\/seza
+hifrienddd\.info
+rexcurry\.net
+childharness\.net
+self-defender\.net
+girls4fuking\.com
+#www\.seedwiki\.com
+jot\.com
+spaland\.googlepages\.com
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
@@ -1969,7 +1970,7 @@ pantyhose-net\.com
 ##fsorward
 needlustgirl\.org
 
-#End of Naconkantari
+##End of Naconkantari
 
 # Added by Pathoschild
 ## Search the dated archives for discussion
