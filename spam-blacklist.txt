@@ -1975,23 +1975,22 @@ needlustgirl\.org
 
 # Added by Pathoschild
 ## Search the dated archives for discussion
-### 2006-06-08
+### 2006-06
 allsexxdomain\.com
-freesex\.com                 # Hostile scripts, malicious sneak insertion into external links
-lunesta\.wz\.cz
-toporol\.be
-zocor-1\.be
-### 2006-06-09
 architect\.architecture\.sk  # possible copyvio, no response to comments
+art-passion\.site\.voila\.fr
 chocolateplanet\.org
 coffee-guide\.us
+freesex\.com                 # hostile scripts, sneak insertion
+ipfeurope\.(eu|com|net|org)
+kreuz\.net
+lunesta\.wz\.cz
+perso\.orange\.fr\/jf\.dumousseaux
+smut\.com(?!ic)              # lookaround avoids conflict
 teainfo\.org
 to\.pl                       # URL redirector
+toporol\.be
 topsearch10\.com
-### 2006-06-15
-ipfeurope\.(eu|com|net|org)
-smut\.com(?!ic)              # lookaround avoids conflict
-perso\.orange\.fr\/jf\.dumousseaux
-art-passion\.site\.voila\.fr
+zocor-1\.be
 
  #</pre> <!-- leave this line exactly as it is -->
