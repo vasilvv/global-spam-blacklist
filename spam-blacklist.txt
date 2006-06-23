@@ -1976,6 +1976,7 @@ needlustgirl\.org
 # Added by Pathoschild
 ## Search the dated archives for discussion
 ### 2006-06
+academiccalendar\.info
 allsexxdomain\.com
 architect\.architecture\.sk  # possible copyvio, no response to comments
 art-passion\.site\.voila\.fr
