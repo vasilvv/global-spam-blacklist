@@ -1997,5 +1997,6 @@ to\.pl                       # URL redirector
 toporol\.be
 topsearch10\.com
 zocor-1\.be
+www\.spaingate\.com           # from zh wp
 
  #</pre> <!-- leave this line exactly as it is -->
