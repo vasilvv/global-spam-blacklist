@@ -1891,7 +1891,6 @@ norvasc\.be
 physicsarchives\.com
 # webzdarma\.cz <- considered too broad\. Do you have the specific site(s)?
 (?<=[.\/])logos\.com
-iquebec\.com
 xenon-hebergement\.net
 adultclub\.adultserving\.com
 nigeria\.tz4\.com 
