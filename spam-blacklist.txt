@@ -834,7 +834,7 @@ musica\.org\.es
 -amateur\.com
 -webcams\.com
 #-show\.com # disabled by brion, 2005-06-12, as it conflicts with good addrs
--cam\.com
+#-cam\.com #disabled by naconkantari 28 jun 2006
 xyzdown\.com
 boxget\.net
 swan-storage\.com
