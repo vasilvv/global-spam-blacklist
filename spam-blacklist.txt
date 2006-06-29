@@ -1454,6 +1454,9 @@ buyhyd\.wyger\.nl
 yourpharm\.vstore\.ca
 #12 Jun 06 - requested by tawker, spam from multiple IPs
 inhunt\.com
+#29 Jun 06 - spamming enwp
+eaeaq\.info
+mrjht\.info
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
