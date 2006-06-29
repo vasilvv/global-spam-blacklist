@@ -1457,7 +1457,6 @@ inhunt\.com
 #29 Jun 06 - spamming enwp
 eaeaq\.info
 mrjht\.info
-serverlogic3\.com
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
