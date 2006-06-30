@@ -1514,7 +1514,7 @@ adult-area\.info
 girls\.info
 sprot2\.com
 efl-law\.com
-eslcafe\.com
+#eslcafe\.com  #disabled by Naconkantari
 myflooring\.org
 scmantraffic\.com
 efl-law\.org
