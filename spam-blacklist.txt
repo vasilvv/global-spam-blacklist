@@ -1952,6 +1952,7 @@ geocities\.com\/seelagos
 securefta\.com
 freewaretown\.com
 sharewareisland\.com
+www\.box\.net\/public\/4y0dyzya43
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
