@@ -1959,6 +1959,8 @@ bestmd\.coz\.in
 fulltimewebmaster\.com
 viagrabuy\.54\.pl
 www\.internationalpenfriends\.net
+rockdd\.beeplog\.com
+nfhtt\.info
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
@@ -1993,6 +1995,7 @@ viagrasale
 discountmd
 discountrx
 bestmd
+cheap-xanax
 ##external
 bbtttgg\.org
 brrddd\.org
