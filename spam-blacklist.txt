@@ -1989,6 +1989,9 @@ needlustgirl\.org
 ##phrases
 viagrabuy
 viagrasale
+discountmd
+discountrx
+bestmd
 
 ##End of Naconkantari
 
