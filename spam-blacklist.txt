@@ -1961,6 +1961,7 @@ viagrabuy\.54\.pl
 www\.internationalpenfriends\.net
 rockdd\.beeplog\.com
 nfhtt\.info
+fo4n\.com
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
