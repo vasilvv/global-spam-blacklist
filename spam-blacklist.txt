@@ -1857,6 +1857,7 @@ rovno\.ua # spam domain
 pru\.in\.ua # spam domain
 uzhgorod\.ua # spam domain # All from en\.wiki's ANI
 pornogames4\.com #en.wiki "sseason" spammer
+jewsdidwtc\.com #Lovely GNAA virus-laden spamsite
 
 #requests
 coinable\.com #by epopt
