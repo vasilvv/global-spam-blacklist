@@ -1986,6 +1986,7 @@ weer\.blogs\.eurosport\.es\/files
 blog\.hr
 weer\.pbwiki\.com\/f
 figgles\.8k\.com
+privetparis\.com
 ##spam on sonikmatter\.com
 trafu\.com
 pantyhose-net\.com
@@ -2000,6 +2001,7 @@ bestmd
 cheap-xanax
 onlinerx
 viagranow
+viagrabest
 ##external
 bbtttgg\.org
 brrddd\.org
