@@ -2037,7 +2037,7 @@ lunesta\.wz\.cz
 perso\.orange\.fr\/jf\.dumousseaux
 smut\.com(?!ic)              # lookaround avoids conflict
 teainfo\.org
-to\.pl                       # URL redirector
+\.to\.pl                       # URL redirector
 toporol\.be
 topsearch10\.com
 zocor-1\.be
