@@ -2043,4 +2043,7 @@ topsearch10\.com
 zocor-1\.be
 www\.spaingate\.com           # from zh wp
 
+#Quick test, testing the ability of hte blacklist to be used against meme vandals.
+lkjaliepwijdioepjejndinvqppeirpqjefiejfpqie6598359a 
+
  #</pre> <!-- leave this line exactly as it is -->
