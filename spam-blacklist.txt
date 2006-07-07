@@ -1963,6 +1963,7 @@ www\.internationalpenfriends\.net
 rockdd\.beeplog\.com
 nfhtt\.info
 fo4n\.com
+kakiko\.com
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
