@@ -1972,6 +1972,7 @@ theunfunnytruth\.ytmnd\.com
 theunfunnysequel\.ytmnd\.com
 glow-sticks\.org
 glowsticks\.co\.uk
+partners\.webmasterplan\.com
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
