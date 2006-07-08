@@ -1964,6 +1964,10 @@ rockdd\.beeplog\.com
 nfhtt\.info
 fo4n\.com
 de\.kakiko\.com
+lasercard\.com
+j-mayer\.org
+bloomingtonnormal\.com
+-coupons\.org
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
