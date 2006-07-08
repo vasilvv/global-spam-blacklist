@@ -1970,6 +1970,8 @@ bloomingtonnormal\.com
 -coupons\.org
 theunfunnytruth\.ytmnd\.com
 theunfunnysequel\.ytmnd\.com
+glow-sticks\.org
+glowsticks\.co\.uk
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
