@@ -514,7 +514,7 @@ eye-laser
 fuelcellmarket
 lasikclinic
 cragrats
-parishilton
+#parishilton
 paris-hilton
 paris-tape
 #janet-jackson ----> removed for blocking official website janet-jackson\.com
