@@ -1968,6 +1968,8 @@ lasercard\.com
 j-mayer\.org
 bloomingtonnormal\.com
 -coupons\.org
+theunfunnytruth\.ytmnd\.com
+theunfunnysequel\.ytmnd\.com
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
