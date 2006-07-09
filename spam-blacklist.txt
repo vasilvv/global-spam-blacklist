@@ -1973,6 +1973,8 @@ theunfunnysequel\.ytmnd\.com
 glow-sticks\.org
 glowsticks\.co\.uk
 partners\.webmasterplan\.com
+somab\.short\.be
+bphena\.hepi\.pl
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
