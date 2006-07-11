@@ -1748,6 +1748,7 @@ tropeaonline\.it
 tuoip\.net
 new-media\.it
 sanzioniamministrative\.it
+chicercatrova2000\.it
 
 #de\.wiki - User:M7 (M\/)
 animemanga\.de
