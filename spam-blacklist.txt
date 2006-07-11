@@ -1457,6 +1457,13 @@ inhunt\.com
 #29 Jun 06 - spamming enwp
 eaeaq\.info
 mrjht\.info
+#11 Jul 06 - bot spamming en.wp
+alleydog\.com
+gallery\.angel\-btvs\.co\.uk\/include\/cheapvalium
+flyingpirate\.com\/images\/phentermineonline
+clicnetwork\.com
+yszmpfpr\.com
+beemdqay\.com
 
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
