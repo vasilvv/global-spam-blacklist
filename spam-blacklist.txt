@@ -1986,6 +1986,7 @@ sufx\.net
 3x\.ro
 pochta\.ru
 hometown\.aol\.com\/viagriu
+ooqwe\.info
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
