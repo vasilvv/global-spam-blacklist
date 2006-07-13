@@ -2011,8 +2011,7 @@ iaa-dc\.org
 j-mayer\.org
 jouvence\.com
 kutdiak\.hu
-lasercard\.com
-mariner\.org
+#mariner\.org
 rockthedesert\.com
 soargbsc\.com
 somber-resplendence\.net
