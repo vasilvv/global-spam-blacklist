@@ -2039,6 +2039,8 @@ webdistributionltd\.com
 tvhosted\.com
 -ringtones\.net
 theglowcompany\.co\.uk
+forum\.bodybuilding\.com
+bodybuilding.com\/fun\/bigron
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
