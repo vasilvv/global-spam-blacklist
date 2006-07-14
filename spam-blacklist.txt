@@ -2047,6 +2047,7 @@ guide-phytosante\.org
 guide-vitamines\.org
 all-musculation\.com
 angelfire\.com\/trek
+g00ns\.net
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
