@@ -1869,6 +1869,8 @@ uzhgorod\.ua # spam domain # All from en\.wiki's ANI
 pornogames4\.com #en.wiki "sseason" spammer
 jewsdidwtc\.com #Lovely GNAA virus-laden spamsite
 bestv\.forenserver\.net #En.wiki spam
+satellitetvtopc\.com #en.wiki spam
+
 #requests
 coinable\.com #by epopt
 meltemi\.pl 
