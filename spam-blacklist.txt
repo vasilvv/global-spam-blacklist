@@ -2046,6 +2046,7 @@ guide-proteines\.org
 guide-phytosante\.org
 guide-vitamines\.org
 all-musculation\.com
+angelfire\.com\/trek
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
