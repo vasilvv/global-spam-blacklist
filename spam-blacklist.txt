@@ -1874,6 +1874,7 @@ pornogames4\.com #en.wiki "sseason" spammer
 jewsdidwtc\.com #Lovely GNAA virus-laden spamsite
 bestv\.forenserver\.net #En.wiki spam
 satellitetvtopc\.com #en.wiki spam
+ringtones-dir\.com #Requested at en.wiki ANI
 
 #requests
 coinable\.com #by epopt
