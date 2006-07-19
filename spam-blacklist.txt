@@ -2145,5 +2145,7 @@ toporol\.be
 topsearch10\.com
 zocor-1\.be
 www\.spaingate\.com           # from zh wp
-
+###2006-07
+hoopsvibe\.com                # request on IRC
+hoopsstats\.com               # request on IRC
  #</pre> <!-- leave this line exactly as it is -->
