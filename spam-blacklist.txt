@@ -450,6 +450,10 @@ ourtrinity\.net
 oxrash\.com
 cell-phones-store\.net
 #
+# *60f
+pill\.envy\.nu
+order-online\.50webs\.com
+#
 
 #-------------------------------------------------------------------------------------
 # The following is derived from http:\/\/wikiblacklist\.blogspot\.com, thanks guys
