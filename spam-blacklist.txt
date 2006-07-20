@@ -1658,7 +1658,7 @@ top20man\.in\.ua
 ringtonemaker\.blogs\.eurosport\.com
 blog\.yukonho\.com
 blogs\.wwwcoder\.com
-forumco\.com
+.*ringtone\.forumco\.com
 novogate\.com
 4898\.rapidforum\.com
 blogs\.heraldextra\.com
