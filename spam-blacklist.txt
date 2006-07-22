@@ -2066,6 +2066,7 @@ lastoa\.cat
 1golod\.org
 gayhomes\.net
 1jolla\.org
+1ebalo\.org
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
