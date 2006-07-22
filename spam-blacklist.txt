@@ -2065,6 +2065,7 @@ forums\.2cpu\.com
 lastoa\.cat
 1golod\.org
 gayhomes\.net
+1jolla\.org
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
