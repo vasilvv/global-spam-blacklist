@@ -1783,6 +1783,8 @@ adult-contact\.info
 cybartv\.org
 gruntmuskielures\.com
 ringtones-dir\.com
+myglobaldir\.com
+k98you\.info
 
 #commons
 health-medical\.be
