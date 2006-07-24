@@ -2071,6 +2071,7 @@ gayhomes\.net
 1ebalo\.org
 1ibanusiks\.org
 1domiks\.org
+mamba-d\.stikipad\.com
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
