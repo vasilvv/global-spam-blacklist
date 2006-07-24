@@ -2072,6 +2072,7 @@ gayhomes\.net
 1ibanusiks\.org
 1domiks\.org
 mamba-d\.stikipad\.com
+ipoo\.org
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
@@ -2115,6 +2116,7 @@ buyalprazolam
 cheap-valium
 bestvi
 llpharm
+phvonline
 (nexium|claritin|wellbutrin|renova|zyrtec|prilosec|imitrex|flonase|lexapro|buspar|retin|valtrax)\.html
 ##external
 bbtttgg\.org
