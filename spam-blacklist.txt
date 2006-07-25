@@ -1959,12 +1959,12 @@ ppstream\.com
 aspsupergirls\.phpnet\.us
 users\.libero\.it\/seza
 hifrienddd\.info
-rexcurry\.net
+# rexcurry\.net Why was this blacklisted? Please explain on talk --Eloquence
 childharness\.net
 self-defender\.net
 girls4fuking\.com
 #www\.seedwiki\.com
-jot\.com
+# jot\.com Why was this blacklisted? Please explain on talk -- Eloquence
 spaland\.googlepages\.com
 tvstand\.ho\.com\.ua
 biki4\.com
