@@ -1695,7 +1695,8 @@ adrianalimapics\.org
 wifi-world\.org
 wifi-planet\.org
 wifiguide\.org
-university-canada\.net 
+university-canada\.net
+zwai\.stikipad\.com
 
 # D\.M\.: used for shock links
 goatse\.ca 
