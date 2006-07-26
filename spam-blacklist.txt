@@ -1883,6 +1883,7 @@ jewsdidwtc\.com #Lovely GNAA virus-laden spamsite
 bestv\.forenserver\.net #En.wiki spam
 satellitetvtopc\.com #en.wiki spam
 ringtones-dir\.com #Requested at en.wiki ANI
+parts4euro\.com #en.wiki spam
 
 #requests
 coinable\.com #by epopt
