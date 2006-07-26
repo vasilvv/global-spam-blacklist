@@ -2168,4 +2168,6 @@ www\.spaingate\.com           # from zh wp
 ###2006-07
 hoopsvibe\.com                # request on IRC
 hoopsstats\.com               # request on IRC
+adsbus\.com                   # from zh wp, ADs 
+freebao\.com                  # from zh wp, ADs
  #</pre> <!-- leave this line exactly as it is -->
