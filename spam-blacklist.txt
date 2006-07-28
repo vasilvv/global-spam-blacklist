@@ -1778,7 +1778,7 @@ shaman-king\.de
 yugioh\.de
 fanart\.de
 
-#as per request on talk page - User:M7 (M\/)
+#as per request on talk:spam_blacklist page - User:M7 (M\/)
 adult-contact\.info
 7-24porn\.com
 cybartv\.org
@@ -1787,6 +1787,10 @@ ringtones-dir\.com
 myglobaldir\.com
 k98you\.info
 gamenase\.com
+w4t3r\.com
+zekesbodyworks\.com
+alfredo-braga\.pro\.br
+
 
 #commons
 health-medical\.be
