@@ -2121,8 +2121,7 @@ discountrx
 bestmd
 cheap-xanax
 onlinerx
-viagranow
-viagrabest
+viagra(now|best|cheap)
 buycialis
 buyalprazolam
 cheap-valium
