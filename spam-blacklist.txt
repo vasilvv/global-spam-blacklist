@@ -2120,8 +2120,7 @@ bestmd
 cheap-xanax
 onlinerx
 (cialis|viagra|prazolam|xanax|zanax)(top|pharm|pill|discount|deal|price|order|now|best|cheap|online|buy|sale|sell)
-buycialis
-buyalprazolam
+(top|pharm|pill|discount|deal|price|order|now|best|cheap|online|buy|sale|sell)(cialis|viagra|prazolam|xanax|zanax)
 cheap-valium
 bestvi
 llpharm
