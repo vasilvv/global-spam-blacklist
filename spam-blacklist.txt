@@ -2114,14 +2114,12 @@ pantyhose-net\.com
 ##fsorward
 needlustgirl\.org
 ##phrases
-viagrabuy
-viagrasale
 discountmd
 discountrx
 bestmd
 cheap-xanax
 onlinerx
-viagra(now|best|cheap)
+(cialis|viagra|prazolam|xanax|zanax)(top|pharm|pill|discount|deal|price|order|now|best|cheap|online|buy|sale|sell)
 buycialis
 buyalprazolam
 cheap-valium
