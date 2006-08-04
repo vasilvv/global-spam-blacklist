@@ -520,7 +520,7 @@ laser-eye
 eye-laser
 fuelcellmarket
 lasikclinic
-cragrats
+cragrats\.
 #parishilton
 paris-hilton
 paris-tape
