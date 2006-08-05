@@ -2184,4 +2184,8 @@ hoopsvibe\.com                # request on IRC
 hoopsstats\.com               # request on IRC
 adsbus\.com                   # from zh wp, ADs 
 freebao\.com                  # from zh wp, ADs
+
+# Added by MaxSem
+## August 2006
+\.ipfox\.com
  #</pre> <!-- leave this line exactly as it is -->
