@@ -2188,4 +2188,5 @@ freebao\.com                  # from zh wp, ADs
 # Added by MaxSem
 ## August 2006
 \.ipfox\.com
+opticsplanet\.net
  #</pre> <!-- leave this line exactly as it is -->
