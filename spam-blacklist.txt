@@ -1760,6 +1760,7 @@ tuoip\.net
 new-media\.it
 sanzioniamministrative\.it
 chicercatrova2000\.it
+ajcarvelli\.com
 
 #de\.wiki - User:M7 (M\/)
 animemanga\.de
