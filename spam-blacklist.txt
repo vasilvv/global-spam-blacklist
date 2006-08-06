@@ -2192,4 +2192,5 @@ freebao\.com                  # from zh wp, ADs
 ## August 2006
 \.ipfox\.com
 opticsplanet\.net
+thesexlane\.com
  #</pre> <!-- leave this line exactly as it is -->
