@@ -2194,4 +2194,5 @@ freebao\.com                  # from zh wp, ADs
 \.ipfox\.com
 opticsplanet\.net
 thesexlane\.com
+herhairlosshelp\.com
  #</pre> <!-- leave this line exactly as it is -->
