@@ -1939,6 +1939,7 @@ nigeria\.tz4\.com
 nigeriaplanet\.proboards43\.com
 #napster\.com\/player #requested on talk - evidence please, corrected syntax
 e-economysolutions\.com
+friendscyberclub\.com
 
 virginporn\.info #Requested on talkpage
 qklinkserver\.com #Requested on talkpage
