@@ -2199,5 +2199,7 @@ opticsplanet\.net
 thesexlane\.com
 herhairlosshelp\.com
 kittenbootie\.info
+carrotjuice\.com
+pineapplejuice\.com
 
  #</pre> <!-- leave this line exactly as it is -->
