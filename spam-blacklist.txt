@@ -1761,6 +1761,7 @@ new-media\.it
 sanzioniamministrative\.it
 chicercatrova2000\.it
 ajcarvelli\.com
+mitopositano\.it
 
 #de\.wiki - User:M7 (M\/)
 animemanga\.de
