@@ -2095,6 +2095,7 @@ onlineph\.info
 digitalpoimt\.com
 quotesandpoem\.com
 kikks\.info
+qp16\.com
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
