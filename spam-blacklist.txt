@@ -2208,6 +2208,5 @@ carrotjuice\.com
 pineapplejuice\.com
 aceshowbiz\.com
 fiero\.nl
-zanox\.com
 
  #</pre> <!-- leave this line exactly as it is -->
