@@ -2120,6 +2120,8 @@ top\.netfirms\.com # http://en.wikipedia.org/w/index.php?title=User_talk%3ASj&di
 homes\.aol\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=69231160
 tfitj\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68729048
 espacioblog\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68721962
+ngvjj\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68709087
+
 
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
@@ -2212,7 +2214,7 @@ bobbyboulders
 imwithbobby
 dronnoal # [http://myblog.de/dronnoal pharmacy]
 tprehj # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=69137387
-
+cheap-airfares
 
 #urlredir
 short\.be
@@ -2230,6 +2232,8 @@ myvnc\.com
 serve(beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
 sytes\.net
 ##End of Naconkantari
+
+
 # Added by Pathoschild
 ## Search the dated archives for discussion
 ### 2006-06
