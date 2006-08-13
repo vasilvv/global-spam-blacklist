@@ -2121,6 +2121,7 @@ homes\.aol\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=pr
 tfitj\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68729048
 espacioblog\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68721962
 ngvjj\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68709087
+udtgt\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68240743
 
 
 
