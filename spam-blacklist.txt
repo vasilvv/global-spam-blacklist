@@ -2103,6 +2103,7 @@ ad\.zanox\.com
 zapto\.org
 redirectme\.com
 no-ip\.net
+myftp\.biz
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
