@@ -2119,6 +2119,8 @@ piranho\.com # http://brh1.piranho.com/pussy-eat-out.html
 top\.netfirms\.com # http://en.wikipedia.org/w/index.php?title=User_talk%3ASj&diff=69349426&oldid=69253618
 homes\.aol\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=69231160
 
+
+
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
 aquinox\.net
@@ -2198,9 +2200,8 @@ needlustgirl\.org
 ##phrases
 (online|discount|best)(md|rx)
 cheap-xanax
-(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|retin|valium|levitra)(-side-effects|top|pharm|pill|discount|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)
-(-side-effects|top|pharm|pill|discount|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|levitra|retin|valium)
-cheap-valium
+(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|zenical|xenical|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|retin|valium|levitra)(-side-effects|top|pharm|pill|discount|discount-|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)
+(-side-effects|top|pharm|pill|discount|discount-|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|zenical|xenical|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|retin|valium|levitra)
 bestvi
 llpharm
 phvonline
@@ -2209,6 +2210,7 @@ wikipharm
 bobbyboulders
 imwithbobby
 dronnoal # [http://myblog.de/dronnoal pharmacy]
+tprehj # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=69137387
 
 
 #urlredir
