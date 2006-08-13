@@ -2123,6 +2123,7 @@ espacioblog\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=p
 ngvjj\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68709087
 udtgt\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68240743
 pzkyy\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68227807
+pxjhh\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68226253
 
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
