@@ -2102,8 +2102,13 @@ adult\.csx\.jp
 ad\.zanox\.com
 zapto\.org
 redirectme\.com
-no-ip\.net
-myftp\.biz
+no-ip\.(net|biz|info|org)
+myftp\.(biz|org)
+bounceme\.net
+hopto\.org
+myvnc\.com
+serve(beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
+sytes\.net
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
