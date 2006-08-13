@@ -1972,64 +1972,153 @@ ppstream\.com
 
 ##Naconkantari
 
-aspsupergirls\.phpnet\.us
-users\.libero\.it\/seza
-hifrienddd\.info
-# rexcurry\.net Why was this blacklisted? Please explain on talk --Eloquence
-childharness\.net
-self-defender\.net
-girls4fuking\.com
-#www\.seedwiki\.com
-# jot\.com Why was this blacklisted? Please explain on talk -- Eloquence
-spaland\.googlepages\.com
-tvstand\.ho\.com\.ua
-biki4\.com
-rdos\.net
-casino\.realdiscounts\.be
-sessocities\.net
-nigeriaplanet\.proboards43\.com
-nigeriaone\.com
-nigeriaplanet\.tk
-geocities\.com\/seelagos
-securefta\.com
-freewaretown\.com
-sharewareisland\.com
-www\.box\.net\/public\/4y0dyzya43
-discutfree\.com
-bestmd\.coz\.in
-fulltimewebmaster\.com
-viagrabuy\.54\.pl
-www\.internationalpenfriends\.net
-rockdd\.beeplog\.com
-nfhtt\.info
-fo4n\.com
-de\.kakiko\.com
-lasercard\.com
-j-mayer\.org
-bloomingtonnormal\.com
+aspsupergirls\.phpnet\.us # http://aspsupergirls.phpnet.us/index1102.html
+users\.libero\.it\/seza # http://en.wikipedia.org/wiki/User_talk:Rick_Block/Archive2006#Zen_Buddhism_external_link
+hifrienddd\.info # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/06#hifrienddd.info
+childharness\.net # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/06#childharness.net
+self-defender\.net # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/06#selfdefenseforums.com.2C_self-defender.net
+girls4fuking\.com # http://girls4fuking.com/index3906.html
+spaland\.googlepages\.com # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/06#spaland.googlepages.com
+ho\.com\.ua # <a href=" http://tvstand.ho.com.ua ">corner stand tv vcr</a>
+biki4\.com # http://pharmacy.biki4.com/01-cialis-discount-gbooksmelodysoftcom-link.htm
+rdos\.net # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#securefta.com
+casino\.realdiscounts\.be # <a href="http://casino.realdiscounts.be/">casino</a
+sessocities\.net # http://01.sessocities.net/poker/poker.htm
+nigeriaplanet\.proboards43\.com # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#securefta.com
+nigeriaone\.com # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#securefta.com
+nigeriaplanet\.tk # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#securefta.com
+geocities\.com\/seelagos # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#securefta.com
+securefta\.com # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#securefta.com
+freewaretown\.com # affiliate
+sharewareisland\.com # affiliate
+www\.box\.net\/public\/4y0dyzya43 # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#www.box.net.2Fpublic.2F4y0dyzya43
+discutfree\.com # [url=http://cheapviagrapills.discutfree.com]cheap viagra[/url]
+coz\.in # phentermine77.coz.in/
+fulltimewebmaster\.com # <a href="http://www.fulltimewebmaster.com/myforum/?mforum=viagrapills">buy viagra</a>
+5(3|4)\.pl # http://buyreductilonline.54.pl
+www\.internationalpenfriends\.net # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#www.internationalpenfriends.net
+rockdd\.beeplog\.com # <a href='http://rockdd.beeplog.com/'>buy levitra</a>
+nfhtt\.info # <a href='http://xanax-4.nfhtt.info/buy-xanax-online.html'>buy xanax online</a> 
+fo4n\.com #  http://fo4n.com/index586.html
+de\.kakiko\.com # <a href="http://888.de.kakiko.com/viagra/Best-generic-viagra.html">Best generic
+#lasercard\.com - NO REASON FOUND - DISABLED
+bloomingtonnormal\.com # http://bloomingtonnormal.com/uploads/vicodin.htm
 -coupons\.org
-theunfunnytruth\.ytmnd\.com
-theunfunnysequel\.ytmnd\.com
-glow-sticks\.org
-glowsticks\.co\.uk
-partners\.webmasterplan\.com
-bphena\.hepi\.pl
-hometown\.aol\.com\/kolakq
-hometown\.aol\.com\/cup2006fifa
-hometown\.aol\.com\/fokann
-hentai\.com
-xhost\.ro
-nigeria\.chickenkiller\.com
-pharisees\.org
-tunisie\.com
-xhostar\.com
-sufx\.net
-3x\.ro
-pochta\.ru
-hometown\.aol\.com\/viagriu
-ooqwe\.info
-gabenewell\.com
-churnedfortaste\.com
+theunfunny(truth|sequel)\.ytmnd\.com # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#Googlebombing_by_YTMND
+glow-sticks\.org # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#glowsticks.co.uk
+glowsticks\.co\.uk # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#glowsticks.co.uk
+partners\.webmasterplan\.com # affiliate
+hepi\.pl # <a href='http://bphena.hepi.pl/'>Cheap Phentermine</a>
+hometown\.aol\.com\/(kolakq|cup2006fifa|fokann) # http://hometown.aol.com/fokann/ultram/buy-ultram-online.html valium buy valium
+hentai\.com # GNAA
+xhost\.ro # [k-alhabeb.xhost.ro], [k-and-a.xhost.ro], [k-citate.xhost.ro]
+nigeria\.chickenkiller\.com # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#Nigeria.chickenkiller.com
+pharisees\.org # http://en.wikipedia.org/w/index.php?title=Preterism&diff=prev&oldid=61323417
+#tunisie\.com - NO REASON FOUND - DISABLED
+xhostar\.com # http://rolex.xhostar.com/rolex-wrist-watch.html 
+sufx\.net # http://best-game.sufx.net/mystery-
+3x\.ro # http://croco.3x.ro/index2344.html
+pochta\.ru # [url=http://ijkkjh.pochta.ru/Paint-Horse.html]Paint Horse[/url]
+hometown\.aol\.com\/viagriu # obvious
+ooqwe\.info # [url=http://office-depot.ooqwe.info/]Office Depot[/url]
+gabenewell\.com # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#gabenewell.com_and_churnedfortaste.com.27return
+churnedfortaste\.com # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#gabenewell.com_and_churnedfortaste.com.27return
+tvhosted\.com # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#www.tvhosted.com
+theglowcompany\.co\.uk # http://meta.wikimedia.org/wiki/Talk:Spam_blacklist/Archives/2006/07#glowsticks.co.uk
+forum\.bodybuilding\.com # cell tech
+bodybuilding.com\/fun\/bigron # cell tech
+guide-proteines\.org # cell tech
+guide-phytosante\.org # cell tech
+guide-vitamines\.org # cell tech
+all-musculation\.com # cell tech
+g00ns\.net # website defacers
+lastoa\.cat # http://meta.wikimedia.org/w/index.php?title=User_talk%3ANaconkantari&diff=392926&oldid=391182
+1golod\.org # http://babes.1golod.org/blonde-beach-babes-in-bikinis.html
+gayhomes\.net # [http://www.gayhomes.net/mudak/zovirax1.html zovirax]
+1jolla\.org # http://gay.1jolla.org/flagstaff--az-chatrooms-and-gay.html flagstaff az chatrooms and gay
+1ebalo\.org # http://pictures.1ebalo.org/pictures-of-surya.html
+1ibanusiks\.org # http://baby.1ibanusiks.org/poems-for-baby-shower-invitations.html
+1domiks\.org # http://picture.1domiks.org/printable-picture-frames.html
+ipoo\.org # [url=http://ipoo.org/2orx#viagra]generic viagra[/url] 
+american-eagle-gold-coins\.com # http://meta.wikimedia.org/w/index.php?title=Talk:Spam_blacklist&diff=next&oldid=396020
+thefreepornking\.com # http://en.wikipedia.org/w/index.php?title=Gold_Coast%2C_Queensland&diff=67190944&oldid=67190721
+yu\.to # http://yu.to/yu/buy-xanax-on-line.html buy xanax on line
+onlineph\.info # <a href="http://onlineph.info/orderviagraonline/#viagra">order viagra online</a>
+digitalpoimt\.com # <a href="http://me8pc.digitalpoimt.com">guaranty insurance mortgage</a> <br /> 
+quotesandpoem\.com # http://meta.wikimedia.org/w/index.php?title=Talk:Spam_blacklist&diff=prev&oldid=401666
+kikks\.info # <a href='http://xanax-online.kikks.info/buy-xanax.html'>Buy Xanax</a>
+qp16\.com # http://meta.wikimedia.org/w/index.php?title=Talk:Spam_blacklist&diff=next&oldid=404372
+webcamhelp\.redirectme\.net # http://meta.wikimedia.org/w/index.php?title=Talk:Spam_blacklist&diff=next&oldid=404372
+adult\.csx\.jp # <a href="http://adult.csx.jp/~onvia/viagra-without-prescription. html">viagra without prescription</a>
+ad\.zanox\.com # http://ad.zanox.com/ppc/?3404569C1071610321T Russia 
+1narodoo.org # [http://4new26.1narodoo.org/act-one-temporary-employment.html act one temporary employment]
+fort-myers-florida-real-estate\.com # [http://www.fort-myers-florida-real-estate.com/include.php?URL=http://cyberimagegh.com/1/retin.html retin]
+bbtttgg\.org # [http://search.bbtttgg.org/college-scolarship-search.html college scolarship search]
+brrddd\.org # [http://airline.brrddd.org/fly-northwest-airline-berlin.html fly northwest airline berlin]
+jhyujik\.org # 	[http://blowjob.jhyujik.org/2-girl-double-blowjob.html 2 girl double blowjob]
+kktthhyy\.org # [http://baby.kktthhyy.org/holmes-baby.html holmes baby]
+lliippoo\.org # [http://pussy.lliippoo.org/chelsea-charms--pussy.html chelsea charms  pussy]
+mewqsd\.org # [http://lyrics.mewqsd.org/lyrics-for-hilary-duff.html lyrics for hilary duff]
+mmuukkii\.org # [http://gifts.mmuukkii.org/e-gifts.html]
+nnyykkii\.org # [http://girl.nnyykkii.org/girl-in-sauce.html girl in sauce]
+nnntttl\.org # [http://escorts.nnntttl.org/vixens-escorts.html vixens escorts]
+nnwwddrr\.org # [http://map.nnwwddrr.org/warsaw-street-map.html warsaw street map]
+polott\.org # [http://forum.polott.org/tickling-media-forum.html tickling media forum]
+ssddffrr\.org # [http://air.ssddffrr.org/maxx-air-bf24tf.html maxx air bf24tf]
+ttuuoopp\.org # [http://girls.ttuuoopp.org/garage-girls.html garage girls]
+vfrrto\.org  # [http://baseball.vfrrto.org/washing-white-baseball-pants.html washing white baseball pants]
+vttolldd\.org # [http://weather.vttolldd.org/akumal-weather-forecast.html akumal weather forecast]
+vttthtgg\.org # [http://error.vttthtgg.org/error-number--0x8ddd0018.html error number 0x8ddd0018]
+download\.reggdr\.org # [http://download.reggdr.org/free-download-hindi-music.html free download hindi music]
+mikewsd\.org # [http://half.mikewsd.org/bits-in-a-half-dollar.html bits in a half dollar]
+1narodoo\.org # [http://4new26.1narodoo.org/adam-lisle-au.html adam lisle au]
+1kioskoo\.org # [http://1new23.1kioskoo.org/houseplantspalm.html houseplantspalm]
+1ebalo\.org # [http://pictures.1ebalo.org/amateur-haircut-pictures.html amateur haircut pictures]
+ifa-space\.de\/host\/pills # [http://ifa-space.de/host/pills/carisoprodol.html carisoprodol]
+freeforen\.com\/wss\/host\/pills # [http://freeforen.com/wss/host/pills/zyrtec.html zyrtec]
+space\.webshells\.de\/host\/pills/ # [http://space.webshells.de/host/pills/cialis.html cialis]
+thima\.org # [http://www.thima.org/bbs/01/msg/37028.html buy vicodin online]
+kingmegames\.com # [http://www.kingmegames.com/10342/images/buycarisoprodol.htm buy carisoprodol]
+pyrobilia\.com # [http://www.pyrobilia.com/pyroal/orderviagra.htm order viagra]
+faragauss\.com # [http://www.faragauss.com/wwwboard/messages/36582.html order levitra]
+accim\.org # <a href="http://www.accim.org/wboard/messages/5099.html">viagra</a>
+free-forums\.org # <a href="http://viagrasale.free-forums.org/�">viagra</a>
+anzwers\.net # http://www.anzwers.net/hot/pornmovies/transsexual.html
+jw0\.info # [http://shemale.jw0.info/free-nude-shemale.html free nude shemale ]
+groto\.info # [http://milano.groto.info/cafe-milano.html milano]
+cnfibernet\.com\.cn # [http://www.cnfibernet.com.cn 防雷产品]
+bjdyzs\.com # [http://www.bjdyzs.com 净水机]
+zgxbw\.cn # [http://www.zgxbw.cn 尖锐湿疣]
+shfldz\.com # [http://www.shfldz.com 光栅尺]
+home-trade\.net # [http://www.home-trade.net/superdata.htm 速达软件]
+home4u\.china\.com # [http://qczl9135.home4u.china.com 汽车租赁]
+mhgzs\.com # [http://www.mhgzs.com 紫砂]
+lkcx\.com # [http://www.lkcx.com/index1.htm 电子巡更]
+coz\.in # [http://deepthroat.coz.in Deep Throats]
+webtest-community\.canoo\.com # [http://webtest-community.canoo.com/wiki/space/huynani/creampiemania.html Creampie Mania] |
+stikipad\.com # [http://mamba.stikipad.com/attachment/asset/5708/niaspan.html Niaspan]
+awardspace\.com # [http://alanburn.awardspace.com/shemales.html shemale porn]
+jo\.pl # [http://softener-water.jo.pl/ softener water]
+naszemiasto\.pl # [http://personalized-wedding-favors.blog.naszemiasto.pl/ personalized wedding favors]
+pardoschiken\.info # [http://pardoschiken.info/glasses glasses]
+parent(leaders|directorymp3|soasis|ingliving|sreportcard)\.info # [http://parentleaders.info/fence fence]
+parejaslibeales\.info # [http://parejaslibeales.info/nag nag]
+paripori\.info # [http://paripori.info/sole sole]
+paris(officedetourisme|tennessenews|roller|texasnewspaper).info # [http://parisofficedetourisme.info/project project]
+park(11|avemassage|avenuecoc|blvdwest|crossingpoker)\.info # [http://park11.info/leg leg]
+abukir\.info # [http://abukir.info/abyssal abyssal]
+bao(jiti|leys|limingdu|linzhai|lize)\.info # [http://baojiti.info/subscription subscription]
+admmission\.info # [http://admmission.info mission]
+ad(mmusicgroup|musics|musicacademy)\.info # [http://admmusicgroup.info music]
+nychesskids\.com # [http://www.nychesskids.com/blog_files/?w=bridress bridesmaid dress plus size]
+makinamuhendisi\.com # [http://www.makinamuhendisi.com/namcopool/ namco pool]
+u288\.com # [http://empirepoker.u288.com/ empire poker]
+prv\.pl # http://bxava.prv.pl/ambien/ambien-cr.html - http://bxava.prv.pl/ambien/ambien-online.html
+imsn\.biz # http://xanax.imsn.biz <a href="http://xanax.imsn.biz">Xanax</a>
+
+
+
+#req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
 aquinox\.net
 ballfolio\.com
@@ -2043,7 +2132,6 @@ iaa-dc\.org
 j-mayer\.org
 jouvence\.com
 kutdiak\.hu
-#mariner\.org
 rockthedesert\.com
 soargbsc\.com
 somber-resplendence\.net
@@ -2054,11 +2142,11 @@ applausestore\.com
 comfortinndowntown\.com
 creativesplendors\.com
 doggroups\.com
-emulnation\.info
+emulnation\.info 
 flyingpirate\.com
 infinet\.net
 kit2fit\.com
-mi-aime-a-ou\.com
+mi-aime-a-ou\.com 
 mohid\.com
 pulverradio\.com
 quiz-zone\.co\.uk
@@ -2067,39 +2155,7 @@ splendidshirt\.com
 systemtek\.net
 vegas-coupons\.org
 webdistributionltd\.com
-tvhosted\.com
--ringtones\.net
-theglowcompany\.co\.uk
-forum\.bodybuilding\.com
-bodybuilding.com\/fun\/bigron
-# adult-pornstar-mall\.com
-guide-proteines\.org
-guide-phytosante\.org
-guide-vitamines\.org
-all-musculation\.com
-angelfire\.com\/trek
-g00ns\.net
-lastoa\.cat
-1golod\.org
-gayhomes\.net
-1jolla\.org
-1ebalo\.org
-1ibanusiks\.org
-1domiks\.org
-mamba-d\.stikipad\.com
-ipoo\.org
-american-eagle-gold-coins\.com
-thefreepornking\.com
-yu\.to
-onlineph\.info
-digitalpoimt\.com
-quotesandpoem\.com
-kikks\.info
-qp16\.com
-webcamhelp\.redirectme\.net
-adult\.csx\.jp
-ad\.zanox\.com
-mikewsd\.org
+#end of ANI
 
 
 ##redirection spam on simple\.wiki
@@ -2139,14 +2195,10 @@ needlustgirl\.org
 
 
 ##phrases
-discountmd
-discountrx
-bestmd
+(online|discount|best)(md|rx)
 cheap-xanax
-onlinerx
-buy-soma
-(cialis|viagra|prazolam|xanax|zanax|vicodin|meridia|valium)(-side-effects|top|pharm|pill|discount|deal|price|order|now|best|cheap|online|buy|buy-|sale|sell)
-(top|pharm|pill|discount|deal|price|order|now|best|cheap|cheapest|online|buy|sale|sell|buy-)(cialis|vicodin|viagra|prazolam|xanax|valium|zanax|meridia)
+(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|retin|valium)(-side-effects|top|pharm|pill|discount|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)
+(-side-effects|top|pharm|pill|discount|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|retin|valium)
 cheap-valium
 bestvi
 llpharm
@@ -2155,28 +2207,10 @@ phvonline
 wikipharm
 bobbyboulders
 imwithbobby
+dronnoal # [http://myblog.de/dronnoal pharmacy]
 
 
-##external
-bbtttgg\.org
-brrddd\.org
-jhyujik\.org
-kktthhyy\.org
-lliippoo\.org
-mewqsd\.org
-mmuukkii\.org
-nnyykkii\.org
-nnntttl\.org
-nnwwddrr\.org
-polott\.org
-ssddffrr\.org
-ttuuoopp\.org
-vfrrto\.org
-vttolldd\.org
-vttthtgg\.org
-
-
-#urlreduction
+#urlredir
 short\.be
 n3t\.nl
 f2b\.be
@@ -2192,7 +2226,6 @@ myvnc\.com
 serve(beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
 sytes\.net
 ##End of Naconkantari
-
 # Added by Pathoschild
 ## Search the dated archives for discussion
 ### 2006-06
