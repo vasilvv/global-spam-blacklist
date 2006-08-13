@@ -2102,6 +2102,7 @@ adult\.csx\.jp
 ad\.zanox\.com
 zapto\.org
 redirectme\.com
+no-ip\.net
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
