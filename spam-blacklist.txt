@@ -2101,15 +2101,8 @@ webcamhelp\.redirectme\.net
 adult\.csx\.jp
 ad\.zanox\.com
 mikewsd\.org
-zapto\.org
-redirectme\.com
-no-ip\.(net|biz|info|org)
-myftp\.(biz|org)
-bounceme\.net
-hopto\.org
-myvnc\.com
-serve(beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
-sytes\.net
+
+
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
@@ -2124,6 +2117,8 @@ www\.fukuikenren\.or\.jp\/wwwboard
 www\.terrybozzio\.com\/wwwboard
 swiki\.nadir\.org\/refs
 japanese-girl\-xxx\.com
+
+
 ##spam on catux\.org
 www\.xmail\.net\/search
 www\.xmail\.net\/ac
@@ -2133,11 +2128,17 @@ blog\.hr
 weer\.pbwiki\.com\/f
 figgles\.8k\.com
 privetparis\.com
+
+
 ##spam on sonikmatter\.com
 trafu\.com
 pantyhose-net\.com
+
+
 ##fsorward
 needlustgirl\.org
+
+
 ##phrases
 discountmd
 discountrx
@@ -2155,6 +2156,8 @@ phvonline
 wikipharm
 bobbyboulders
 imwithbobby
+
+
 ##external
 bbtttgg\.org
 brrddd\.org
@@ -2172,12 +2175,23 @@ ttuuoopp\.org
 vfrrto\.org
 vttolldd\.org
 vttthtgg\.org
+
+
 #urlreduction
 short\.be
 n3t\.nl
 f2b\.be
 n0\.be
 ssr\.be
+zapto\.org
+redirectme\.com
+no-ip\.(net|biz|info|org)
+myftp\.(biz|org)
+bounceme\.net
+hopto\.org
+myvnc\.com
+serve(beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
+sytes\.net
 ##End of Naconkantari
 
 # Added by Pathoschild
