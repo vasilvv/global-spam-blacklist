@@ -2042,7 +2042,7 @@ gayhomes\.net # [http://www.gayhomes.net/mudak/zovirax1.html zovirax]
 ipoo\.org # [url=http://ipoo.org/2orx#viagra]generic viagra[/url] 
 american-eagle-gold-coins\.com # http://meta.wikimedia.org/w/index.php?title=Talk:Spam_blacklist&diff=next&oldid=396020
 thefreepornking\.com # http://en.wikipedia.org/w/index.php?title=Gold_Coast%2C_Queensland&diff=67190944&oldid=67190721
-yu\.to # http://yu.to/yu/buy-xanax-on-line.html buy xanax on line
+(?!jo)yu\.to # http://yu.to/yu/buy-xanax-on-line.html buy xanax on line
 onlineph\.info # <a href="http://onlineph.info/orderviagraonline/#viagra">order viagra online</a>
 digitalpoimt\.com # <a href="http://me8pc.digitalpoimt.com">guaranty insurance mortgage</a> <br /> 
 quotesandpoem\.com # http://meta.wikimedia.org/w/index.php?title=Talk:Spam_blacklist&diff=prev&oldid=401666
