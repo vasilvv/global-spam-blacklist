@@ -2101,6 +2101,7 @@ webcamhelp\.redirectme\.net
 adult\.csx\.jp
 ad\.zanox\.com
 zapto\.org
+redirectme\.com
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
 www\.hemsida\.net\/wwwboard
