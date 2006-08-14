@@ -2136,6 +2136,16 @@ mopstravel\.com # per above link
 ueuo\.com # per above link
 forumgratis\.com # per above link
 phpbbforfree\.com # per above link
+tekcities\.com # http://en.wikipedia.org/w/index.php?title=Special:Undelete&target=Talk%3AComparison_of_Internet_forum_software%2Fw%2Fw%2Findex.php&timestamp=20060813110125
+freehostpro\.com # per above link
+batcave\.net # per above link
+finance-on-line\.biz # http://en.wikipedia.org/w/index.php?title=Special:Undelete&target=Talk%3AComparison_of_Internet_forum_software%2Fw%2Fw%2Findex.php&timestamp=20060811154157
+trade-soft\.biz # per above link
+aba2ad\.info # per above link
+acac3ad\.info # per above link
+kvadratdvd\.com # per above link
+proinvestment\.biz # per above link
+drivecleaner\.com # per above link
 
 
 
