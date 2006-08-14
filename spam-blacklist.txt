@@ -2126,6 +2126,8 @@ pzkyy\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&o
 pxjhh\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68226253
 21publish\.de # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=next&oldid=68202436
 chezmoi\.aol\.ca # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&curid=444798&diff=69642550&oldid=69616322
+cs\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=69560671
+
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
