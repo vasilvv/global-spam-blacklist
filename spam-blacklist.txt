@@ -2227,7 +2227,7 @@ n0\.be
 ssr\.be
 zapto\.org
 redirectme\.com
-no-ip\.(net|biz|info|org)
+#no-ip\.(net|biz|info|org)
 myftp\.(biz|org)
 bounceme\.net
 hopto\.org
