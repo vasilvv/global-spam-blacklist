@@ -2134,6 +2134,8 @@ mp-musik4\.info # per above link
 super10sites\.info # per above link
 mopstravel\.com # per above link
 ueuo\.com # per above link
+forumgratis\.com # per above link
+phpbbforfree\.com # per above link
 
 
 
