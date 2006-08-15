@@ -2125,7 +2125,7 @@ pzkyy\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&o
 pxjhh\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=68226253
 21publish\.de # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=next&oldid=68202436
 chezmoi\.aol\.ca # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&curid=444798&diff=69642550&oldid=69616322
-cs\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=69560671
+\.cs\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=69560671
 mpsong1\.info # http://en.wikipedia.org/w/index.php?title=Special:Undelete&target=Talk%3AComparison_of_Internet_forum_software%2Fw%2Fw%2Findex.php&timestamp=20060814171352
 mpmusik2\.info # per above link
 mp-song3\.info # per above link
