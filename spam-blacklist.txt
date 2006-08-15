@@ -2147,7 +2147,7 @@ proinvestment\.biz # per above link
 drivecleaner\.com # per above link
 editthis\.info\/the_alternative_universe # vandalism
 1foleks.org # [http://sex.1foleks.org/best-sex-act.html] best sex act
-
+chronicpainresourcecenter\.com # http://en.wikipedia.org/w/index.php?title=Opioid&diff=prev&oldid=69720359
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
