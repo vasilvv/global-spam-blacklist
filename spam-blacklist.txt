@@ -2305,5 +2305,6 @@ pineapplejuice\.com
 aceshowbiz\.com
 fiero\.nl
 alexeykaz\.boom\.ru
+www\.rxhj\.net
 
  #</pre> <!-- leave this line exactly as it is -->
