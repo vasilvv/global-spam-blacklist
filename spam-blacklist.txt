@@ -2148,6 +2148,12 @@ drivecleaner\.com # per above link
 editthis\.info\/the_alternative_universe # vandalism
 1foleks.org # [http://sex.1foleks.org/best-sex-act.html] best sex act
 chronicpainresourcecenter\.com # http://en.wikipedia.org/w/index.php?title=Opioid&diff=prev&oldid=69720359
+shihhsin\.com\.tw # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=409764&oldid=409736
+westlord\.com # per above link
+realfierotech\.com # per above link
+fieronews\.com # per above link
+
+
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
