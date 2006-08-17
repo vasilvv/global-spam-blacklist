@@ -2154,6 +2154,8 @@ realfierotech\.com # per above link
 fieronews\.com # per above link
 skincarecity\.com # http://en.wikipedia.org/w/index.php?title=Sebaceous_cyst&diff=66159883&oldid=65668240
 viartis\.net # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=410692&oldid=410596
+kleeneze-information\.co\.uk # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=411696&oldid=411695
+earningsboost\.com # per above link ~~~~
 
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
