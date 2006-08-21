@@ -2316,4 +2316,7 @@ hometown\.aol\.de
 ourworld\.cs\.com
 free-porn\.aiipa\.info
 
+# Eloquence, August 2006
+rexcurry\.net # perTalk:Spam_blacklist/Archives/2006/06
+
  #</pre> <!-- leave this line exactly as it is -->
