@@ -2174,7 +2174,7 @@ erisfree\.com
 iaa-dc\.org
 j-mayer\.org
 jouvence\.com
-kutdiak\.hu
+#kutdiak\.hu # disabled082106
 rockthedesert\.com
 soargbsc\.com
 somber-resplendence\.net
