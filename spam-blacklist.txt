@@ -2158,6 +2158,8 @@ kleeneze-information\.co\.uk # http://meta.wikimedia.org/w/index.php?title=Talk%
 earningsboost\.com # per above link
 ourworld\.cs\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=70506005
 netfirms\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=70361859
+kleeneze-information\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=413774&oldid=413709
+
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
