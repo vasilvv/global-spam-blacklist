@@ -2167,7 +2167,7 @@ funpic\.de # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&ol
 edom\.co\.uk # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=414592&oldid=414584
 \.slum\.in # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=71283503
 shop-links\.info # http://en.wikipedia.org/w/index.php?title=Diverticulitis&diff=prev&oldid=71372688
-
+\.rapa\.jp # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=71324578
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
