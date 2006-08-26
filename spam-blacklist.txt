@@ -1679,7 +1679,7 @@ toutelapoesie\.com
 topsites\.blog\.expedia\.fr
 buysanfranciscotours\.com
 buyalcatraztours\.com
-greattearoomsofamerica\.com
+# greattearoomsofamerica\.com <- should have been removed, according to talk logs
 whale\.to
 vaccination\.org\.uk
 seemalaysia\.org
