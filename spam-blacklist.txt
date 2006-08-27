@@ -2337,5 +2337,7 @@ freehardcorevideo\.org
 
 # Eloquence, August 2006
 rexcurry\.net # perTalk:Spam_blacklist/Archives/2006/06
+2surf\.eu # spammy webhost
+122mb\.com # spammy webhost
 
  #</pre> <!-- leave this line exactly as it is -->
