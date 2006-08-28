@@ -2340,4 +2340,6 @@ rexcurry\.net # perTalk:Spam_blacklist/Archives/2006/06
 2surf\.eu # spammy webhost
 122mb\.com # spammy webhost
 
+www.neopets.com\/refer\.phtml?username= # requested by Ryulong
+
  #</pre> <!-- leave this line exactly as it is -->
