@@ -2185,7 +2185,7 @@ greysanatomyinsider\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASp
 hometown\.aol\.co\.uk # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&curid=37223&diff=71226082&oldid=71064886
 funpic\.org # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&diff=prev&oldid=73006766
 fremderfreiheitsschacht\.de # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423237&oldid=423234
-
+ewebet\.com # http://fr.wikipedia.org/w/index.php?title=Discussion_Utilisateur:Treanna/Livre_d%27or&diff=prev&oldid=9584153
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
