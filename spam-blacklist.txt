@@ -2183,6 +2183,7 @@ ishipress\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blackli
 jbactors\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423230&oldid=423229
 greysanatomyinsider\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423232&oldid=423230
 hometown\.aol\.co\.uk # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&curid=37223&diff=71226082&oldid=71064886
+funpic\.org # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&diff=prev&oldid=73006766
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
