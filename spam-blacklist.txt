@@ -2191,7 +2191,8 @@ softherenow\.org # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_black
 aswev\.info # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423249&oldid=423248
 penispillinfo\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423252&oldid=423251
 mtgotraders\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423257&oldid=423255
-
+repubblica\.it # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&curid=37223&diff=72582335&oldid=72580860
+rss99\.com # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&curid=37223&diff=72619791&oldid=72611309
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
