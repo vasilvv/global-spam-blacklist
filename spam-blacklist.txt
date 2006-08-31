@@ -2190,6 +2190,7 @@ wasaib\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&
 softherenow\.org # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423245&oldid=423243
 aswev\.info # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423249&oldid=423248
 penispillinfo\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423252&oldid=423251
+mtgotraders\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423257&oldid=423255
 
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
