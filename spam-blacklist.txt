@@ -1702,6 +1702,7 @@ wifi-planet\.org
 wifiguide\.org
 university-canada\.net
 zwai\.stikipad\.com
+hawksquawk\.net
 
 # D\.M\.: used for shock links
 goatse\.ca 
