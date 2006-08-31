@@ -2175,6 +2175,11 @@ funpic\.de # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&ol
 shop-links\.info # http://en.wikipedia.org/w/index.php?title=Diverticulitis&diff=prev&oldid=71372688
 rapa\.jp # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=71324578
 softecare\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=416554&oldid=416553
+airports\.org\.ua # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423216&oldid=423215
+logicgame\.com\.ua # per above link
+airports\.ho\.com\.ua # per above link
+putivnyk\.com # per above link
+ishipress.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423218&oldid=423217
 
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
