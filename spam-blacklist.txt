@@ -2199,6 +2199,9 @@ bitefight\.it # http://it.wikipedia.org/w/index.php?title=Portale:Comunit%C3%A0&
 adsense-wissen\.de # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423270&oldid=423269
 nueva-acropolis\.org\.ar # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423274&oldid=423270
 surgery-images\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423277&oldid=423276
+body-builder-pro\.com # http://en.wikipedia.org/w/index.php?title=General_Fitness_Training&diff=prev&oldid=73131698
+structuredsettlementtips\.com # http://en.wikipedia.org/w/index.php?title=Structured_settlement&diff=prev&oldid=73131293
+
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
