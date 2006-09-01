@@ -2056,7 +2056,7 @@ qp16\.com # http://meta.wikimedia.org/w/index.php?title=Talk:Spam_blacklist&diff
 webcamhelp\.redirectme\.net # http://meta.wikimedia.org/w/index.php?title=Talk:Spam_blacklist&diff=next&oldid=404372
 adult\.csx\.jp # <a href="http://adult.csx.jp/~onvia/viagra-without-prescription. html">viagra without prescription</a>
 ad\.zanox\.com # http://ad.zanox.com/ppc/?3404569C1071610321T Russia 
-1narodoo.org # [http://4new26.1narodoo.org/act-one-temporary-employment.html act one temporary employment]
+1narodoo\.org # [http://4new26.1narodoo.org/act-one-temporary-employment.html act one temporary employment]
 fort-myers-florida-real-estate\.com # www.fort-myers-florida-real-estate.com/include.php?URL=http://cyberimagegh.com/1/retin.html retin]
 bbtttgg\.org # [http://search.bbtttgg.org/college-scolarship-search.html college scolarship search]
 brrddd\.org # [http://airline.brrddd.org/fly-northwest-airline-berlin.html fly northwest airline berlin]
@@ -2109,7 +2109,7 @@ pardoschiken\.info # [http://pardoschiken.info/glasses glasses]
 parent(leaders|directorymp3|soasis|ingliving|sreportcard)\.info # [http://parentleaders.info/fence fence]
 parejaslibeales\.info # [http://parejaslibeales.info/nag nag]
 paripori\.info # [http://paripori.info/sole sole]
-paris(officedetourisme|tennessenews|roller|texasnewspaper).info # [http://parisofficedetourisme.info/project project]
+paris(officedetourisme|tennessenews|roller|texasnewspaper)\.info # [http://parisofficedetourisme.info/project project]
 park(11|avemassage|avenuecoc|blvdwest|crossingpoker)\.info # [http://park11.info/leg leg]
 abukir\.info # [http://abukir.info/abyssal abyssal]
 bao(jiti|leys|limingdu|linzhai|lize)\.info # [http://baojiti.info/subscription subscription]
@@ -2132,7 +2132,7 @@ pxjhh\.info # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&o
 21publish\.de # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=next&oldid=68202436
 chezmoi\.aol\.ca # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&curid=444798&diff=69642550&oldid=69616322
 \.cs\.com # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=69560671
-mpsong1\.info # http://en.wikipedia.org/w/index.php?title=Special:Undelete&target=Talk%3AComparison_of_Internet_forum_software%2Fw%2Fw%2Findex.php&timestamp=20060814171352
+mpsong1\.info # en.wikipedia.org/w/index.php?title=Special:Undelete&target=Talk%3AComparison_of_Internet_forum_software%2Fw%2Fw%2Findex.php&timestamp=20060814171352
 mpmusik2\.info # per above link
 mp-song3\.info # per above link
 mp-musik4\.info # per above link
@@ -2141,10 +2141,10 @@ mopstravel\.com # per above link
 ueuo\.com # per above link
 forumgratis\.com # per above link
 phpbbforfree\.com # per above link
-tekcities\.com # http://en.wikipedia.org/w/index.php?title=Special:Undelete&target=Talk%3AComparison_of_Internet_forum_software%2Fw%2Fw%2Findex.php&timestamp=20060813110125
+tekcities\.com # en.wikipedia.org/w/index.php?title=Special:Undelete&target=Talk%3AComparison_of_Internet_forum_software%2Fw%2Fw%2Findex.php&timestamp=20060813110125
 freehostpro\.com # per above link
 batcave\.net # per above link
-finance-on-line\.biz # http://en.wikipedia.org/w/index.php?title=Special:Undelete&target=Talk%3AComparison_of_Internet_forum_software%2Fw%2Fw%2Findex.php&timestamp=20060811154157
+finance-on-line\.biz # en.wikipedia.org/w/index.php?title=Special:Undelete&target=Talk%3AComparison_of_Internet_forum_software%2Fw%2Fw%2Findex.php&timestamp=20060811154157
 trade-soft\.biz # per above link
 aba2ad\.info # per above link
 acac3ad\.info # per above link
@@ -2152,7 +2152,7 @@ kvadratdvd\.com # per above link
 proinvestment\.biz # per above link
 drivecleaner\.com # per above link
 editthis\.info\/the_alternative_universe # vandalism
-1foleks.org # [http://sex.1foleks.org/best-sex-act.html] best sex act
+1foleks\.org # [http://sex.1foleks.org/best-sex-act.html] best sex act
 chronicpainresourcecenter\.com # http://en.wikipedia.org/w/index.php?title=Opioid&diff=prev&oldid=69720359
 shihhsin\.com\.tw # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=409764&oldid=409736
 westlord\.com # per above link
@@ -2171,7 +2171,6 @@ aiipa\.info # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&diff=
 \.iwde\.de #  http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=414200&oldid=414198
 funpic\.de # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=71093627
 \.edom\.co\.uk # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=414592&oldid=414584
-\.slum\.in # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=71283503
 shop-links\.info # http://en.wikipedia.org/w/index.php?title=Diverticulitis&diff=prev&oldid=71372688
 rapa\.jp # http://en.wikipedia.org/w/index.php?title=User_talk:Sj&diff=prev&oldid=71324578
 softecare\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=416554&oldid=416553
@@ -2183,7 +2182,7 @@ ishipress\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blackli
 jbactors\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423230&oldid=423229
 greysanatomyinsider\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423232&oldid=423230
 hometown\.aol\.co\.uk # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&curid=37223&diff=71226082&oldid=71064886
-\.funpic\.org # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&diff=prev&oldid=73006766
+funpic\.org # http://en.wikipedia.org/w/index.php?title=His_Dark_Materials&diff=prev&oldid=73006766
 fremderfreiheitsschacht\.de # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423237&oldid=423234
 ewebet\.com # http://fr.wikipedia.org/w/index.php?title=Discussion_Utilisateur:Treanna/Livre_d%27or&diff=prev&oldid=9584153
 wasaib\.com # http://meta.wikimedia.org/w/index.php?title=Talk%3ASpam_blacklist&diff=423242&oldid=423241
