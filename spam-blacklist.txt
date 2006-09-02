@@ -2203,8 +2203,7 @@ structuredsettlementtips\.com
 
 
 #req on ANI  
-http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#Ne 
-w_York_City_blackout_of_1977
+http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
 aquinox\.net
 ballfolio\.com
@@ -2283,20 +2282,13 @@ needlustgirl\.org
 ##phrases
 (online|discount|best)(md|rx)
 cheap-xanax
-(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|zenical|xenical|meridia|paxil|prozac|cl 
-aritin|allegra|lexapro|wellbutrin|zoloft|retin|valium|levitra)(-side- 
-effects|top|pharm|pill|discount|discount-|deal|price|order|now|best|cheap|cheap- 
-|online|buy|buy-|sale|sell)
-(-side-effects|top|pharm|pill|discount|discount-|deal|price|order|now|best|cheap|cheap- 
-|online|buy|buy-|sale|sell) 
-(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|zenical|xenical|meridia|paxil|prozac|cl 
-aritin|allegra|lexapro|wellbutrin|zoloft|retin|valium|levitra)
+(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|zenical|xenical|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|retin|valium|levitra)(-side-effects|top|pharm|pill|discount|discount-|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)
+(-side-effects|top|pharm|pill|discount|discount-|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|zenical|xenical|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|retin|valium|levitra)
 bestvi
 buycheap
 llpharm
 phvonline
-(nexium|claritin|wellbutrin|renova|zyrtec|prilosec|imitrex|flonase|lexapro|buspar|retin| 
-valtrax)\.html
+(nexium|claritin|wellbutrin|renova|zyrtec|prilosec|imitrex|flonase|lexapro|buspar|retin|valtrax)\.html
 wikipharm
 bobbyboulders
 imwithbobby
