@@ -47,7 +47,9 @@ voip99\.(com|net)
 ganzao\.68l\.com
 LostLiners\.de
 
-# CCNGROUP-GD and CHINANET-GD spammer, from list at http://wiki.creativecommons.org/wiki/Spam_blocks
+# CCNGROUP-GD and CHINANET-GD spammer, from list at 
+
+http://wiki.creativecommons.org/wiki/Spam_blocks
 no-1\.org\.cn
 18show\.cn
 5118\.net\.cn
@@ -74,7 +76,9 @@ gift800\.net
 ec51\.com
 ec91\.com
 
-# 2004-12-20 one spammer hit source, skwiktionary and enwikibooks from 202.108.59.100. This group:
+# 2004-12-20 one spammer hit source, skwiktionary and enwikibooks from 202.108.59.100. 
+
+This group:
 nuoya-hd\.com
 renzhengwang\.com
 cp868\.com
@@ -146,7 +150,9 @@ enhancemysearch\.com # same
 51dragon\.com # spammed extensively on other wikis, spammed on meta by DragOn
 home\.tiscali\.be\/wallpaperheaven
 bertelsmann2club\.be\.funpic\.de # requested on talk page
-(duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com # spammed on several en: articles by different anons
+(duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com # spammed on several en: articles 
+
+by different anons
 (duranduran|limahlmania)\.cjb\.net # same as above, both requested on talk
 autospectator\.com # requested on talk
 golfcards\.com # requested on talk
@@ -202,17 +208,25 @@ geocities\.com\/spalandhu # requested on talk # 2005-10-19
 geocities\.com\/enspaland # requested on talk # 2005-10-19
 geocities\.com\/railwayguide # requested on talk # 2005-10-19
 dmoz\.org\/profiles\/spaland\.html # requested on talk # 2005-10-19
-teneriferesorts\.com # spam on enwiki: http://en.wikipedia.org/wiki/Special:Contributions/194.224.166.206 # 2005-10-24
+teneriferesorts\.com # spam on enwiki: 
+
+http://en.wikipedia.org/wiki/Special:Contributions/194.224.166.206 # 2005-10-24
 wik1\.info # requested on talk # 2005-10-25
 mq6\.info # linkfarm, requested on talk # 2005-10-27
 rx-seote\.com # requested on talk # 2005-10-31
-\.mx\.gs # some kind of free redirect service - no legitimate use on wikis # requested on talk # 2005-10-31
-98\.to # requested on talk # 2005-11-04 # a Chinese domain host? not used on any project\.
+\.mx\.gs # some kind of free redirect service - no legitimate use on wikis # requested 
+
+on talk # 2005-10-31
+98\.to # requested on talk # 2005-11-04 # a Chinese domain host? not used on any 
+
+project\.
 welcome\.to # requested on talk # 2005-11-04 # a URL hiding service - no legitimate use
 www5f\.biglobe\.ne\.jp\/~kokumin-shinbun\/S47\/4708 # requested on talk # 2005-11-06
 viprape\.com # requested on talk # 2005-11-06
 \.golft\.nl # requested on talk # domain hiding service # 2005-11-06
-privatepages\.servik\.com # spammed on the talk page for the spam blacklist, way to go spammers # 2005-11-06
+privatepages\.servik\.com # spammed on the talk page for the spam blacklist, way to go 
+
+spammers # 2005-11-06
 \.euro\.tm # requested on talk # another domain redirect service # 2005-11-07
 \.site\.tc # part of euro\.tm domain redirect service
 \.corp\.st # same
@@ -260,7 +274,9 @@ discuss\.freeforumsite\.com # requested on IRC
 # Brittys wake: Aphaia wrote down them 
 fibromyalgie-treffpunkt\.de # spammed on DEWP by 172\.180\.229\.141  
 \.go\.51\.net # spammed on meta: by 222\.45\.24\.152; Chinese spam 
-\.freewebpage\.org  # spammed on meta: by 222\.45\.24\.152, 222\.45\.24\.42, Chinese spam
+\.freewebpage\.org  # spammed on meta: by 222\.45\.24\.152, 222\.45\.24\.42, Chinese 
+
+spam
 sexyladies\.eroticalservers\.net # spammed on meta by 217\.156\.50\.242
 www\.amelatine\.com # spammed on fr\.wp: reported by AlNo
 ganzao\.88118888\.com # en\.wikiquote by 60\.26\.34\.193
@@ -291,10 +307,14 @@ www\.xtrastats\.com\/webcams\/free-adult-webcam-live-chat\/
 www\.dralex\.info # on lawq
 www\.zya9\.info # on lawq
 
-### Links from Sj, from GV Wiki (http://cyber.law.harvard.edu/globalvoices/wiki) and other MW sites
+### Links from Sj, from GV Wiki (http://cyber.law.harvard.edu/globalvoices/wiki) and 
+
+other MW sites
 #
 #    The \.to bandit (prolific; lots of sites)
-# http://cyber.law.harvard.edu/globalvoices/wiki/index.php?title=Global_Voices_Draft_Manifesto&diff=0
+# http://cyber.law.harvard.edu/globalvoices/wiki/index.php?
+
+title=Global_Voices_Draft_Manifesto&diff=0
 \.go\.to
 \.connect\.to
 \.drive\.to
@@ -366,18 +386,8 @@ russia\.webmatrixhosting\.net
 zya9\.info
 \.p2l\.info
 azzacash\.com
-## General hosts with large #s of spambot subdomains, but also useful ones\.  Touch choices\.
-# \.netfirms\.com # (25+ separate spambot subdomains)
-# \.host\.sk      # (10+ separate spambot subdomains)
-# \.fiberia\.com  # (many separate spambot subdomains)
-# \.webzdarma\.cz # (many)
-# \.sweb\.cz      # (many)
-# \.front\.ru 
-# \.narod\.ru 
-# \.nonews\.ru
 
 
-# --------------------------------------------
 # Korg's section
 #
 (.*gui.*|.*chai?r.*|.*lamp.*|.*cook.*|.*visa.*)\.white\.prohosting\.com
@@ -396,7 +406,9 @@ vacarreno\.net
 wiki\.servetown\.com
 cumfiesta4\.us
 stadianet\.com
-(asiangirlss|chickens|freeadult69|japanesegirl|matures|onlybestsex|sexgirls|supergirls\d*|wiki|wikipedia)\.servik\.com
+(asiangirlss|chickens|freeadult69|japanesegirl|matures|onlybestsex|sexgirls|supergirls\d
+
+*|wiki|wikipedia)\.servik\.com
 \.fw\.nu
 5g6y\.info
 (alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
@@ -459,18 +471,9 @@ casino-flower\.com
 pornzonehost\.com
 #
 
-#-------------------------------------------------------------------------------------
-# The following is derived from http:\/\/wikiblacklist\.blogspot\.com, thanks guys
-#-------------------------------------------------------------------------------------
 
-#Top level domains to block: (your choice)
-#\.cn(\/|:|$) #china
-#one particular German spammer has been using the next 5 domains:
-#\.de\.ms(\/|:|$)
-#\.de\.vu(\/|:|$)
-#\.us\.ms(\/|:|$)
-#\.de\.nr(\/|:|$)
-#\.de\.tc(\/|:|$)
+## The following is derived from http:\/\/wikiblacklist\.blogspot\.com, thanks guys
+
 
 
 #Patterns in urls:
@@ -550,13 +553,6 @@ lazy-stars
 eblja
 liuhecai
 buy-viagra
-
-# These won't work with MediaWiki:
-#-pics\.com(\/|:|$)
-#\.[0-9]+\.com(\/|:|$) #domain is only numbers
-#\.[0-9]+\.net(\/|:|$)
-#-[a-z]+\.biz(\/|:|$)
-
 
 #Other specific domains:
 
@@ -957,17 +953,8 @@ aauu\.net
 kykdz\.com
 china-crawfish\.com
 in-net\.ws
-yahoo\.com\/a1likostar
-yahoo\.com\/a0cany_2004
-yahoo\.com\/a00poleroid
-yahoo\.com\/a00asaz
-yahoo\.com\/a0_00leksa
-yahoo\.com\/stoons_cartoon
-yahoo\.com\/skystarpilot
-yahoo\.com\/klirinc
-yahoo\.com\/fhkdfohjdfhk
-yahoo\.com\/freekeramika
-yahoo\.com\/aikishot
+yahoo\.com\/(a1likostar|a0cany_2004|a00poleroid|a00asaz|a0_00leksa|stoons_cartoon)
+yahoo\.com\/(skystarpilot|klirinc|fhkdfohjdfhk|freekeramika|aikishot)
 les-mas-de-provence\.com
 mp3prof\.com
 fullhentaimovies\.net
@@ -1091,7 +1078,7 @@ toobis\.com
 netsurf\.ru
 
 
-#####   More recent lists and additions                       
+###   More recent lists and additions                       
 
 
 xxx-me\.info
@@ -1302,7 +1289,9 @@ hostfuck\.com
 #bigsitecity\.com 
 #newmail\.ru
 #mujweb\.cz < considered too broad
-\.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility.
+\.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's 
+
+responsibility.
 
 # Replacing overly broad once above - Andre Engels, 2005-08-09
 heavytools\.webzdarma\.cz
@@ -1351,7 +1340,6 @@ phentermine-drugs\.euro\.tm
 
 [A-Za-z-]*drugs\.euro\.tm
 
-# Note that shengen\.ru should be blocked alltogether
 21jewelry\.com
 mrjeweller\.us
 detox-kit\.com
@@ -1433,8 +1421,12 @@ pharmacy\.rr\.nu
 \.webtech\.pp\.ru
 #1 Mar 06 (requested by Danny)
 \.rockphiles\.com 
-#1 Mar 06 (requested by Dmcdevit, see http://en.wikipedia.org/wiki/User:Uriah923/OmniNerd)
-\.omninerd\.com  # Do not remove\. See http://meta.wikimedia.org/wiki/Spam_blacklist/recurring_requests
+#1 Mar 06 (requested by Dmcdevit, see 
+
+http://en.wikipedia.org/wiki/User:Uriah923/OmniNerd)
+\.omninerd\.com  # Do not remove\. See 
+
+http://meta.wikimedia.org/wiki/Spam_blacklist/recurring_requests
 #20 Mar 06 - spamming en\.wikipedia
 \.yadoo\.cn
 #25 Mar 06 - spamming en\.wikipedia
@@ -1751,7 +1743,9 @@ www\.kurumaerabi\.com #jawiki 210.238.206.66 2006-08-29
 ijijiji\.com
 \.5g6y\.info
 
-# [5:04pm] egg: anyone alive? i need an address to be blacklisted\. http:\/\/meta\.wikimedia\.org\/wiki\/Spam_blacklist
+# [5:04pm] egg: anyone alive? i need an address to be blacklisted\. http:\/
+
+\/meta\.wikimedia\.org\/wiki\/Spam_blacklist
 # [5:04pm] egg: this one: dir\.fasthoster\.de
 # [5:05pm] egg: there's a massive robot attack on cswiki\.
 # [5:05pm] egg: brion: ping
@@ -1893,7 +1887,9 @@ xanax\.umaxnet\.com #en\.wiki spam
 free-web-polls\.com #en\.wiki spam
 superlongpenis\.com #Even more en\.wiki spam\.\.\.
 therealincome\.com #More en\.wiki spam 
-doubleblue\.info #Site contains personal information about Wikipedians, and is being used to stalk and harass them\.
+doubleblue\.info #Site contains personal information about Wikipedians, and is being 
+
+used to stalk and harass them\.
 virtualneopetz\.com #Spamming on en from dynamic IPs
 stvincent\.od\.ua # spam domain
 rovno\.ua # spam domain
@@ -1968,7 +1964,9 @@ google-watch\.org
 cia-on-campus\.org      
 scroogle\.org
 yahoo-watch\.org
-#The following sites are being used to get around the scroogle.org spam blacklisting (above)
+#The following sites are being used to get around the scroogle.org spam blacklisting 
+
+(above)
 being-ones-self\.org
 myegotimes\.com
 
@@ -1979,7 +1977,9 @@ ppstream\.com
 
 
 ##Naconkantari
-##The reasons for adding the links below are located at http://en.wikipedia.org/wiki/User:Naconkantari/sbl
+##The reasons for adding the links below are located at 
+
+http://en.wikipedia.org/wiki/User:Naconkantari/sbl
 
 aspsupergirls\.phpnet\.us
 users\.libero\.it\/seza
@@ -2205,7 +2205,9 @@ findlocalguide\.com
 
 
 #req on ANI  
-http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
+http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#Ne
+
+w_York_City_blackout_of_1977
 acmedias\.org
 aquinox\.net
 ballfolio\.com
@@ -2284,13 +2286,10 @@ needlustgirl\.org
 ##phrases
 (online|discount|best)(md|rx)
 cheap-xanax
-(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|zenical|xenical|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|retin|valium|levitra)(-side-effects|top|pharm|pill|discount|discount-|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)
-(-side-effects|top|pharm|pill|discount|discount-|deal|price|order|now|best|cheap|cheap-|online|buy|buy-|sale|sell)(cialis|viagra|prazolam|xanax|zanax|soma|vicodin|zenical|xenical|meridia|paxil|prozac|claritin|allegra|lexapro|wellbutrin|zoloft|retin|valium|levitra)
 bestvi
 buycheap
 llpharm
 phvonline
-(nexium|claritin|wellbutrin|renova|zyrtec|prilosec|imitrex|flonase|lexapro|buspar|retin|valtrax)\.html
 wikipharm
 bobbyboulders
 imwithbobby
