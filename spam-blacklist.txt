@@ -2307,6 +2307,8 @@ hoopsvibe\.com                # request on IRC
 hoopsstats\.com               # request on IRC
 adsbus\.com                   # from zh wp, ADs 
 freebao\.com                  # from zh wp, ADs
+###2006-09
+bmd-certificates\.co\.uk      # IRC request
 
 # Added by MaxSem
 ## August 2006
