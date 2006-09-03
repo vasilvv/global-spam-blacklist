@@ -2339,6 +2339,4 @@ rexcurry\.net # perTalk:Spam_blacklist/Archives/2006/06
 neopets\.com\/refer\.phtml?username= # requested by Ryulong
 zetapets\.com\/register\.php?ref= # requested by Ryulong
 
-bmd-certificates\.co\.uk # IP-hopping spammer on en.wikipedia (added by Mark Ryan)
-
  #</pre> <!-- leave this line exactly as it is -->
