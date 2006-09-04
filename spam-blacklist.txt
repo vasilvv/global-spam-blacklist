@@ -1625,6 +1625,8 @@ wifiguide\.org
 university-canada\.net
 zwai\.stikipad\.com
 hawksquawk\.net
+maclenet\.com
+enacre\.net
 
 # D\.M\.: used for shock links
 goatse\.ca 
