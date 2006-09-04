@@ -1627,6 +1627,8 @@ zwai\.stikipad\.com
 hawksquawk\.net
 maclenet\.com
 enacre\.net
+allgames4u\.net
+republika\.pl
 
 # D\.M\.: used for shock links
 goatse\.ca 
