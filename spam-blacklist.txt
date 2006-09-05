@@ -2331,5 +2331,6 @@ rexcurry\.net
 
 neopets\.com\/refer\.phtml?username= # requested by Ryulong
 zetapets\.com\/register\.php?ref= # requested by Ryulong
+lotoplay\.com
 
  #</pre> <!-- leave this line exactly as it is -->
