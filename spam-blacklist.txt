@@ -2287,6 +2287,7 @@ freebao\.com
 funpic\.(de|org)
 bmd-certificates\.co\.uk
 pharmacy-school\.info
+share\.ws
 thetrueheroes\.org
 teradewunmer\.com
 
