@@ -2259,6 +2259,7 @@ freebao\.com
 ###2006-09
 bmd-certificates\.co\.uk
 thetrueheroes\.org # req.en-wp zscout370
+pharmacy-school\.info
 
 # Added by MaxSem
 ## August 2006
