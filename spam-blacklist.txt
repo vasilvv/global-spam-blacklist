@@ -141,7 +141,6 @@ serverlogic3\.com # one site inserted into edit forms by hyperlinker malware
 enhancemysearch\.com # same
 51dragon\.com # spammed extensively on other wikis, spammed on meta by DragOn
 home\.tiscali\.be\/wallpaperheaven
-bertelsmann2club\.be\.funpic\.de # requested on talk page
 (duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com # spammed on several en: articles by different anons
 (duranduran|limahlmania)\.cjb\.net # same as above, both requested on talk
 autospectator\.com # requested on talk
@@ -430,7 +429,6 @@ smuttygirls\.info
 f3so\.info
 health-medical\.be
 w9uh\.info
-aspsupergirls\.as\.funpic\.de
 (allmed|comeds)\.blogs\.eurosport\.com
 dare14\.com
 ourtrinity\.net
@@ -2083,7 +2081,6 @@ plasmatics\.com
 \.slum\.in
 aiipa\.info
 \.iwde\.de
-funpic\.de
 \.edom\.co\.uk
 shop-links\.info
 rapa\.jp
@@ -2096,7 +2093,6 @@ ishipress\.com
 jbactors\.com
 greysanatomyinsider\.com
 hometown\.aol\.co\.uk
-funpic\.org
 fremderfreiheitsschacht\.de
 ewebet\.com
 wasaib\.com
@@ -2288,9 +2284,10 @@ hoopsstats\.com
 adsbus\.com
 freebao\.com
 ## 2006-09
+funpic\.(de|org)
 bmd-certificates\.co\.uk
-thetrueheroes\.org
 pharmacy-school\.info
+thetrueheroes\.org
 teradewunmer\.com
 
  #</pre> <!-- leave this line exactly as it is -->
