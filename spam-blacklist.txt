@@ -2228,39 +2228,6 @@ serve(beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
 sytes\.net
 ##End of Naconkantari
 
-
-
-# Added by Pathoschild
-## Search the dated archives for discussion
-### 2006-06
-academiccalendar\.info
-allsexxdomain\.com
-architect\.architecture\.sk
-art-passion\.site\.voila\.fr
-chocolateplanet\.org
-coffee-guide\.us
-freesex\.com
-ipfeurope\.(eu|com|net|org)
-kreuz\.net
-lunesta\.wz\.cz
-perso\.orange\.fr\/jf\.dumousseaux
-smut\.com(?!ic)
-teainfo\.org
-\.to\.pl #redirector
-toporol\.be
-topsearch10\.com
-zocor-1\.be
-www\.spaingate\.com
-###2006-07
-hoopsvibe\.com
-hoopsstats\.com
-adsbus\.com
-freebao\.com
-###2006-09
-bmd-certificates\.co\.uk
-thetrueheroes\.org # req.en-wp zscout370
-pharmacy-school\.info
-
 # Added by MaxSem
 ## August 2006
 \.ipfox\.com
@@ -2294,5 +2261,36 @@ rexcurry\.net
 neopets\.com\/refer\.phtml?username= # requested by Ryulong
 zetapets\.com\/register\.php?ref= # requested by Ryulong
 lotoplay\.com
+
+# [[Spam blacklist/Log]]
+## 2006-06
+academiccalendar\.info
+allsexxdomain\.com
+architect\.architecture\.sk
+art-passion\.site\.voila\.fr
+chocolateplanet\.org
+coffee-guide\.us
+freesex\.com
+ipfeurope\.(eu|com|net|org)
+kreuz\.net
+lunesta\.wz\.cz
+perso\.orange\.fr\/jf\.dumousseaux
+smut\.com(?!ic)
+teainfo\.org
+\.to\.pl
+toporol\.be
+topsearch10\.com
+zocor-1\.be
+www\.spaingate\.com
+## 2006-07
+hoopsvibe\.com
+hoopsstats\.com
+adsbus\.com
+freebao\.com
+## 2006-09
+bmd-certificates\.co\.uk
+thetrueheroes\.org
+pharmacy-school\.info
+teradewunmer\.com
 
  #</pre> <!-- leave this line exactly as it is -->
