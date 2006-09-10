@@ -2160,50 +2160,6 @@ vegas-coupons\.org
 webdistributionltd\.com
 #end of ANI
 
-##2nd req from ANI http://meta.wikimedia.org/w/index.php?title=User_talk%3ANaconkantari&diff=425862&oldid=425136
-alienlife\.info
-amateurspaceflight\.com
-atomicrockets\.com
-atomicrockets\.com
-badastronomer\.com
-badastronomer\.net 
-badastronomer\.org 
-carlsagan\.info
-dinosaurs\.name
-everythingspace\.com
-jeeperscreepers3\.net
-jerrypournelle\.net
-jonathanbreck\.com
-nuclearaustralia\.com
-nuclearspace\.org
-projectorion\.info
-projectorion\.net
-projectorion\.org
-robertzubrin\.com
-sciforums\.info
-space4peace\.com
-spacedaily\.info
-spaceforums\.info
-spaceforums\.net
-spaceforums\.org
-spaceonion\.com
-stephenhawkingsuniverse\.com
-universedaily\.com
-universedaily\.info
-universedaily\.org
-universetoday\.info
-universetoday\.net
-wikipediac\.info
-wikipediac\.net
-wikipedial\.info
-wikipedial\.net
-wikipediam\.info
-wikipediam\.net
-wikipedian\.info
-yales\.info
-yowiehunter\.com
-#end of ANI2
-
 
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
