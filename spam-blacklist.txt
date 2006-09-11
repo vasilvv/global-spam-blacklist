@@ -2122,7 +2122,7 @@ greiff\.org
 banki-online\.info
 searchadv\.com
 topmeds10\.com
-freewebspace.com
+freewebspace\.com
 
 
 #req on ANI  
