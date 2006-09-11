@@ -1676,35 +1676,6 @@ ijijiji\.com
 
 dir\.fasthoster\.de
 
-signoraggio\.com
-1go\.it
-wikipediaitalia\.blogspot\.com
-megabustybimbos\.com
-tropeaonline\.it
-tuoip\.net
-new-media\.it
-sanzioniamministrative\.it
-chicercatrova2000\.it
-ajcarvelli\.com
-mitopositano\.it
-
-animemanga\.de
-bleach\.de
-detektivconan\.de
-digitalmonsters\.de
-dragonballz\.de
-gundamwing\.de
-gundamseed\.de
-hikarunogo\.de
-inuyasha\.de
-naruto\.de
-onepiece\.de
-princeoftennis\.de
-ranma\.de
-shaman-king\.de
-yugioh\.de
-fanart\.de
-
 #as per request on talk:spam_blacklist page - User:M7 (M\/)
 adult-contact\.info
 7-24porn\.com
@@ -1722,6 +1693,36 @@ softecare\.com
 megaupkoad\.com
 factorywhores\.com
 dod1\.info
+bigestass\.info
+
+#old inserts and direct requests to User:M7
+signoraggio\.com
+1go\.it
+wikipediaitalia\.blogspot\.com
+megabustybimbos\.com
+tropeaonline\.it
+tuoip\.net
+new-media\.it
+sanzioniamministrative\.it
+chicercatrova2000\.it
+ajcarvelli\.com
+mitopositano\.it
+animemanga\.de
+bleach\.de
+detektivconan\.de
+digitalmonsters\.de
+dragonballz\.de
+gundamwing\.de
+gundamseed\.de
+hikarunogo\.de
+inuyasha\.de
+naruto\.de
+onepiece\.de
+princeoftennis\.de
+ranma\.de
+shaman-king\.de
+yugioh\.de
+fanart\.de
 
 #commons
 health-medical\.be
