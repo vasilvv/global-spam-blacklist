@@ -2033,8 +2033,7 @@ lotoplay\.com
 7csun\.(com|org|net)
 8cx\.net
 17train\.com
-18show\.(org|net)
-18show\.cn
+18show\.(cn|org|net)
 51dragon\.com
 88aabb\.com
 98\.to
@@ -2089,10 +2088,7 @@ free-porn-friend-finder-adult\.info
 freewebs\.com/home-business-0 
 games\.net4free\.org 
 ganzao\.68l\.com
-geocities\.com/enspaland
-geocities\.com/hungarybusiness/spaland\.htm
-geocities\.com/railwayguide
-geocities\.com/spalandhu
+geocities\.com/(enspaland|hungarybusiness/spaland\.htm|railwayguide|spalandhu)
 gerhard\.paducktions\.net
 gghggh\.com
 gift800\.net
@@ -2169,7 +2165,6 @@ s018\.(org|net)
 scandinavia-pictures\.com
 searchmiracle\.com
 secure-network\.info
-secure-network\.info
 seov\.net
 serverlogic3\.com
 shop263\.com
@@ -2191,7 +2186,7 @@ ultimasurf\.net
 uusky\.com
 vbzx\.net
 viagra-drugs\.(no-ip|pills-pharmacy)\.(info|net)
-villepin2007\.org # 2005-11
+villepin2007\.org
 viprape\.com
 voip-guide\.org
 voip99\.(com|net)
@@ -2255,11 +2250,13 @@ toporol\.be
 topsearch10\.com
 zocor-1\.be
 www\.spaingate\.com
+
 ## 2006-07
 hoopsvibe\.com
 hoopsstats\.com
 adsbus\.com
 freebao\.com
+
 ## 2006-09
 chabad(east|usa|world)\.(am|com|org)
 chabad\.am
