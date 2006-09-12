@@ -1773,7 +1773,7 @@ webtest-community\.canoo\.com
 stikipad\.com
 awardspace\.com
 \.jo\.pl
-naszemiasto\.pl
+\.blog\.naszemiasto\.pl
 pardoschiken\.info
 parent(leaders|directorymp3|soasis|ingliving|sreportcard)\.info
 parejaslibeales\.info
