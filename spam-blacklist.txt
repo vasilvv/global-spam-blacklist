@@ -2295,7 +2295,8 @@ hoopsstats\.com
 adsbus\.com
 freebao\.com
 ## 2006-09
-chabad(east|usa|world)?\.(am|com)
+chabad(east|usa|world)\.(am|com|org)
+chabad\.am
 funpic\.(de|org)
 bmd-certificates\.co\.uk
 easytobook\.com
