@@ -1880,6 +1880,7 @@ banki-online\.info
 searchadv\.com
 topmeds10\.com
 freewebspace\.com
+opensourcearmenia\.com\/members
 
 
 #req on ANI  
