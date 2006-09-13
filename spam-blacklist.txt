@@ -1882,6 +1882,7 @@ topmeds10\.com
 freewebspace\.com
 opensourcearmenia\.com\/members
 bloopdiary\.com
+lenta\.com\.ua
 
 
 #req on ANI  
