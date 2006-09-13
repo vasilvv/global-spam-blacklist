@@ -1881,6 +1881,7 @@ searchadv\.com
 topmeds10\.com
 freewebspace\.com
 opensourcearmenia\.com\/members
+bloopdiary\.com
 
 
 #req on ANI  
