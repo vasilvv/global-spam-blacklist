@@ -1848,6 +1848,7 @@ freewebspace\.com
 opensourcearmenia\.com\/members
 bloopdiary\.com
 lenta\.com\.ua
+corona4\.info
 
 
 #req on ANI  
