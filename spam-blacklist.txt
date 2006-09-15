@@ -2272,5 +2272,5 @@ share\.ws
 thetrueheroes\.org
 teradewunmer\.com
 www\.webex\.com\.cn
-
+home\.kimo\.com\.tw/pager1114/
  #</pre> <!-- leave this line exactly as it is -->
