@@ -63,7 +63,7 @@ WTHP[0-9]\.disney\.com  #--(how'd they get those domains?  weird\.)
 \.forexhsi\.com
 \.sexy-maidens\.info
 \.tempurpedics\.org
-\.kanod\.com 
+\.kanod\.com
 \.hilbort\.com
 \.guvax\.com
 \.leronex\.com
@@ -77,7 +77,7 @@ WTHP[0-9]\.disney\.com  #--(how'd they get those domains?  weird\.)
 \.1min\.us
 allfioricet\.com
 allvicodin\.com
-diazepampill\.com 
+diazepampill\.com
 russia\.webmatrixhosting\.net
 zya9\.info
 \.p2l\.info
@@ -1852,8 +1852,7 @@ lenta\.com\.ua
 corona4\.info
 medicine-center\.info
 
-#req on ANI  
-http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
+#req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
 aquinox\.net
 ballfolio\.com
@@ -1991,8 +1990,8 @@ rexcurry\.net
 2surf\.eu
 122mb\.com
 
-neopets\.com\/refer\.phtml?username= # requested by Ryulong
-zetapets\.com\/register\.php?ref= # requested by Ryulong
+neopets\.com\/refer\.phtml\?username= # requested by Ryulong
+zetapets\.com\/register\.php\?ref= # requested by Ryulong
 lotoplay\.com
 
 # [[Spam blacklist/Log]]
@@ -2022,7 +2021,7 @@ ganzao\.68l\.com
 gerhard\.paducktions\.net
 gift800\.net
 hanlang88\.com
-home\.graffiti\.net/grafikdesign
+home\.graffiti\.net\/grafikdesign
 hukuki\.net
 jlsun\.com
 kgc-networks\.com
@@ -2101,8 +2100,8 @@ degrassi\.dumbbaby\.net
 didrex
 dimmo\.net
 discuss\.freeforumsite\.com
-dmoz\.org/Bookmarks/S/spaland
-dmoz\.org/profiles/spaland\.html
+dmoz\.org\/Bookmarks\/S\/spaland
+dmoz\.org\/profiles\/spaland\.html
 ebackground-checks\.com
 ebusiness-cards\.org
 ecar-rentals\.com
@@ -2110,10 +2109,10 @@ enhancemysearch\.com
 fiberia\.com
 fibromyalgie-treffpunkt\.de
 flats\.h1\.ru
-freewebs\.com/home-business-0 
+freewebs\.com\/home-business-0 
 games\.net4free\.org 
 ganzao\.88118888\.com
-geocities\.com/(enspaland|hungarybusiness/spaland\.htm|railwayguide|spalandhu)
+geocities\.com\/(enspaland|hungarybusiness\/spaland\.htm|railwayguide|spalandhu)
 gghggh\.com
 glmf33\.fr\.fm
 globalflights\.org
@@ -2124,9 +2123,9 @@ green-tea\.airmode\.de
 guizang\.net
 handycool\.de
 home-business-0\.t35\.com
-home\.arcor-online\.de/eberhard\.liss
-home\.arcor\.de/eberhard\.liss
-home\.tiscali\.be/wallpaperheaven
+home\.arcor-online\.de\/eberhard\.liss
+home\.arcor\.de\/eberhard\.liss
+home\.tiscali\.be\/wallpaperheaven
 hornyblog\.org
 house263\.com
 houseso\.cn
@@ -2180,29 +2179,29 @@ wedding-knot\.com
 welcome\.to
 wik1\.info
 wikidragon\.net
-www5f\.biglobe\.ne\.jp/~kokumin-shinbun/S47/4708
-www\.02188888888\.com/itcp009
-www\.2adultflashgames\.com/
+www5f\.biglobe\.ne\.jp\/~kokumin-shinbun\/S47\/4708
+www\.02188888888\.com\/itcp009
+www\.2adultflashgames\.com\/
 www\.1177888888\.com
 www\.a688\.net
 www\.amelatine\.com
-www\.angelfire\.com/poetry/seidel
+www\.angelfire\.com\/poetry\/seidel
 www\.copychina\.cn 
 www\.dralex\.info
 www\.dzsc\.com 
 www\.epackshop\.net 
-www\.games-soft\.net/sex_games\.html
-www\.h345\.com/Hotel
+www\.games-soft\.net\/sex_games\.html
+www\.h345\.com\/Hotel
 www\.hsfangzhen\.com
 www\.hzyage\.com
-www\.isoway-yoga\.com/
-www\.jifamark\.com/xhj\.htm
+www\.isoway-yoga\.com\/
+www\.jifamark\.com\/xhj\.htm
 www\.kufurao\.net
 www\.liss-kompendium\.de
 www\.MatchstickCats\.com
 www\.myseo\.com\.cn
 www\.seo88\.com
-www\.xtrastats\.com/webcams/free-adult-webcam-live-chat/
+www\.xtrastats\.com\/webcams\/free-adult-webcam-live-chat\/
 www\.zhkaw\.com
 www\.zya9\.info
 xazl\.net
@@ -2273,5 +2272,6 @@ share\.ws
 thetrueheroes\.org
 teradewunmer\.com
 www\.webex\.com\.cn
-home\.kimo\.com\.tw/pager1114/
+home\.kimo\.com\.tw\/pager1114\/
+
  #</pre> <!-- leave this line exactly as it is -->
