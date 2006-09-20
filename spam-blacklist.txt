@@ -1897,7 +1897,7 @@ vegas-coupons\.org
 webdistributionltd\.com
 #end of ANI
 
-#ANI2 (redir spam)
+#Universe Daily (en.wiki redir spam)
 alienlife\.info
 amateurspaceflight\.com 
 atomicrockets\.com
@@ -1924,7 +1924,13 @@ wikipedia(c|l|m)\.(info|net)
 wikipedian\.info
 yales\.info
 yowiehunter\.com
-#end ANI2
+terriirwin\.org
+bindisueirwin\.com
+markvaile\.com
+dinosuars\.name
+atomicsecrets\.com
+markvaile\.com
+#end UD
 
 
 ##redirection spam on simple\.wiki
