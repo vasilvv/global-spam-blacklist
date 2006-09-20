@@ -1897,6 +1897,35 @@ vegas-coupons\.org
 webdistributionltd\.com
 #end of ANI
 
+#ANI2 (redir spam)
+alienlife\.info
+amateurspaceflight\.com 
+atomicrockets\.com
+badastronomer\.(com|net|org)
+carlsagan\.info
+dinosaurs\.name
+everythingspace\.com
+jeeperscreepers3\.net
+jerrypournelle\.net
+jonathanbreck\.com
+nuclearaustralia\.com
+nuclearspace\.org 
+projectorion\.(info|net|org)
+robertzubrin\.com
+sciforums\.info
+space4peace\.com
+spacedaily\.info 
+spaceforums\.(info|net|org)
+spaceonion\.com
+stephenhawkingsuniverse\.com
+universedaily\.(com|info|org)
+universetoday\.(info|net) 
+wikipedia(c|l|m)\.(info|net)
+wikipedian\.info
+yales\.info
+yowiehunter\.com
+#end ANI2
+
 
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
