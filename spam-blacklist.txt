@@ -2158,7 +2158,7 @@ www1\.com\.cn
 zw88\.com
 \.to8\.com 
 
-## 2005
+## 2005 ([[Spam blacklist/Log]])
 (duranduran|limahlmania)\.cjb\.net
 (duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com
 0302\.net
@@ -2324,7 +2324,7 @@ zymq\.com
 \.zwap\.to
 \.zwitch\.to
 
-## 2006-06
+## 2006-06 ([[Spam blacklist/Log]])
 academiccalendar\.info
 allsexxdomain\.com
 architect\.architecture\.sk
@@ -2344,13 +2344,13 @@ topsearch10\.com
 zocor-1\.be
 www\.spaingate\.com
 
-## 2006-07
+## 2006-07 ([[Spam blacklist/Log]])
 hoopsvibe\.com
 hoopsstats\.com
 adsbus\.com
 freebao\.com
 
-## 2006-09
+## 2006-09 ([[Spam blacklist/Log]])
 chabad(east|usa|world)\.(am|com|org)
 chabad\.am
 funpic\.(de|org)
@@ -2366,7 +2366,7 @@ www\.webex\.com\.cn
 home\.kimo\.com\.tw\/pager1114\/
 tattoos\.phpnet\.us
 casinoforumu\.com
-memorial-niten-ichy-ryu\.com # per talk
-ecole-miyamoto-musashi\.com # per talk
+memorial-niten-ichy-ryu\.com
+ecole-miyamoto-musashi\.com
 
  #</pre> <!-- leave this line exactly as it is -->
