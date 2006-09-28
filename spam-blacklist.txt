@@ -2366,7 +2366,7 @@ www\.webex\.com\.cn
 home\.kimo\.com\.tw\/pager1114\/
 tattoos\.phpnet\.us
 casinoforumu\.com
-memorial-niten-ichy-ryu\.com
+(?:dojo|memorial)-niten-ichy-ryu\.com
 ecole-miyamoto-musashi\.com
 
  #</pre> <!-- leave this line exactly as it is -->
