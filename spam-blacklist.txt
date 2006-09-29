@@ -2373,4 +2373,11 @@ casinoforumu\.com
 (?:dojo|memorial)-niten-ichy-ryu\.com
 ecole-miyamoto-musashi\.com
 
+
+#http://en.wikipedia.org/w/index.php?title=User_talk%3ACool_Cat%2FArchive%2F2006%2F09&diff=77994772&oldid=75840958
+webhosting\.gs
+hottest-host\.com
+www4free\.de
+wingisp\.com
+
  #</pre> <!-- leave this line exactly as it is -->
