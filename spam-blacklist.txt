@@ -1865,7 +1865,9 @@ nif1\.com
 matei\.org
 45\.kg
 \.ledes\.net
-thea(s|p)\.info
+thea(s|p|t)\.info
+xoomer\.alice\.it
+yearlykos\.org
 
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
