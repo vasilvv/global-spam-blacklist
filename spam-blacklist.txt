@@ -1450,8 +1450,6 @@ freeonlinecasinoslots\.blogspot\.com
 vip-freeonlineslots\.blogspot\.com
 vip-bestonlinecasinos\.blogspot\.com
 atlanticcitycasinos\.blogspot\.com
-medved\.rootg\.org
-comlive\.biz
 
 #commons
 health-medical\.be
@@ -2089,7 +2087,6 @@ pharmacy-on-line\.org
 abcfreeringtones\.com
 allln\.com
 plone\.akl\.lt
-theap\.info
 
 # Eloquence, August 2006
 rexcurry\.net
