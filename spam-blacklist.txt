@@ -1547,6 +1547,9 @@ satellitetvtopc\.com
 ringtones-dir\.com
 parts4euro\.com
 
+#Jon Harald Søby's list
+wsite\.org
+
 #requests
 coinable\.com #by epopt
 meltemi\.pl 
