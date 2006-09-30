@@ -2393,4 +2393,7 @@ hottest-host\.com
 www4free\.de
 wingisp\.com
 
+# http://fr.wikipedia.org/w/index.php?title=Licence_publique_g%C3%A9n%C3%A9rale_GNU&diff=10489059&oldid=10479749&rcid=10039037
+parishilton-paris\.blogspot\.com
+
  #</pre> <!-- leave this line exactly as it is -->
