@@ -1656,7 +1656,7 @@ fo4n\.com
 de\.kakiko\.com
 bloomingtonnormal\.com
 -coupons\.org
-theunfunny(truth|sequel)\.ytmnd\.com
+#theunfunny(truth|sequel)\.ytmnd\.com
 glow-sticks\.org
 glowsticks\.co\.uk
 partners\.webmasterplan\.com
@@ -2094,6 +2094,7 @@ pharmacy-on-line\.org
 abcfreeringtones\.com
 allln\.com
 plone\.akl\.lt
+\.ytmnd\.com
 
 # Eloquence, August 2006
 rexcurry\.net
