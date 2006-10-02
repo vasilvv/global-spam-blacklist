@@ -2104,6 +2104,18 @@ neopets\.com\/refer\.phtml\?username= # requested by Ryulong
 zetapets\.com\/register\.php\?ref= # requested by Ryulong
 lotoplay\.com
 
+
+#http://en.wikipedia.org/w/index.php?title=User_talk%3ACool_Cat%2FArchive%2F2006%2F09&diff=77994772&oldid=75840958
+webhosting\.gs
+hottest-host\.com
+www4free\.de
+wingisp\.com
+
+# http://fr.wikipedia.org/w/index.php?title=Licence_publique_g%C3%A9n%C3%A9rale_GNU&diff=10489059&oldid=10479749&rcid=10039037
+parishilton-paris\.blogspot\.com
+lifestylemagic\.com #en spamming
+strumpette\.com #en spamming; discussed by arbcom
+
 # [[Spam blacklist/Log]]
 ## 2004
 7csun\.(com|org|net)
@@ -2387,17 +2399,5 @@ tattoos\.phpnet\.us
 casinoforumu\.com
 (?:dojo|memorial)-niten-ichy-ryu\.com
 ecole-miyamoto-musashi\.com
-
-
-#http://en.wikipedia.org/w/index.php?title=User_talk%3ACool_Cat%2FArchive%2F2006%2F09&diff=77994772&oldid=75840958
-webhosting\.gs
-hottest-host\.com
-www4free\.de
-wingisp\.com
-
-# http://fr.wikipedia.org/w/index.php?title=Licence_publique_g%C3%A9n%C3%A9rale_GNU&diff=10489059&oldid=10479749&rcid=10039037
-parishilton-paris\.blogspot\.com
-lifestylemagic\.com #en spamming
-strumpette\.com #en spamming; discussed by arbcom
 
  #</pre> <!-- leave this line exactly as it is -->
