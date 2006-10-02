@@ -1624,6 +1624,7 @@ ppstream\.com
 
 ##Naconkantari
 ##The reasons for adding the links below are located at http://en.wikipedia.org/wiki/User:Naconkantari/sbl
+##When disabling anything in this section, *please* leave me a note on my talk page so I can update my version.
 
 aspsupergirls\.phpnet\.us
 users\.libero\.it\/seza
@@ -1656,7 +1657,6 @@ fo4n\.com
 de\.kakiko\.com
 bloomingtonnormal\.com
 -coupons\.org
-#theunfunny(truth|sequel)\.ytmnd\.com
 glow-sticks\.org
 glowsticks\.co\.uk
 partners\.webmasterplan\.com
