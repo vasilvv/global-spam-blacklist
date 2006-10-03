@@ -2404,6 +2404,6 @@ ecole-miyamoto-musashi\.com
 
 ## 2006-10 ([[Spam blacklist/Log]])
 hpc1\.biblog\.ru
-nationalparksgallery.com
+nationalparksgallery\.com
 
  #</pre> <!-- leave this line exactly as it is -->
