@@ -782,17 +782,6 @@ fisheaters\.com # requested by JzG
 kensmen\.com\/catholic # requested by JzG
 enterfin\.net\.ru #requested by Sjakkalle
 
-#These sites are redirecting requests from Wikimedia sites to a third-party site\.
-namebase\.org
-wikipedia-watch\.org    
-google-watch\.org       
-cia-on-campus\.org      
-scroogle\.org
-yahoo-watch\.org
-#The following sites are being used to get around the scroogle.org spam blacklisting (above)
-being-ones-self\.org
-myegotimes\.com
-
 # from zh wp 2006-5-30
 stanleyng\.net
 etpass\.com
