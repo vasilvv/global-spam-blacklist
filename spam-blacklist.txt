@@ -2349,6 +2349,7 @@ nationalparksgallery.com
 succodimelone\.it
 (debt|financ|loan|morgage).*\.blogspot\.com
 rosnersquared\.com
+code-interactive\.com
 
 ## end of [[Spam blacklist/Log]] section
 
