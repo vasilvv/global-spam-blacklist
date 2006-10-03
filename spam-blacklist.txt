@@ -2346,6 +2346,7 @@ car-insurance-\.blogspot\.com
 hpc1\.biblog\.ru
 nationalparksgallery.com
 \.ytmnd\.com
+succodimelone\.it
 
 ## end of [[Spam blacklist/Log]] section
 
