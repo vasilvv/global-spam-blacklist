@@ -763,7 +763,6 @@ lisinopril\.be
 synthroid\.be
 norvasc\.be
 physicsarchives\.com
-(?<=[.\/])logos\.com
 xenon-hebergement\.net
 adultclub\.adultserving\.com
 nigeria\.tz4\.com 
