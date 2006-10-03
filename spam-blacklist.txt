@@ -76,146 +76,6 @@ eblja
 liuhecai
 buy-viagra
 
-# added by Yann
-m0re\.net
-
-# added by elian
-hagensafrika\.de
-
-# Added by Brion
-b0ne\.com
-slyip\.net
-gotgeeks\.com
-3d-game\.com
-is-a-geek\.com
-soma\.homelinux\.com
-ultram\.serveftp\.com
-myvnc\.com
-mobic\.sytes\.net
-naproxen\.zapto\.org
-
-# Added by Yann
-utenti\.lycos\.it\/pills1
-
-# Added by brion may 23, 2005
-# attacking many 3rd-party sites
-p2l\.info
-
-# Added by brion may 25, 2005
-qx5\.net
-
-# Added by brion may 27, 2005
-\.117000\.com
-\.126hao\.com
-\.51lac\.com
-\.52lac\.net
-\.563000\.com
-\.606162\.com
-\.70678\.com
-\.77556\.net
-\.borncompany\.com
-\.chinacarcenter\.net
-\.cncarcenter\.com
-\.cnticket\.net
-\.companyforyou\.com
-\.curevitiligo\.com
-\.dela88\.com
-\.designatchina\.com
-\.dreamathk\.com
-\.dreamatsh\.com
-\.dreamhk\.org
-\.duweb\.w2\.ftpcn\.cn
-\.goodticket\.org
-\.googletosh\.org
-\.haungsanok\.com
-\.jptrip\.org
-\.myshcompany\.com
-\.okcompany\.org
-\.okrentcar\.org
-\.postdream\.org
-\.printingok\.net
-\.ptrip\.net
-\.regsh\.com
-\.rentbuscompany\.net
-\.rentcarcenter\.com
-\.rentcarok\.org
-\.shbuscenter\.com
-\.shcarcenter\.com
-\.shrentcar\.com
-\.shticketcenter\.com
-\.shtranslate\.com
-\.ticketcenter\.cn
-\.translatebbs\.com
-\.tripto\.com
-\.tt001\.com
-\.tt002\.com
-\.tt003\.com
-\.tt004\.com
-\.tt005\.com
-\.utranslate\.org
-\.utranslation\.net
-
-# added by brion, 2005-06-04
-bjicp\.org
-lucking\.com\.cn
-
-# added by brion, 2005-06-10
-17ip\.com
-bj-united\.com\.cn
-carlack\.cn
-cnpeonyflowers\.com
-hsdvi\.com
-husemachinery\.com
-tzonline\.cn
-tzpet\.com\.cn
-x-rainbow\.com\.cn
-yorkinstrument\.com
-
-# in zh wp many, 2005-06-09
-hg-fix\.com
-hgfix\.org
-hg-fix\.org
-wxzgyb\.com
-yy-ls\.com
-xd-fw\.com
-hdchina\.com
-gmldsb\.com
-tljsrq\.com
-ryhgsb\.com
-
-#added on request of FoeNyx
-crazypussy\.info
-
-# added by brion, 2005-06
-\.mysweetie\.info
-\.xl\.ru
-
-# added by shizhao, 2005-06-28
-readnovel\.com
-
-# in zh wp many, 2005-06-28
-4394\.com
-48123\.com
-tm003\.com
-18019\.com
-5ball\.org
-001003\.com
-67067\.com
-15016\.com
-6y7y\.com
-p003\.com
-2y3y\.com
-tm259\.com
-33044\.com
-11033\.com
-49sms\.com
-530sms\.com
-
-goodasses\.info
-
-# Added by Raul654 6\/28\/05
-crazyabouttv\.com
-
 # Added by shizhao 7\/4\/05 to 7\/9\/05
 167bt\.com
 \.bitspirit\.com\.cn
@@ -2096,7 +1956,7 @@ www1\.com\.cn
 zw88\.com
 \.to8\.com 
 
-## 2005 ([[Spam blacklist/Log]])
+## sometime 2005 ([[Spam blacklist/Log]])
 (duranduran|limahlmania)\.cjb\.net
 (duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com
 0302\.net
@@ -2323,6 +2183,118 @@ russia\.webmatrixhosting\.net
 zya9\.info
 \.p2l\.info
 azzacash\.com
+m0re\.net
+utenti\.lycos\.it\/pills1
+hagensafrika\.de
+b0ne\.com
+slyip\.net
+gotgeeks\.com
+3d-game\.com
+is-a-geek\.com
+soma\.homelinux\.com
+ultram\.serveftp\.com
+myvnc\.com
+mobic\.sytes\.net
+naproxen\.zapto\.org
+
+## 2005-05 ([[Spam blacklist/Log]])
+p2l\.info
+qx5\.net
+\.117000\.com
+\.126hao\.com
+\.51lac\.com
+\.52lac\.net
+\.563000\.com
+\.606162\.com
+\.70678\.com
+\.77556\.net
+\.borncompany\.com
+\.chinacarcenter\.net
+\.cncarcenter\.com
+\.cnticket\.net
+\.companyforyou\.com
+\.curevitiligo\.com
+\.dela88\.com
+\.designatchina\.com
+\.dreamathk\.com
+\.dreamatsh\.com
+\.dreamhk\.org
+\.duweb\.w2\.ftpcn\.cn
+\.goodticket\.org
+\.googletosh\.org
+\.haungsanok\.com
+\.jptrip\.org
+\.myshcompany\.com
+\.okcompany\.org
+\.okrentcar\.org
+\.postdream\.org
+\.printingok\.net
+\.ptrip\.net
+\.regsh\.com
+\.rentbuscompany\.net
+\.rentcarcenter\.com
+\.rentcarok\.org
+\.shbuscenter\.com
+\.shcarcenter\.com
+\.shrentcar\.com
+\.shticketcenter\.com
+\.shtranslate\.com
+\.ticketcenter\.cn
+\.translatebbs\.com
+\.tripto\.com
+\.tt001\.com
+\.tt002\.com
+\.tt003\.com
+\.tt004\.com
+\.tt005\.com
+\.utranslate\.org
+\.utranslation\.net
+
+## 2005-06 ([[Spam blacklist/Log]])
+bjicp\.org
+lucking\.com\.cn
+17ip\.com
+bj-united\.com\.cn
+carlack\.cn
+cnpeonyflowers\.com
+hsdvi\.com
+husemachinery\.com
+tzonline\.cn
+tzpet\.com\.cn
+x-rainbow\.com\.cn
+yorkinstrument\.com
+hg-fix\.com
+hgfix\.org
+hg-fix\.org
+wxzgyb\.com
+yy-ls\.com
+xd-fw\.com
+hdchina\.com
+gmldsb\.com
+tljsrq\.com
+ryhgsb\.com
+crazypussy\.info
+\.mysweetie\.info
+\.xl\.ru
+readnovel\.com
+4394\.com
+48123\.com
+tm003\.com
+18019\.com
+5ball\.org
+001003\.com
+67067\.com
+15016\.com
+6y7y\.com
+p003\.com
+2y3y\.com
+tm259\.com
+33044\.com
+11033\.com
+49sms\.com
+530sms\.com
+goodasses\.info
+crazyabouttv\.com
 
 ## 2006-06 ([[Spam blacklist/Log]])
 academiccalendar\.info
