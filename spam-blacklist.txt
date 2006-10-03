@@ -2305,7 +2305,7 @@ adsbus\.com
 freebao\.com
 
 ## 2006-09 ([[Spam blacklist/Log]])
-(?:dojo|memorial)-niten-ichy-ryu\.com
+(?:dojo|ecole)-miyamoto-musashi\.com
 bmd-certificates\.co\.uk
 casinoforumu\.com
 chabad(east|usa|world)\.(am|com|org)
@@ -2316,6 +2316,7 @@ funpic\.(de|org)
 home\.kimo\.com\.tw/pager1114/
 kingmessiah\.com
 lubavitchnetworks\.com
+memorial-niten-ichy-ryu\.com
 pharmacy-school\.info
 share\.ws
 tattoos\.phpnet\.us
