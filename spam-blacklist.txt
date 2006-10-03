@@ -2402,7 +2402,8 @@ casinoforumu\.com
 (?:dojo|memorial)-niten-ichy-ryu\.com
 ecole-miyamoto-musashi\.com
 
-# requested by ryulong on irc
+## 2006-10 ([[Spam blacklist/Log]])
 hpc1\.biblog\.ru
+nationalparksgallery.com
 
  #</pre> <!-- leave this line exactly as it is -->
