@@ -365,7 +365,6 @@ myflooring\.org
 scmantraffic\.com
 efl-law\.org
 guitar-poll\.com
-# republika\.pl -- too broad, popular free host in Poland
 konecco\.com
 supergirls4\.tripod\.com
 unoriginal\.co\.uk
@@ -529,7 +528,6 @@ hawksquawk\.net
 maclenet\.com
 enacre\.net
 allgames4u\.net
-republika\.pl
 
 # D\.M\.: used for shock links
 goatse\.ca 
