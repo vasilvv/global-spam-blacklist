@@ -9,81 +9,6 @@
 #    - Everything from a "#" character to the end of the line is a comment
 #    - Every non-blank line is a regex fragment which will only match hosts inside URLs
 
-### Links from Sj, from GV Wiki (http://cyber.law.harvard.edu/globalvoices/wiki) and other MW sites
-# http://cyber.law.harvard.edu/globalvoices/wiki/index.php?title=Global_Voices_Draft_Manifesto&diff=0
-\.go\.to
-\.connect\.to
-\.drive\.to
-\.run\.to
-\.surf\.to
-##    Russian spam
-\.shengen\.ru
-\.visa-usa\.ru
-\.2x4\.ru
-##    Free russian hosts with acceptable uses
-# \.pp\.ru
-# \.newmail\.ru
-# \.nm\.ru
-# \.chat\.ru
-# \.euro\.ru
-##    Chinese spam
-\.town-china\.cn
-\.anteyi\.cn
-\.atetech\.com\.cn
-\.ic37\.com
-91yg\.com
-51wisdom\.com
-56918\.com
-air520\.com
-021boy\.com
-ywxjm\.com
-\.haole\.cn
-\.gguu\.com
-idc2008\.cn
-google-in-china\.org
-\.dzsc\.com
-##    Others
-\.detox-kit\.com
-\.21jewelry\.com
-\.maclenet\.com
-\.mrjeweller\.us
-\.lxhost\.com
-\.125mb\.com
-\.linemd\.com
-\.buyremedy\.com
-\.fineaction\.com
-online-levitra-4sale\.com
-online-poker\.webpark\.pl
-gambling-forums\.net
-adultfriend\.404host\.com
-homedb\.slife\.com
-info-for-home\.slife\.com
-WTHP[0-9]\.disney\.com  #--(how'd they get those domains?  weird\.)
-\.p21\.info
-\.forexhsi\.com
-\.sexy-maidens\.info
-\.tempurpedics\.org
-\.kanod\.com
-\.hilbort\.com
-\.guvax\.com
-\.leronex\.com
-\.sekob\.com
-\.usefulresults\.com
-\.welllook\.com
-\.18servers\.com
-\.ds4a\.com
-\.linemd\.com
-\.sexus\.host
-\.1min\.us
-allfioricet\.com
-allvicodin\.com
-diazepampill\.com
-russia\.webmatrixhosting\.net
-zya9\.info
-\.p2l\.info
-azzacash\.com
-
-
 # Korg's section
 #
 (.*gui.*|.*chai?r.*|.*lamp.*|.*cook.*|.*visa.*)\.white\.prohosting\.com
@@ -2387,26 +2312,90 @@ adsbus\.com
 freebao\.com
 
 ## 2006-09 ([[Spam blacklist/Log]])
+(?:dojo|memorial)-niten-ichy-ryu\.com
+bmd-certificates\.co\.uk
+casinoforumu\.com
 chabad(east|usa|world)\.(am|com|org)
 chabad\.am
-funpic\.(de|org)
-bmd-certificates\.co\.uk
 easytobook\.com
-lubavitchnetworks\.com
+ecole-miyamoto-musashi\.com
+funpic\.(de|org)
+home\.kimo\.com\.tw/pager1114/
 kingmessiah\.com
+lubavitchnetworks\.com
 pharmacy-school\.info
 share\.ws
-thetrueheroes\.org
-teradewunmer\.com
-www\.webex\.com\.cn
-home\.kimo\.com\.tw\/pager1114\/
 tattoos\.phpnet\.us
-casinoforumu\.com
-(?:dojo|memorial)-niten-ichy-ryu\.com
-ecole-miyamoto-musashi\.com
+teradewunmer\.com
+thetrueheroes\.org
+www\.webex\.com\.cn
 
 ## 2006-10 ([[Spam blacklist/Log]])
 hpc1\.biblog\.ru
 nationalparksgallery\.com
+\.go\.to
+\.connect\.to
+\.drive\.to
+\.run\.to
+\.surf\.to
+\.shengen\.ru
+\.visa-usa\.ru
+\.2x4\.ru
+\.town-china\.cn
+\.anteyi\.cn
+\.atetech\.com\.cn
+\.ic37\.com
+91yg\.com
+51wisdom\.com
+56918\.com
+air520\.com
+021boy\.com
+ywxjm\.com
+\.haole\.cn
+\.gguu\.com
+idc2008\.cn
+google-in-china\.org
+\.dzsc\.com
+\.detox-kit\.com
+\.21jewelry\.com
+\.maclenet\.com
+\.mrjeweller\.us
+\.lxhost\.com
+\.125mb\.com
+\.linemd\.com
+\.buyremedy\.com
+\.fineaction\.com
+online-levitra-4sale\.com
+online-poker\.webpark\.pl
+gambling-forums\.net
+adultfriend\.404host\.com
+homedb\.slife\.com
+info-for-home\.slife\.com
+WTHP[0-9]\.disney\.com
+\.p21\.info
+\.forexhsi\.com
+\.sexy-maidens\.info
+\.tempurpedics\.org
+\.kanod\.com
+\.hilbort\.com
+\.guvax\.com
+\.leronex\.com
+\.sekob\.com
+\.usefulresults\.com
+\.welllook\.com
+\.18servers\.com
+\.ds4a\.com
+\.linemd\.com
+\.sexus\.host
+\.1min\.us
+allfioricet\.com
+allvicodin\.com
+diazepampill\.com
+russia\.webmatrixhosting\.net
+zya9\.info
+\.p2l\.info
+azzacash\.com
+
+## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
