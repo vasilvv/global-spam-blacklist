@@ -2347,6 +2347,7 @@ hpc1\.biblog\.ru
 nationalparksgallery.com
 \.ytmnd\.com
 succodimelone\.it
+(debt|financ|loan|morgage).*\.blogspot.com
 
 ## end of [[Spam blacklist/Log]] section
 
