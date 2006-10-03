@@ -856,7 +856,7 @@ gabenewell\.com
 tvhosted\.com
 theglowcompany\.co\.uk
 forum\.bodybuilding\.com
-bodybuilding.com\/fun\/bigron
+bodybuilding\.com\/fun\/bigron
 guide-proteines\.org
 guide-phytosante\.org
 guide-vitamines\.org
@@ -2344,12 +2344,18 @@ www\.webex\.com\.cn
 ## 2006-10 ([[Spam blacklist/Log]])
 car-insurance-\.blogspot\.com
 hpc1\.biblog\.ru
-nationalparksgallery.com
+nationalparksgallery\.com
 \.ytmnd\.com
 succodimelone\.it
 (debt|financ|loan|morgage).*\.blogspot\.com
 rosnersquared\.com
 code-interactive\.com
+ideamappingsuccess\.com
+lochnessmonster\.name
+jerrypournelle\.org
+monsternews\.org
+minotaur\.name
+(?:cup|league|football|wayne|premiership|steven|united).*years\.com
 
 ## end of [[Spam blacklist/Log]] section
 
