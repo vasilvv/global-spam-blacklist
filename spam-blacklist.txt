@@ -9,88 +9,6 @@
 #    - Everything from a "#" character to the end of the line is a comment
 #    - Every non-blank line is a regex fragment which will only match hosts inside URLs
 
-# Korg's section
-#
-(.*gui.*|.*chai?r.*|.*lamp.*|.*cook.*|.*visa.*)\.white\.prohosting\.com
-4ljd\.info
-buy-cheap-meds\.us
-julie\.xxserv\.com
-pills-pharmacy\.net
-searchterror\.com
-lycos1\.com
-0s48\.info
-torontonian\.com
-1stOK\.com
-# 
-# *10a
-vacarreno\.net
-wiki\.servetown\.com
-cumfiesta4\.us
-stadianet\.com
-(asiangirlss|chickens|freeadult69|japanesegirl|matures|onlybestsex|sexgirls|supergirls\d*|wiki|wikipedia)\.servik\.com
-\.fw\.nu
-5g6y\.info
-(alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
-sex\.hut1\.ru
-vanjatka\.be
-#
-# *20b
-vorbo\.com
-stdhost\.net
-kelly-hosting\.com
-101hosters\.com
-cvh100\.com
-onix1000\.com
-k6je\.info
-# thepiratebay\.org
-# piratebay\.org #test\/temp
-w0qb\.info
-#
-# *30c
-redirect\.hm
-drugs\.passingg\.as
-drugs\.isgre\.at
-drugs\.byinter\.net
-drugs\.lowestprices\.at
-drugs\.chickenkiller\.com
-drugs\.ignorelist\.com
-drugs\.mooo\.com
-drugs\.strangled\.net
-[0-9]+\.[-\w\d]+\.info\/?[-\w\d]+[0-9]+[-\w\d]*\]
-#
-# *40d
-lol\.to
-loprox\.atwork\.to
-niaspan\.mrfriendly\.com
-tricor\.athome\.to
-7726\.info
-cc3\.be
-freesexyhouse\.com
-freewebs\.com\/diet-about-diet
-skozlozop\.com
-z0rder\.tripod\.com
-#
-# *50e
-smuttygirls\.info
-f3so\.info
-health-medical\.be
-w9uh\.info
-(allmed|comeds)\.blogs\.eurosport\.com
-dare14\.com
-ourtrinity\.net
-oxrash\.com
-cell-phones-store\.net
-#
-# *60f
-pill\.envy\.nu
-order-online\.50webs\.com
-casino-baron\.com
-casino-flower\.com
-pornzonehost\.com
-meenan1\.com
-debt-consolidation-loan-c\.blogspot\.com
-#
-
 ## The following is derived from http:\/\/wikiblacklist\.blogspot\.com, thanks guys
 s-e-x
 zoofilia
@@ -2023,7 +1941,6 @@ pharmacy-on-line\.org
 abcfreeringtones\.com
 allln\.com
 plone\.akl\.lt
-\.ytmnd\.com
 
 # Eloquence, August 2006
 rexcurry\.net
@@ -2047,6 +1964,74 @@ lifestylemagic\.com #en spamming
 strumpette\.com #en spamming; discussed by arbcom
 
 # [[Spam blacklist/Log]]
+## Unknown
+(gui.*|chai?r|lamp.*|cook.*|visa.*)\.white\.prohosting\.com
+4ljd\.info
+buy-cheap-meds\.us
+julie\.xxserv\.com
+pills-pharmacy\.net
+searchterror\.com
+lycos1\.com
+0s48\.info
+torontonian\.com
+1stOK\.com
+vacarreno\.net
+wiki\.servetown\.com
+cumfiesta4\.us
+stadianet\.com
+(asiangirlss|chickens|freeadult69|japanesegirl|matures|onlybestsex|sexgirls|supergirls\d*|wiki|wikipedia)\.servik\.com
+\.fw\.nu
+5g6y\.info
+(alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
+sex\.hut1\.ru
+vanjatka\.be
+vorbo\.com
+stdhost\.net
+kelly-hosting\.com
+101hosters\.com
+cvh100\.com
+onix1000\.com
+k6je\.info
+# thepiratebay\.org
+# piratebay\.org #test\/temp
+w0qb\.info
+redirect\.hm
+drugs\.passingg\.as
+drugs\.isgre\.at
+drugs\.byinter\.net
+drugs\.lowestprices\.at
+drugs\.chickenkiller\.com
+drugs\.ignorelist\.com
+drugs\.mooo\.com
+drugs\.strangled\.net
+[0-9]+\.[-\w\d]+\.info\/?[-\w\d]+[0-9]+[-\w\d]*\]
+lol\.to
+loprox\.atwork\.to
+niaspan\.mrfriendly\.com
+tricor\.athome\.to
+7726\.info
+cc3\.be
+freesexyhouse\.com
+freewebs\.com\/diet-about-diet
+skozlozop\.com
+z0rder\.tripod\.com
+smuttygirls\.info
+f3so\.info
+health-medical\.be
+w9uh\.info
+(allmed|comeds)\.blogs\.eurosport\.com
+dare14\.com
+ourtrinity\.net
+oxrash\.com
+cell-phones-store\.net
+pill\.envy\.nu
+order-online\.50webs\.com
+casino-baron\.com
+casino-flower\.com
+pornzonehost\.com
+meenan1\.com
+debt-consolidation-loan-c\.blogspot\.com
+
 ## 2004
 7csun\.(com|org|net)
 8cx\.net
@@ -2284,55 +2269,6 @@ zymq\.com
 \.znap\.to
 \.zwap\.to
 \.zwitch\.to
-
-## 2006-06 ([[Spam blacklist/Log]])
-academiccalendar\.info
-allsexxdomain\.com
-architect\.architecture\.sk
-art-passion\.site\.voila\.fr
-chocolateplanet\.org
-coffee-guide\.us
-freesex\.com
-ipfeurope\.(eu|com|net|org)
-kreuz\.net
-lunesta\.wz\.cz
-perso\.orange\.fr\/jf\.dumousseaux
-smut\.com(?!ic)
-teainfo\.org
-\.to\.pl
-toporol\.be
-topsearch10\.com
-zocor-1\.be
-www\.spaingate\.com
-
-## 2006-07 ([[Spam blacklist/Log]])
-hoopsvibe\.com
-hoopsstats\.com
-adsbus\.com
-freebao\.com
-
-## 2006-09 ([[Spam blacklist/Log]])
-(?:dojo|memorial)-niten-ichy-ryu\.com
-bmd-certificates\.co\.uk
-casinoforumu\.com
-chabad(east|usa|world)\.(am|com|org)
-chabad\.am
-easytobook\.com
-ecole-miyamoto-musashi\.com
-funpic\.(de|org)
-home\.kimo\.com\.tw/pager1114/
-kingmessiah\.com
-lubavitchnetworks\.com
-pharmacy-school\.info
-share\.ws
-tattoos\.phpnet\.us
-teradewunmer\.com
-thetrueheroes\.org
-www\.webex\.com\.cn
-
-## 2006-10 ([[Spam blacklist/Log]])
-hpc1\.biblog\.ru
-nationalparksgallery\.com
 \.go\.to
 \.connect\.to
 \.drive\.to
@@ -2395,6 +2331,57 @@ russia\.webmatrixhosting\.net
 zya9\.info
 \.p2l\.info
 azzacash\.com
+
+## 2006-06 ([[Spam blacklist/Log]])
+academiccalendar\.info
+allsexxdomain\.com
+architect\.architecture\.sk
+art-passion\.site\.voila\.fr
+chocolateplanet\.org
+coffee-guide\.us
+freesex\.com
+ipfeurope\.(eu|com|net|org)
+kreuz\.net
+lunesta\.wz\.cz
+perso\.orange\.fr\/jf\.dumousseaux
+smut\.com(?!ic)
+teainfo\.org
+\.to\.pl
+toporol\.be
+topsearch10\.com
+zocor-1\.be
+www\.spaingate\.com
+
+## 2006-07 ([[Spam blacklist/Log]])
+hoopsvibe\.com
+hoopsstats\.com
+adsbus\.com
+freebao\.com
+
+## 2006-09 ([[Spam blacklist/Log]])
+(?:dojo|memorial)-niten-ichy-ryu\.com
+bmd-certificates\.co\.uk
+casinoforumu\.com
+chabad(east|usa|world)\.(am|com|org)
+chabad\.am
+easytobook\.com
+ecole-miyamoto-musashi\.com
+funpic\.(de|org)
+home\.kimo\.com\.tw/pager1114/
+kingmessiah\.com
+lubavitchnetworks\.com
+pharmacy-school\.info
+share\.ws
+tattoos\.phpnet\.us
+teradewunmer\.com
+thetrueheroes\.org
+www\.webex\.com\.cn
+
+## 2006-10 ([[Spam blacklist/Log]])
+car-insurance-\.blogspot\.com
+hpc1\.biblog\.ru
+nationalparksgallery.com
+\.ytmnd\.com
 
 ## end of [[Spam blacklist/Log]] section
 
