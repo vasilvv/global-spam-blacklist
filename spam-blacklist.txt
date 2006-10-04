@@ -2339,6 +2339,7 @@ jerrypournelle\.org
 monsternews\.org
 minotaur\.name
 (?:cup|league|football|wayne|premiership|steven|united).*years\.com
+ilsonline\.it
 
 ## end of [[Spam blacklist/Log]] section
 
