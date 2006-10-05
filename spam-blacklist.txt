@@ -2344,6 +2344,7 @@ monsternews\.org
 minotaur\.name
 (?:cup|league|football|wayne|premiership|steven|united).*years\.com
 ilsonline\.it
+engagementring-4u\.com
 
 ## end of [[Spam blacklist/Log]] section
 
