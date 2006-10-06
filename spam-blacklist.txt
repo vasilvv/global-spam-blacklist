@@ -2346,6 +2346,7 @@ minotaur\.name
 (?:cup|league|football|wayne|premiership|steven|united).*years\.com
 ilsonline\.it
 engagementring-4u\.com
+\.forumcommunity\.net
 
 ## end of [[Spam blacklist/Log]] section
 
