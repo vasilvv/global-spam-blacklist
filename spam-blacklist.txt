@@ -1107,8 +1107,6 @@ badastronomer\.com
 badastronomer\.net
 badastronomer\.org
 badastronomy\.info
-bindiirwin\.com
-bindisueirwin\.com
 carlsagan\.info
 dalek\.name
 dinosaurs\.name
@@ -1150,7 +1148,6 @@ spaceforums\.net
 spaceforums\.org
 spaceonion\.com
 stephenhawkingsuniverse\.com
-terriirwin\.org
 universedaily\.com
 universedaily\.info
 universedaily\.org
