@@ -1166,6 +1166,13 @@ yales\.info
 yowiehunter\.com
 #end UD
 
+##Gastrich
+jcsm\.org
+jasongastrich\.com
+lamusiclessons\.com
+sdmusiclessons\.com
+golbu\.com
+#end G
 
 ##redirection spam on simple\.wiki
 www\.computersci\.net\/wwwboard
