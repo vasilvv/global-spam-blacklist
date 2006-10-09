@@ -1246,6 +1246,7 @@ hopto\.org
 myvnc\.com
 serve(beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
 sytes\.net
+clipurl\.com
 ##End of Naconkantari
 
 # Added by MaxSem
