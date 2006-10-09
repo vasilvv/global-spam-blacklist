@@ -1274,6 +1274,8 @@ pharmacy-on-line\.org
 abcfreeringtones\.com
 allln\.com
 plone\.akl\.lt
+## Oct
+abovo\.net\.ru
 
 # Eloquence, August 2006
 rexcurry\.net
