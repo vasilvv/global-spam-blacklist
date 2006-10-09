@@ -2355,6 +2355,7 @@ minotaur\.name
 ilsonline\.it
 engagementring-4u\.com
 \.forumcommunity\.net
+loan\.just2006\.info
 
 ## end of [[Spam blacklist/Log]] section
 
