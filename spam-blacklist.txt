@@ -2360,6 +2360,17 @@ loan\.just2006\.info
 www\.glyangshuo\.com
 complexxon\.org
 
+#These sites are redirecting requests from Wikimedia sites to a third-party site\.
+namebase\.org
+wikipedia-watch\.org    
+google-watch\.org       
+cia-on-campus\.org      
+scroogle\.org
+yahoo-watch\.org
+#The following sites are being used to get around the scroogle.org spam blacklisting (above)
+being-ones-self\.org
+myegotimes\.com
+
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
