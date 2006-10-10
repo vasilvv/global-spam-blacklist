@@ -2358,6 +2358,7 @@ engagementring-4u\.com
 \.forumcommunity\.net
 loan\.just2006\.info
 www\.glyangshuo\.com
+complexxon\.org
 
 ## end of [[Spam blacklist/Log]] section
 
