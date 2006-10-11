@@ -1299,6 +1299,17 @@ parishilton-paris\.blogspot\.com
 lifestylemagic\.com #en spamming
 strumpette\.com #en spamming; discussed by arbcom
 
+#These sites are redirecting requests from Wikimedia sites to a third-party site\.
+namebase\.org
+wikipedia-watch\.org    
+google-watch\.org       
+cia-on-campus\.org      
+scroogle\.org
+yahoo-watch\.org
+#The following sites are being used to get around the scroogle.org spam blacklisting (above)
+being-ones-self\.org
+myegotimes\.com
+
 # [[Spam blacklist/Log]]
 ## Unknown
 (gui.*|chai?r|lamp.*|cook.*|visa.*)\.white\.prohosting\.com
@@ -2361,17 +2372,7 @@ engagementring-4u\.com
 loan\.just2006\.info
 www\.glyangshuo\.com
 complexxon\.org
-
-#These sites are redirecting requests from Wikimedia sites to a third-party site\.
-namebase\.org
-wikipedia-watch\.org    
-google-watch\.org       
-cia-on-campus\.org      
-scroogle\.org
-yahoo-watch\.org
-#The following sites are being used to get around the scroogle.org spam blacklisting (above)
-being-ones-self\.org
-myegotimes\.com
+scheerer-software\.de
 
 ## end of [[Spam blacklist/Log]] section
 
