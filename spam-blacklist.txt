@@ -1063,7 +1063,7 @@ tatsoul\.com
 freehost\.pl
 greatestjournal\.com
 e4ls6p2\.com
-\.newa(r|u)\.info
+\.newa[0-9a-z-]*\.info
 artbennett\.net
 allall\.org
 
