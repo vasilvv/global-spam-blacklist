@@ -2384,6 +2384,7 @@ scheerer-software\.de
 free-game-downloads.mosw\.com
 lepetitsaintjames\.com
 tvrage\.com
+lostpedia\.(com|org|net)
 
 ## end of [[Spam blacklist/Log]] section
 
