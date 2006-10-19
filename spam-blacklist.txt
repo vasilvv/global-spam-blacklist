@@ -1287,6 +1287,7 @@ allln\.com
 plone\.akl\.lt
 ## Oct
 the2ndmortgagehelp\.com
+pseudology\.org
 
 # Eloquence, August 2006
 rexcurry\.net
