@@ -1179,7 +1179,6 @@ yowiehunter\.com
 #end UD
 
 ##Gastrich
-jcsm\.org
 jasongastrich\.com
 lamusiclessons\.com
 sdmusiclessons\.com
