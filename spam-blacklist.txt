@@ -2389,6 +2389,8 @@ scheerer-software\.de
 free-game-downloads.mosw\.com
 lepetitsaintjames\.com
 tvrage\.com
+bindiirwin\.info
+richardfinnila\.com
 
 ## end of [[Spam blacklist/Log]] section
 
