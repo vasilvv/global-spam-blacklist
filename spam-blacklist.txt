@@ -2391,6 +2391,7 @@ lepetitsaintjames\.com
 tvrage\.com
 bindiirwin\.info
 richardfinnila\.com
+halflife2\.zoy\.org
 
 ## end of [[Spam blacklist/Log]] section
 
