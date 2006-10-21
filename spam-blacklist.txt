@@ -1043,7 +1043,7 @@ rubite\.net
 accki\.com
 bapki\.com
 \.xvec\.com
-xlale\.com
+xlal[0-9a-z-]*\.com
 extrasound\.net
 tabulas\.com
 urlcutter\.com
