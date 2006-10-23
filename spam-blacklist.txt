@@ -570,6 +570,7 @@ www\.ark-web\.net
 \.porn-host\.org
 www\.kurumaerabi\.com
 www\.keytoart\.org\.ua
+users\.iptelecom\.net
 
 # Datrio, spam on Commons and Wikinews
 ijijiji\.com
