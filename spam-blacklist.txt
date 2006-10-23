@@ -2392,6 +2392,7 @@ tvrage\.com
 bindiirwin\.info
 richardfinnila\.com
 halflife2\.zoy\.org
+janogibson\.com
 
 ## end of [[Spam blacklist/Log]] section
 
