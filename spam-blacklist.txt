@@ -571,6 +571,7 @@ www\.ark-web\.net
 www\.kurumaerabi\.com
 www\.keytoart\.org\.ua
 users\.iptelecom\.net
+nihonjustice\.hp\.infoseek\.co\.jp
 
 # Datrio, spam on Commons and Wikinews
 ijijiji\.com
