@@ -1073,6 +1073,16 @@ freewebsitehosting\.net
 fqred\.com
 streamload\.com
 kipredinstitute\.org
+woodking24india\.com
+woodking24india\.b2bquote\.com
+woodking24\.exporterindias\.com
+geocities\.com\/woodking24
+indoorfurniture\.co\.in
+outdoorfurniture\.co\.in
+rusticfurniture\.co\.in
+indianfurniture\.co\.in
+homefurniture\.co\.in
+
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
