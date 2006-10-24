@@ -2407,6 +2407,7 @@ bindiirwin\.info
 richardfinnila\.coma
 halflife2\.zoy\.org
 janogibson\.com
+aiccon\.it
 
 ## end of [[Spam blacklist/Log]] section
 
