@@ -1304,6 +1304,7 @@ plone\.akl\.lt
 ## Oct
 the2ndmortgagehelp\.com
 pseudology\.org
+encyclopediadramatica\.com
 
 # Eloquence, August 2006
 rexcurry\.net
