@@ -1086,6 +1086,10 @@ homefurniture\.co\.in
 pill[0-9]\.info
 funchain\.com
 soduko\.org
+\.wsite\.org
+monforum\.fr
+megspace\.com
+
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
@@ -1276,6 +1280,7 @@ myvnc\.com
 serve(beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
 sytes\.net
 clipurl\.com
+wapurl\.co\.uk
 ##End of Naconkantari
 
 # Added by MaxSem
