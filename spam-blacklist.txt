@@ -1089,6 +1089,7 @@ soduko\.org
 \.wsite\.org
 monforum\.fr
 megspace\.com
+topozo\.org
 
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
