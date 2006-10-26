@@ -1084,6 +1084,8 @@ indianfurniture\.co\.in
 homefurniture\.co\.in
 20six\.co\.uk
 pill[0-9]\.info
+funchain\.com
+soduko\.org
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
@@ -1922,6 +1924,7 @@ toobis\.com
 netsurf\.ru
 xxx-me\.info
 thirty-one\.info
+
 
 ## 2004
 7csun\.(com|org|net)
