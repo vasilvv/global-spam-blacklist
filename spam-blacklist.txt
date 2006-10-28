@@ -2420,6 +2420,7 @@ richardfinnila\.coma
 halflife2\.zoy\.org
 janogibson\.com
 aiccon\.it
+thebookstandard\.typepad\.com
 
 ## end of [[Spam blacklist/Log]] section
 
