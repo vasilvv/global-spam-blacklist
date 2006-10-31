@@ -2421,7 +2421,7 @@ janogibson\.com
 aiccon\.it
 thebookstandard\.typepad\.com
 torrentmania\.info
-
+zigiweb\.com 
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
