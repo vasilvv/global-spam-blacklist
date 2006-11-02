@@ -2423,6 +2423,10 @@ thebookstandard\.typepad\.com
 torrentmania\.info
 zigiweb\.com 
 pope\.com
+
+## 2006-11 ([[Spam blacklist/Log]])
+killerstore\.(it|net)
+
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
