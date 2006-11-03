@@ -1091,6 +1091,7 @@ topozo\.org
 medbucks\.info
 techblog\.net\.ru
 \.dv8\.com
+shoes(ebuy|order)\.(com|biz)
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 acmedias\.org
