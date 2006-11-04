@@ -2428,6 +2428,7 @@ wikipediia\.info
 
 ## 2006-11 ([[Spam blacklist/Log]])
 killerstore\.(it|net)
+mliii\.info
 
 ## end of [[Spam blacklist/Log]] section
 
