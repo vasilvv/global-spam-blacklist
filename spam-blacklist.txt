@@ -2430,6 +2430,7 @@ wikipediia\.info
 killerstore\.(it|net)
 mliii\.info
 savealbertparkcollege\.com
+amantea\.net
 
 ## end of [[Spam blacklist/Log]] section
 
