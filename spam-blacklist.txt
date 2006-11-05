@@ -2432,6 +2432,7 @@ mliii\.info
 savealbertparkcollege\.com
 amantea\.net
 bt-blog\.net\.ru
+salvador-dali\.net
 
 ## end of [[Spam blacklist/Log]] section
 
