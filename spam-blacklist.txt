@@ -915,7 +915,7 @@ lkcx\.com
 coz\.in
 webtest-community\.canoo\.com
 stikipad\.com
-alanburn\.awardspace\.com
+\.awardspace\.com
 \.jo\.pl
 \.blog\.naszemiasto\.pl
 pardoschiken\.info
