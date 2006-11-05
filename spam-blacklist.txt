@@ -2431,6 +2431,7 @@ killerstore\.(it|net)
 mliii\.info
 savealbertparkcollege\.com
 amantea\.net
+bt-blog\.net\.ru
 
 ## end of [[Spam blacklist/Log]] section
 
