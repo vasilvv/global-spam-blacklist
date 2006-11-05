@@ -495,7 +495,7 @@ buddyprofile\.com
 blogs\.wwwcoder\.com
 totalvideogames\.com
 surfbirds\.com
-missoula\.com
+\.missoula\.com
 justachat\.com
 westwoodbapt\.org
 toutelapoesie\.com
