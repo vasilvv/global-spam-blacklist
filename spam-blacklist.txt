@@ -1065,6 +1065,7 @@ freehost\.pl
 greatestjournal\.com
 e4ls6p2\.com
 \.new(a|e|i|o|u|y)[0-9a-z-]\.info
+newaf\.info
 artbennett\.net
 allall\.org
 freewebsitehosting\.net
