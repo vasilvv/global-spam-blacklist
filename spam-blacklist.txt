@@ -2434,6 +2434,7 @@ savealbertparkcollege\.com
 amantea\.net
 bt-blog\.net\.ru
 salvador-dali\.net
+meatspin\.com
 
 ## end of [[Spam blacklist/Log]] section
 
