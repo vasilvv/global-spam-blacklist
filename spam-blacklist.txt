@@ -2435,6 +2435,7 @@ amantea\.net
 bt-blog\.net\.ru
 salvador-dali\.net
 meatspin\.com
+wikipedia-download\.org
 
 ## end of [[Spam blacklist/Log]] section
 
