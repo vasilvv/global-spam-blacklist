@@ -2436,6 +2436,7 @@ bt-blog\.net\.ru
 salvador-dali\.net
 meatspin\.com
 wikipedia-download\.org
+digiads\.com\.au
 
 ## end of [[Spam blacklist/Log]] section
 
