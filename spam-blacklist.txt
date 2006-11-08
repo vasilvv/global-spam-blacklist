@@ -2439,6 +2439,10 @@ salvador-dali\.net
 meatspin\.com
 wikipedia-download\.org
 digiads\.com\.au
+webcam-[A-Za-z]+-sms\.info
+videochat-porno-sms\.info 
+webcam-sexo-[A-Za-z]+\.info
+
 
 ## end of [[Spam blacklist/Log]] section
 
