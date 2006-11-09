@@ -2442,7 +2442,11 @@ digiads\.com\.au
 webcam-[A-Za-z]+-sms\.info
 videochat-porno-sms\.info 
 webcam-sexo-[A-Za-z]+\.info
-
+chloemurdoch\.com
+jamespacker\.(net|org)
+jodhipacker\.com
+lachlanmurdoch\.(net|org) 
+wendimurdoch\.com
 
 ## end of [[Spam blacklist/Log]] section
 
