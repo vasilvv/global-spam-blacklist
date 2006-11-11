@@ -2448,6 +2448,7 @@ jodhipacker\.com
 lachlanmurdoch\.(net|org) 
 wendimurdoch\.com
 shareinvestornz\.jconserv\.net
+theshadowsun\.net
 
 ## end of [[Spam blacklist/Log]] section
 
