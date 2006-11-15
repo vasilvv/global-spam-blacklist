@@ -1092,7 +1092,7 @@ techblog\.net\.ru
 \.dv8\.com
 shoes(ebuy|order)\.(com|biz)
 xlale\.com
-virgilio\.it
+xoomer\.virgilio\.it\/insurance*
 slsae\.org
 anzwers\.org
 
