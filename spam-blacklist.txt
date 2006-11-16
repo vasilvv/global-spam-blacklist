@@ -2452,6 +2452,8 @@ lachlanmurdoch\.(net|org)
 wendimurdoch\.com
 shareinvestornz\.jconserv\.net
 theshadowsun\.net
+amantea(online|radio|calcio).it
+amanteaninelmondo.info
 
 ## end of [[Spam blacklist/Log]] section
 
