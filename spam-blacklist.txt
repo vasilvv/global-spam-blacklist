@@ -2450,7 +2450,7 @@ jodhipacker\.com
 lachlanmurdoch\.(net|org) 
 wendimurdoch\.com
 shareinvestornz\.jconserv\.net
-theshadowsun\.net
+theshadowsun\.(com|net)
 amantea(online|radio|calcio).it
 amanteaninelmondo.info
 
