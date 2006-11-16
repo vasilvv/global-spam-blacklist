@@ -493,7 +493,6 @@ blog\.investing\.com
 buddyprofile\.com
 blogs\.wwwcoder\.com
 totalvideogames\.com
-surfbirds\.com
 \.missoula\.com
 justachat\.com
 westwoodbapt\.org
