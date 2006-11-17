@@ -2453,6 +2453,7 @@ shareinvestornz\.jconserv\.net
 theshadowsun\.(com|net)
 amantea(online|radio|calcio).it
 amanteaninelmondo.info
+(zzw2z|myjhy|ngvjj|eqqwsa|ccxxsg|weewss).info
 
 ## end of [[Spam blacklist/Log]] section
 
