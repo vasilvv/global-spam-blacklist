@@ -2451,15 +2451,16 @@ lachlanmurdoch\.(net|org)
 wendimurdoch\.com
 shareinvestornz\.jconserv\.net
 theshadowsun\.(com|net)
-amantea(online|radio|calcio).it
-amanteaninelmondo.info
-(zzw2z|myjhy|ngvjj|eqqwsa|ccxxsg|weewss).info
-(uskupi|klzuydg|abradco|xddme|dicmh).com
-(prosaleshop|bestbidbuy|adirect).org
-(lyvyl|moank|anagl|ankyl|gergv|clapn|tigri|teeti|sabd|scyb|iifooi|qsskk|csddj|ddl8i|afdss|oberl|ykkkh|tdfsf|zfdfs).info
-special-ringtones.net
-(oduuy|aiipa).info
-xxell.com
+amantea(online|radio|calcio)\.it
+amanteaninelmondo\.info
+(zzw2z|myjhy|ngvjj|eqqwsa|ccxxsg|weewss)\.info
+(uskupi|klzuydg|abradco|xddme|dicmh)\.com
+(prosaleshop|bestbidbuy|adirect)\.org
+(lyvyl|moank|anagl|ankyl|gergv|clapn|tigri|teeti|sabd|scyb|iifooi|qsskk|csddj|ddl8i|afdss|oberl|ykkkh|tdfsf|zfdfs)\.info
+special-ringtones\.net
+(oduuy|aiipa)\.info
+xxell\.com
+blackcomb\.co\.uk
 
 ## end of [[Spam blacklist/Log]] section
 
