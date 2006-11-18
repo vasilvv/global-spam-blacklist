@@ -2462,6 +2462,7 @@ special-ringtones\.net
 (oduuy|aiipa)\.info
 xxell\.com
 blackcomb\.co\.uk
+centraldorap\.com
 
 ## end of [[Spam blacklist/Log]] section
 
