@@ -2468,6 +2468,7 @@ artnet\.de
 song-book\.info
 anysubs\.com
 pichunter\.com
+suite101\.com
 
 ## end of [[Spam blacklist/Log]] section
 
