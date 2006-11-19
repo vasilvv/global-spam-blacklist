@@ -2464,6 +2464,7 @@ xxell\.com
 blackcomb\.co\.uk
 centraldorap\.com
 ezpicking\.com
+artnet\.de
 
 ## end of [[Spam blacklist/Log]] section
 
