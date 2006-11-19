@@ -2465,6 +2465,9 @@ blackcomb\.co\.uk
 centraldorap\.com
 ezpicking\.com
 artnet\.de
+song-book\.info
+anysubs\.com
+pichunter\.com
 
 ## end of [[Spam blacklist/Log]] section
 
