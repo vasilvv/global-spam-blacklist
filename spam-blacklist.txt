@@ -2429,7 +2429,7 @@ aiccon\.it
 thebookstandard\.typepad\.com
 torrentmania\.info
 zigiweb\.com 
-pope\.com
+\.pope\.com
 wikipediia\.info
 
 ## 2006-11 ([[Spam blacklist/Log]])
