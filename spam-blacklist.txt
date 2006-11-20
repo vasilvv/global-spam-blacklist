@@ -2470,6 +2470,8 @@ anysubs\.com
 pichunter\.com
 suite101\.com
 federazionepagana\.(it|com)
+free-ringtones\.aqhhhh\.info
+loan\.ododf\.info
 
 ## end of [[Spam blacklist/Log]] section
 
