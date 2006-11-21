@@ -2472,6 +2472,7 @@ suite101\.com
 federazionepagana\.(it|com)
 free-ringtones\.aqhhhh\.info
 loan\.ododf\.info
+yourmerchandise\.org
 
 ## end of [[Spam blacklist/Log]] section
 
