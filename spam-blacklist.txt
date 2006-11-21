@@ -2473,6 +2473,7 @@ federazionepagana\.(it|com)
 free-ringtones\.aqhhhh\.info
 loan\.ododf\.info
 yourmerchandise\.org
+exploring-[a-z]+\.com
 
 ## end of [[Spam blacklist/Log]] section
 
