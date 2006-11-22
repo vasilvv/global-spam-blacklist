@@ -2475,8 +2475,8 @@ free-ringtones\.aqhhhh\.info
 loan\.ododf\.info
 yourmerchandise\.org
 exploring-[a-z]+\.com
-melano(corp|planet).com 
-melanotan.com.au 
+melano(corp|planet)\.com 
+melanotan\.com\.au 
 
 ## end of [[Spam blacklist/Log]] section
 
