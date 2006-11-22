@@ -2477,6 +2477,7 @@ yourmerchandise\.org
 exploring-[a-z]+\.com
 melano(corp|planet)\.com 
 melanotan\.com\.au 
+12987\.rapidforum\.com
 
 ## end of [[Spam blacklist/Log]] section
 
