@@ -2481,6 +2481,7 @@ teens\.fr33host\.net
 blackburnroversyears\.com
 woodland-bunkbeds\.com
 silent-night\.info
+silentnight\.info
 
 ## end of [[Spam blacklist/Log]] section
 
