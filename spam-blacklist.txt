@@ -2479,6 +2479,7 @@ melano(corp|planet)\.com
 melanotan\.com\.au 
 12987\.rapidforum\.com
 teens\.fr33host\.net
+blackburnroversyears\.com
 
 ## end of [[Spam blacklist/Log]] section
 
