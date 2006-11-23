@@ -2482,6 +2482,7 @@ blackburnroversyears\.com
 woodland-bunkbeds\.com
 silent-night\.info
 silentnight\.info
+board123\.com
 
 ## end of [[Spam blacklist/Log]] section
 
