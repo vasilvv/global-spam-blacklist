@@ -2480,6 +2480,7 @@ melanotan\.com\.au
 teens\.fr33host\.net
 blackburnroversyears\.com
 woodland-bunkbeds\.com
+silent-night\.info
 
 ## end of [[Spam blacklist/Log]] section
 
