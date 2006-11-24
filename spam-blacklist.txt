@@ -2486,6 +2486,8 @@ silent-night\.info
 silentnight\.info
 board123\.com
 holocaustresearchproject\.org
+hs4free\.info
+easths\.info
 
 ## end of [[Spam blacklist/Log]] section
 
