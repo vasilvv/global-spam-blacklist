@@ -2485,6 +2485,7 @@ woodland-bunkbeds\.com
 silent-night\.info
 silentnight\.info
 board123\.com
+holocaustresearchproject\.org
 
 ## end of [[Spam blacklist/Log]] section
 
