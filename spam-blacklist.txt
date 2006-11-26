@@ -2488,6 +2488,7 @@ board123\.com
 holocaustresearchproject\.org
 hs4free\.info
 easths\.info
+judicial-inc\.biz
 
 ## end of [[Spam blacklist/Log]] section
 
