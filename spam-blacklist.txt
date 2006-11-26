@@ -2489,6 +2489,7 @@ holocaustresearchproject\.org
 hs4free\.info
 easths\.info
 judicial-inc\.biz
+ghosttracker\.50webs\.com
 
 ## end of [[Spam blacklist/Log]] section
 
