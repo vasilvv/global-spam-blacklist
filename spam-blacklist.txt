@@ -2492,6 +2492,7 @@ judicial-inc\.biz
 ghosttracker\.50webs\.com
 mortgage-refinance\.rubylq2\.com
 refinance-mortgage-4you\.com
+mobprofile\.com
 
 ## end of [[Spam blacklist/Log]] section
 
