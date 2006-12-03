@@ -729,6 +729,7 @@ parts4euro\.com
 #Jon Harald Søby's list
 wsite\.org
 janedoe0911\.tripod\.com
+etnapark\.com
 
 #requests
 coinable\.com #by epopt
