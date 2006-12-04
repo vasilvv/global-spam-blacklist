@@ -2503,6 +2503,7 @@ jeuverbal\.com
 prettymob\.com
 rutaverdebolivia\.com
 librie\.boom\.ru
+hhwtyt\.info
 
 ## end of [[Spam blacklist/Log]] section
 
