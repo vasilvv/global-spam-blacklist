@@ -2504,6 +2504,7 @@ prettymob\.com
 rutaverdebolivia\.com
 librie\.boom\.ru
 hhwtyt\.info
+stateuniversity\.com
 
 ## end of [[Spam blacklist/Log]] section
 
