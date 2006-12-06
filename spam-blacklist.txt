@@ -2504,6 +2504,7 @@ rutaverdebolivia\.com
 librie\.boom\.ru
 hhwtyt\.info
 stateuniversity\.com
+bt-blog\.net\.ru
 
 ## end of [[Spam blacklist/Log]] section
 
