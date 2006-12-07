@@ -2597,6 +2597,10 @@ librie\.boom\.ru
 hhwtyt\.info
 stateuniversity\.com
 bt-blog\.net\.ru
+recipes\.keralaz\.info
+v-tarot\.com
+a-ait\.com
+lemonparty\.org
 
 ## end of [[Spam blacklist/Log]] section
 
