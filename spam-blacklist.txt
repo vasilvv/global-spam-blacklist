@@ -531,6 +531,8 @@ goatse\.ca
 
 # Aph: 2006-12
 www\.lifeinsurance\.newoz\.info 
+www\.healthinsurance\.newoz\.info
+www\.*insurance\.newoz\.info
 
 # Brian0918
 www\.look4vacation\.com 
