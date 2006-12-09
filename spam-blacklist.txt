@@ -529,6 +529,9 @@ allgames4u\.net
 # D\.M\.: used for shock links
 goatse\.ca 
 
+# Aph: 2006-12
+www\.lifeinsurance\.newoz\.info 
+
 # Brian0918
 www\.look4vacation\.com 
 bulgaria-houses\.com
