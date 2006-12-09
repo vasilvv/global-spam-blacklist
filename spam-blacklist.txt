@@ -529,7 +529,9 @@ allgames4u\.net
 # D\.M\.: used for shock links
 goatse\.ca 
 
-# Aph: 2006-12
+# Aphaia: 2006-12
+newoz.\info
+newov.\info 
 www\.lifeinsurance\.newoz\.info 
 www\.healthinsurance\.newoz\.info
 www\.mortgagerefinancing\.newov\.info
