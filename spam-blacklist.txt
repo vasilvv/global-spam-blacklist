@@ -2617,6 +2617,9 @@ bestwinantivirus\.info
 metalgearsolidforums\.com
 muhammaddressup\.com
 
+## 2006-12 ([[Spam blacklist/Log]])
+freefind\.com
+
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
