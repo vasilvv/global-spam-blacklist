@@ -532,12 +532,12 @@ goatse\.ca
 # Aphaia: 2006-12
 newoz\.info
 newov\.info 
-www\.lifeinsurance\.newoz\.info 
-www\.healthinsurance\.newoz\.info
-www\.mortgagerefinancing\.newov\.info
-www\.autoinsurancequote\.newoz\.info
-# hoping not controversial ...
-www\.*insurance*\.newoz\.info
+blog\.goo\.ne\.jp\/\maxikon2006\/
+www\.fengshui-xuankong\.com
+www\.chineseart\.com\/\feng-shui\.htm
+www\.smilingbamboo\.com
+jt\.org
+
 
 # Brian0918
 www\.look4vacation\.com 
