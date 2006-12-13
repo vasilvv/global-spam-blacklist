@@ -2619,6 +2619,8 @@ muhammaddressup\.com
 
 ## 2006-12 ([[Spam blacklist/Log]])
 freefind\.com
+diesel-diesel\.com
+thewebcity\.com
 
 ## end of [[Spam blacklist/Log]] section
 
