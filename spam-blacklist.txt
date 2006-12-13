@@ -2656,7 +2656,7 @@ voipblogs\.blogspot\.com
 voiphunt\.com
 kewlestsites\.com
 cognigen\.com
-ld\.net
+\.ld\.net
 myld\.net
 sagetelecom\.net
 
