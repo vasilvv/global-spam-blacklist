@@ -2659,6 +2659,7 @@ cognigen\.com
 \.ld\.net
 myld\.net
 sagetelecom\.net
+envy\.nu
 
 ## end of [[Spam blacklist/Log]] section
 
