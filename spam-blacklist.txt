@@ -2661,6 +2661,7 @@ sagetelecom\.net
 envy\.nu
 halychen\.com
 just2buy\.com
+bestmine\.com
 
 ## end of [[Spam blacklist/Log]] section
 
