@@ -2635,6 +2635,7 @@ halychen\.com
 just2buy\.com
 bestmine\.com
 18speedtranny
+urlbounce\.com
 
 ## end of [[Spam blacklist/Log]] section
 
