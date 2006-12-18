@@ -536,8 +536,6 @@ blog\.goo\.ne\.jp\/\maxikon2006\/
 www\.fengshui-xuankong\.com
 www\.chineseart\.com\/\feng-shui\.htm
 www\.smilingbamboo\.com
-jt\.org
-
 
 # Brian0918
 www\.look4vacation\.com 
