@@ -2636,6 +2636,9 @@ just2buy\.com
 bestmine\.com
 18speedtranny
 urlbounce\.com
+psykopat\.no
+likestilling\.com
+steinerkritikk\.no
 
 ## end of [[Spam blacklist/Log]] section
 
