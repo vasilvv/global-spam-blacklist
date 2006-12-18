@@ -2639,6 +2639,7 @@ urlbounce\.com
 psykopat\.no
 likestilling\.com
 steinerkritikk\.no
+xbuv\.info
 
 ## end of [[Spam blacklist/Log]] section
 
