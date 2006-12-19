@@ -2641,6 +2641,7 @@ psykopat\.no
 likestilling\.com
 steinerkritikk\.no
 xbuv\.info
+sveti-stefan\.net
 
 ## end of [[Spam blacklist/Log]] section
 
