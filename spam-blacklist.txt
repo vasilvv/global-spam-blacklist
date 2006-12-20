@@ -825,6 +825,7 @@ bestv\.forenserver\.net
 satellitetvtopc\.com
 ringtones-dir\.com
 parts4euro\.com
+getlazy\.tk
 
 #Jon Harald Søby's list
 wsite\.org
