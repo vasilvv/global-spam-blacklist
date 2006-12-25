@@ -2658,6 +2658,7 @@ coolwb\.com
 \.xort\.in
 \.url4\.net
 geocities\.com\/nozomsite
+autoworldcare\.com
 
 ## end of [[Spam blacklist/Log]] section
 
