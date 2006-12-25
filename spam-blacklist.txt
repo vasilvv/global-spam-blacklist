@@ -2650,6 +2650,8 @@ carauto-insurance\.org
 italy-info\.org
 heiten\.info
 newsitaly\.org
+auswirt\.info
+preins\.info
 
 ## end of [[Spam blacklist/Log]] section
 
