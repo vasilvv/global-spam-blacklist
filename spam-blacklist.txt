@@ -735,7 +735,7 @@ notrix\.de
 notrix\.net
 on\.to
 page\.to
-pagina\.de
+\.pagina\.de
 paulding\.net
 played\.by
 playsite\.de
