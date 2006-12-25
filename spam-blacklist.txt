@@ -476,7 +476,7 @@ cechail\.site\.voila\.fr
 datasheet4u\.com
 digchip\.com
 datasheet\.org\.uk
-icbank\.com # <- may be broad, will check later - Amgine
+\.icbank\.com
 bestincosmetics\.com
 videposters\.es
 josiemodel\.ca
@@ -929,7 +929,7 @@ glowsticks\.co\.uk
 partners\.webmasterplan\.com
 hepi\.pl
 hometown\.aol\.com\/(kolakq|cup2006fifa|fokann)
-hentai\.com
+\.hentai\.com
 xhost\.ro
 nigeria\.chickenkiller\.com
 pharisees\.org
