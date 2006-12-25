@@ -2646,6 +2646,10 @@ likestilling\.com
 steinerkritikk\.no
 xbuv\.info
 sveti-stefan\.net
+carauto-insurance\.org
+italy-info\.org
+heiten\.info
+newsitaly\.org
 
 ## end of [[Spam blacklist/Log]] section
 
