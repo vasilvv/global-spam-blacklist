@@ -2659,6 +2659,7 @@ coolwb\.com
 \.url4\.net
 geocities\.com\/nozomsite
 autoworldcare\.com
+sexy-chat-rooms\.org
 
 ## end of [[Spam blacklist/Log]] section
 
