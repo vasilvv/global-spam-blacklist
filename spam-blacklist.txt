@@ -2652,6 +2652,11 @@ heiten\.info
 newsitaly\.org
 auswirt\.info
 preins\.info
+coolwb\.com
+\.pnope\.com
+\.xort\.in
+\.url4\.net
+geocities\.com\/nozomsite
 
 ## end of [[Spam blacklist/Log]] section
 
