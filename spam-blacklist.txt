@@ -1428,6 +1428,7 @@ lotoplay\.com
 
 # Walter
 web247\.s5\.netcup\.net # German linkspammer
+narod\.ru # spammer on EN wikipedia
 
 #http://en.wikipedia.org/w/index.php?title=User_talk%3ACool_Cat%2FArchive%2F2006%2F09&diff=77994772&oldid=75840958
 webhosting\.gs
