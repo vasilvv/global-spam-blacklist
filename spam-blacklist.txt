@@ -2661,6 +2661,7 @@ geocities\.com\/nozomsite
 autoworldcare\.com
 sexy-chat-rooms\.org
 grotteriaonline\.com
+popsnail\.com
 
 ## end of [[Spam blacklist/Log]] section
 
