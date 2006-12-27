@@ -2650,6 +2650,7 @@ autoworldcare\.com
 sexy-chat-rooms\.org
 grotteriaonline\.com
 popsnail\.com
+med911\.t35\.com
 
 ## end of [[Spam blacklist/Log]] section
 
