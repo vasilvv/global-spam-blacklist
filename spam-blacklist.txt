@@ -657,14 +657,14 @@ wikipedia\.on\.nimp\.org
 1tiny\.com
 301url\.com
 6url\.com
-all\.at
+\.all\.at
 ataja\.es
 babyurl\.com
 back\.to
 beam\.at
 been\.at
 bite\.to
-board\.to
+\.board\.to
 bounce\.to
 bowl\.to
 break\.at
@@ -733,7 +733,7 @@ notrix\.at
 notrix\.ch
 notrix\.de
 notrix\.net
-on\.to
+\.on\.to
 page\.to
 \.pagina\.de
 paulding\.net
@@ -1917,7 +1917,6 @@ mp3prof\.com
 fullhentaimovies\.net
 -hentai\.net
 tartkartong\.com
--cartoon\.com
 macdostu\.com
 disney-toons\.com
 cn4e\.com
