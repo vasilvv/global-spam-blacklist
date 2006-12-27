@@ -1376,6 +1376,7 @@ sytes\.net
 clipurl\.com
 wapurl\.co\.uk
 liteurl\.com
+zippedurl\.com
 ##End of Naconkantari
 
 # Added by MaxSem
