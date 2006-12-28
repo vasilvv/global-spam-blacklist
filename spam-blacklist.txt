@@ -2655,6 +2655,7 @@ grotteriaonline\.com
 popsnail\.com
 med911\.t35\.com
 \.middlesell\.com
+\.filmfocus\.nl
 
 ## end of [[Spam blacklist/Log]] section
 
