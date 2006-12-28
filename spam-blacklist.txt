@@ -2656,6 +2656,7 @@ popsnail\.com
 med911\.t35\.com
 \.middlesell\.com
 \.filmfocus\.nl
+\.thewallpapers\.us
 
 ## end of [[Spam blacklist/Log]] section
 
