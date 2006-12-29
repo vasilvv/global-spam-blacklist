@@ -755,6 +755,7 @@ makeashorterlink\.com
 \.shurl\.org
 \.simurl\.com
 \.skip\.to
+skocz\.pl # added by \.anaconda
 \.smcurl\.com
 \.snap\.to
 \.snipurl\.com
