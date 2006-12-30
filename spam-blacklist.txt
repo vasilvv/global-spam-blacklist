@@ -726,7 +726,7 @@ makeashorterlink\.com
 \.mypage\.org
 \.mysite\.de
 \.nav\.to
-\nlug\.org\/url
+nlug\.org\/url # added by \.anaconda
 \.notlong\.com
 \.notrix\.at
 \.notrix\.ch
