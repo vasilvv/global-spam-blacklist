@@ -2658,6 +2658,7 @@ med911\.t35\.com
 \.filmfocus\.nl
 \.thewallpapers\.us
 \.e-business-pages\.com
+\.thehotelheiress\.com
 
 ## end of [[Spam blacklist/Log]] section
 
