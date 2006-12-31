@@ -2661,6 +2661,7 @@ med911\.t35\.com
 \.e-business-pages\.com
 \.thehotelheiress\.com
 \.sexotica\.info
+roorex\.net
 
 ## end of [[Spam blacklist/Log]] section
 
