@@ -2662,6 +2662,8 @@ med911\.t35\.com
 \.thehotelheiress\.com
 \.sexotica\.info
 roorex\.net
+infinitehosting\.net
+infinites\.net
 
 ## end of [[Spam blacklist/Log]] section
 
