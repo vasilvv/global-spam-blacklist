@@ -2660,6 +2660,7 @@ med911\.t35\.com
 \.thewallpapers\.us
 \.e-business-pages\.com
 \.thehotelheiress\.com
+\.sexotica\.info
 
 ## end of [[Spam blacklist/Log]] section
 
