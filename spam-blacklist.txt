@@ -2660,7 +2660,7 @@ med911\.t35\.com
 \.filmfocus\.nl
 \.thewallpapers\.us
 \.e-business-pages\.com
-\.thehotelheiress\.com
+thehotelheiress\.com
 \.sexotica\.info
 roorex\.net
 infinitehosting\.net
