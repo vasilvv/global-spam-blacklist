@@ -1208,6 +1208,11 @@ nascarspace\.com
 penny-stock\.org
 house-mortgage\.org
 DieselSmoke\.com
+blogsit\.ru
+blogmania\.ru
+vnunetblogs\.com
+kataweb\.it
+wmjblogs\.ru
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 \.acmedias\.org
