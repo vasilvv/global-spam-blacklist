@@ -2732,6 +2732,7 @@ sohbetchat\.tc
 trsohbet\.com
 canliizle\.tv
 traductionportugais\.net
+fashiony\.it
 
 ## end of [[Spam blacklist/Log]] section
 
