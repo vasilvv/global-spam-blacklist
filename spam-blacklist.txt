@@ -2772,6 +2772,7 @@ free-game-downloads\.mosw\.com
 tourettesguy\.com
 bhmjikhkumhh\.blogspot\.com
 \.ipetitions\.com
+\.freevideo\.cz
 
 ## end of [[Spam blacklist/Log]] section
 
