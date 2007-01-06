@@ -2739,6 +2739,14 @@ carouto-insurance\.org
 101pharmacy\.org
 electro-funk\.de
 myspace\.com\/3933516
+hoodia.*\.blogspot\.com
+party-poker.*\.blogspot\.com
+casino-gam.*\.blogspot\.com
+soydebarakaldo\.com
+soydeportugalete\.com
+soydesanturtzi\.com
+\.waslan\.de
+
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
