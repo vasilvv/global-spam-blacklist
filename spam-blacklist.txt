@@ -2773,6 +2773,7 @@ tourettesguy\.com
 bhmjikhkumhh\.blogspot\.com
 \.ipetitions\.com
 \.freevideo\.cz
+\.gameend\.net
 
 ## end of [[Spam blacklist/Log]] section
 
