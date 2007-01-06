@@ -1395,6 +1395,7 @@ clipurl\.com
 wapurl\.co\.uk
 liteurl\.com
 zippedurl\.com
+\.yep\.it
 ##End of Naconkantari
 
 # Added by MaxSem
