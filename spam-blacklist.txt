@@ -2734,7 +2734,11 @@ trsohbet\.com
 canliizle\.tv
 traductionportugais\.net
 fashiony\.it
-
+creativeinvest\.com
+carouto-insurance\.org
+101pharmacy\.org
+electro-funk\.de
+myspace\.com\/3933516
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
