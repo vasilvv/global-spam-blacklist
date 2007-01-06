@@ -364,7 +364,6 @@ efl-law\.org
 guitar-poll\.com
 konecco\.com
 supergirls4\.tripod\.com
-unoriginal\.co\.uk
 English\.51hc\.com
 denwa\.omiki\.com
 \.365igo\.cn
@@ -560,7 +559,6 @@ vendweb\.com
 f9zs\.info
 
 # Suisui
-caribvoice\.org
 \.raus\.de\/crashme\/
 northwestairlines\.bravehost\.com
 news\.scenecritique\.com
@@ -1143,7 +1141,6 @@ xlal[0-9a-z-]*\.com
 extrasound\.net
 \.tabulas\.com
 urlcutter\.com
-\.anyboard\.net
 \.rollyo\.com
 mixtapeman\.net
 beatclappaz\.com
@@ -2493,7 +2490,9 @@ chabad(east|usa|world)\.(am|com|org)
 chabad\.am
 easytobook\.com
 ecole-miyamoto-musashi\.com
-funpic\.(de|org)
+favyr\.fa\.funpic\.org
+gamenline\.ga\.funpic\.org
+klavato\.kl\.funpic\.de
 home\.kimo\.com\.tw/pager1114/
 kingmessiah\.com
 lubavitchnetworks\.com
@@ -2642,7 +2641,8 @@ sagelocalphone\.com
 sagetelecom\.net
 search-engine-positioning-experts\.com
 shopfort1\.com
-squidoo\.com
+squidoo\.com\/inexpensive-wine
+squidoo\.com\/localphoneservice
 t1quotes\.net
 \.telebay\.com
 voipblogs\.blogspot\.com
