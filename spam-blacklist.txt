@@ -436,7 +436,7 @@ websamba\.com
 buy-hydrocodone\.webzdarma\.cz
 phentermine\.webzdarma\.cz
 levitra\.webzdarma\.cz
-\.wz\.cz
+#\.wz\.cz
 buy-viagra-online\.webzdarma\.cz
 jarmyl\.tripod\.com
 rx-phentermine\.tripod\.com
