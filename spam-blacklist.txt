@@ -2746,6 +2746,21 @@ soydebarakaldo\.com
 soydeportugalete\.com
 soydesanturtzi\.com
 \.waslan\.de
+chiquitania\.com
+\.kensavage\.com
+aminmaalouf\.ifrance\.com
+dahmaneelharrachi\.narod\.ru
+gadelmaleh\.narod\.ru
+guyalepage\.narod\.ru
+in-gridsite\.ifrance\.com
+jeandujardin\.narod\.ru
+jonathanlittell\.narod\.ru
+josegarcia\.narod\.ru
+naguibmahfouz\.narod\.ru
+o-zone-website\.narod\.ru
+sachabaroncohen\.narod\.ru
+aminmaalouf\.narod\.ru
+in-gridsite\.narod\.ru
 
 ## end of [[Spam blacklist/Log]] section
 
