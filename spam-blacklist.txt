@@ -2761,6 +2761,17 @@ o-zone-website\.narod\.ru
 sachabaroncohen\.narod\.ru
 aminmaalouf\.narod\.ru
 in-gridsite\.narod\.ru
+free-game-downloads\.mosw\.com
+\.sapesw\.com
+\.sapeso\.com
+\.sanpsw\.com
+\.freewishes\.com
+\.free-wishes\.com
+\.old-games\.com
+\.ogpaper\.com
+tourettesguy\.com
+bhmjikhkumhh\.blogspot\.com
+\.ipetitions\.com
 
 ## end of [[Spam blacklist/Log]] section
 
