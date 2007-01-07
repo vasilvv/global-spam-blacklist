@@ -2778,6 +2778,8 @@ bhmjikhkumhh\.blogspot\.com
 \.ipetitions\.com
 \.freevideo\.cz
 \.gameend\.net
+\.turkishweekly\.net
+\.usakgundem\.com
 
 ## end of [[Spam blacklist/Log]] section
 
