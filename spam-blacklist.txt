@@ -2662,9 +2662,6 @@ just2buy\.com
 bestmine\.com
 (?:.*/)?18speedtranny
 urlbounce\.com
-psykopat\.no
-likestilling\.com
-steinerkritikk\.no
 \.xbuv\.info
 sveti-stefan\.net
 carauto-insurance\.org
