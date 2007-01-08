@@ -2777,6 +2777,7 @@ bhmjikhkumhh\.blogspot\.com
 \.gameend\.net
 \.turkishweekly\.net\/turkce
 \.usakgundem\.com
+adult-cam-chat\.info
 
 ## end of [[Spam blacklist/Log]] section
 
