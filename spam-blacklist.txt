@@ -2787,6 +2787,7 @@ probuzz\.wordpress\.com
 \.kalakendra\.com
 blueplanetsurfmaps\.com
 wannasurf\.com
+kapills\.com
 
 ## end of [[Spam blacklist/Log]] section
 
