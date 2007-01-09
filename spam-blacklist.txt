@@ -2778,6 +2778,7 @@ bhmjikhkumhh\.blogspot\.com
 \.turkishweekly\.net\/turkce
 \.usakgundem\.com
 adult-cam-chat\.info
+gideononline\.net
 
 ## end of [[Spam blacklist/Log]] section
 
