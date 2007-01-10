@@ -2789,6 +2789,7 @@ wannasurf\.com
 kapills\.com
 asphost4free\.com
 lame\.name
+geocities.com\/stymets
 
 ## end of [[Spam blacklist/Log]] section
 
