@@ -2786,9 +2786,9 @@ probuzz\.wordpress\.com
 \.kalakendra\.com
 blueplanetsurfmaps\.com
 wannasurf\.com
-kapills\.com
+\.kapills\.com
 asphost4free\.com
-lame\.name
+\.lame\.name
 geocities.com\/stymets
 
 ## end of [[Spam blacklist/Log]] section
