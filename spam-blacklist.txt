@@ -2790,6 +2790,7 @@ wannasurf\.com
 asphost4free\.com
 \.lame\.name
 geocities.com\/stymets
+blogs\.myspace\.com
 
 ## end of [[Spam blacklist/Log]] section
 
