@@ -2791,7 +2791,8 @@ asphost4free\.com
 \.lame\.name
 geocities.com\/stymets
 blogs\.myspace\.com
-
+videochat-xl\.com\.ru
+prizee-free\.narod\.ru
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
