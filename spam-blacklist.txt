@@ -1397,6 +1397,7 @@ wapurl\.co\.uk
 liteurl\.com
 zippedurl\.com
 \.yep\.it
+32url\.com
 ##End of Naconkantari
 
 # Added by MaxSem
