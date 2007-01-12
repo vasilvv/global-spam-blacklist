@@ -2567,7 +2567,7 @@ special-ringtones\.net
 blackcomb\.co\.uk
 centraldorap\.com
 ezpicking\.com
-artnet\.de
+artnet\.de\/artist
 song-book\.info
 anysubs\.com
 pichunter\.com
@@ -2795,6 +2795,10 @@ blogs\.myspace\.com
 videochat-xl\.com\.ru
 prizee-free\.narod\.ru
 brawl-hall\.com
+worldtopix\.com
+xs4all\.nl\/\~wichm 
+chello\.nl\/a\.wichmann
+\/ibtimes\.com
 
 ## end of [[Spam blacklist/Log]] section
 
