@@ -2804,6 +2804,7 @@ royalessence\.com
 \.medi-vet\.com
 popsnail\.com
 zeligfilm\.it
+queroumforum\.com
 
 ## end of [[Spam blacklist/Log]] section
 
