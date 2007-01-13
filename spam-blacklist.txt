@@ -2521,7 +2521,7 @@ succodimelone\.it
 rosnersquared\.com
 code-interactive\.com
 ideamappingsuccess\.com
-(?:cup|league|football|wayne|premiership|steven|united|athletic).*years\.com
+\.(?:cup|league|football|wayne|premiership|steven|united|athletic).*years\.com
 ilsonline\.it
 engagementring-4u\.com
 \.forumcommunity\.net
