@@ -2802,6 +2802,10 @@ chello\.nl\/a\.wichmann
 ghazporkindustrial\.com
 royalessence\.com
 \.medi-vet\.com
+popsnail\.com
+lifestylewiki\.com
+airline-wiki\.com
+chinese-wiki\.com
 
 ## end of [[Spam blacklist/Log]] section
 
