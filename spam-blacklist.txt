@@ -2799,6 +2799,9 @@ worldtopix\.com
 xs4all\.nl\/\~wichm 
 chello\.nl\/a\.wichmann
 \/ibtimes\.com
+ghazporkindustrial\.com
+royalessence\.com
+\.medi-vet\.com
 
 ## end of [[Spam blacklist/Log]] section
 
