@@ -2808,6 +2808,7 @@ popsnail\.com
 zeligfilm\.it
 queroumforum\.com
 makeminemarvel\.com
+thefairproject\.com
 
 ## end of [[Spam blacklist/Log]] section
 
