@@ -692,6 +692,7 @@ digbig\.com
 \.fullspeed\.to
 \.fun\.ms
 \.gameday\.de
+gentleurl\.net
 \.germany\.ms
 \.get\.to
 \.getit\.at
@@ -779,6 +780,7 @@ tinyurl\.com
 \.url123\.com
 \.url\.fm
 urlcut\.com
+urlic\.com
 urlmask\.com
 \.urlx\.org
 vacations\.to
