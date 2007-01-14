@@ -2805,6 +2805,7 @@ royalessence\.com
 popsnail\.com
 zeligfilm\.it
 queroumforum\.com
+makeminemarvel\.com
 
 ## end of [[Spam blacklist/Log]] section
 
