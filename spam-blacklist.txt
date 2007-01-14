@@ -789,7 +789,7 @@ virtualpage\.de
 \.walk\.to
 \.warp9\.to
 \.window\.to
-\.xrl\.us
+xrl\.us
 \.yatuc\.com # added by D\.M\.
 \.yep\.it
 \.yours\.at
