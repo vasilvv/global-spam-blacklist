@@ -2810,6 +2810,16 @@ queroumforum\.com
 makeminemarvel\.com
 thefairproject\.com
 morefori\.org
+\.merypop\.org
+\.tedyypor\.org
+\.linaster\.org
+\.selectitve\.org
+\.thisit\.org
+\.mercuty\.org
+\.cialikan\.org
+\.velikaze\.org
+\.retructi\.org
+\.minipik\.org
 
 ## end of [[Spam blacklist/Log]] section
 
