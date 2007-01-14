@@ -2809,6 +2809,7 @@ zeligfilm\.it
 queroumforum\.com
 makeminemarvel\.com
 thefairproject\.com
+morefori\.org
 
 ## end of [[Spam blacklist/Log]] section
 
