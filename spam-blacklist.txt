@@ -2820,6 +2820,7 @@ morefori\.org
 \.velikaze\.org
 \.retructi\.org
 \.minipik\.org
+\.queroumforum\.com
 
 ## end of [[Spam blacklist/Log]] section
 
