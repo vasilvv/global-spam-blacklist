@@ -1028,7 +1028,7 @@ ad(mmusicgroup|musics|musicacademy)\.info
 nychesskids\.com
 makinamuhendisi\.com
 u288\.com
-\.prv\.pl
+bxava\.prv\.pl
 imsn\.biz
 piranho\.com
 top\.netfirms\.com
@@ -1131,7 +1131,8 @@ animals-pictures-dictionary\.com
 \.45\.kg
 \.ledes\.net
 \.thea(s|p|t)\.info
-xoomer\.alice\.it
+xoomer\.alice\.it\/dynamixpro
+xoomer\.alice\.it\/iokimo
 yearlykos\.org
 rootg\.org
 \.comlive\.biz
@@ -2822,7 +2823,10 @@ morefori\.org
 \.minipik\.org
 \.queroumforum\.com
 boogiestreet\.com
-adult-sex-chat\.info
+declarationofindependents\.net
+beginwork\.by\.ru
+testftp\.by\.ru
+
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
