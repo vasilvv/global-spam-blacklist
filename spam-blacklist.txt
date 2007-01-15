@@ -2822,6 +2822,7 @@ morefori\.org
 \.minipik\.org
 \.queroumforum\.com
 boogiestreet\.com
+adult-sex-chat\.info
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
