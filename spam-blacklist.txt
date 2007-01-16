@@ -2794,7 +2794,7 @@ wannasurf\.com
 asphost4free\.com
 \.lame\.name
 geocities.com\/stymets
-blog\.myspace\.com
+blog?\.myspace\.com
 videochat-xl\.com\.ru
 prizee-free\.narod\.ru
 brawl-hall\.com
