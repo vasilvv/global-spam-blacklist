@@ -2827,6 +2827,17 @@ adult-sex-chat\.info
 declarationofindependents\.net
 beginwork\.by\.ru
 testftp\.by\.ru
+\.odele\.ru
+\.chr\.ru
+\.atst\.ru
+\.iapb\.ru
+\.kamaztorg\.ru
+amazon\.com\/chuvashiaportal
+\.poldow\.com
+\.nbaoh\.com
+\.nobelpr\.com
+npcart\.com
+\.nobmer\.com
 
 ## end of [[Spam blacklist/Log]] section
 
