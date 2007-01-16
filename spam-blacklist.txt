@@ -2838,6 +2838,7 @@ amazon\.com\/chuvashiaportal
 \.nobelpr\.com
 npcart\.com
 \.nobmer\.com
+shumilloff\.jino-net\.ru
 
 ## end of [[Spam blacklist/Log]] section
 
