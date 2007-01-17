@@ -766,6 +766,7 @@ skocz\.pl # added by \.anaconda
 \.switch\.to
 \.talk\.to
 \.tighturl\.com
+tiny\.cc
 tinyclick\.com 
 tinylink\.com
 \.tinyr\.us
