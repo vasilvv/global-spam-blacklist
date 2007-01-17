@@ -2839,6 +2839,26 @@ amazon\.com\/chuvashiaportal
 npcart\.com
 \.nobmer\.com
 shumilloff\.jino-net\.ru
+modlibray\.net\/proxy
+waterfordhomeschool\.org
+mk8\.org
+dy9\.org
+b80\.org
+t63\.org
+m32\.org
+80i\.org
+b65\.org
+bz8\.org
+68t\.org
+51a\.org
+z56\.org
+z95\.org
+7rg\.org
+74a\.org
+mr7\.org
+98f\.org
+i38\.org
+d4x\.org
 
 ## end of [[Spam blacklist/Log]] section
 
