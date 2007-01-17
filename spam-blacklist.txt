@@ -2839,7 +2839,7 @@ amazon\.com\/chuvashiaportal
 npcart\.com
 \.nobmer\.com
 shumilloff\.jino-net\.ru
-modlibray\.net\/proxy
+modlibrary\.net\/proxy
 waterfordhomeschool\.org
 mk8\.org
 dy9\.org
