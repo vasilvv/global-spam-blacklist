@@ -3005,6 +3005,7 @@ officeproxy\.net
 rdcumd\.org
 proxytheweb\.com
 adamworks\.org
+crazyarabs\.moonfruit\.com
 
 ## end of [[Spam blacklist/Log]] section
 
