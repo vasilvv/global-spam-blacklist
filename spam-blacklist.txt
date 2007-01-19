@@ -703,6 +703,7 @@ gentleurl\.net
 \.hop\.to
 \.how\.to
 \.hp\.ms
+jeeee\.net\/url
 \.jump\.to
 \.kiss\.to
 \.lin\.kz
