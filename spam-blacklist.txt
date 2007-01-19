@@ -3008,6 +3008,7 @@ rdcumd\.org
 proxytheweb\.com
 adamworks\.org
 crazyarabs\.moonfruit\.com
+xx-viewer\.com
 
 ## end of [[Spam blacklist/Log]] section
 
