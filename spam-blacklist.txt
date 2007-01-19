@@ -659,6 +659,7 @@ babyurl\.com
 \.back\.to
 \.beam\.at
 \.been\.at
+biglnk\.com
 \.bite\.to
 \.board\.to
 \.bounce\.to
