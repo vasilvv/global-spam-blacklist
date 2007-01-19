@@ -3009,6 +3009,7 @@ proxytheweb\.com
 adamworks\.org
 crazyarabs\.moonfruit\.com
 xx-viewer\.com
+airport-shuttle\.com
 
 ## end of [[Spam blacklist/Log]] section
 
