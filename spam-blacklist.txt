@@ -2903,7 +2903,7 @@ shannen\.info
 redlandsclassic\.org
 avpas\.org
 atomblog\.org
-(3ga|6ad|bx3|2ry|23a|43j|4j4|5b5|70m|78n|8hj|9rb|20d|68u|73r|9rh|d39|3xa|k1d)\.org
+(3ga|6ad|bx3|2ry|23a|43j|4j4|5b5|70m|78n|8hj|9rb|20d|68u|73r|d39|3xa|k1d)\.org
 pr0xy\.us
 connypug\.org
 proxymess\.com
