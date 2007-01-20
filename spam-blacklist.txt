@@ -785,6 +785,7 @@ tiny\.vj\.e\.pl
 \.url\.fm
 urlcut\.com
 urlic\.com
+urlin\.it
 urlmask\.com
 \.urlx\.org
 vacations\.to
