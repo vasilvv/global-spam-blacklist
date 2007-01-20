@@ -3012,7 +3012,7 @@ adamworks\.org
 crazyarabs\.moonfruit\.com
 xx-viewer\.com
 airport-shuttle\.com
-
+global.*warming.*awareness2007
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
