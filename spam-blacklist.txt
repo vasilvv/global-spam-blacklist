@@ -774,6 +774,7 @@ tinylink\.com
 \.tinyr\.us
 tinyurl\.co\.uk
 tinyurl\.com
+tiny\.vj\.e\.pl
 \.tip\.nu
 \.tny\.se
 \.top\.ms
