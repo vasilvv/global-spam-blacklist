@@ -754,8 +754,7 @@ nlug\.org\/url # added by \.anaconda
 \.shorl\.com
 \.shortcut\.to
 \.shortlinks\.co\.uk
-\.shurl\.net
-\.shurl\.org
+shurl\.(net|org)
 \.simurl\.com
 \.skip\.to
 skocz\.pl # added by \.anaconda
