@@ -697,6 +697,7 @@ gentleurl\.net
 \.germany\.ms
 \.get\.to
 \.getit\.at
+glinki\.com
 \.hard-ware\.de
 \.hello\.to
 \.hey\.to
