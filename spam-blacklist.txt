@@ -3015,6 +3015,7 @@ airport-shuttle\.com
 global.*warming.*awareness2007
 home\.no\/all4ass
 megaupload\.kayyo\.com
+travelscope\.co\.uk
 
 ## end of [[Spam blacklist/Log]] section
 
