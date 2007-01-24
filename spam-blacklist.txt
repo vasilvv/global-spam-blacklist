@@ -782,6 +782,7 @@ tiny\.vj\.e\.pl
 \.travel\.to
 \.turn\.to
 \.url123\.com
+url\.fibiger\.org
 \.url\.fm
 urlcut\.com
 urlic\.com
