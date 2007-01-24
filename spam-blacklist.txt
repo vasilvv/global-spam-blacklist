@@ -711,7 +711,6 @@ jeeee\.net\/url
 link\.toolbot\.com
 linkezy\.com
 linktrim\.com
-\.listen\.to
 \.ln-s\.net # silsor
 \.lnk\.in
 makeashorterlink\.com
