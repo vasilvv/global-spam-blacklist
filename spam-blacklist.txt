@@ -3016,7 +3016,11 @@ global.*warming.*awareness2007
 home\.no\/all4ass
 megaupload\.kayyo\.com
 travelscope\.co\.uk
-
 ## end of [[Spam blacklist/Log]] section
+
+# from zh wp
+www\.x4hk\.com
+www\.gogameland\.com
+www\.x-shopz\.org
 
  #</pre> <!-- leave this line exactly as it is -->
