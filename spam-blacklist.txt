@@ -3015,6 +3015,8 @@ global.*warming.*awareness2007
 home\.no\/all4ass
 megaupload\.kayyo\.com
 travelscope\.co\.uk
+hhent\.com
+
 ## end of [[Spam blacklist/Log]] section
 
 # from zh wp
