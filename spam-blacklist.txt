@@ -3016,6 +3016,7 @@ home\.no\/all4ass
 megaupload\.kayyo\.com
 travelscope\.co\.uk
 hhent\.com
+bitefight\.it
 
 ## end of [[Spam blacklist/Log]] section
 
