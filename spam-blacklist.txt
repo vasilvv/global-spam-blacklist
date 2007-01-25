@@ -3021,5 +3021,5 @@ travelscope\.co\.uk
 www\.x4hk\.com
 www\.gogameland\.com
 www\.x-shopz\.org
-
+www\.banan\.net\.ua
  #</pre> <!-- leave this line exactly as it is -->
