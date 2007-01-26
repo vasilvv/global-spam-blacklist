@@ -11,7 +11,7 @@
 
 # Words
 s-e-x
-zoofilia
+\zoofilia
 xqit
 ganzaoji
 aotubang
@@ -3087,6 +3087,62 @@ carinsurance\.com
 \.myld\.net
 old-classics\.com
 \.by\.ru\.ru
+myspace\.com\/anchoredcross
+joseplacido\.(net|com)
+onlineloanofficers\.com
+shaadibliss\.com
+crazysportsfan\.com
+gurusofdating\.com
+yourmoviepal\.com
+presidentpolls2008\.com
+amifobornot\.com
+nflsystems\.com
+camsfaq\.com
+didbarrycheat\.com
+lasvegasbuyeragent\.com
+\.sportus\.com
+easybaseballbetting\.com
+manchestercityyears\.com
+arsenalfcyears\.com
+birminghamcityyears\.com
+plymouthargyleyears\.com
+sunderlandafcyears\.com
+fulhamfcyears\.com
+portsmouthfcyears\.com
+\.240sx\.org
+240sxconvertible\.com
+240sxtech\.com
+350zclub\.org
+altimacoupe\.com
+g35club\.org
+\.gtrclub.org
+hybridaltima\.com
+infiniticx\.com
+infinitionlinemechanic\.com
+\.j30club\.com
+\.m30club\.com
+\.muranoclub\.com
+\.m35forum\.com
+\.m45forum\.com
+\.maximaclub\.org
+nissancommercials\.com
+nissanforia\.com
+nissanonlinemechanic\.com
+nissantech\.com
+nissanterranaut\.com
+nissanversa\.org
+\.q45\.org
+\.qx56club\.org
+rb26dett\.com
+vq35de\.com
+vh45de\.com
+vq35hr\.com
+\.azhitman\.com
+homephotog\.com
+z32club\.org
+webbrainiac\.com
+\.nicoclub\.com
+
 ## end of [[Spam blacklist/Log]] section
 
 
