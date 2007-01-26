@@ -3144,15 +3144,11 @@ webbrainiac\.com
 \.nicoclub\.com
 payday\.besttradelink\.info    # Jdforrester # repeated spam
 \.iyisozluk\.com               # Jdforrester # pan-wiki spam
-loans.homeloancourse\.info
-oneclickcash.besttradelink\.info
 loans.mortgagerefinancedot\.info
-Payday.usadaytrade\.biz
-instant.superrefinancerate\.info
-equity-loan.homeloancourse\.info
-loan.besttradelink\.info
-
-
+*\.homeloancourse\.info
+*\.besttradelink\.info
+*\.usadaytrade\.biz
+*\.superrefinancerate\.info
 ## end of [[Spam blacklist/Log]] section
 
 # from zh wp
