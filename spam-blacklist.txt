@@ -3145,10 +3145,10 @@ webbrainiac\.com
 payday\.besttradelink\.info    # Jdforrester # repeated spam
 \.iyisozluk\.com               # Jdforrester # pan-wiki spam
 loans.mortgagerefinancedot\.info
-*\.homeloancourse\.info
-*\.besttradelink\.info
-*\.usadaytrade\.biz
-*\.superrefinancerate\.info
+homeloancourse\.info
+besttradelink\.info
+usadaytrade\.biz
+superrefinancerate\.info
 ## end of [[Spam blacklist/Log]] section
 
 # from zh wp
