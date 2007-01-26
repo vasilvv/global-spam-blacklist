@@ -2057,8 +2057,66 @@ curtainnet\.com
 toobis\.com
 netsurf\.ru
 xxx-me\.info
-thirty-one\.info
+\.thirty-one\.info
 
+# A whole bunch from http://en.wikipedia.org/wiki/User:A._B./pressreleasegold.com
+pressreleasegold\.com 
+asiannet\.com
+colonhealth\.net
+deerelkhunting\.com
+etanklesshotwaterheater\.com
+firsthearingaids\.com
+\.malektips\.com
+medicalhairtransplantation\.org
+\.nolico\.com
+southbeach-diet-plan\.info
+toxicblackmoldhelp\.org
+treatacidreflux\.org
+treatgenitalwarts\.org
+treatnailfungus\.org
+\.aatrax\.com
+\.abilogic\.com
+alaska-adventures\.net
+alaskatrophyadventures\.com
+allthewebsites\.org
+bangkoksmiledental\.com
+biohealthchip\.com
+\.cancerhelponline\.org
+captainjacksalaska\.com
+essential-sugar\.com
+\.datingsoftware\.org
+delllaptopreviews\.info
+disability-resource\.com
+drug-rehabcenter\.com
+fishswiftsure\.com
+\.fjaproducts\.com
+glycoexpert\.com
+globaltelesis\.com
+h57-hoodia\.net
+homehealthcaredepot\.com
+\.investigation\.com
+\.jpidata\.com
+kenai-guides\.com
+kuuloakai\.com
+link-pimp\.com
+\.linkhelpers\.net
+\.medipro\.com
+mysolitaire\.com
+online-shopping-catalogs\.com
+phonecardsmile\.com
+profish-n-sea\.com
+purehealthsystems\.com
+\.riverpirate\.com
+seattlefishing\.com
+selfhealingexpressions\.com
+skagwayfishing\.com
+skincancernet\.info
+skoobe\.biz
+smartwomensupplements\.com
+surgeryconcerns\.com
+\.tgfusa\.com
+thehyips\.info
+yearstoyourhealth\.com
 
 ## 2004
 7csun\.(com|org|net)
@@ -3019,12 +3077,23 @@ hhent\.com
 bitefight\.it
 citronpaper\.it
 supermortgagerate\.info
+abolishthegmc\.blogspot\.com
+searchtexoma\.com
+nationwidebillrelief\.com
+surfquotes\.com
+cognigen\.net
+carinsurance\.com
+\.ld\.net
+\.myld\.net
+old-classics\.com
+\.by\.ru\.ru
 ## end of [[Spam blacklist/Log]] section
 
 
 # from zh wp
-www\.x4hk\.com
-www\.gogameland\.com
-www\.x-shopz\.org
-www\.banan\.net\.ua
+\.x4hk\.com
+\.gogameland\.com
+\.x-shopz\.org
+\.banan\.net\.ua
+
  #</pre> <!-- leave this line exactly as it is -->
