@@ -3142,13 +3142,10 @@ homephotog\.com
 z32club\.org
 webbrainiac\.com
 \.nicoclub\.com
+payday\.besttradelink\.info    # Jdforrester # repeated spam
+\.iyisozluk\.com               # Jdforrester # pan-wiki spam
 
 ## end of [[Spam blacklist/Log]] section
-
-# Jdforrester adding 26.i.2007
-
-payday\.besttradelink\.info
-\.iyisozluk\.com
 
 # from zh wp
 \.x4hk\.com
