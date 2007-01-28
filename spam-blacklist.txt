@@ -3147,6 +3147,7 @@ homeloancourse\.info
 besttradelink\.info
 usadaytrade\.biz
 superrefinancerate\.info
+myblog\.es
 ## end of [[Spam blacklist/Log]] section
 
 # from zh wp
