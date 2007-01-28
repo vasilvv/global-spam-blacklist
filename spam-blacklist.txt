@@ -744,6 +744,7 @@ nlug\.org\/url # added by \.anaconda
 \.qurl\.com
 \.qurl\.net
 \.redirect\.to
+rubyurl\.com
 \.rulestheweb\.com
 \.run\.to
 \.runurl\.com
