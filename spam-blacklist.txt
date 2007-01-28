@@ -2062,7 +2062,6 @@ xxx-me\.info
 # A whole bunch from http://en.wikipedia.org/wiki/User:A._B./pressreleasegold.com
 pressreleasegold\.com 
 asiannet\.com
-colonhealth\.net
 deerelkhunting\.com
 etanklesshotwaterheater\.com
 firsthearingaids\.com
