@@ -3150,6 +3150,7 @@ usadaytrade\.biz
 superrefinancerate\.info
 myblog\.es
 cabinda\.net
+gaudi\.cat 
 ## end of [[Spam blacklist/Log]] section
 
 # from zh wp
