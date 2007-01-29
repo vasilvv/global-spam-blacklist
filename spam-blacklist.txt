@@ -3149,6 +3149,7 @@ besttradelink\.info
 usadaytrade\.biz
 superrefinancerate\.info
 myblog\.es
+cabinda\.net
 ## end of [[Spam blacklist/Log]] section
 
 # from zh wp
