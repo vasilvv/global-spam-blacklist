@@ -3151,6 +3151,7 @@ superrefinancerate\.info
 myblog\.es
 cabinda\.net
 gaudi\.cat 
+geekissues\.org # contains redirect pages to porn/shock sites
 ## end of [[Spam blacklist/Log]] section
 
 # from zh wp
