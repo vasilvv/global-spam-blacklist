@@ -3164,5 +3164,7 @@ bringingfolkstogether\.com
 
 #added by Darkoneko 27/01/07, due to spambot on fr:wp
 daimonds\.php5\.cz
+# 1/29/07 -- Dmcdevit
+jeder-tag\.de
 
  #</pre> <!-- leave this line exactly as it is -->
