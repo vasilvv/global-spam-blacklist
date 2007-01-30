@@ -3153,6 +3153,7 @@ cabinda\.net
 gaudi\.cat 
 geekissues\.org # contains redirect pages to porn/shock sites
 manutd-clip\.blogspot\.com
+barcagoal\.blogspot\.com
 ## end of [[Spam blacklist/Log]] section
 
 # from zh wp
