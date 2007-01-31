@@ -3190,4 +3190,7 @@ webitems\.com
 webitemspro\.com
 ingenieur-verlag\.de
 
+#added by Walter
+oseculoprodigioso\.blogspot\.com
+
  #</pre> <!-- leave this line exactly as it is -->
