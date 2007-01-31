@@ -3170,5 +3170,7 @@ bringingfolkstogether\.com
 daimonds\.php5\.cz
 # 1/29/07 -- Dmcdevit
 jeder-tag\.de
+gooya\.co\.uk
 
+old-classics\.info
  #</pre> <!-- leave this line exactly as it is -->
