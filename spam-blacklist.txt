@@ -779,11 +779,12 @@ tiny\.vj\.e\.pl
 \.top\.ms
 \.transfer\.to
 \.travel\.to
+turl\.jp
 \.turn\.to
 \.url123\.com
 url\.fibiger\.org
 \.url\.fm
-urlcut\.com
+urlcut\.(com|net)
 urlic\.com
 urlin\.it
 urlmask\.com
