@@ -802,6 +802,7 @@ xrl\.us
 \.yours\.at
 \.zap\.to
 \.zip\.to
+zuso\.tw
 
 # spyware
 ntsearch\.com
