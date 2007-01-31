@@ -3158,6 +3158,7 @@ manutd-clip\.blogspot\.com
 barcagoal\.blogspot\.com
 italiagame\.org
 siamforum\.com
+oseculoprodigioso\.blogspot\.com
 ## end of [[Spam blacklist/Log]] section
 
 # from zh wp
@@ -3190,7 +3191,5 @@ webitems\.com
 webitemspro\.com
 ingenieur-verlag\.de
 
-#added by Walter
-oseculoprodigioso\.blogspot\.com
 
  #</pre> <!-- leave this line exactly as it is -->
