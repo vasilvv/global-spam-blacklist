@@ -3194,8 +3194,11 @@ thongtalking\.com
 webitems\.com
 webitemspro\.com
 ingenieur-verlag\.de
+
+## 2007-02 ([[Spam blacklist/Log]])
 monicabelluccionline\.com
 wiener-gasometer\.at
 turkudostlari\.net
+gravinaoggi\.it
 
  #</pre> <!-- leave this line exactly as it is -->
