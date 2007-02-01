@@ -532,6 +532,10 @@ blog\.goo\.ne\.jp\/maxikon2006\/
 \.fengshui-xuankong\.com
 \.chineseart\.com\/feng-shui\.htm
 \.smilingbamboo\.com
+# Aphaia: 2006-02
+www\.splashblog\.com\/orderambien
+www\.splashblog\.com\/orderphentermine
+www\.splashblog\.com\/ordercarisoprodol
 
 # Brian0918
 \.look4vacation\.com 
