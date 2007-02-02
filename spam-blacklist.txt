@@ -3196,7 +3196,7 @@ webitemspro\.com
 ingenieur-verlag\.de
 
 #added by Redux on February 1st 2007
-elodiscovery.com
+elodiscovery\.com
 
 ## 2007-02 ([[Spam blacklist/Log]])
 monicabelluccionline\.com
