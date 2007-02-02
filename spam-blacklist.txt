@@ -768,6 +768,7 @@ skocz\.pl # added by \.anaconda
 \.start\.at
 \.stick\.by
 \.surf\.to
+s-url\.net
 \.switch\.to
 \.talk\.to
 \.tighturl\.com
