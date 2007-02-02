@@ -528,7 +528,6 @@ goatse\.ca
 # Aphaia: 2006-12
 \.newoz\.info
 \.newov\.info 
-blog\.goo\.ne\.jp\/maxikon2006\/
 \.fengshui-xuankong\.com
 \.chineseart\.com\/feng-shui\.htm
 \.smilingbamboo\.com
