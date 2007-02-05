@@ -808,6 +808,7 @@ xrl\.us
 \.zap\.to
 \.zip\.to
 zuso\.tw
+hugeurl\.com
 
 # spyware
 ntsearch\.com
