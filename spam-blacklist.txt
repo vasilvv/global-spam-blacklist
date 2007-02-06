@@ -1490,6 +1490,39 @@ yahoo-watch\.org
 being-ones-self\.org
 myegotimes\.com
 
+# from zh wp
+\.x4hk\.com
+\.gogameland\.com
+\.x-shopz\.org
+\.banan\.net\.ua
+
+# temporary until 2007-02-15
+bringingfolkstogether\.com
+
+#added by Darkoneko 27/01/07, due to spambot on fr:wp
+daimonds\.php5\.cz
+# 1/29/07 -- Dmcdevit
+jeder-tag\.de
+gooya\.co\.uk
+freemasonrywatch\.org
+old-classics\.info
+dsbworldwide\.com
+LasVegasBaby\.net
+mycraigranch\.com
+mylocallink\.com
+planoland\.com
+professionalhooker\.com
+SinCityBaby\.net
+texomaland\.com
+theprofessionalhooker\.com
+thongtalking\.com
+webitems\.com
+webitemspro\.com
+ingenieur-verlag\.de
+
+#added by Redux on February 1st 2007
+elodiscovery\.com
+
 # [[Spam blacklist/Log]]
 ## Unknown
 (gui.*|chai?r|lamp.*|cook.*|visa.*)\.white\.prohosting\.com
@@ -3163,40 +3196,6 @@ barcagoal\.blogspot\.com
 italiagame\.org
 siamforum\.com
 oseculoprodigioso\.blogspot\.com
-## end of [[Spam blacklist/Log]] section
-
-# from zh wp
-\.x4hk\.com
-\.gogameland\.com
-\.x-shopz\.org
-\.banan\.net\.ua
-
-# temporary until 2007-02-15
-bringingfolkstogether\.com
-
-#added by Darkoneko 27/01/07, due to spambot on fr:wp
-daimonds\.php5\.cz
-# 1/29/07 -- Dmcdevit
-jeder-tag\.de
-gooya\.co\.uk
-freemasonrywatch\.org
-old-classics\.info
-dsbworldwide\.com
-LasVegasBaby\.net
-mycraigranch\.com
-mylocallink\.com
-planoland\.com
-professionalhooker\.com
-SinCityBaby\.net
-texomaland\.com
-theprofessionalhooker\.com
-thongtalking\.com
-webitems\.com
-webitemspro\.com
-ingenieur-verlag\.de
-
-#added by Redux on February 1st 2007
-elodiscovery\.com
 
 ## 2007-02 ([[Spam blacklist/Log]])
 monicabelluccionline\.com
@@ -3211,6 +3210,7 @@ pelendrek\.com
 jewellery\.php5\.cz
 1001nights\.net\free-porn
 gilbertwesleypurdy\.blogspot\.com
+
 vgs-wiki-watchdog\.blogspot\.com
 gilbert-wesley-purdy\.blogspot\.com
 vgs-index-and-specialty\.blogspot\.com
@@ -3219,5 +3219,8 @@ vgscomputerarchive\.myblogsite\.com
 virtual-grub-street\.blogspot\.com
 catalyzerjournal\.com
 studentville\.it
+digital-synthesizer\.info
+hostingphpbb\.com
+## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
