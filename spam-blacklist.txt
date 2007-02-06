@@ -650,8 +650,7 @@ w9uh\.info
 wikipedia\.on\.nimp\.org
 \.on\.nimp\.org
 
-# URL shortners
-# list updated 06.12.2006 by mzlla
+# URL shorteners
 \.1tiny\.com
 \.301url\.com
 \.6url\.com
@@ -809,6 +808,7 @@ xrl\.us
 \.zip\.to
 zuso\.tw
 hugeurl\.com
+elfurl\.com
 
 # spyware
 ntsearch\.com
@@ -3209,7 +3209,6 @@ pelendrek\.com
 jewellery\.php5\.cz
 1001nights\.net\free-porn
 gilbertwesleypurdy\.blogspot\.com
-
 vgs-wiki-watchdog\.blogspot\.com
 gilbert-wesley-purdy\.blogspot\.com
 vgs-index-and-specialty\.blogspot\.com
@@ -3220,8 +3219,10 @@ catalyzerjournal\.com
 studentville\.it
 digital-synthesizer\.info
 hostingphpbb\.com
-
 emptynosesyndrome\.org
+classicpcgames\.info
+
+
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
