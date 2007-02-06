@@ -3220,6 +3220,8 @@ catalyzerjournal\.com
 studentville\.it
 digital-synthesizer\.info
 hostingphpbb\.com
+
+emptynosesyndrome\.org
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
