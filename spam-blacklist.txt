@@ -1,9 +1,9 @@
  #<!-- leave this line exactly as it is --> <pre> 
 # This is a list of domain names which are considered spam.
 # Guidelines:
-#    - Only blacklist for widespread, unmanageable spam
-#    - To disable an entry, *remove* it; don't comment it out
-#    - Add entry to [[Spam blacklist/Log]]
+#    - Only blacklist for widespread, unmanageable spam.
+#    - To disable an entry, *remove* it, don't comment it out.
+#    - Add entries to [[Spam blacklist/Log]] (and remove them when they're removed here).
 # 
 # Syntax:
 #    - Everything from a "#" character to the end of the line is a comment
@@ -3199,7 +3199,6 @@ oseculoprodigioso\.blogspot\.com
 
 ## 2007-02 ([[Spam blacklist/Log]])
 monicabelluccionline\.com
-wiener-gasometer\.at
 turkudostlari\.net
 gravinaoggi\.it
 moviesofsex\.info
