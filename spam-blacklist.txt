@@ -810,6 +810,7 @@ zuso\.tw
 hugeurl\.com
 elfurl\.com
 doiop\.com
+301url\.com
 
 # spyware
 ntsearch\.com
