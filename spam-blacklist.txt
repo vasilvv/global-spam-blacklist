@@ -3228,6 +3228,7 @@ opa\.com
 marta\.com
 republica\.com
 kalamita\.php5\.cz
+telefanatic\.com
 
 ## end of [[Spam blacklist/Log]] section
 
