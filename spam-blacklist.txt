@@ -809,6 +809,7 @@ xrl\.us
 zuso\.tw
 hugeurl\.com
 elfurl\.com
+doiop\.com
 
 # spyware
 ntsearch\.com
