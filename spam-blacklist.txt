@@ -3224,6 +3224,10 @@ emptynosesyndrome\.org
 classicpcgames\.info
 myscreensavers\.net
 dailycelebsearch\.com
+opa\.com
+marta\.com
+republica\.com
+kalamita\.php5\.cz
 
 ## end of [[Spam blacklist/Log]] section
 
