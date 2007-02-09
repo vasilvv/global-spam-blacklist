@@ -3230,7 +3230,7 @@ opa\.com
 republica\.com
 kalamita\.php5\.cz
 telefanatic\.com
-
+users\.berexa\.info
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
