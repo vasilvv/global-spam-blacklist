@@ -811,6 +811,7 @@ hugeurl\.com
 elfurl\.com
 doiop\.com
 301url\.com
+\bkuso\.cc
 
 # spyware
 ntsearch\.com
