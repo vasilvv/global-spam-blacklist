@@ -3226,10 +3226,11 @@ classicpcgames\.info
 myscreensavers\.net
 dailycelebsearch\.com
 opa\.com
-marta\.com
+\bmarta\.com
 republica\.com
 kalamita\.php5\.cz
 telefanatic\.com
+pathoschild # temp test
 
 ## end of [[Spam blacklist/Log]] section
 
