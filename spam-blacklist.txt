@@ -3236,6 +3236,7 @@ users\.berexa\.info
 elliottgann\.com
 welikehorses\.com
 socrates\.run2\.ws
+\bhem\.fyristorg\.com\/kraftwerk
 
 # 2007-02-10, Datrio
 republika\.pl\/stranasmer
