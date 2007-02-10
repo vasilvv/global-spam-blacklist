@@ -3237,6 +3237,9 @@ elliottgann\.com
 welikehorses\.com
 socrates\.run2\.ws
 
+# 2007-02-10, Datrio
+republika\.pl\/stranasmer
+
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
