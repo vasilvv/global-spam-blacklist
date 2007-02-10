@@ -3238,6 +3238,18 @@ welikehorses\.com
 socrates\.run2\.ws
 \bhem\.fyristorg\.com\/kraftwerk
 \binfonet\.com\.br\/mozart
+\bAutoInsuranceCarInsurance\.net
+\bauto-insurance-rate\.biz
+\bbadcredit-mortgagerefinance\.info
+\bcar-insurance-comparison\.net
+\bCheapCarInsuranceQuote\.biz
+\bclipboardgenie\.com
+\bFreewareCity\.com
+\binsureme\.com
+\blynxtrack\.com
+\buiopq\.com
+\bvsisoftware\.com
+\bvsisystems\.com
 
 # 2007-02-10 Eagle 101 : This is a rather wide regex, but its needed to stop current spam.
 \bwiki.*\.jobpilto\.de
