@@ -3234,6 +3234,7 @@ kalamita\.php5\.cz
 telefanatic\.com
 users\.berexa\.info
 elliottgann\.com
+welikehorses\.com
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
