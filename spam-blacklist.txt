@@ -3175,13 +3175,13 @@ nissanterranaut\.com
 nissanversa\.org
 \.q45\.org
 \.qx56club\.org
-rb26dett\.com
-vq35de\.com
-vh45de\.com
-vq35hr\.com
+\.rb26dett\.com
+\.vq35de\.com
+\.vh45de\.com
+\.vq35hr\.com
 \.azhitman\.com
 homephotog\.com
-z32club\.org
+\.z32club\.org
 webbrainiac\.com
 \.nicoclub\.com
 payday\.besttradelink\.info    # Jdforrester # repeated spam
@@ -3192,8 +3192,8 @@ besttradelink\.info
 usadaytrade\.biz
 superrefinancerate\.info
 myblog\.es
-cabinda\.net
-gaudi\.cat 
+\.cabinda\.net
+\.gaudi\.cat 
 geekissues\.org # contains redirect pages to porn/shock sites
 manutd-clip\.blogspot\.com
 barcagoal\.blogspot\.com
@@ -3229,7 +3229,7 @@ myscreensavers\.net
 dailycelebsearch\.com
 \.opa\.com
 \bmarta\.com
-republica\.com
+\.republica\.com
 kalamita\.php5\.cz
 telefanatic\.com
 users\.berexa\.info
@@ -3251,13 +3251,14 @@ socrates\.run2\.ws
 \bvsisoftware\.com
 \bvsisystems\.com
 \bdavincisketches\.com
+all-car-photos\.com
+unitedfutures\.com
+brightcommoditybroker\.com
+\bvandvis\.com
 
 # There can be more of these ... All are spammed by the same IP on multiple wikis.
-\bwikifreiburg\.jobpilto\.de
-\bwikidresden\.jobpilto\.de
-\bwikileipzig\.jobpilto\.de
-\bwikierlangen\.jobpilto\.de
-\bwikimagdeburg\.jobpilto\.de
+# Changed to a single regex - Andre Engels
+\bwiki.*\.jobpilto\.de
 
 # 2007-02-10, Datrio
 republika\.pl\/stranasmer
