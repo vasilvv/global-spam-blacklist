@@ -3251,8 +3251,12 @@ socrates\.run2\.ws
 \bvsisoftware\.com
 \bvsisystems\.com
 
-# 2007-02-10 Eagle 101 : This is a rather wide regex, but its needed to stop current spam.
-
+# There can be more of these ... All are spammed by the same IP on multiple wikis.
+\bwikifreiburg\.jobpilto\.de
+\bwikidresden\.jobpilto\.de
+\bwikileipzig\.jobpilto\.de
+\bwikierlangen\.jobpilto\.de
+\bwikimagdeburg\.jobpilto\.de
 
 # 2007-02-10, Datrio
 republika\.pl\/stranasmer
