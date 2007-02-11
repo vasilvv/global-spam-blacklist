@@ -3257,6 +3257,7 @@ firewalldown\.com
 \bScarlettJohanssonworld\.net
 \bbiometrie-online\.net
 \blifeandtrend\.com
+\bwordpress\.web\.tr
 
 # There can be more of these ... All are spammed by the same IP on multiple wikis.
 # Changed to a single regex - Andre Engels
