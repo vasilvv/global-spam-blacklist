@@ -3250,6 +3250,7 @@ socrates\.run2\.ws
 \buiopq\.com
 \bvsisoftware\.com
 \bvsisystems\.com
+\bdavincisketches\.com
 
 # There can be more of these ... All are spammed by the same IP on multiple wikis.
 \bwikifreiburg\.jobpilto\.de
