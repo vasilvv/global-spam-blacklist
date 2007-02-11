@@ -3252,7 +3252,7 @@ socrates\.run2\.ws
 \bvsisystems\.com
 
 # 2007-02-10 Eagle 101 : This is a rather wide regex, but its needed to stop current spam.
-\bwiki.*\.jobpilto\.de
+\bwiki.{1,6}\.jobpilto\.de
 
 
 # 2007-02-10, Datrio
