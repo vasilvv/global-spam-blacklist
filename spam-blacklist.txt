@@ -3227,7 +3227,7 @@ emptynosesyndrome\.org
 classicpcgames\.info
 myscreensavers\.net
 dailycelebsearch\.com
-opa\.com
+\.opa\.com
 \bmarta\.com
 republica\.com
 kalamita\.php5\.cz
