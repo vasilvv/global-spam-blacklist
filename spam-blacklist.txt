@@ -3266,6 +3266,41 @@ firewalldown\.com
 \bbusinesscardsexpress\.net
 \bgenghiskhan\.yatb\.info
 \bhypergeertz\.jku\.at
+\basiairas\.com
+\bberjayahotels-resorts\.com
+\bchinese\.net\.my
+\bdirectb2b\.biz
+\be-my\.net\.my
+\beplace21\.com\.sg
+\bfurnituremanufacturer\.biz
+\bhowtofrenchkiss\.net
+\bkopitiammalaysia\.com
+\bksuria\.com
+\blycosasia\.com
+\bmagicwin\.com\.my
+\bmalaysia-supplier\.com
+\bmalaysia-webdesign\.com
+\bmalaysiaseo\.net
+\bmanufacturer-supplier\.com
+\bmaximus\.com\.my
+\bmicci\.com\.my
+\bmipe\.com\.my
+\bmodularfurn\.com
+\bmydotmobi\.com
+\bmyhydro1\.com
+\bnewmalaysia\.com\.my
+\bnstpi\.com\.my/ client
+\bonlinefloristmalaysia\.com
+\bpersonalimagegrooming\.com
+\bpestcontrol-malaysia\.com
+\bplasticproductmanufacturer\.net
+\bsgbroadband\.com\.sg
+\bstainlesssteelblh\.com
+\bsupplier-manufacturer\.com
+\btravelhotelmalaysia\.com
+\bwebhosting-malaysia\.com
+\bwelfordmedical\.com
+\bworldsites\.net\.my
 
 # There can be more of these ... All are spammed by the same IP on multiple wikis.
 # Changed to a single regex - Andre Engels
