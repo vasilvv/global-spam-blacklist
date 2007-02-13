@@ -807,13 +807,13 @@ xrl\.us
 \.yours\.at
 \.zap\.to
 \.zip\.to
-zuso\.tw
-hugeurl\.com
-elfurl\.com
-doiop\.com
-301url\.com
-bkuso\.cc
-urlx\.org
+\bzuso\.tw
+\bhugeurl\.com
+\belfurl\.com
+\bdoiop\.com
+\b301url\.com
+\bkuso\.cc
+\burlx\.org
 
 # spyware
 ntsearch\.com
