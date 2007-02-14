@@ -3307,7 +3307,7 @@ firewalldown\.com
 \bschoolkorfball\.org
 \bgamesff\.com
 \bsimone-numismatica-e-storia\.blogspot\.com
-
+\bbestwaytoinvest\.com
 
 
 # There can be more of these ... All are spammed by the same IP on multiple wikis.
