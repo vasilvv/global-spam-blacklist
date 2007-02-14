@@ -3306,6 +3306,7 @@ firewalldown\.com
 \bfotoplatforma\.pl
 \bschoolkorfball\.org
 \bgamesff\.com
+\bsimone-numismatica-e-storia\.blogspot\.com
 
 
 
