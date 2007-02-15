@@ -3120,7 +3120,7 @@ searchtexoma\.com
 nationwidebillrelief\.com
 surfquotes\.com
 cognigen\.net
-carinsurance\.com
+\bcarinsurance\.com
 \.ld\.net
 \.myld\.net
 old-classics\.com
