@@ -3312,6 +3312,7 @@ pussymania\.(com|info|net)
 pussyass\.(com|info|net|org)
 \bfavorite-games\.com
 \binstant-car-insurance-quote\.net
+alessia-ventura\.net\.ms
 
 # There can be more of these ... All are spammed by the same IP on multiple wikis.
 # Changed to a single regex - Andre Engels
