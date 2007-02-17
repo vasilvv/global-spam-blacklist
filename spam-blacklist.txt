@@ -3323,7 +3323,7 @@ firewalldown\.com
 \bsexinitaly\.com
 \bHairLossAdvisory\.com
 \blaserhairremovalanswers\.com
-
+\bStudentLoanAdvisory\b
 
 
 # There can be more of these ... All are spammed by the same IP on multiple wikis.
