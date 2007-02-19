@@ -3329,6 +3329,7 @@ firewalldown\.com
 \bchoosemalta\.com
 \bronago\.net
 \bsmg-italia\.com
+\bautoinsurancequoteonline\.us
 
 # There can be more of these ... All are spammed by the same IP on multiple wikis.
 # Changed to a single regex - Andre Engels
