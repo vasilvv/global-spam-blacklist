@@ -3330,7 +3330,7 @@ firewalldown\.com
 \bronago\.net
 \bsmg-italia\.com
 \bautoinsurancequoteonline\.us
-\profrios\.hpg\.ig\.com\.br
+\bprofrios\.hpg\.ig\.com\.br
 \bsima\.kit\.net
 \bberlin\.gratuliermir\.de
 \bgelsenkirchen-im-blick\.de
