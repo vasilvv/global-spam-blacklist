@@ -3341,6 +3341,45 @@ firewalldown\.com
 # 2007-02-10, Datrio
 republika\.pl\/stranasmer
 
+# All these additions can be found properly logged.
+\b40weekspregnancystages\.com
+\babout-credit-card\.com
+\babout-credit-report\.com
+\baboutbodybuilding\.net
+\bacneskincareinfo\.com
+\bair-purifier-and-filter\.com
+\ball-soccer-info\.com
+\basbestos-mesothelioma-cancer-info\.com
+\batkindietplan\.com
+\batkins-diet\.cc
+\bbenefit-green-tea\.com
+\bbreast-augmentation-and-enlargement\.com
+\bbreast-augmentation-implants\.com
+\bcabbage-soup-diet-plan\.com
+\bcarpetsearch\.org
+\bcell-phone-blog\.net
+\bcredit-cards-n-debt\.com
+\bdiabetes-diabetic-diet\.com
+\bdietpills-information\.com
+\bdigital-camera-technology\.com
+\bdsl-broadband-isp\.com
+\bdsl-link\.com
+\bedi-guide\.com
+\bfitness-health-plan\.com
+\bgrapefruit-diet\.org
+\bhdtv-lcd-plasma\.com
+\blasik-surgery-info\.com
+\blasiklasereyesurgeries\.com
+\blowcarb\.ca
+\bsatellite-service-providers\.com
+\bskincaresinformation\.com
+\bsouth-beach-diet-information\.com
+\bsouthbeachdietprogram\.com
+\btech-guide\.org
+\bteleconferencing-technology\.com
+\bthe-atkins-diet\.info
+\bvpn-info\.com
+
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
