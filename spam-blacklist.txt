@@ -3336,6 +3336,7 @@ firewalldown\.com
 \bgelsenkirchen-im-blick\.de
 \blastmeasure.zoy.org
 \bjobpilto\.de
+\bcdjuridico\.com
 
 # 2007-02-10, Datrio
 republika\.pl\/stranasmer
