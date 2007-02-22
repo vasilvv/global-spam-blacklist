@@ -3379,6 +3379,12 @@ republika\.pl\/stranasmer
 \bteleconferencing-technology\.com
 \bthe-atkins-diet\.info
 \bvpn-info\.com
+\baffiliatedirectorysite\.com
+\bfurniture-asian\.com
+\bnetbizasia\.com
+\bnetbizsolutions\.com
+\bsixco\.ws (similar to tinyurl\.com)
+\btemplatesnew\.com
 
 ## end of [[Spam blacklist/Log]] section
 
