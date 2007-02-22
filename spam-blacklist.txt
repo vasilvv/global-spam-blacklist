@@ -3385,7 +3385,16 @@ republika\.pl\/stranasmer
 \bnetbizsolutions\.com
 \bsixco\.ws
 \btemplatesnew\.com
-
+\badfunk\.blog-city\.com
+\bf1rezone\.tblog\.com
+\bfiucer\.blogsome\.com
+\bwww\.wtslink\.com
+\bmylink\.tblog\.com
+\btech2\.blogsome\.com
+\byellowpages1\.blogspot\.com
+\bhealth1011\.blogspot\.com
+\bekhye\.blogspot\.com
+\binternumber\.blogspot\.com
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
