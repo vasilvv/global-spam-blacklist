@@ -3388,7 +3388,7 @@ republika\.pl\/stranasmer
 \badfunk\.blog-city\.com
 \bf1rezone\.tblog\.com
 \bfiucer\.blogsome\.com
-\bwww\.wtslink\.com
+\bwtslink\.com
 \bmylink\.tblog\.com
 \btech2\.blogsome\.com
 \byellowpages1\.blogspot\.com
