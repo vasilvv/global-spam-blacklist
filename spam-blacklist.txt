@@ -3383,7 +3383,7 @@ republika\.pl\/stranasmer
 \bfurniture-asian\.com
 \bnetbizasia\.com
 \bnetbizsolutions\.com
-\bsixco\.ws (similar to tinyurl\.com)
+\bsixco\.ws
 \btemplatesnew\.com
 
 ## end of [[Spam blacklist/Log]] section
