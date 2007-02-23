@@ -3398,6 +3398,7 @@ republika\.pl\/stranasmer
 \bconniefrancis\.nl
 \bLost\.eu
 \bgeocities\.com/xpw5yearslater
+\bmodiarte\.it
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
