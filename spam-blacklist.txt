@@ -3402,6 +3402,7 @@ republika\.pl\/stranasmer
 \bmondeducirquelausanne87\.blogspot\.com
 \bruswar\.com
 \bcharlie-parker\.org
+\bkit-direito\.com
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
