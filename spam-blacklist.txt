@@ -3400,6 +3400,7 @@ republika\.pl\/stranasmer
 \bgeocities\.com/xpw5yearslater
 \bmodiarte\.it
 \bmondeducirquelausanne87\.blogspot\.com
+\bruswar\.com
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
