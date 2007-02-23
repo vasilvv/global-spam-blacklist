@@ -3399,6 +3399,7 @@ republika\.pl\/stranasmer
 \bLost\.eu
 \bgeocities\.com/xpw5yearslater
 \bmodiarte\.it
+\bmondeducirquelausanne87\.blogspot\.com
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
