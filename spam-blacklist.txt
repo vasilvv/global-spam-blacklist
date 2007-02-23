@@ -3397,6 +3397,7 @@ republika\.pl\/stranasmer
 \binternumber\.blogspot\.com
 \bconniefrancis\.nl
 \bLost\.eu
+\bgeocities\.com/xpw5yearslater
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
