@@ -3403,7 +3403,7 @@ republika\.pl\/stranasmer
 \bcharlie-parker\.org
 \bkit-direito\.com
 \bxatpro\.com
-
+\bgratuliermir\.de
 
 ## end of [[Spam blacklist/Log]] section
 
