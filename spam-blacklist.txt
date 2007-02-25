@@ -3404,6 +3404,7 @@ republika\.pl\/stranasmer
 \bkit-direito\.com
 \bxatpro\.com
 \bgratuliermir\.de
+forumfree\.net
 
 ## end of [[Spam blacklist/Log]] section
 
