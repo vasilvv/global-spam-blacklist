@@ -3423,6 +3423,7 @@ republika\.pl\/stranasmer
 \bharmonica\.it
 \bwga\.hu
 \bpetrophoto\.net
+\bworld-cat\.org
 
 ## end of [[Spam blacklist/Log]] section
 
