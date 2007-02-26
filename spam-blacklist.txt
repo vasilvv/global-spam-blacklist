@@ -3411,7 +3411,14 @@ republika\.pl\/stranasmer
 \bparkourstyle\.com
 \btexaspoker\.tk
 \bainfos\.ca
-
+\bdcestonian\.com
+\bcosplayx\.com
+\bkatardat\.org
+\banarkismo\.net
+\bnefac\.net
+\bbonsaimenorca\.com
+\bnapolinelmondo\.org
+\bpetrophoto\.net
 
 ## end of [[Spam blacklist/Log]] section
 
