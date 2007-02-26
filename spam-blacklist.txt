@@ -3421,7 +3421,7 @@ republika\.pl\/stranasmer
 \bpetrophoto\.net
 \basociacionjacob52\.com
 \bharmonica\.it
-\bwga\.hu
+\bwga\.hu\/html\/t\/tintoret
 \bpetrophoto\.net
 \bworld-cat\.org
 
