@@ -3409,6 +3409,7 @@ republika\.pl\/stranasmer
 \bpavelnedved\.110mb\.com
 \bstatisticsoftheworld\.page\.tl
 \bparkourstyle\.com
+\btexaspoker\.tk
 
 
 
