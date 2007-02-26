@@ -3420,7 +3420,9 @@ republika\.pl\/stranasmer
 \bnapolinelmondo\.org
 \bpetrophoto\.net
 \basociacionjacob52\.com
-
+\bharmonica\.it
+\bwga\.hu
+\bpetrophoto\.net
 
 ## end of [[Spam blacklist/Log]] section
 
