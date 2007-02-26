@@ -3410,7 +3410,7 @@ republika\.pl\/stranasmer
 \bstatisticsoftheworld\.page\.tl
 \bparkourstyle\.com
 \btexaspoker\.tk
-
+\bainfos\.ca
 
 
 ## end of [[Spam blacklist/Log]] section
