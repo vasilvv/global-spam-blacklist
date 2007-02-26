@@ -3419,6 +3419,8 @@ republika\.pl\/stranasmer
 \bbonsaimenorca\.com
 \bnapolinelmondo\.org
 \bpetrophoto\.net
+\basociacionjacob52\.com
+
 
 ## end of [[Spam blacklist/Log]] section
 
