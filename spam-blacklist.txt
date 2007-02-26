@@ -3407,6 +3407,8 @@ republika\.pl\/stranasmer
 \bforumfree\.net
 \binternet-history\.tz4\.com
 \bpavelnedved\.110mb\.com
+\bstatisticsoftheworld\.page\.tl
+
 
 ## end of [[Spam blacklist/Log]] section
 
