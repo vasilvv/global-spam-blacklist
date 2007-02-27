@@ -3427,6 +3427,16 @@ republika\.pl\/stranasmer
 \bindiabroadband\.net
 \bmake-money-online4\.tripod\.com
 \bmannbeisstfilm\.de
+\bvisitdaugavpils\.lv
+\bcosplay-world\.com
+\bulkerfenerbahce\.com
+\bantu\.com
+\bbukkake\.com
+\bgo-sierra-nevada\.com
+\bnarutokage\.135\.it
+\bgo-passau-land\.com
+\belrelojdesol\.com\/classical-music-online\/wolfgang-amadeus-mozart
+\bbratz\.tv
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
