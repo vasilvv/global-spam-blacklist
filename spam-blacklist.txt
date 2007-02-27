@@ -3426,7 +3426,7 @@ republika\.pl\/stranasmer
 \bworld-cat\.org
 \bindiabroadband\.net
 \bmake-money-online4\.tripod\.com
-
+\bmannbeisstfilm\.de
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
