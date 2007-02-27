@@ -3424,6 +3424,7 @@ republika\.pl\/stranasmer
 \bwga\.hu\/html\/t\/tintoret
 \bpetrophoto\.net
 \bworld-cat\.org
+\bindiabroadband\.net
 
 ## end of [[Spam blacklist/Log]] section
 
