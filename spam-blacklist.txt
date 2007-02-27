@@ -3425,6 +3425,7 @@ republika\.pl\/stranasmer
 \bpetrophoto\.net
 \bworld-cat\.org
 \bindiabroadband\.net
+\bmake-money-online4\.tripod\.com
 
 ## end of [[Spam blacklist/Log]] section
 
