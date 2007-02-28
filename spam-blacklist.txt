@@ -3437,6 +3437,10 @@ republika\.pl\/stranasmer
 \bgo-passau-land\.com
 \belrelojdesol\.com\/classical-music-online\/wolfgang-amadeus-mozart
 \bbratz\.tv
+\bvoila\.fr\/bharatanatyam-dance
+\bgeocities\.com\/medhahari
+\bmedha\.info
+
 ## end of [[Spam blacklist/Log]] section
 
  #</pre> <!-- leave this line exactly as it is -->
