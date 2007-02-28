@@ -3440,6 +3440,27 @@ republika\.pl\/stranasmer
 \bvoila\.fr\/bharatanatyam-dance
 \bgeocities\.com\/medhahari
 \bmedha\.info
+\bguatemalahist\.com
+\bnamibianhistory\.com
+\bcroatiahis\.com
+\bzimbab\.net
+\bxz5\.org
+\bz4o\.net
+\bpxy1\.net
+\bagablog\.com
+\bakoblog\.com
+\bfamilyincestbiz\.com
+\backue\.info
+\baepwd\.org
+\baexqq\.org
+\baqhfc\.info
+\bcqfnc\.info
+\bcqhfs\.info
+\bcxqqc\.org
+\bfoxqq\.org
+\bxcjas\.com
+\bxcjei\.com
+\bxcjin\.com
 
 ## end of [[Spam blacklist/Log]] section
 
