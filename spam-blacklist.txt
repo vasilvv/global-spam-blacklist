@@ -1484,12 +1484,13 @@ lifestylemagic\.com #en spamming
 strumpette\.com #en spamming; discussed by arbcom
 
 #These sites are redirecting requests from Wikimedia sites to a third-party site\.
-namebase\.org
-wikipedia-watch\.org    
-google-watch\.org       
-cia-on-campus\.org      
-scroogle\.org
-yahoo-watch\.org
+# Per talk,these redirects appear to have stopped in mid-2006. Commented for the time being. -Eloquence
+#namebase\.org
+#wikipedia-watch\.org    
+#google-watch\.org       
+#cia-on-campus\.org      
+#scroogle\.org
+#yahoo-watch\.org
 #The following sites are being used to get around the scroogle.org spam blacklisting (above)
 being-ones-self\.org
 myegotimes\.com
