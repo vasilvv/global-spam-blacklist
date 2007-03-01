@@ -3461,6 +3461,7 @@ republika\.pl\/stranasmer
 \bxcjas\.com
 \bxcjei\.com
 \bxcjin\.com
+\bamantea\.eu
 
 ## end of [[Spam blacklist/Log]] section
 
