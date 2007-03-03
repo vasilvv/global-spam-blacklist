@@ -3465,6 +3465,7 @@ republika\.pl\/stranasmer
 \bamantea\.eu
 \boutrate\.net
 \btutorialspoint\.com
+\bbonuslover\.com
 
 ## end of [[Spam blacklist/Log]] section
 
