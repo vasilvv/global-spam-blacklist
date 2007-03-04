@@ -3469,7 +3469,7 @@ republika\.pl\/stranasmer
 \bjeffsfamilypharmacy\.com
 \bthereddoorstore\.com
 \bbluevelvet\.com
-
+\bobsessedwithwrestling\.com\/columns\/jonathanbarber
 
 
 ## end of [[Spam blacklist/Log]] section
