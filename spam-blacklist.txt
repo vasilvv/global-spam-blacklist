@@ -3466,6 +3466,11 @@ republika\.pl\/stranasmer
 \boutrate\.net
 \btutorialspoint\.com
 \bbonuslover\.com
+\bjeffsfamilypharmacy\.com
+\bthereddoorstore\.com
+\bbluevelvet\.com
+
+
 
 ## end of [[Spam blacklist/Log]] section
 
