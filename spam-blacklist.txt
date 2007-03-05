@@ -3470,7 +3470,7 @@ republika\.pl\/stranasmer
 \bthereddoorstore\.com
 \bbluevelvet\.com
 \bobsessedwithwrestling\.com\/columns\/jonathanbarber
-
+\bfffans-fr\.com
 
 ## end of [[Spam blacklist/Log]] section
 
