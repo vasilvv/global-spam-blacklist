@@ -3474,6 +3474,7 @@ republika\.pl\/stranasmer
 \bmoviesbuzz\.com
 \bpornoass\.iespana\.es
 \bpages\.citebite\.com # url redirect service
+\btvsylt\.com
 
 ## end of [[Spam blacklist/Log]] section
 
