@@ -3415,7 +3415,7 @@ republika\.pl\/stranasmer
 \bdcestonian\.com
 \bcosplayx\.com
 \bkatardat\.org
-\banarkismo\.net
+#\banarkismo\.net #taking this off hopefully spam won't return, as it seems to have some legit uses on some wikis.
 \bnefac\.net
 \bbonsaimenorca\.com
 \bnapolinelmondo\.org
