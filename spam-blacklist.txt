@@ -3477,6 +3477,7 @@ republika\.pl\/stranasmer
 \btvsylt\.com
 \b321books\.co\.uk
 \bhaber80\.net
+ultime-notizie\.eu
 
 ## end of [[Spam blacklist/Log]] section
 
