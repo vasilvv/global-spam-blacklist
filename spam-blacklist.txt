@@ -1419,6 +1419,7 @@ liteurl\.com
 zippedurl\.com
 \.yep\.it
 32url\.com
+tinyurl\.us
 ##End of Naconkantari
 
 # Added by MaxSem
