@@ -3486,7 +3486,7 @@ republika\.pl\/stranasmer
 \b321books\.co\.uk
 \bhaber80\.net
 ultime-notizie\.eu
-\byahoo\.335-i\.com/BMW
-## end of [[Spam blacklist\/Log]] section
+\byahoo\.335-i\.com\/BMW
+## end of [[Spam blacklist/Log]] section
 \byahoo\.335-i\.com\/Mercedes_Benz
  #</pre> <!-- leave this line exactly as it is -->
