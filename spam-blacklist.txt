@@ -1235,6 +1235,7 @@ badcredit-loan\.org
 foto-julius\.at
 sexandcum\.info
 \.astore\.amazon\.com
+srisathyasaibookcentre\.org\.uk
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 \.acmedias\.org
