@@ -3480,6 +3480,6 @@ republika\.pl\/stranasmer
 \bhaber80\.net
 ultime-notizie\.eu
 \byahoo\.335-i\.com/BMW
-## end of [[Spam blacklist/Log]] section
-\byahoo\.335-i\.com/Mercedes_Benz
+## end of [[Spam blacklist\/Log]] section
+\byahoo\.335-i\.com\/Mercedes_Benz
  #</pre> <!-- leave this line exactly as it is -->
