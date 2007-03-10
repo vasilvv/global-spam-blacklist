@@ -3488,7 +3488,7 @@ republika\.pl\/stranasmer
 ultime-notizie\.eu
 \byahoo\.335-i\.com\/BMW
 \byahoo\.335-i\.com\/Mercedes_Benz
-
+\bgeiz-gorilla\.com
 
 
 
