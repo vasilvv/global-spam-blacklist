@@ -1241,6 +1241,7 @@ lonympics\.co\.uk
 vsisoftware\.com
 mp3lyrics\.org
 lyricsandsongs\.com
+bellproxy\.com
 
 #Brass India
 aksharmetal\.com
