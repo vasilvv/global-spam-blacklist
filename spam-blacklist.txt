@@ -1242,6 +1242,11 @@ vsisoftware\.com
 mp3lyrics\.org
 lyricsandsongs\.com
 bellproxy\.com
+kitzor\.com
+tinyshorturl\.com
+gamesff\.com
+zluf\.com
+
 
 #Brass India
 aksharmetal\.com
