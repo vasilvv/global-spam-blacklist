@@ -1247,6 +1247,10 @@ tinyshorturl\.com
 gamesff\.com
 zluf\.com
 bettersolutions\.com
+extranomical\.com
+yosemitetours\.travel
+coffeereview\.net
+
 
 #Brass India
 aksharmetal\.com
