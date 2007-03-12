@@ -1254,6 +1254,10 @@ auto-insurance-company\.net
 isbn-check\.com
 books-by-isbn\.com
 isbn-check\.de
+pimpblog\.nl
+reciter\.com
+blogagotchi\.com
+
 
 #Brass India
 aksharmetal\.com
