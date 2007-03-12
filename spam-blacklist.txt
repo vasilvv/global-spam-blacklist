@@ -1242,6 +1242,47 @@ vsisoftware\.com
 mp3lyrics\.org
 lyricsandsongs\.com
 
+#Brass India
+aksharmetal\.com
+appleeou\.com
+appleinternational\.com
+appleinternationalenggworks\.com
+appleinternational\.co\.in
+appleinternational\.co\.in
+appleinternational\.in
+appleworldwide\.com
+autobrassonline\.com
+brassbuildinghardware\.com
+brasscableglands\.com
+brasselectrical\.com
+brasselectricalaccessories\.com
+brasselectricalcomponents\.com
+brassfastenersindia\.com
+brass-fasteners\.com
+brass-fasteners-india\.com
+brassfittingcomponents\.com
+brassinsertsbrassnutsbrassbolts\.com
+brass-inserts-fasteners-india\.com
+brassneutrallinks\.com
+brassnuts-brassbolts\.com
+brasspartsindia\.com
+brassparts\.ind\.in
+brassprecisionparts\.com 
+brass-screws-bolts-nuts\.com
+brassterminalconnectors\.com
+brassturnedcomponents\.com
+cableglands-india\.com
+cable-glands-asia\.com
+cableglandsworldwide\.com
+hindustanimpex\.com
+jamnagaronline\.com
+rathodind\.com
+sahajanandbrass\.com
+skynetindia\.info
+siliconbronzefasteners\.com
+shivombrass\.com
+webnettechindia\.com
+
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 \.acmedias\.org
 aquinox\.net
