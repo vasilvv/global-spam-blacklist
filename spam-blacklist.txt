@@ -1250,7 +1250,7 @@ bettersolutions\.com
 extranomical\.com
 yosemitetours\.travel
 coffeereview\.net
-auto-insurance-company.net
+auto-insurance-company\.net
 
 #Brass India
 aksharmetal\.com
