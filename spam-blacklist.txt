@@ -1471,6 +1471,12 @@ zippedurl\.com
 \.yep\.it
 32url\.com
 tinyurl\.us
+relurl\.com
+urlkick\.com
+1url\.org
+masl\.to
+lnk\.in
+
 ##End of Naconkantari
 
 # Added by MaxSem
