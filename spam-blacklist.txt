@@ -542,6 +542,9 @@ www\.debt-money\.com
 bulgaria-houses\.com
 hawaiicity\.com
 postersinc\.com
+\.asn\.und\.edu
+bbs-bscw\.nibis\.de
+simple\.trustbee\.com
 
 fulfillmentinformation\.com
 hotnewdesign\.blogspot\.com
