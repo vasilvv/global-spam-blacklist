@@ -1257,7 +1257,7 @@ isbn-check\.de
 pimpblog\.nl
 reciter\.com
 blogagotchi\.com
-
+obsessedwithwrestling\.com
 
 #Brass India
 aksharmetal\.com
