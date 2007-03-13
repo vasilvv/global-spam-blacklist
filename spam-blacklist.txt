@@ -1,23 +1,14 @@
  #<!-- leave this line exactly as it is --> <pre> 
 
 # This is a list of domain names which are considered spam.
-
 # Guidelines:
-
 #    - Only blacklist for widespread, unmanageable spam.
-
 #    - To disable an entry, *remove* it, don't comment it out.
-
 #    - Add entries to [[Spam blacklist/Log]] (and remove them when they're removed here).
-
 # 
-
 # Syntax:
-
 #    - Everything from a "#" character to the end of the line is a comment
-
 #    - Every non-blank line is a regex fragment which will only match hosts inside URLs
-
 
 # Words
 s-e-x
