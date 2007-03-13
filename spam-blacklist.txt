@@ -1243,6 +1243,8 @@ pimpblog\.nl
 reciter\.com
 blogagotchi\.com
 obsessedwithwrestling\.com
+classic-car-insurance\.biz
+free-mortgage-calculator\.info
 
 #Brass India
 aksharmetal\.com
