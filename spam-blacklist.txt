@@ -1,13 +1,23 @@
  #<!-- leave this line exactly as it is --> <pre> 
+
 # This is a list of domain names which are considered spam.
+
 # Guidelines:
+
 #    - Only blacklist for widespread, unmanageable spam.
+
 #    - To disable an entry, *remove* it, don't comment it out.
+
 #    - Add entries to [[Spam blacklist/Log]] (and remove them when they're removed here).
+
 # 
+
 # Syntax:
+
 #    - Everything from a "#" character to the end of the line is a comment
+
 #    - Every non-blank line is a regex fragment which will only match hosts inside URLs
+
 
 # Words
 s-e-x
@@ -39,7 +49,6 @@ teenporn
 xxxporn
 lesbiansex\. #dot for lesbiansexmafia.org
 livegirl
-livesex
 camgirl
 spycam
 voyeursex
@@ -52,9 +61,11 @@ eye-laser
 fuelcellmarket
 lasikclinic
 cragrats\.
+
 #parishilton
 paris-hilton
 paris-tape
+
 #sibel-kekilli
 2large
 oa274
@@ -90,7 +101,6 @@ buy214\.com
 lmlqzs\.com
 7b\.net\.cn
 51flower\.cn
-lmlqzs\.com
 1car\.cn
 lmzg\.cn
 66guilin\.com
@@ -108,7 +118,6 @@ ecyy\.cn
 # Added by Andre Engels 7\/20\/05
 sexkanjer\.nl # sexspammer on nl
 show-your-pussy
-
 nerdcamp\.net
 duplo\.dnip\.net
 funnydog\.prettyfar\.com
@@ -150,24 +159,24 @@ olonline\.bigsitecity\.com
 spyware\.bigsitecity\.com
 
 # Added by Andre Engels, 2005-08-09
+
 # German repeated spammers
 \.modz\.de
 viagra100\.tk
 viagra100\.net
+
 # Japanese sex spammer
 aftar\.bpa\.nu
 crionica\.bpa\.nu
 streamings\.cable\.nu
 fectr\.dundeeleagues\.ca
 sherlok\.homes\.com\.au
-duplo\.dnip\.net
 author\.nerdcamp\.net
 chaka\.nerdcamp\.net
 dabest\.nerdcamp\.net
 ferdrubt\.nerdcamp\.net
 freedom\.nerdcamp\.net
 popov\.nerdcamp\.net
-funnydog\.prettyfar\.com
 perfection\.prettyfar\.com
 whoisi\.whyza\.net
 bidlo\.zenno\.info
@@ -179,9 +188,7 @@ all-hotels-motels\.com
 # Added by James F\., 2005\.vii\.21, as requested by CraigSpurrier
 buyhydrocodone\.afraid\.org
 phentermine-drugs\.euro\.tm
-
 [A-Za-z-]*drugs\.euro\.tm
-
 21jewelry\.com
 mrjeweller\.us
 detox-kit\.com
@@ -191,7 +198,6 @@ lortab\.shengen\.ru
 diazepam\.shengen\.ru
 protonix\.shengen\.ru
 hydrocodone\.shengen\.ru
-detox-kit\.com
 tests-market\.com
 toe\.shengen\.ru
 detox\.shengen\.ru
@@ -215,11 +221,11 @@ hotsex\.free-pussy\.org
 gensei-ryu\.nl
 
 # [[User:AlisonW|Alison Wheeler]] 22:13, 31 May 2006 (UTC)
+
 # Zenno\.info spam links
 epsilon\.zenno\.info
 googlesuka\.zenno\.info
 stol\.zenno\.info
-
 shoesbuy\.com
 shoesshop\.biz
 
@@ -250,20 +256,23 @@ shoesshop\.biz
 cnfibernet\.com\.cn
 \.tvsou\.com
 \.54163\.com
-
 pharmacy\.rr\.nu
 
 #additions by Mindspillage
+
 #4 October 05
 \.coolhost\.biz
+
 #10 Oct 05
 \.hotweb\.pp\.ru
 \.webtech\.pp\.ru
+
 # Mar 05
 \.rockphiles\.com 
 \.omninerd\.com  # Do not remove\. See http://meta.wikimedia.org/wiki/Spam_blacklist/recurring_requests
 \.yadoo\.cn
 detoxiy\.com
+
 # Apr 06
 rx\.auto\.pl
 allgames4u\.net
@@ -287,10 +296,12 @@ buyhyd\.wyger\.nl
 003biz\.5u\.com
 004biz\.i8\.com
 yourpharm\.vstore\.ca
+
 # Jun 06
 inhunt\.com
 eaeaq\.info
 mrjht\.info
+
 #11 Jul 06 - bot spamming en.wp
 alleydog\.com
 gallery\.angel\-btvs\.co\.uk\/include\/cheapvalium
@@ -298,8 +309,10 @@ flyingpirate\.com\/images\/phentermineonline
 clicnetwork\.com
 yszmpfpr\.com
 beemdqay\.com
+
 #17 Jul 06 - spamming en.wp
 \.at\/aaoffers
+
 #25 Aug 06 - requested by Tawker
 \.heureka\.clara\.net
 
@@ -308,9 +321,7 @@ fuckfactor\.com
 
 #23 oct elian (spam on de)
 \.zap3x\.com
-
 hosting\.q4w\.net
-
 green-tea[0-9a-z-]*\.co\.nr
 
 # 19 november reported by amgine
@@ -321,9 +332,11 @@ nastydollars\.com
 4t7e\.info
 
 # elian's
+
 # dec 05
 \.cyberthug\.de
 \.g155\.info
+
 # 10th april 06, persistent spammer on de
 dinge-ohne-namen\.de
 
@@ -335,7 +348,6 @@ dinge-ohne-namen\.de
 
 # Amgine's
 justlovexx\.net
-\.g155\.info
 \.f9zs\.info
 4ljd\.info
 pills-pharmacy\.be
@@ -356,6 +368,7 @@ adult-area\.info
 \.girls\.info #disabled by Naconkantari - re-instated with dot in front by Andre Engels
 sprot2\.com
 efl-law\.com
+
 #eslcafe\.com  #disabled by Naconkantari
 myflooring\.org
 scmantraffic\.com
@@ -421,7 +434,6 @@ sexypinoy\.50webs\.com
 mujweb\.cz
 \.gayhomes\.net
 \.gozilla\.info
-scmantraffic\.com
 medrapid\.info
 canadian-pharmacy-portal\.com
 algohio\.com
@@ -433,8 +445,8 @@ websamba\.com
 \.luckysportsmanagement\.com
 \.steveyzerman\.com
 buy-hydrocodone\.webzdarma\.cz
-phentermine\.webzdarma\.cz
 levitra\.webzdarma\.cz
+
 #\.wz\.cz
 buy-viagra-online\.webzdarma\.cz
 jarmyl\.tripod\.com
@@ -452,7 +464,6 @@ green-tea[\w]*\.netfirms\.com
 phentermine\.netfirms\.com
 lunesta\.netfirms\.com
 where\.netfirms\.com
-best-weight-loss-diet\.netfirms\.com
 best-weight-loss-diet\.netfirms\.com
 ephedra-weight-loss\.netfirms\.com
 incognitto\.tripod\.com
@@ -487,7 +498,6 @@ novogate\.com
 blogs\.heraldextra\.com
 blog\.investing\.com
 buddyprofile\.com
-blogs\.wwwcoder\.com
 totalvideogames\.com
 \.missoula\.com
 justachat\.com
@@ -520,7 +530,6 @@ zwai\.stikipad\.com
 hawksquawk\.net
 maclenet\.com
 \.enacre\.net
-allgames4u\.net
 
 # D\.M\.: used for shock links
 goatse\.ca 
@@ -531,6 +540,7 @@ goatse\.ca
 \.fengshui-xuankong\.com
 \.chineseart\.com\/feng-shui\.htm
 \.smilingbamboo\.com
+
 # Aphaia: 2007-02
 www\.splashblog\.com\/orderambien
 www\.splashblog\.com\/orderphentermine
@@ -545,20 +555,16 @@ postersinc\.com
 \.asn\.und\.edu
 bbs-bscw\.nibis\.de
 simple\.trustbee\.com
-
 fulfillmentinformation\.com
 hotnewdesign\.blogspot\.com
 \.nova68\.com
 tempurpedicshop\.com
-
 investing-central\.com
-
 licescabiesandbedbugs\.com
+
 # Datrio
 adult\.dynu\.net
 celika\.dynu\.net #add by Suisui
-
-# Datrio
 vendweb\.com
 
 # Massive spam
@@ -585,8 +591,6 @@ nihonjustice\.hp\.infoseek\.co\.jp
 ijijiji\.com
 \.5g6y\.info
 
-dir\.fasthoster\.de
-
 #as per request on talk:spam_blacklist page - User:M7 (M\/)
 adult-contact\.info
 7-24porn\.com
@@ -604,7 +608,6 @@ softecare\.com
 megaupkoad\.com
 factorywhores\.com
 dod1\.info
-
 
 #old inserts and direct requests to User:M7
 signoraggio\.com
@@ -819,7 +822,6 @@ xrl\.us
 \burlx\.org
 \burlsnip\.com
 
-
 # spyware
 ntsearch\.com
 
@@ -845,7 +847,6 @@ pornogames4\.com
 jewsdidwtc\.com
 bestv\.forenserver\.net
 satellitetvtopc\.com
-ringtones-dir\.com
 parts4euro\.com
 \.getlazy\.tk
 
@@ -893,10 +894,8 @@ nigeria\.tz4\.com
 nigeriaplanet\.proboards43\.com
 e-economysolutions\.com
 friendscyberclub\.com
-
 virginporn\.info #Requested on talkpage
 qklinkserver\.com #Requested on talkpage
-
 don-search\.com #Requested by freakofnurture
 find-web\.info #Requested by freakofnurture
 bypills\.net #Requested by freakofnurture
@@ -911,9 +910,10 @@ stanleyng\.net
 \.ppstream\.com
 
 ##Naconkantari
-##The reasons for adding the links below are located at http://en.wikipedia.org/wiki/User:Naconkantari/sbl
-##When disabling anything in this section, *please* leave me a note on my talk page so I can update my version.
 
+##The reasons for adding the links below are located at http://en.wikipedia.org/wiki/User:Naconkantari/sbl
+
+##When disabling anything in this section, *please* leave me a note on my talk page so I can update my version.
 aspsupergirls\.phpnet\.us
 users\.libero\.it\/seza
 hifrienddd\.info
@@ -926,7 +926,6 @@ biki4\.com
 \.rdos\.net
 casino\.realdiscounts\.be
 sessocities\.net
-nigeriaplanet\.proboards43\.com
 nigeriaone\.com
 nigeriaplanet\.tk
 geocities\.com\/seelagos
@@ -972,7 +971,6 @@ forums\.2cpu\.com
 g00ns\.net
 lastoa\.cat
 1golod\.org
-\.gayhomes\.net
 1jolla\.org
 1ebalo\.org
 1ibanusiks\.org
@@ -1009,9 +1007,7 @@ vttolldd\.org
 vttthtgg\.org
 download\.reggdr\.org
 mikewsd\.org
-1narodoo\.org
 1kioskoo\.org
-1ebalo\.org
 ifa-space\.de\/host\/pills
 freeforen\.com\/wss\/host\/pills
 space\.webshells\.de\/host\/pills
@@ -1024,7 +1020,6 @@ free-forums\.org
 \.anzwers\.net
 \.jw0\.info
 groto\.info
-cnfibernet\.com\.cn
 bjdyzs\.com
 zgxbw\.cn
 shfldz\.com
@@ -1032,7 +1027,6 @@ home-trade\.net
 home4u\.china\.com
 mhgzs\.com
 lkcx\.com
-\.coz\.in
 webtest-community\.canoo\.com
 \.jo\.pl
 \.blog\.naszemiasto\.pl
@@ -1101,7 +1095,6 @@ aiipa\.info
 \.edom\.co\.uk
 shop-links\.info
 \.rapa\.jp
-softecare\.com
 airports\.org\.ua
 logicgame\.com\.ua
 airports\.ho\.com\.ua
@@ -1198,7 +1191,6 @@ homefurniture\.co\.in
 \.pill[0-9]\.info
 funchain\.com
 \.soduko\.org
-\.wsite\.org
 monforum\.fr
 megspace\.com
 topozo\.org
@@ -1221,7 +1213,6 @@ kuznetsova\.net
 cocaine-drink\.com
 tmx-elmo\.org
 nitrousdirect\.com
-nascarspace\.com
 penny-stock\.org
 house-mortgage\.org
 DieselSmoke\.com
@@ -1268,7 +1259,6 @@ appleeou\.com
 appleinternational\.com
 appleinternationalenggworks\.com
 appleinternational\.co\.in
-appleinternational\.co\.in
 appleinternational\.in
 appleworldwide\.com
 autobrassonline\.com
@@ -1308,7 +1298,6 @@ webnettechindia\.com
 aquinox\.net
 \.ballfolio\.com
 clantemplates\.com
-clicnetwork\.com
 \.compagnons\.org
 dragonflyeast\.com
 \.easl\.info
@@ -1316,13 +1305,13 @@ erisfree\.com
 \.iaa-dc\.org
 \.j-mayer\.org
 jouvence\.com
+
 #kutdiak\.hu # disabled082106
 rockthedesert\.com
 soargbsc\.com
 somber-resplendence\.net
 starfan\.lamost\.org
 \.abook4all\.com
-alleydog\.com
 applausestore\.com
 comfortinndowntown\.com
 creativesplendors\.com
@@ -1340,6 +1329,7 @@ splendidshirt\.com
 systemtek\.net
 vegas-coupons\.org
 webdistributionltd\.com
+
 #end of ANI
 
 #Universe Daily (en.wiki redir spam)
@@ -1395,6 +1385,7 @@ wikipedia(c|l|m)\.(info|net)
 yales\.info
 yalesimkin\.com
 yowiehunter\.com
+
 #end UD
 
 ##Gastrich
@@ -1403,6 +1394,7 @@ jasongastrich\.com
 lamusiclessons\.com
 sdmusiclessons\.com
 \.golbu\.com
+
 #end G
 
 ##redirection spam on simple\.wiki
@@ -1420,7 +1412,6 @@ objectclub\.esm\.co\.jp\:8080\/myswiki
 swiki\.nadir\.org\/refs
 japanese-girl\-xxx\.com
 
-
 ##spam on catux\.org
 \.xmail\.net\/search
 \.xmail\.net\/ac
@@ -1430,15 +1421,12 @@ weer\.pbwiki\.com\/f
 figgles\.8k\.com
 privetparis\.com
 
-
 ##spam on sonikmatter\.com
 \.trafu\.com
 \.pantyhose-net\.com
 
-
 ##fsorward
 needlustgirl\.org
-
 
 ##phrases
 (online|discount|best)(md|rx)
@@ -1482,7 +1470,6 @@ clipurl\.com
 wapurl\.co\.uk
 liteurl\.com
 zippedurl\.com
-\.yep\.it
 32url\.com
 tinyurl\.us
 relurl\.com
@@ -1494,6 +1481,7 @@ lnk\.in
 ##End of Naconkantari
 
 # Added by MaxSem
+
 ## August 2006
 \.ipfox\.com
 \.opticsplanet\.net
@@ -1507,25 +1495,27 @@ aceshowbiz\.com
 alexeykaz\.boom\.ru
 \.rxhj\.net
 lop\.netfirms\.com
-hometown\.aol\.de
-ourworld\.cs\.com
 free-porn\.aiipa\.info
 \.nokedem\.com
 booksmusicfilmstv\.com
 freehardcorevideo\.org
+
 ## Sept
 freewebs\.com\/pool-supply1
 pharmacy-on-line\.org
 abcfreeringtones\.com
 \.allln\.com
 plone\.akl\.lt
+
 ## Oct
 the2ndmortgagehelp\.com
 encyclopediadramatica\.com
+
 ## Nov
 offshoreincorporation101\.com
 webhealing\.com
 earthanduniverse\.net
+
 ##Jan 2007
 milstd\.net
 my-spaces\.org
@@ -1539,7 +1529,6 @@ forextradingllc\.com
 rexcurry\.net
 \.2surf\.eu
 122mb\.com
-
 neopets\.com\/refer\.phtml\?username= # requested by Ryulong
 zetapets\.com\/register\.php\?ref= # requested by Ryulong
 \.lotoplay\.com
@@ -1559,13 +1548,21 @@ lifestylemagic\.com #en spamming
 strumpette\.com #en spamming; discussed by arbcom
 
 #These sites are redirecting requests from Wikimedia sites to a third-party site\.
+
 # Per talk,these redirects appear to have stopped in mid-2006. Commented for the time being. -Eloquence
+
 #namebase\.org
+
 #wikipedia-watch\.org    
+
 #google-watch\.org       
+
 #cia-on-campus\.org      
+
 #scroogle\.org
+
 #yahoo-watch\.org
+
 #The following sites are being used to get around the scroogle.org spam blacklisting (above)
 being-ones-self\.org
 myegotimes\.com
@@ -1581,6 +1578,7 @@ bringingfolkstogether\.com
 
 #added by Darkoneko 27/01/07, due to spambot on fr:wp
 daimonds\.php5\.cz
+
 # 1/29/07 -- Dmcdevit
 jeder-tag\.de
 gooya\.co\.uk
@@ -1604,6 +1602,7 @@ ingenieur-verlag\.de
 elodiscovery\.com
 
 # [[Spam blacklist/Log]]
+
 ## Unknown
 (gui.*|chai?r|lamp.*|cook.*|visa.*)\.white\.prohosting\.com
 \.4ljd\.info
@@ -1614,14 +1613,12 @@ searchterror\.com
 \.lycos1\.com
 \.0s48\.info
 torontonian\.com
-1stOK\.com
 vacarreno\.net
 wiki\.servetown\.com
 cumfiesta4\.us
 stadianet\.com
 \.(asiangirlss|chickens|freeadult69|japanesegirl|matures|onlybestsex|sexgirls|supergirls\d*|wiki|wikipedia)\.servik\.com
 \.fw\.nu
-\.5g6y\.info
 (alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
 sex\.hut1\.ru
 vanjatka\.be
@@ -1632,7 +1629,9 @@ kelly-hosting\.com
 cvh100\.com
 onix1000\.com
 \.k6je\.info
+
 # thepiratebay\.org
+
 # piratebay\.org #test\/temp
 \.w0qb\.info
 \.redirect\.hm
@@ -1652,13 +1651,10 @@ tricor\.athome\.to
 \.7726\.info
 \.cc3\.be
 freesexyhouse\.com
-freewebs\.com\/diet-about-diet
 skozlozop\.com
 z0rder\.tripod\.com
 smuttygirls\.info
 f3so\.info
-health-medical\.be
-w9uh\.info
 (allmed|comeds)\.blogs\.eurosport\.com
 \.dare14\.com
 ourtrinity\.net
@@ -1864,7 +1860,6 @@ markemiah\.com
 jobbnu\.com
 ifamen\.com
 hrbyly\.com
-firmasiden\.com
 bpzj\.com
 bnuteacher\.com
 datasoon\.com
@@ -1898,7 +1893,6 @@ luck-star\.com
 hailuo\.net
 jnjlnet\.com
 \.sx98\.com
-21cnbj\.com
 cnsepm\.com
 \.pdjt\.com
 \.hjbt\.com
@@ -1980,7 +1974,6 @@ zonemu\.com
 lazy-stars\.com
 eblja\.com
 sexy-eblja\.com
-microzovd\.com
 ama-son\.com
 ad-ope\.com
 lariska-porn\.com
@@ -2038,7 +2031,6 @@ omeida\.com
 huihualin\.com
 chindata\.com
 tonzh\.com
-51zhengxing\.net
 raise-win\.com
 approachina\.com
 bjacca\.com
@@ -2121,7 +2113,6 @@ de-lete\.tv
 nudotnetguy
 save-money\.ws
 \.brig\.nu
-helena\.lindskog\.ws
 pics-of\.com
 pics-of\.org
 pictures-free\.org
@@ -2246,7 +2237,6 @@ yearstoyourhealth\.com
 5118\.net\.cn
 \.b2m\.cn
 cashmerebiz\.com
-chinamimi\.net
 consumeralertsystem\.com
 \.cp868\.com
 dongyiqi\.com
@@ -2255,14 +2245,11 @@ ebook2u\.com
 \.emay\.cn
 \.emmss\.com
 \.emmss\.net
-flowerwish\.com
 free-porn-friend-finder-adult\.info
 ganzao\.68l\.com
 gerhard\.paducktions\.net
-gift800\.net
 hanlang88\.com
 home\.graffiti\.net\/grafikdesign
-hukuki\.net
 jlsun\.com
 kgc-networks\.com
 \.kingnetwork\.(org|net)
@@ -2271,7 +2258,6 @@ lemai\.com
 lingshengdown\.com
 ltjz2000\.com
 mmyoucomtypee\.51\.net
-\.mmyou\.com
 mongolie\.mn
 nakurka\.ru
 nnuuoo\.51\.net
@@ -2280,7 +2266,6 @@ nuoya-hd\.com
 ny528\.51\.net
 ohhmybaby\.info
 oskceo\.com
-paidsurveysforall\.com
 paperlessarchives\.com
 property2u\.com
 renzhengwang\.com
@@ -2295,7 +2280,6 @@ sjzyxh\.com
 smokaz\.com
 sudokusweb\.com
 targetwords\.com
-thuriam\.com
 ticketsmyway\.com
 ultimasurf\.net
 \.uusky\.com
@@ -2371,10 +2355,8 @@ houseso\.cn
 hydrocodone
 hz\.livingchina\.cn
 joia\.com
-justlovexx\.net
 \.lau\.biz
 law-translation\.com
-linktrim\.com
 losthorizons\.com
 lucky7\.to
 \.mq6\.info
@@ -2471,10 +2453,6 @@ zymq\.com
 \.zwap\.to
 \.zwitch\.to
 \.go\.to
-\.connect\.to
-\.drive\.to
-\.run\.to
-\.surf\.to
 \.shengen\.ru
 \.visa-usa\.ru
 \.2x4\.ru
@@ -2522,7 +2500,6 @@ WTHP[0-9]\.disney\.com
 \.welllook\.com
 \.18servers\.com
 \.ds4a\.com
-\.linemd\.com
 \.sexus\.host
 \.1min\.us
 allfioricet\.com
@@ -2542,12 +2519,10 @@ gotgeeks\.com
 is-a-geek\.com
 soma\.homelinux\.com
 ultram\.serveftp\.com
-myvnc\.com
 mobic\.sytes\.net
 naproxen\.zapto\.org
 
 ## 2005-05 ([[Spam blacklist/Log]])
-\.p2l\.info
 \.qx5\.net
 \.117000\.com
 \.126hao\.com
@@ -2694,7 +2669,6 @@ thetrueheroes\.org
 inspectore\.net
 
 ## 2006-10 ([[Spam blacklist/Log]])
-car-insurance-\.blogspot\.com
 hpc1\.biblog\.ru
 nationalparksgallery\.com
 \.ytmnd\.com
@@ -2786,7 +2760,6 @@ rutaverdebolivia\.com
 librie\.boom\.ru
 hhwtyt\.info
 stateuniversity\.com
-bt-blog\.net\.ru
 recipes\.keralaz\.info
 v-tarot\.com
 a-ait\.com
@@ -2839,7 +2812,6 @@ kewlestsites\.com
 cognigen\.com
 \.ld\.net
 \.myld\.net
-sagetelecom\.net
 \.envy\.nu
 halychen\.com
 just2buy\.com
@@ -3066,7 +3038,6 @@ proxy88\.com
 bypassproxy\.net
 proxymix\.com
 proxyraptor\.com
-proxyfriend\.com
 proxywork\.com
 proxysnow\.com
 proxypulse\.com
@@ -3189,7 +3160,6 @@ home\.no\/all4ass
 megaupload\.kayyo\.com
 travelscope\.co\.uk
 hhent\.com
-bitefight\.it
 citronpaper\.it
 supermortgagerate\.info
 abolishthegmc\.blogspot\.com
@@ -3198,8 +3168,6 @@ nationwidebillrelief\.com
 surfquotes\.com
 cognigen\.net
 \bcarinsurance\.com
-\.ld\.net
-\.myld\.net
 old-classics\.com
 \.by\.ru\.ru
 myspace\.com\/anchoredcross
@@ -3282,7 +3250,6 @@ moviesofsex\.info
 sexfreevideos\.info
 pussy\.phpbbx\.de
 pendant\.php5\.cz
-pelendrek\.com
 jewellery\.php5\.cz
 1001nights\.net\free-porn
 gilbertwesleypurdy\.blogspot\.com
@@ -3490,6 +3457,7 @@ republika\.pl\/stranasmer
 \bdcestonian\.com
 \bcosplayx\.com
 \bkatardat\.org
+
 #\banarkismo\.net #taking this off hopefully spam won't return, as it seems to have some legit uses on some wikis.
 \bnefac\.net
 \bbonsaimenorca\.com
@@ -3498,7 +3466,6 @@ republika\.pl\/stranasmer
 \basociacionjacob52\.com
 \bharmonica\.it
 \bwga\.hu\/html\/t\/tintoret
-\bpetrophoto\.net
 \bworld-cat\.org
 \bindiabroadband\.net
 \bmake-money-online4\.tripod\.com
@@ -3548,6 +3515,7 @@ republika\.pl\/stranasmer
 \bfffans-fr\.com
 \bmoviesbuzz\.com
 \bpornoass\.iespana\.es
+
 # \bpages\.citebite\.com # url redirect service (There appears to be legit uses of this...)
 \btvsylt\.com
 \b321books\.co\.uk
@@ -3556,44 +3524,6 @@ ultime-notizie\.eu
 \byahoo\.335-i\.com\/BMW
 \byahoo\.335-i\.com\/Mercedes_Benz
 \bgeiz-gorilla\.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
