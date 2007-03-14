@@ -3522,5 +3522,12 @@ ultime-notizie\.eu
 # 20070314 by Shizhao add
 \bible\.ttsite\.com
 
+#Back to proper logging...
+\bfree-car-insurance-quote.net
+
+
+
+
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
