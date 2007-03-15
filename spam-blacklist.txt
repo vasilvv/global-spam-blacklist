@@ -1245,6 +1245,7 @@ blogagotchi\.com
 obsessedwithwrestling\.com
 classic-car-insurance\.biz
 free-mortgage-calculator\.info
+christine-hanson\.com
 topjobnet\.org
 
 #Brass India
@@ -1286,7 +1287,6 @@ skynetindia\.info
 siliconbronzefasteners\.com
 shivombrass\.com
 webnettechindia\.com
-christine-hanson\.com
 
 #req on ANI http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive120#New_York_City_blackout_of_1977
 \.acmedias\.org
