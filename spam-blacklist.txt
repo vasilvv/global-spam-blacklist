@@ -3524,8 +3524,8 @@ ultime-notizie\.eu
 \bible\.ttsite\.com
 
 #Back to proper logging...
-\bfree-car-insurance-quote.net
-\btouregypt.net
+\bfree-car-insurance-quote\.net
+\btouregypt\.net
 
 
 
