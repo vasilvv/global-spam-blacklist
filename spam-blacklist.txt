@@ -1525,6 +1525,8 @@ aim-search\.com
 gocurrency\.com
 fxwords\.com
 forextradingllc\.com
+##Mar 2007
+beam\.to
 
 # Eloquence, August 2006
 rexcurry\.net
