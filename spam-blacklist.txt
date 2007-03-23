@@ -3551,6 +3551,6 @@ ultime-notizie\.eu
 \blandysh\.info
 \bazaliya\.info
 \blutik\.info
-
+\baffordable-auto-insurance\b.biz
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
