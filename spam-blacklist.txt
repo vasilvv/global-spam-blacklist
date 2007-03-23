@@ -3541,5 +3541,16 @@ ultime-notizie\.eu
 \bmultimedia-beratung\.de
 \bmortgagequeen\.us
 \bde\.chabad\.org
+\banemony\.info
+\bnasturciya\.info
+\bkolokolchiki\.info
+\borchideya\.info
+\bmagnoliya\.info
+\btyulpan\.info
+\bvasilyok\.info
+\blandysh\.info
+\bazaliya\.info
+\blutik\.info
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
