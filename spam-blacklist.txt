@@ -3553,5 +3553,29 @@ ultime-notizie\.eu
 \blutik\.info
 \baffordable-auto-insurance\b.biz
 \bpressarchive\.net
+\ballthingschina\.com
+\bAllthingsChina\.org
+\balternateroutestravel\.com
+\bbusinessesi\.com
+\bbusinessesi\.org
+\bchinahearts\.com
+\bchinaschoolreview\.org
+\bchinatravelfacts\.com
+\bChinaVisaService\.org
+\beslfranchise\.com
+\besljobschina\.com
+\beslschoolreview\.com
+\beslz\.net
+\bhunanteach\.com
+\bjourneyeast\.org
+\bjourneywest\.org
+\blearnchinesenow\.net
+\bstudenttravelchina\.org
+\bteach-and-travel\.org
+\bteach-in-Beijing\.com
+\bteach-in-zhejiang\.org
+\bTEFLjobs\.org
+\bz-visa\.com
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
