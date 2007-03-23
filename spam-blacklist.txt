@@ -3535,7 +3535,8 @@ ultime-notizie\.eu
 \bfree-car-insurance-quote\.net
 \btouregypt\.net
 \bchabad-baden\.de
-
+##doing a string of these, log all at the end.
+\baffordable-car-insurance\.net
 
 
 ## end of [[Spam blacklist/Log]] section
