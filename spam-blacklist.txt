@@ -3537,7 +3537,8 @@ ultime-notizie\.eu
 \bchabad-baden\.de
 ##doing a string of these, log all at the end.
 \baffordable-car-insurance\.net
-
+\bcontrolling21\.(de|eu|net|com|org|biz|at|ch|info)
+\bmultimedia-beratung\.de
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
