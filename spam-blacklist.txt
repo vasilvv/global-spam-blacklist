@@ -3540,5 +3540,6 @@ ultime-notizie\.eu
 \bcontrolling21\.(de|eu|net|com|org|biz|at|ch|info)
 \bmultimedia-beratung\.de
 \bmortgagequeen\.us
+\bde\.chabad\.org
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
