@@ -3575,6 +3575,8 @@ ultime-notizie\.eu
 \bteach-in-zhejiang\.org
 \bTEFLjobs\.org
 \bz-visa\.com
+\baffordable-car-insurance\.biz
+\binstant-auto-insurance-quote\.net
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
