@@ -3580,5 +3580,6 @@ ultime-notizie\.eu
 \bvulcanoconsult\.it
 ##Log in a bit.
 \btz4.com
+\mysergeybrin\.com
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
