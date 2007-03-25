@@ -3577,8 +3577,8 @@ ultime-notizie\.eu
 \bz-visa\.com
 \baffordable-car-insurance\.biz
 \binstant-auto-insurance-quote\.net
-vulcanovacanze\.it
-vulcanoconsult\.it
+\bvulcanovacanze\.it
+\bvulcanoconsult\.it
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
