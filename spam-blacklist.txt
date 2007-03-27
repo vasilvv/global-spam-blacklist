@@ -3587,5 +3587,14 @@ ultime-notizie\.eu
 \bproducerdb\.com
 \bfreemasonwatch\.freepress-freespeech\.com
 \blaurenphoenix\.net
+\blanitodd\.org
+\bmasonmarconi\.org
+\bmonicasweet\.org
+\bnicolevoss\.org
+\brayveness\.org
+\bsydneecapri\.net
+\bterabond\.org
+\btianalynn\.org
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
