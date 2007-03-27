@@ -3602,5 +3602,10 @@ ultime-notizie\.eu
 \bsydneecapri\.net
 \bterabond\.org
 \btianalynn\.org
+/bmyopia\.org
+/bnearsightedness\.org
+/bpinholeglasses\.org
+/bpreventmyopia\.org
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
