@@ -3581,5 +3581,10 @@ ultime-notizie\.eu
 ##Log in a bit.
 \btz4.com
 \mysergeybrin\.com
+\bmoviemirth\.com
+\bgeocities\.com/anxietydetective
+\banxietydetective\.org
+\bproducerdb\.com
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
