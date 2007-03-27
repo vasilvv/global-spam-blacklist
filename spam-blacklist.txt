@@ -3582,9 +3582,10 @@ ultime-notizie\.eu
 \btz4.com
 \mysergeybrin\.com
 \bmoviemirth\.com
-\bgeocities\.com/anxietydetective
+\bgeocities\.com\/anxietydetective
 \banxietydetective\.org
 \bproducerdb\.com
+\bfreemasonwatch\.freepress-freespeech\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
