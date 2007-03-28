@@ -3610,5 +3610,6 @@ ultime-notizie\.eu
 \bmusiciandictionary\.com
 \bcelebritydictionary\.com
 \bspysurfing\.com
+\bproxyhole\.com
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
