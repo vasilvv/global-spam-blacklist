@@ -3607,6 +3607,7 @@ ultime-notizie\.eu
 \bpinholeglasses\.org
 \bpreventmyopia\.org
 \bthebestof\.co\.uk
-
+\bmusiciandictionary\.com
+\bcelebritydictionary\.com
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
