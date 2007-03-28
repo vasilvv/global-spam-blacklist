@@ -3609,6 +3609,6 @@ ultime-notizie\.eu
 \bthebestof\.co\.uk
 \bmusiciandictionary\.com
 \bcelebritydictionary\.com
-\bobsessedwithwrestling\.com
+\bspysurfing\.com
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
