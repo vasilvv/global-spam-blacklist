@@ -3611,5 +3611,9 @@ ultime-notizie\.eu
 \bspysurfing\.com
 \bproxyhole\.com
 \btvsylt\.de
+#Log in a bit
+\bdeathcamps\.org
+\bdeath-camps\.org
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
