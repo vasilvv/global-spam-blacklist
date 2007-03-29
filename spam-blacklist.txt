@@ -3616,7 +3616,7 @@ ultime-notizie\.eu
 ########
 # TEST ENTRY ONLY
 ########
-\bqwertyuiop\.com[^.]+(\/.*)?$
+\bqwertyuiop\.com[^.]*(\/.*)?$
 ########
 #End test
 ########
