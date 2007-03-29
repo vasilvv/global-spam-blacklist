@@ -3271,13 +3271,13 @@ myscreensavers\.net
 dailycelebsearch\.com
 \.opa\.com
 \bmarta\.com
-\.republica\.com
 kalamita\.php5\.cz
 telefanatic\.com
 users\.berexa\.info
 elliottgann\.com
 welikehorses\.com
 socrates\.run2\.ws
+\brepublica\.com[^.]*(\/.*)?$
 \bhem\.fyristorg\.com\/kraftwerk
 \binfonet\.com\.br\/mozart
 \bAutoInsuranceCarInsurance\.net
