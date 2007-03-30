@@ -3616,5 +3616,12 @@ ultime-notizie\.eu
 #will log in a bit
 \bxfile007\.blogspot\.com
 \blinksynergy\.com
+\besperantio\.com
+\bamericandiscoverytrail\.org
+\bepaleo\.com
+\bnorthernforestcanoetrail\.com
+\bsurvivaltopics\.com
+\bwhitemountainsworld\.com
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
