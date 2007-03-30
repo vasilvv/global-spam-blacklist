@@ -3613,6 +3613,8 @@ ultime-notizie\.eu
 \btvsylt\.de
 \bhomejobsite\.com
 \bdeath-?camps\.org
+#will log in a bit
+\bxfile007\.blogspot\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
