@@ -3622,6 +3622,7 @@ ultime-notizie\.eu
 \bnorthernforestcanoetrail\.com
 \bsurvivaltopics\.com
 \bwhitemountainsworld\.com
+\bweb\.archive\.org[^ ]+obsessedwithwrestling\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
