@@ -3876,7 +3876,12 @@ ultime-notizie\.eu
 \bnorthernforestcanoetrail\.com
 \bsurvivaltopics\.com
 \bwhitemountainsworld\.com
-\bweb\.archive\.org[^ ]+obsessedwithwrestling\.com
-\basfepoihawepfawerocmpaweorcasperopwvare.com #test link to test propagation of the blacklist.
+\bweb\.archive\.org[^ ]+obsessedwithwrestling\.com #to stop prior spamming with OWW columnist linking to deleted pages.
+\bmyinternetaccess\.net
+\bsteelecommerce\.com
+\bmyphoneservice\.net
+\bcheap-online\.net
+\bdsl-internet-service\.blogspot\.com
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
