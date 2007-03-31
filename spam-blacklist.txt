@@ -3862,6 +3862,11 @@ ultime-notizie\.eu
 \btvsylt\.de
 \bhomejobsite\.com
 \bdeath-?camps\.org
+\bmccallsnotes\.live\.spaces
+\bagloco\.com
+\baglocotest\.com
+\bjohnchow\.com
+\bwegetpaidtosurf\.com
 #will log in a bit
 \bxfile007\.blogspot\.com
 \blinksynergy\.com
