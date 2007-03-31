@@ -3882,6 +3882,9 @@ ultime-notizie\.eu
 \bmyphoneservice\.net
 \bcheap-online\.net
 \bdsl-internet-service\.blogspot\.com
+\bld\.net
+\bmyld\.net
+\bcognigen\.net
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
