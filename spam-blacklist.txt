@@ -3887,7 +3887,6 @@ ultime-notizie\.eu
 
 #Back to proper logging...
 \bfree-car-insurance-quote\.net
-\btouregypt\.net
 \bchabad-baden\.de
 \baffordable-car-insurance\.net
 \bcontrolling21\.(de|eu|net|com|org|biz|at|ch|info)
