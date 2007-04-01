@@ -1075,7 +1075,7 @@ xrl\.us
 \bc-o\.in\b
 \bcjb\.net\b
 \bco\.nr\b
-\bchopurl\.com - seems to be non-functional for me, but the site is up\b
+\bchopurl\.com\b
 \bko168\.com\b
 \bcool158\.com\b
 \bcool168\.com\b
