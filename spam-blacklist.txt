@@ -3993,7 +3993,8 @@ ultime-notizie\.eu
 \bld\.net
 \bmyld\.net
 \bcognigen\.net
-gerweck\.net
+\bgerweck\.net
+\bwebmaxsearch\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
