@@ -834,7 +834,6 @@ xrl\.us
 \bint\.tf\b
 \bca\.tf\b
 \bde\.tf\b
-\bat\.tf\b
 \bch\.tf\b
 \bedu\.tf\b
 \bru\.tf\b
