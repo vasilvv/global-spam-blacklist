@@ -1168,6 +1168,9 @@ xrl\.us
 \bcome\.to\b
 \bi\.am\b
 \blisten\.to\b
+\bminorurl\.com\b
+\bxaddr\.com\b
+\burlot\.com\b
 
 # spyware
 ntsearch\.com
