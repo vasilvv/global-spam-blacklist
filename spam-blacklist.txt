@@ -3993,7 +3993,7 @@ ultime-notizie\.eu
 \bcognigen\.net
 \bgerweck\.net
 \bwebmaxsearch\.com
-elrelojdesol\.com 
+elrelojdesol\.com\/classical-music-online
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
