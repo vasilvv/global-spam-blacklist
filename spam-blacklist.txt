@@ -3993,6 +3993,7 @@ ultime-notizie\.eu
 \bcognigen\.net
 \bgerweck\.net
 \bwebmaxsearch\.com
+elrelojdesol\.com 
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
