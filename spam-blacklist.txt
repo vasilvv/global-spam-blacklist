@@ -4007,7 +4007,7 @@ ultime-notizie\.eu
 \bveronicabrazil\.org
 \bvictoriaparis\.org
 \bxxxena\.org.
-
+\bnicoladugo\.com
 
 
 ## end of [[Spam blacklist/Log]] section
