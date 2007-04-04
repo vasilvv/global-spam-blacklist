@@ -3993,7 +3993,22 @@ ultime-notizie\.eu
 \bcognigen\.net
 \bgerweck\.net
 \bwebmaxsearch\.com
-elrelojdesol\.com\/classical-music-online
+\belrelojdesol\.com\/classical-music-online
+\bbunnyluv\.net
+\bchantarose\.net
+\bharleydavis\.net
+\bjoanneguest\.net
+\bkarinschubert\.net
+\bkristarabarrington\.net
+\bkrystaldeboor\.net
+\bleademae\.net
+\bnadianyce\.org
+\btiffanymillion\.net
+\bveronicabrazil\.org
+\bvictoriaparis\.org
+\bxxxena\.org.
+
+
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
