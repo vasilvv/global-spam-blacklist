@@ -3703,7 +3703,7 @@ firewalldown\.com
 \bwebhosting-malaysia\.com
 \bwelfordmedical\.com
 \bworldsites\.net\.my
-\blangmaker\.com
+\blangmaker\.com.*Modern_Latin
 \bbled\.net
 \bfotoplatforma\.pl
 \bschoolkorfball\.org
