@@ -4015,5 +4015,7 @@ ultime-notizie\.eu
 \bmilos-hotels\.org
 \bmilosisforlovers\.com
 \biMilos\.com
+\brashi12\.com
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
