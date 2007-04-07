@@ -4017,6 +4017,7 @@ ultime-notizie\.eu
 \brashi12\.com
 \btnawrestling\.com
 \brefspace\.com
+www\.hkcoolsam\.com #from zh wp
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
