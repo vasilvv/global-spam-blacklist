@@ -3990,7 +3990,6 @@ ultime-notizie\.eu
 \bld\.net
 \bmyld\.net
 \bcognigen\.net
-\bgerweck\.net
 \bwebmaxsearch\.com
 \belrelojdesol\.com\/classical-music-online
 \bbunnyluv\.net
@@ -4015,7 +4014,6 @@ ultime-notizie\.eu
 \bmilosisforlovers\.com
 \biMilos\.com
 \brashi12\.com
-\btnawrestling\.com
 \brefspace\.com
 www\.hkcoolsam\.com #from zh wp
 
