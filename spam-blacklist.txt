@@ -760,7 +760,7 @@ shurl\.(net|org)
 skocz\.pl # added by \.anaconda
 \.smcurl\.com
 \.snap\.to
-\.snipurl\.com
+\bsnipurl\.com
 \.soft-ware\.de
 \.start\.at
 \.stick\.by
