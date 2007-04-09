@@ -4013,7 +4013,8 @@ ultime-notizie\.eu
 \biMilos\.com
 \brashi12\.com
 \brefspace\.com
-www\.hkcoolsam\.com #from zh wp
+\bwww\.hkcoolsam\.com
+\bcarandbikeforum\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
