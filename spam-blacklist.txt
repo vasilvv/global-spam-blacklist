@@ -1072,7 +1072,6 @@ xrl\.us
 \bbizz\.cc\b
 \bbriefurl\.com\b
 \bc-o\.in\b
-\bcjb\.net\b
 \bchopurl\.com\b
 \bko168\.com\b
 \bcool158\.com\b
