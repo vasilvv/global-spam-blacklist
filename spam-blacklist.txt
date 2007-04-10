@@ -4016,5 +4016,8 @@ ultime-notizie\.eu
 \bwww\.hkcoolsam\.com
 \bcarandbikeforum\.com
 \btozsdesed\.googlepages\.com
+\bfasturl\.it
+\bzootit\.com
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
