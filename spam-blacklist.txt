@@ -4015,6 +4015,9 @@ ultime-notizie\.eu
 \btozsdesed\.googlepages\.com
 \bfasturl\.it
 \bzootit\.com
+\bumatlantide\.it
+\bsis007\.org
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
+[[Category:]]
