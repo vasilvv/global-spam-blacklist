@@ -4017,7 +4017,7 @@ ultime-notizie\.eu
 \bzootit\.com
 \bumatlantide\.it
 \bsis007\.org
-
+\bgargoyles\.dracandros\.com
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
 [[Category:]]
