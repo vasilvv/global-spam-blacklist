@@ -1254,7 +1254,6 @@ enterfin\.net\.ru #requested by Sjakkalle
 # from zh wp 2006-5-30
 stanleyng\.net
 \.etpass\.com
-\.ppstream\.com
 
 ##Naconkantari
 
