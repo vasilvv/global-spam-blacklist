@@ -3888,7 +3888,6 @@ ultime-notizie\.eu
 \bcontrolling21\.(de|eu|net|com|org|biz|at|ch|info)
 \bmultimedia-beratung\.de
 \bmortgagequeen\.us
-\bde\.chabad\.org
 \banemony\.info
 \bnasturciya\.info
 \bkolokolchiki\.info
