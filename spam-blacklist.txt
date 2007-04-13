@@ -1499,7 +1499,6 @@ bapki\.com
 \.xvec\.com
 xlal[0-9a-z-]*\.com
 extrasound\.net
-\.tabulas\.com
 urlcutter\.com
 \.rollyo\.com
 mixtapeman\.net
