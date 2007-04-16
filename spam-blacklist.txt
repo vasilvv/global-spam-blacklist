@@ -4019,6 +4019,7 @@ ultime-notizie\.eu
 \bgargoyles\.dracandros\.com
 \bversatilclassic\.com
 \bamojoo\.com
+\bGamedogs\.org
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
 [[Category:]]
