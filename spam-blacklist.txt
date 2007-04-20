@@ -727,7 +727,7 @@ makeashorterlink\.com
 \.mypage\.org
 \.mysite\.de
 \.nav\.to
-nlug\.org\/url # added by \.anaconda
+nlug\.org\/url
 \.notlong\.com
 \.notrix\.at
 \.notrix\.ch
@@ -757,7 +757,7 @@ rubyurl\.com
 shurl\.(net|org)
 \.simurl\.com
 \.skip\.to
-skocz\.pl # added by \.anaconda
+skocz\.pl
 \.smcurl\.com
 \.snap\.to
 \bsnipurl\.com
@@ -800,7 +800,7 @@ virtualpage\.de
 \.warp9\.to
 \.window\.to
 xrl\.us
-\.yatuc\.com # added by D\.M\.
+\.yatuc\.com
 \.yep\.it
 \.yours\.at
 \.zap\.to
@@ -1144,7 +1144,6 @@ xrl\.us
 \bfw\.nu\b
 \bontheweb\.nu\b
 \bisthebe\.st\b
-\bkwik\.to\b
 \bbyinter\.net\b
 \bfindhere\.org\b
 \bonthenet\.as\b
@@ -1178,7 +1177,6 @@ kapitalism\.net
 a85\.no-ip\.biz
 
 #Essjay's list
-\.zorpia\.com #en\.wiki spam
 xanax\.umaxnet\.com
 free-web-polls\.com
 superlongpenis\.com
@@ -1203,19 +1201,16 @@ etnapark\.com
 
 #requests
 coinable\.com #by epopt
-\.meltemi\.pl 
-cheap-airline-tickets\.be 
-pills-pharmacy\.us 
-www-search\.be 
-\.viprape\.com 
-\.kwik\.to 
+\.meltemi\.pl
+cheap-airline-tickets\.be
+pills-pharmacy\.us
+www-search\.be
+\.viprape\.com
 bestdeals\.at
 \.rr\.nu
-passingg\.as
 \.ontheweb\.nu
 \.isgre\.at
 \.byinter\.net
-lowestprices\.at 
 girlswantmore\.info
 \.qiiq\.info
 putinbay\.com
@@ -1575,13 +1570,11 @@ sexandcum\.info
 srisathyasaibookcentre\.org\.uk
 liveeyetv\.org
 lonympics\.co\.uk
-vsisoftware\.com
 mp3lyrics\.org
 lyricsandsongs\.com
 bellproxy\.com
 kitzor\.com
 tinyshorturl\.com
-gamesff\.com
 zluf\.com
 bettersolutions\.com
 extranomical\.com
@@ -2823,7 +2816,6 @@ ywxjm\.com
 \.gguu\.com
 idc2008\.cn
 google-in-china\.org
-\.dzsc\.com
 \.detox-kit\.com
 \.21jewelry\.com
 \.maclenet\.com
@@ -3038,7 +3030,7 @@ loan\.just2006\.info
 \.glyangshuo\.com
 complexxon\.org
 scheerer-software\.de
-free-game-downloads.mosw\.com
+free-game-downloads\.mosw\.com
 lepetitsaintjames\.com
 tvrage\.com
 halflife2\.zoy\.org
@@ -3162,7 +3154,7 @@ t1quotes\.net
 voipblogs\.blogspot\.com
 voiphunt\.com
 kewlestsites\.com
-cognigen\.com
+\bcognigen\.(com|net)
 \.ld\.net
 \.myld\.net
 \.envy\.nu
@@ -3270,7 +3262,6 @@ o-zone-website\.narod\.ru
 sachabaroncohen\.narod\.ru
 aminmaalouf\.narod\.ru
 in-gridsite\.narod\.ru
-free-game-downloads\.mosw\.com
 \.sapesw\.com
 \.sapeso\.com
 \.sanpsw\.com
@@ -3519,7 +3510,6 @@ abolishthegmc\.blogspot\.com
 searchtexoma\.com
 nationwidebillrelief\.com
 surfquotes\.com
-cognigen\.net
 \bcarinsurance\.com
 old-classics\.com
 \.by\.ru\.ru
@@ -3927,7 +3917,6 @@ ultime-notizie\.eu
 \binstant-auto-insurance-quote\.net
 \bvulcanovacanze\.it
 \bvulcanoconsult\.it
-\btz4.com
 \mysergeybrin\.com
 \bmoviemirth\.com
 \bgeocities\.com\/anxietydetective
@@ -3936,13 +3925,6 @@ ultime-notizie\.eu
 \bfreemasonwatch\.freepress-freespeech\.com
 \blaurenphoenix\.net
 \blanitodd\.org
-\bmasonmarconi\.org
-\bmonicasweet\.org
-\bnicolevoss\.org
-\brayveness\.org
-\bsydneecapri\.net
-\bterabond\.org
-\btianalynn\.org
 \bmasonmarconi\.org
 \bmonicasweet\.org
 \bnicolevoss\.org
@@ -3983,7 +3965,6 @@ ultime-notizie\.eu
 \bdsl-internet-service\.blogspot\.com
 \bld\.net
 \bmyld\.net
-\bcognigen\.net
 \bwebmaxsearch\.com
 \belrelojdesol\.com\/classical-music-online
 \bbunnyluv\.net
