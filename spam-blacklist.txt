@@ -4022,6 +4022,7 @@ ultime-notizie\.eu
 \bamojoo\.com
 \bGamedogs\.org
 \bgoodoldtoronto\.com
+\bdoctorscloset\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
