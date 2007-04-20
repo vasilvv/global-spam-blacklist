@@ -1077,7 +1077,6 @@ xrl\.us
 \bcool168\.com\b
 \bontheinter\.net\b
 \bcutalink\.com\b
-\bda\.ru\b
 \bdephine\.org\b
 \bfx\.to\b
 \bdrlinky\.com\b
