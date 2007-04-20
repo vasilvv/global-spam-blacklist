@@ -648,6 +648,8 @@ wikipedia\.on\.nimp\.org
 \.on\.nimp\.org
 
 # URL shorteners
+\bleenk\.org
+\bdwarfurl\.com
 \.1tiny\.com
 \.301url\.com
 \.6url\.com
