@@ -3813,7 +3813,6 @@ republika\.pl\/stranasmer
 \bmake-money-online4\.tripod\.com
 \bmannbeisstfilm\.de
 \bvisitdaugavpils\.lv
-\bcosplay-world\.com
 \bulkerfenerbahce\.com
 \bantu\.com
 \bbukkake\.com
@@ -4003,7 +4002,7 @@ ultime-notizie\.eu
 \bgoodoldtoronto\.com
 \bdoctorscloset\.com
 \bhiphopjazzproduction\.com
-\bracetotheright\.com #attack site
+\bracetotheright\.com
 \bLearning-Theories\.com
 \blearninginvideogames\.com
 \basianink\.com and
@@ -4018,7 +4017,6 @@ ultime-notizie\.eu
 \btranslatedarticles\].com
 \bhiphopjazzproductions\.com
 
-racetotheright\.com #attack site
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
