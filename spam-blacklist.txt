@@ -4017,5 +4017,8 @@ ultime-notizie\.eu
 \bsonycarstereos\.co\.uk
 \btranslatedarticles\].com
 \bhiphopjazzproductions\.com
+
+racetotheright\.com #attack site
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
