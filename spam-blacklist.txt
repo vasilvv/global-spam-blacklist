@@ -4004,5 +4004,7 @@ ultime-notizie\.eu
 \bgoodoldtoronto\.com
 \bdoctorscloset\.com
 
+racetotheright\.com #attack site
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
