@@ -4009,6 +4009,14 @@ ultime-notizie\.eu
 \blearninginvideogames\.com
 \basianink\.com and
 \bgroup-games\.com
+\bbamboo-blinds.org
+\bcelebritygetmeoutofhere.co.uk
+\bhomeinteriors.co.uk
+\bitsnature.org
+\bsecretofmana.info
+\bsnesclassics.com
+\bsonycarstereos.co.uk
+\btranslatedarticles.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
