@@ -4014,6 +4014,10 @@ ultime-notizie\.eu
 \btranslatedarticles\].com
 \bhiphopjazzproductions\.com
 \bquetzal\.4t\.com
+\bdmv\.org
+\baffiliateprograms\.com
+\bunitedstates\.org
+\bdepartmentofmotorvehicles\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
