@@ -859,7 +859,6 @@ xrl\.us
 \bdances\.it\b
 \bhas\.it\b
 \bdoes\.it\b
-\bknows\.it\b
 \bshows\.it\b
 \brules\.it\b
 \brocks\.it\b
