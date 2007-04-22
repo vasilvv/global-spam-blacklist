@@ -1158,7 +1158,6 @@ xrl\.us
 \btz4\.com\b
 \bcemper\.com\b
 \burlproxy\.com\b
-\bcome\.to\b
 \bi\.am\b
 \blisten\.to\b
 \bminorurl\.com\b
