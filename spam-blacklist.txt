@@ -4018,6 +4018,20 @@ ultime-notizie\.eu
 \bunitedstates\.org
 \bdepartmentofmotorvehicles\.com
 \bsforzesca\.it
-
+\bbrookebiggs\.net
+\bkrisztinasereny\.net
+\bcassideyrae\.net
+\bautumnhaze\.net
+\bangeladangelo\.net
+\bangelicabella\.net
+\banitablonde\.org
+\balexisfire\.net
+\bbritannyandrews\.net
+\bchrissymoran\.org
+\bgillianbonner\.net
+\blucithai\.net
+\blittleoralannie\.org
+\blillythai\.org
+\bkittyfoxx\.org
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
