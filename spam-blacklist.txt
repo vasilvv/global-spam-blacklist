@@ -4035,5 +4035,11 @@ ultime-notizie\.eu
 \bFRESHswing\.com
 \bharmonicazone\.com
 \bflo2flo\.com
+\barchive\.org\/details\/Bharatanatyam_dance
+\bkalakendra\.wordpress\.com
+\barchive\.org\/details\/Bharatanatyam-Bharathanatyam
+\bbharatanatyam-bharathanatyam\.blogspot\.com
+\bhtmlgear\.tripod\.com\/event\/control\.event\?a=render&style=event&u=promiserani&i=1&rec=349 #Note I think I have this regex right
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
