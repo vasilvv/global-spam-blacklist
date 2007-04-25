@@ -3786,7 +3786,6 @@ republika\.pl\/stranasmer
 \bgratuliermir\.de
 \bforumfree\.net
 \binternet-history\.tz4\.com
-\bpavelnedved\.110mb\.com
 \bstatisticsoftheworld\.page\.tl
 \bparkourstyle\.com
 \btexaspoker\.tk
