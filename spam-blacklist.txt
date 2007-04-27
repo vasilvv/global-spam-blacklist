@@ -4038,5 +4038,6 @@ ultime-notizie\.eu
 \bhtmlgear\.tripod\.com\/event\/control\.event\?a=render&style=event&u=promiserani&i=1&rec=349 #Note I think I have this regex right
 \btoronto1\.cjb\.net
 \bpwp\.netcabo\.pt\/jmmg\b
+lionfree\.altervista\.org
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
