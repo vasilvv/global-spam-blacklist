@@ -4053,6 +4053,27 @@ ultime-notizie\.eu
 \burbanindustry\.co\.uk
 \bmercedesbenzcarinsurance\.com
 \bduvetland\.com
+\blacieg2s\.ca
+\bw3terra\.ca
+\baina-model\.net
+\balfd\.net
+\bchranenka\.net
+\bdarla\.ca
+\bdarling-model\.net
+\bdearly-loved-one\.net
+\beternal-girl\.net
+\bforever-girl\.net
+\bforever-sabrina-net
+\bforevermydarling\.com
+\bicon-girl\.net
+\bkyra-model-star\.net
+\bliving-spirit\.ca
+\bmaeve-model\.net
+\bmarie-model\.net
+\bmary-model\.net
+\bophelia-model\.net
+\bveronica-model\.net
+\bw3terra\.net
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
