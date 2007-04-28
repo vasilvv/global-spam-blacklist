@@ -4040,7 +4040,19 @@ ultime-notizie\.eu
 \bpwp\.netcabo\.pt\/jmmg\b
 \blionfree\.altervista\.org\b
 \bartericerca\.com\b
-
+\bmikafanclub\.com
+\bkartingextra\.com
+\byourmycrush\.com
+\bdateburn\.com
+\bbrightonvibes\.com
+\bwaterutopia\.com
+\beatingbritain\.com
+\bhyundaisportsclub\.com
+\bredclaim\.com
+\bdashboardmonkey\.com
+\burbanindustry\.co\.uk
+\bmercedesbenzcarinsurance\.com
+\bduvetland\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
