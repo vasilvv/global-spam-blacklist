@@ -4075,6 +4075,9 @@ ultime-notizie\.eu
 \bveronica-model\.net
 \bw3terra\.net
 \beasylnk\.com
+\bus-banks\.info
+\bquickbabysite\.com
+\bmexicotravel\.in\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
