@@ -75,6 +75,8 @@ lazy-stars
 eblja
 liuhecai
 buy-viagra
+sexkanjer\.nl # sexspammer on nl (added by andre)
+show-your-pussy # (added by andre)
 
 # Added by shizhao 7\/4\/05 to 7\/9\/05
 \b167bt\.com
@@ -83,47 +85,45 @@ buy-viagra
 \b00856\.com
 
 #spamming lots of wikis from different IPs
-fidosoft\.de
+\bfidosoft\.de
 
 # Added by shizhao 7\/19\/05
-zggift\.com
-buy214\.com
-lmlqzs\.com
-7b\.net\.cn
-51flower\.cn
-1car\.cn
-lmzg\.cn
-66guilin\.com
-mojw\.com
-zzhxsb\.com
-bjshunsui\.com
-qhycchina\.com
-9s6\.com
-fullmelon\.com
-xuemeipaper\.com
-sem\.org\.cn
-ecyy\.com
-ecyy\.cn
+\bzggift\.com
+\bbuy214\.com
+\blmlqzs\.com
+\b7b\.net\.cn
+\b51flower\.cn
+\b1car\.cn
+\blmzg\.cn
+\b66guilin\.com
+\bmojw\.com
+\bzzhxsb\.com
+\bbjshunsui\.com
+\bqhycchina\.com
+\b9s6\.com
+\bfullmelon\.com
+\bxuemeipaper\.com
+\bsem\.org\.cn
+\becyy\.com
+\becyy\.cn
 
 # Added by Andre Engels 7\/20\/05
-sexkanjer\.nl # sexspammer on nl
-show-your-pussy
-nerdcamp\.net
-duplo\.dnip\.net
-funnydog\.prettyfar\.com
-zenno\.info
-shemtop\.bpa\.nu
+\bnerdcamp\.net
+\bduplo\.dnip\.net
+\bfunnydog\.prettyfar\.com
+\bzenno\.info
+\bshemtop\.bpa\.nu
 
 # Added by Raul654 7\/26\/05
-kqueue\.dnip\.net
+\bkqueue\.dnip\.net
 
 # Added by Datrio 8\/4\/05
-\.nonews\.ru
-mixmeteo\.ru
-sealse\.com
-serjen\.com
-es-standart\.com
-\.static\.net
+\bnonews\.ru
+\bmixmeteo\.ru
+\bsealse\.com
+\bserjen\.com
+\bes-standart\.com
+\bstatic\.net
 
 # Added by UninvitedCompany 8\/5\/05
 -handys\.de 
