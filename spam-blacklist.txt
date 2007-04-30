@@ -4076,6 +4076,7 @@ ultime-notizie\.eu
 \bus-banks\.info
 \bquickbabysite\.com
 \bmexicotravel\.in\b
+\bfederbukkake\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
