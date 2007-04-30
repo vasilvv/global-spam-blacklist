@@ -54,11 +54,9 @@ lasikclinic
 cragrats\.
 AFmbb\.
 
-#parishilton
 paris-hilton
 paris-tape
 
-#sibel-kekilli
 2large
 oa274
 -horoskop
@@ -79,10 +77,10 @@ liuhecai
 buy-viagra
 
 # Added by shizhao 7\/4\/05 to 7\/9\/05
-167bt\.com
-\.bitspirit\.com\.cn
-tencent\.cc
-\.00856\.com
+\b167bt\.com
+\bbitspirit\.com\.cn
+\btencent\.cc
+\b00856\.com
 
 #spamming lots of wikis from different IPs
 fidosoft\.de
