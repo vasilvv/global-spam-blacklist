@@ -4078,6 +4078,27 @@ ultime-notizie\.eu
 \bmexicotravel\.in\b
 \bfederbukkake\.com\b
 \bhealth\.cleeck\.com
+\bamericansharemarket\.com
+\barticles4free\.com
+\barticlesbridge\.com
+\baustraliastockexchange\.net
+\bblogsbasket\.com
+\bcanadastockexchange\.biz
+\bdubaistock\.info
+\behealthguide\.info
+\bexplorearticle\.com
+\bezinevalley\.com
+\bkarachistock\.info
+\bpaycents\.com
+\btext2read\.com
+\bthekarachi\.com
+\btopnasdaqstocks\.com
+\bportal\.ismaili-net\.com
+\bsubmitlink\.biz\/lodhi
+\bsaree\.50webs\.com
+\bminiweblink\.com
+\bsubmitlink\.biz
+
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
