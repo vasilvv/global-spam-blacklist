@@ -709,6 +709,7 @@ linkezy\.com
 linktrim\.com
 \.ln-s\.net # silsor
 \.lnk\.in
+lznk\.com
 makeashorterlink\.com
 \.mediasite\.de
 \.megapage\.de
