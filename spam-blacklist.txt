@@ -644,6 +644,7 @@ wikipedia\.on\.nimp\.org
 \.on\.nimp\.org
 
 # URL shorteners
+\b0rz\.tw\b
 \bleenk\.org
 \bdwarfurl\.com
 \.1tiny\.com
@@ -723,6 +724,7 @@ makeashorterlink\.com
 \.musicpage\.de
 \.mypage\.org
 \.mysite\.de
+\bmyurl\.com\.tw\b
 \.nav\.to
 nlug\.org\/url
 \.notlong\.com
@@ -730,6 +732,7 @@ nlug\.org\/url
 \.notrix\.ch
 \.notrix\.de
 \.notrix\.net
+\bnow\.to\b
 \.on\.to
 \.page\.to
 \.pagina\.de
