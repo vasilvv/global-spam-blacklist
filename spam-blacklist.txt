@@ -4104,6 +4104,7 @@ ultime-notizie\.eu
 \bminiweblink\.com
 \bsubmitlink\.biz
 \hd-dvd-key\.com
+\babruzzoturismo\.net
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
