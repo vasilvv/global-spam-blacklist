@@ -4109,5 +4109,7 @@ ultime-notizie\.eu
 \babruzzoturismo\.net
 wiki\.traditio\.ru
 cais-soas\.com
+\bsardimpex\.it
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
