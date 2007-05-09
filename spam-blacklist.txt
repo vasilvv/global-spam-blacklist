@@ -4110,6 +4110,7 @@ ultime-notizie\.eu
 wiki\.traditio\.ru
 cais-soas\.com
 \bsardimpex\.it
+\bantiwrap\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
