@@ -4111,6 +4111,6 @@ wiki\.traditio\.ru
 cais-soas\.com
 \bsardimpex\.it
 \bantiwrap\.com\b
-
+\btheigdb\.com
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
