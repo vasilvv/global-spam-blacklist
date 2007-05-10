@@ -4121,5 +4121,6 @@ cais-soas\.com
 \bafifup\.com
 \blocation\.essaouira-voyage\.com
 \bworkforall\.net
+\bhealthadel\.com
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
