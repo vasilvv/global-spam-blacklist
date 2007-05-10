@@ -4114,5 +4114,12 @@ cais-soas\.com
 \btheigdb\.com
 \blysting\.com
 \bautocrust\.blogspot\.com
+\bafif\.ws
+\bafifpoem\.com
+\bafif2\.com
+\bafifchat\.com
+\bafifup\.com
+
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
