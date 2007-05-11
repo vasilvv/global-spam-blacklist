@@ -4123,5 +4123,7 @@ ultime-notizie\.eu
 \bworkforall\.net
 \bhealthadel\.com
 \bs8\.org\/gargoyles
+\bsouthsurvey\.com
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
