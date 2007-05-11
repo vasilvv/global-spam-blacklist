@@ -4127,6 +4127,7 @@ ultime-notizie\.eu
 \bkitzor\.net
 \bxlurl\.net
 \bamoo\.org
+\bmyfreepaysite\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
