@@ -1869,6 +1869,7 @@ forextradingllc\.com
 beam\.to
 ##May 2007
 mobipocket\.ru
+excitesearch\.info
 
 # Eloquence, August 2006
 rexcurry\.net
