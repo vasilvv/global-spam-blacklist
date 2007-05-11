@@ -415,7 +415,6 @@ club1\.blog-city\.com
 club2\.blog-city\.com
 club3\.blog-city\.com
 club4\.blog-city\.com
-\.zorpia\.com # Many dozens of replica watch spam sites, viagara spam
 \.comunalia\.com\/replica
 gaestebuch\.007box\.de
 \.sove\.info
