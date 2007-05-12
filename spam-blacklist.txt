@@ -4128,8 +4128,9 @@ ultime-notizie\.eu
 \bxlurl\.net
 \bamoo\.org
 \bmyfreepaysite\.com\b
-wikisucks\.blogspot\.com #spamming [[en:Criticism of Wikipedia]] 
+\bwikisucks\.blogspot\.com #spamming [[en:Criticism of Wikipedia]] 
 \bgaypornlinx\.com\b
+\bbest-cartuning\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
