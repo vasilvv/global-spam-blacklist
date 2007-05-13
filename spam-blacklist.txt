@@ -4131,6 +4131,19 @@ ultime-notizie\.eu
 \bwikisucks\.blogspot\.com #spamming [[en:Criticism of Wikipedia]] 
 \bgaypornlinx\.com\b
 \bbest-cartuning\.com
+\bfd\.tc\.co\.uk\b
+\bsurl\.co\.uk\b
+\bslingshot\.to\b
+\bcontinue\.to\b
+\bcommitted\.to\b
+\bget-me\.to\b
+\bdestined\.to\b
+\bembark\.to\b
+\bwakeup\.to\b
+\btrax\.to\b
+\btrak\.to\b
+\bdear\.to\b
+\btakeoff\.to\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
