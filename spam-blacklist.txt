@@ -4145,6 +4145,29 @@ ultime-notizie\.eu
 \bdear\.to\b
 \btakeoff\.to\b
 \bchild-support-laws-state-by-state\.com\b
+\bsharon-ariel\.blogspot\.com\b
+\bdaniel911\.blogspot\.com\b
+\bdaniel-911\.blogspot\.com\b
+\blosttentribes\.blogspot\.com\b
+\blifeisatrek\.blogspot\.com\b
+\bchristmasandeaster\.blogspot\.com\b
+\bplaintruthabouteaster\.blogspot\.com\b
+\byitzhakrabin\.blogspot\.com\b
+\bshimonperes\.blogspot\.com\b
+\bdavid-ben-ariel\.blogspot\.com\b
+\bherbert-w-armstrong\.blogspot\.com\b
+\btentribes\.blogspot\.com\b
+\bunresolution181\.blogspot\.com\b
+\beuropeunitedstates\.blogspot\.com\b
+\btwo-witnesses-revelation\.blogspot\.com\b
+\btoledo-race-riots\.blogspot\.com\b
+\barmstrongherbert\.blogspot\.com\b
+\bkemplervideo\.blogspot\.com\b
+\btemplemountjerusalem\.blogspot\.com\b
+\bchristmascondemned\.blogspot\.com\b
+\bbeyondbabylon\.blogspot\.com\b
+\bcometobeyondbabylon\.blogspot\.com\b
+\bronpaulpresident\.blogspot\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
