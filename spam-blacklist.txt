@@ -4145,7 +4145,6 @@ ultime-notizie\.eu
 \bdear\.to\b
 \btakeoff\.to\b
 \bchild-support-laws-state-by-state\.com\b
-\b\b
 \bsharon-ariel\.blogspot\.com\b
 \bdaniel911\.blogspot\.com\b
 \bdaniel-911\.blogspot\.com\b
