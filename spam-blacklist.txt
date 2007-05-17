@@ -4198,6 +4198,42 @@ ultime-notizie\.eu
 \bbeyondbabylon\.blogspot\.com\b
 \bcometobeyondbabylon\.blogspot\.com\b
 \bronpaulpresident\.blogspot\.com\b
+\balanasoares\.net\b
+\balenaseredova\.org\b
+\balinavacariu\.net\b
+\bangieeverhart\.org\b
+\bannafalchi\.org\b
+\bannetteschwarz\.net\b
+\baprilhunter\.org\b
+\bbrittanydaniel\.net\b
+\bchristinemendoza\.org\b
+\bdanielacicarelli\.org\b
+\bericarosecampbell\.org\b
+\berikamichellebarre\.net\b
+\bfedericafontana\.org\b
+\bgiulianamarino\.org\b
+\bhannaverboom\.net\b
+\bheatherrenesmith\.org\b
+\bheatherthomas\.org\b
+\bjenniferhurt\.net\b
+\bjennsterger\.org\b
+\bjerilee\.org\b
+\bjessicastam\.org\b
+\bkarrinesteffans\.net\b
+\bleannaheart\.net\b
+\blisasparxx\.net\b
+\bmeganhauserman\.net\b
+\bmonicabelucci\.net\b
+\bnatashayi\.org\b
+\bnormastitz\.net\b
+\bpatriciavelasquez\.org\b
+\braicaoliveira\.org\b
+\brebekahteasdale\.org\b
+\brobertasmallwood\.net\b
+\bryouehara\.net\b
+\btatjanasimic\.net\b
+\btinytove\.org\b
+\btorilane\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
