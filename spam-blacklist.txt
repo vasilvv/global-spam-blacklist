@@ -664,6 +664,7 @@ biglnk\.com
 \.bowl\.to
 \.break\.at
 \.browse\.to
+\bbrowser\.to\b
 \.change\.to
 \.chip\.ms
 compactURL\.com
@@ -699,6 +700,7 @@ gentleurl\.net
 \.get\.to
 \.getit\.at
 glinki\.com
+\bgot\.to\b
 \.hard-ware\.de
 \.hello\.to
 \.hey\.to
@@ -711,6 +713,7 @@ jeeee\.net\/url
 \.jump\.to
 \.kiss\.to
 latest-info\.com
+\blearn\.to\b
 \.lin\.kz
 link\.toolbot\.com
 linkezy\.com
@@ -754,11 +757,16 @@ nlug\.org\/url
 \.qrl\.be
 \.qurl\.com
 \.qurl\.net
+\bradpages\.com\b
 \.redirect\.to
+\bremember\.to\b
+\bresourcez\.com\b
+\breturn\.to\b
 rubyurl\.com
 \.rulestheweb\.com
 \.run\.to
 \.runurl\.com
+\bsail\.to\b
 \.scroll\.to
 \.seite\.ms
 \.shorl\.com
@@ -772,8 +780,10 @@ skocz\.pl
 \.snap\.to
 \bsnipurl\.com
 \.soft-ware\.de
+\bsports-reports\.com\b
 \.start\.at
 \.stick\.by
+\bstop\.to\b
 \.surf\.to
 s-url\.net
 \.switch\.to
@@ -800,6 +810,7 @@ uncutuncensored.com
 url\.fibiger\.org
 \.url\.fm
 urlcut\.(com|net)
+\burlfreeze\.com\b
 urlic\.com
 urlin\.it
 urlmask\.com
