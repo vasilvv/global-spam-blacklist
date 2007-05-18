@@ -4247,6 +4247,7 @@ ultime-notizie\.eu
 \bcrocsclub\.com\b
 \searchtravel\.biz\/countrylist\/italy.php
 \byoutube\.ag\b
+\bsearchtravel\.biz\/countrylist\/italy\.php\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
