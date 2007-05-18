@@ -4236,6 +4236,7 @@ ultime-notizie\.eu
 \btorilane\.org\b
 \bjijija\.com #from zh wp
 \bcriccawikipediaitaliana\.blogspot\.com
+\bscpanel\.net\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
