@@ -4241,6 +4241,9 @@ ultime-notizie\.eu
 \bxshorturl\.info\b
 \burlfreeze\.com\b
 \bchrismorris\.ws\b
+\bclik\.to\b
+\bclix\.to\b
+\bdevoted\.to\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
