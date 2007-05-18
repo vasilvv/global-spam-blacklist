@@ -4239,6 +4239,8 @@ ultime-notizie\.eu
 \bscpanel\.net\b
 \bgoogle\.{1,5}\/cse\b
 \bxshorturl\.info\b
+\burlfreeze\.com\b
+\bchrismorris\.ws\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
