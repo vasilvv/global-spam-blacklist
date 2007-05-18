@@ -4244,6 +4244,7 @@ ultime-notizie\.eu
 \bclik\.to\b
 \bclix\.to\b
 \bdevoted\.to\b
+\bcrocsclub\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
