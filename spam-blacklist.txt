@@ -4245,9 +4245,7 @@ ultime-notizie\.eu
 \bclix\.to\b
 \bdevoted\.to\b
 \bcrocsclub\.com\b
-
-# bastique 18/05/07
-\bsearchtravel\.biz
+\bsearchtravel\.biz\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
