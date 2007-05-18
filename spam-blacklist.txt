@@ -4234,7 +4234,7 @@ ultime-notizie\.eu
 \btatjanasimic\.net\b
 \btinytove\.org\b
 \btorilane\.org\b
-\jijija\.com #from zh wp
+\bjijija\.com #from zh wp
 \bcriccawikipediaitaliana\.blogspot\.com
 
 ## end of [[Spam blacklist/Log]] section
