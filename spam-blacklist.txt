@@ -4249,6 +4249,13 @@ ultime-notizie\.eu
 \bsearchtravel\.biz\/countrylist\/italy\.php\b
 \bwowomg\.com\b
 \bwatchbritneyspears\.com\b
+\bclokwise\.com\b
+\bhl2tweaks\.cjb\.net\b
+\bcod-online\.cjb\.net\b
+\bredknob\.teamdot\.com\.au\b
+\bterminalvelocityparkour\.tk\b
+\beq2nation\.tk\b
+\bgamearena-status\.cjb\.net\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
