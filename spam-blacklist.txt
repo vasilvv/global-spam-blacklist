@@ -859,7 +859,6 @@ xxx-posed\.com
 \bzwap\.to\b
 \bexplode\.to\b
 \bunonic\.com\b
-\bnet\.tf\b
 \bus\.tf\b
 \bint\.tf\b
 \bca\.tf\b
