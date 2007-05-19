@@ -4247,6 +4247,8 @@ ultime-notizie\.eu
 \searchtravel\.biz\/countrylist\/italy.php
 \byoutube\.ag\b
 \bsearchtravel\.biz\/countrylist\/italy\.php\b
+\bwowomg\.com\b
+\bwatchbritneyspears\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
