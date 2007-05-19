@@ -1898,6 +1898,7 @@ beam\.to
 ##May 2007
 mobipocket\.ru
 excitesearch\.info
+cinematheque\.ru
 
 # Eloquence, August 2006
 rexcurry\.net
