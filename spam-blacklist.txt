@@ -4259,6 +4259,8 @@ ultime-notizie\.eu
 \bgamearena-status\.cjb\.net\b
 \bffconsultancy\.com\b
 \blg-sl\.net\b
+\banti2ch\.blog61\.fc2\.com\b
+\barvel7aico\.btblog\.jp\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
