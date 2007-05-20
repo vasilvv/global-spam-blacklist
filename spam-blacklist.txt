@@ -4258,6 +4258,7 @@ ultime-notizie\.eu
 \beq2nation\.tk\b
 \bgamearena-status\.cjb\.net\b
 \bffconsultancy\.com\b
+\blg-sl\.net\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
