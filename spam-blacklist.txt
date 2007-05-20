@@ -859,6 +859,7 @@ xxx-posed\.com
 \bzwap\.to\b
 \bexplode\.to\b
 \bunonic\.com\b
+\bnet\.tf\b
 \bus\.tf\b
 \bint\.tf\b
 \bca\.tf\b
@@ -1898,7 +1899,6 @@ beam\.to
 ##May 2007
 mobipocket\.ru
 excitesearch\.info
-cinematheque\.ru
 
 # Eloquence, August 2006
 rexcurry\.net
@@ -4237,30 +4237,6 @@ ultime-notizie\.eu
 \bjijija\.com #from zh wp
 \bcriccawikipediaitaliana\.blogspot\.com
 \bscpanel\.net\b
-\bgoogle\.{1,5}\/cse\b
-\bxshorturl\.info\b
-\burlfreeze\.com\b
-\bchrismorris\.ws\b
-\bclik\.to\b
-\bclix\.to\b
-\bdevoted\.to\b
-\bcrocsclub\.com\b
-\searchtravel\.biz\/countrylist\/italy.php
-\byoutube\.ag\b
-\bsearchtravel\.biz\/countrylist\/italy\.php\b
-\bwowomg\.com\b
-\bwatchbritneyspears\.com\b
-\bclokwise\.com\b
-\bhl2tweaks\.cjb\.net\b
-\bcod-online\.cjb\.net\b
-\bredknob\.teamdot\.com\.au\b
-\bterminalvelocityparkour\.tk\b
-\beq2nation\.tk\b
-\bgamearena-status\.cjb\.net\b
-\bffconsultancy\.com\b
-\blg-sl\.net\b
-\banti2ch\.blog61\.fc2\.com\b
-\barvel7aico\.btblog\.jp\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
