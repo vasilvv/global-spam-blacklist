@@ -4257,6 +4257,7 @@ ultime-notizie\.eu
 \bterminalvelocityparkour\.tk\b
 \beq2nation\.tk\b
 \bgamearena-status\.cjb\.net\b
+\bffconsultancy\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
