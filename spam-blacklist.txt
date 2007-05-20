@@ -4245,7 +4245,7 @@ ultime-notizie\.eu
 \bclix\.to\b
 \bdevoted\.to\b
 \bcrocsclub\.com\b
-\searchtravel\.biz\/countrylist\/italy.php
+\bsearchtravel\.biz\/countrylist\/italy.php
 \byoutube\.ag\b
 \bsearchtravel\.biz\/countrylist\/italy\.php\b
 \bwowomg\.com\b
