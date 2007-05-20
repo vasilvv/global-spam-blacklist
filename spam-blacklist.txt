@@ -1,5 +1,8 @@
  #<!-- leave this line exactly as it is --> <pre> 
-# DO NOT MODIFY THIS LIST UNLESS YOU HAVE A BASIC UNDERSTANDING OF REGEX!
+###########################################################################
+# DO NOT MODIFY THIS LIST UNLESS YOU HAVE A BASIC UNDERSTANDING OF REGEX! #
+###########################################################################
+#
 # This is a list of domain names which are considered spam.
 # Guidelines:
 #    - Only blacklist for widespread, unmanageable spam.
