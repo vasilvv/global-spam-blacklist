@@ -4264,6 +4264,8 @@ ultime-notizie\.eu
 \blg-sl\.net\b
 \banti2ch\.blog61\.fc2\.com\b
 \barvel7aico\.btblog\.jp\b
+\bcarandbikeforum\.com\b
+\bautocrust\.blogspot\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
