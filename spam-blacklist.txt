@@ -4266,6 +4266,11 @@ ultime-notizie\.eu
 \barvel7aico\.btblog\.jp\b
 \bcarandbikeforum\.com\b
 \bautocrust\.blogspot\.com\b
+\bAdvisorsDirectory\.com\b
+\bdebbiedoesdallasagain\.net\b
+\bjennafilms\.com\b
+\bkimkardashiandvd\.net\b
+\boliviatape\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
