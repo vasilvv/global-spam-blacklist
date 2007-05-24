@@ -4273,6 +4273,10 @@ ultime-notizie\.eu
 \bkimkardashiandvd\.net\b
 \boliviatape\.com\b
 \bart\.lojadeluxo\.com\b
+\bSinghsandKaurs\.com\b
+\bYoungSikhs\.net\b
+\bggssc\.net\b
+\bnokiastore\.in\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
