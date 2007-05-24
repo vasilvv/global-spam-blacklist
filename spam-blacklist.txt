@@ -4277,6 +4277,7 @@ ultime-notizie\.eu
 \bYoungSikhs\.net\b
 \bggssc\.net\b
 \bnokiastore\.in\b
+\btrack\.vivid\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
