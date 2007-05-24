@@ -4272,6 +4272,7 @@ ultime-notizie\.eu
 \bjennafilms\.com\b
 \bkimkardashiandvd\.net\b
 \boliviatape\.com\b
+\bart\.lojadeluxo\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
