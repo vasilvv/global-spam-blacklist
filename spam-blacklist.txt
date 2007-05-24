@@ -4281,6 +4281,7 @@ ultime-notizie\.eu
 \bchildrensangelflight\.org/images\b
 \bcanadianmedsworld\.com\b
 \barabti\.com\b
+\btarjan\.uw\.hu\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
