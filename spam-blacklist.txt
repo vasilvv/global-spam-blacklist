@@ -4278,6 +4278,8 @@ ultime-notizie\.eu
 \bggssc\.net\b
 \bnokiastore\.in\b
 \btrack\.vivid\.com\b
+\bchildrensangelflight\.org/images\b
+\bcanadianmedsworld\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
