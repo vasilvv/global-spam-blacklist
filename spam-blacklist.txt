@@ -4283,6 +4283,7 @@ ultime-notizie\.eu
 \barabti\.com\b
 \btarjan\.uw\.hu\b
 \benglandandenglishhistory\.com\b
+\bezinearticles\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
