@@ -4282,6 +4282,7 @@ ultime-notizie\.eu
 \bcanadianmedsworld\.com\b
 \barabti\.com\b
 \btarjan\.uw\.hu\b
+\benglandandenglishhistory\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
