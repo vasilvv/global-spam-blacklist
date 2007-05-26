@@ -4286,6 +4286,7 @@ ultime-notizie\.eu
 \bezinearticles\.com\b
 \bskimall\.net\b
 \btellurideofficialguide\.org\b
+\bscpanel\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
