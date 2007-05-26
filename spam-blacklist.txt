@@ -4284,6 +4284,8 @@ ultime-notizie\.eu
 \btarjan\.uw\.hu\b
 \benglandandenglishhistory\.com\b
 \bezinearticles\.com\b
+\bskimall\.net\b
+\btellurideofficialguide\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
