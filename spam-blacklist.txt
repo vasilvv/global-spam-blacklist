@@ -4287,6 +4287,9 @@ ultime-notizie\.eu
 \bskimall\.net\b
 \btellurideofficialguide\.org\b
 \bscpanel\.com\b
+\bnewslimited\.org\b
+\bwesmannion\.Com\b
+\bziggyswitkowski\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
