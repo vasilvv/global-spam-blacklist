@@ -4142,7 +4142,6 @@ ultime-notizie\.eu
 \babruzzoturismo\.net
 \bwiki\.traditio\.ru
 \bnew\.traditio\.ru
-\bcais-soas\.com
 \bsardimpex\.it
 \bantiwrap\.com\b
 \btheigdb\.com
