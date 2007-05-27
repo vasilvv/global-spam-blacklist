@@ -4290,6 +4290,7 @@ ultime-notizie\.eu
 \bnewslimited\.org\b
 \bwesmannion\.Com\b
 \bziggyswitkowski\.com\b
+\bhoodiagordoniiplus\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
