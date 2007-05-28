@@ -4291,6 +4291,10 @@ ultime-notizie\.eu
 \bwesmannion\.Com\b
 \bziggyswitkowski\.com\b
 \bhoodiagordoniiplus\.com\b
+\betclinic\.com\b
+\bcrocsclub\.com\b
+\bcrocsclub\.info\b
+\bmobiways\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
