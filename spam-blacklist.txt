@@ -4326,6 +4326,7 @@ ultime-notizie\.eu
 \bluketheking\.2page\.de\b
 \bluketheking\.zweipage\.de\b
 \bdui-trix\.com\b
+\bsigord\.blogfa\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
