@@ -4321,6 +4321,8 @@ ultime-notizie\.eu
 \btoed\.info\b
 \bvodu\.info\b
 \byogacentre\.info\b
+\bandorraz\.org\b
+\bkwfm\.net\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
