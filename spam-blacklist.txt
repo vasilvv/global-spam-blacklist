@@ -4323,6 +4323,8 @@ ultime-notizie\.eu
 \byogacentre\.info\b
 \bandorraz\.org\b
 \bkwfm\.net\b
+\bluketheking\.2page\.de\b
+\bluketheking\.zweipage\.de\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
