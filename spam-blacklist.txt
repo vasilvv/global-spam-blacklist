@@ -4295,6 +4295,32 @@ ultime-notizie\.eu
 \bcrocsclub\.com\b
 \bcrocsclub\.info\b
 \bmobiways\.com\b
+\bankor\.info\b
+\bbems\.info\b
+\bbsbs\.biz\b
+\bcinn\.info\b
+\bconm\.info\b
+\bcret\.info\b
+\bdiplomov\.net\b
+\bdufy\.info\b
+\befraim\.info\b
+\bendre\.info\b
+\bfard\.org\b
+\bfederalcreditunion\.biz\b
+\bjaki\.info\b
+\bjuho\.info\b
+\bkapi\.info\b
+\bmuci\.info\b
+\bnulo\.info\b
+\bolid\.info\b
+\bpape\.us\b
+\bsalp\.info\b
+\bseacartel\.com\b
+\bsnns\.biz\b
+\btios\.info\b
+\btoed\.info\b
+\bvodu\.info\b
+\byogacentre\.info\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
