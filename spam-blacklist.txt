@@ -4335,5 +4335,8 @@ ultime-notizie\.eu
 \btourismindochina\.com\b
 \bpassioncambodia\.com\b
 \bbayontours\.com\b
+\bitaly-lowcost\.com\b
+\bfilcoo\.com\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
