@@ -4331,6 +4331,6 @@ ultime-notizie\.eu
 \bsigord\.blogfa\.com\b
 \bpargatravel\.eu\b
 \bdlel\.2s2s\.com
-
+\bwikipedia\.un\.mythe\.over-blog\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
