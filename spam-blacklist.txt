@@ -4328,6 +4328,7 @@ ultime-notizie\.eu
 \bdui-trix\.com\b
 \bsigord\.blogfa\.com\b
 \bpargatravel\.eu\b
+\bdlel\.2s2s\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
