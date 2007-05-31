@@ -4337,6 +4337,42 @@ ultime-notizie\.eu
 \bbayontours\.com\b
 \bitaly-lowcost\.com\b
 \bfilcoo\.com\b
+\b50centfanforum\.com\b
+\bacademyawardsfan\.com\b
+\bakonfan\.com\b
+\bannanicolesmithfan\.com\b
+\bbachelorfan\.com\b
+\bbeyonceknowlesfan\.com\b
+\bbigbrotherfansite\.com\b
+\bchanningtatumfan\.com\b
+\bchrisbrownclub\.com\b
+\bclarksonfan\.com\b
+\bcolinjamesfarrell\.com\b
+\bdogshowclub\.com\b
+\beminemfanforum\.com\b
+\bgooglefansite\.com\b
+\bhilaryerhardduff\.com\b
+\bhiltonfan\.com\b
+\bholydaysofobligation\.com\b
+\bidolfansite\.com\b
+\bjamesbluntfan\.com\b
+\bkatharinemcpheeforum\.com\b
+\bkeirachristinaknightley\.com\b
+\bmadonnafansite\.com\b
+\bmannypacquiaofan\.com\b
+\bmaumarcelo\.org\b
+\bmichellewingkwan\.com\b
+\bpamelaandersonclub\.com\b
+\bpbbfan\.com\b
+\bpgatourforum\.com\b
+\brachaelrayweb\.com/\b
+\brichardbrucecheney\.com\b
+\brunescapefanclub\.com\b
+\bsmalltownlottery\.com\b
+\bstacyannmariekeibler\.com\b
+\bterilynnhatcher\.com\b
+\btheprojectrunway\.com\b
+\btonigonzaga\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
