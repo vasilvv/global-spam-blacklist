@@ -4373,6 +4373,14 @@ ultime-notizie\.eu
 \bterilynnhatcher\.com\b
 \btheprojectrunway\.com\b
 \btonigonzaga\.org\b
+\bmankatowebdesign\.com\b
+\bboredboard\.org\b
+\bcaffeinemarketing\.com\b
+\bjohnmarkkarrblog\.com\b
+\bmarketresearchmarketing\.com\b
+\bemailmonk\.com\b
+\bbanfacebook\.com\b
+\bsmellywasher\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
