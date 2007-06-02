@@ -4381,6 +4381,7 @@ ultime-notizie\.eu
 \bemailmonk\.com\b
 \bbanfacebook\.com\b
 \bsmellywasher\.com\b
+\bsoulfinder\.eu\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
