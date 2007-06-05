@@ -1629,6 +1629,7 @@ pwinsider\.com
 israelnewsagency\.com
 cheridinovo\.com
 zhitomirhost\.com
+wrestlingobserver\.com/wo/news/headlines/default\.asp\?aID=19419
 
 #Brass India
 aksharmetal\.com
