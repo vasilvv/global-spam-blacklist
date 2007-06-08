@@ -4494,6 +4494,7 @@ ultime-notizie\.eu
 \bzacefronforum\.com\b
 \bzhangziyiweb\.com\b
 \bzoesaldana\.org\b
-\bdatasheet4u\.com\b
+\bdatasheet(4u|s)?\.(net|co\.kr|in)\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
