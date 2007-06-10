@@ -4529,7 +4529,7 @@ ultime-notizie\.eu
 \bweb2earn\.com
 \ball-usajobs\.com
 \bacdc-forum\.de
-\bclosgclub\.com
+\bclogsclub\.com
 \bvoobys\.com
 \bgemisimo\.com
 \bdidimrehberim\.com
