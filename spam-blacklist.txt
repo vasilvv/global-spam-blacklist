@@ -4540,6 +4540,7 @@ ultime-notizie\.eu
 \baltinkumhomes\.net
 \bdidymapartotel\.com
 \bdidimbeachresort\.net
+\bstudiando\.it\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
