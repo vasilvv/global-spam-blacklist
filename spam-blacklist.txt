@@ -724,7 +724,7 @@ latest-info\.com
 link\.toolbot\.com
 linkezy\.com
 linktrim\.com
-\.ln-s\.net # silsor
+ln-s\.net # silsor
 \.lnk\.in
 lznk\.com
 makeashorterlink\.com
@@ -761,7 +761,7 @@ nlug\.org\/url
 \.privat\.ms
 \.quickly\.to
 \.qrl\.be
-\.qurl\.com
+\bqurl\.com
 \.qurl\.net
 \bradpages\.com\b
 \.redirect\.to
