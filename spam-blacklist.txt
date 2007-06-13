@@ -4541,6 +4541,7 @@ ultime-notizie\.eu
 \bdidymapartotel\.com
 \bdidimbeachresort\.net
 \bstudiando\.it\b
+\bwebalice\.it\/pigionantialfio\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
