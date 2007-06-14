@@ -4542,6 +4542,8 @@ ultime-notizie\.eu
 \bdidimbeachresort\.net
 \bstudiando\.it\b
 \bwebalice\.it\/pigionantialfio\b
-
+\becemaml\.com
+\becemaml\.blogia\.com
+\bgeocities\.com\/wikipedia_bibliotecarios
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
