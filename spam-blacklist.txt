@@ -1640,6 +1640,15 @@ appraisalcenter\.com
 www\.mashup\.com
 bastardpop\.com
 tqscore\.com
+it-aly\.com
+usatn\.com
+australiagate\.com
+cana-da\.com
+fr-ance\.com
+turkeygate\.com
+uk-time\.com
+usaak\.com
+usamn\.com
 
 #Brass India
 aksharmetal\.com
