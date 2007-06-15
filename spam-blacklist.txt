@@ -1649,6 +1649,8 @@ turkeygate\.com
 uk-time\.com
 usaak\.com
 usamn\.com
+lapiazzetta\.lecce\.it
+
 
 #Brass India
 aksharmetal\.com
