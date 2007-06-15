@@ -1631,6 +1631,8 @@ cheridinovo\.com
 zhitomirhost\.com
 wrestlingobserver\.com/wo/news/headlines/default\.asp\?aID=19419
 yamour\.com
+\.hour\.ws
+
 
 #Brass India
 aksharmetal\.com
