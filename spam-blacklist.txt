@@ -1634,6 +1634,12 @@ yamour\.com
 \.hour\.ws
 wainscoting\.info
 \.ostuni\.tv
+painkillers\.com
+wheelsinternational\.com
+appraisalcenter\.com
+www\.mashup\.com
+bastardpop\.com
+tqscore\.com
 
 #Brass India
 aksharmetal\.com
