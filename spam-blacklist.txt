@@ -1666,6 +1666,8 @@ planetnana\.co\.il
 \.ybay1\.co\.il
 gamegoldspace\.com
 mergerinvesting\.com
+look-for-albania\.com
+
 
 #Brass India
 aksharmetal\.com
