@@ -1671,6 +1671,8 @@ alldatasheet\.com
 datasheet\.kr
 ethanol-news\.de
 unleashmypower\.com
+sega-universe\.de
+
 
 #Brass India
 aksharmetal\.com
