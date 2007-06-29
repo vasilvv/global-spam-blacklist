@@ -4191,8 +4191,7 @@ ultime-notizie\.eu
 \bsubmitlink\.biz
 \hd-dvd-key\.com
 \babruzzoturismo\.net
-\bwiki\.traditio\.ru
-\bnew\.traditio\.ru
+traditio\.ru
 \bcais-soas\.com
 \bsardimpex\.it
 \bantiwrap\.com\b
