@@ -1283,9 +1283,9 @@ stanleyng\.net
 
 ##Naconkantari
 
-##The reasons for adding the links below are located at http://en.wikipedia.org/wiki/User:Naconkantari/sbl
+##The reasons for adding the links below used to be located at http://en.wikipedia.org/wiki/User:Naconkantari/sbl
 
-##When disabling anything in this section, *please* leave me a note on my talk page so I can update my version.
+update my version.
 aspsupergirls\.phpnet\.us
 users\.libero\.it\/seza
 hifrienddd\.info
@@ -1671,7 +1671,6 @@ alldatasheet\.com
 datasheet\.kr
 ethanol-news\.de
 unleashmypower\.com
-sega-universe\.de
 prosumersystems\.com
 dreamcrowd\.com
 arkleywatch\.blogspot\.com
