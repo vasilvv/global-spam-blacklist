@@ -4591,6 +4591,10 @@ traditio\.ru
 \becemaml\.com
 \becemaml\.blogia\.com
 \bgeocities\.com\/wikipedia_bibliotecarios
-www\.spain\.info\/cn\/TourSpain      # spam on zh wp
+\bfredthompsonforum\.com
+menwith\.blogspot\.com
+\bae18\.com
+
 ## end of [[Spam blacklist/Log]] section
+\bspain\.info\/cn\/TourSpain      # spam on zh wp
  #</pre> <!-- leave this line exactly as it is -->
