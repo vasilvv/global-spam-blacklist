@@ -4594,6 +4594,8 @@ traditio\.ru
 \bfredthompsonforum\.com
 menwith\.blogspot\.com
 \bae18\.com
+\beconomichostels\.com\b
+\bmuratpasa\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
