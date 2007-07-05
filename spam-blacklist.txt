@@ -4592,11 +4592,12 @@ traditio\.ru
 \bgeocities\.com\/wikipedia_bibliotecarios
 \bspain\.info\/cn\/TourSpain      # spam on zh wp
 \bfredthompsonforum\.com
-menwith\.blogspot\.com
+\bmenwith\.blogspot\.com
 \bae18\.com
 \beconomichostels\.com\b
 \bmuratpasa\.com\b
-\ithelpdesksolutions\.com #requested by Ta bu shi da yu
+\bithelpdesksolutions\.com #requested by Ta bu shi da yu
+\bhezarbareshgh\.blogfa\.com 
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
