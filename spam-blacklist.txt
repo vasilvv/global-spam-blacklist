@@ -4596,6 +4596,7 @@ menwith\.blogspot\.com
 \bae18\.com
 \beconomichostels\.com\b
 \bmuratpasa\.com\b
+\ithelpdesksolutions\.com #requested by Ta bu shi da yu
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
