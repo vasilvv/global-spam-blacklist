@@ -4597,7 +4597,9 @@ traditio\.ru
 \beconomichostels\.com\b
 \bmuratpasa\.com\b
 \bithelpdesksolutions\.com #requested by Ta bu shi da yu
-\bhezarbareshgh\.blogfa\.com 
+\bhezarbareshgh\.blogfa\.com
+\btheocseries\b.com\b
+\btelefilmseries\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
