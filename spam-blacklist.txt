@@ -4600,6 +4600,7 @@ traditio\.ru
 \bhezarbareshgh\.blogfa\.com
 \btheocseries\.com\b
 \btelefilmseries\.com\b
+\bautonomica4\.info\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
