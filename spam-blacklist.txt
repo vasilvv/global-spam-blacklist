@@ -4603,6 +4603,7 @@ traditio\.ru
 \bautonomica4\.info\b
 \bsega-univers\.de
 \b\b
+\bglobal-itv\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
