@@ -4602,6 +4602,7 @@ traditio\.ru
 \btelefilmseries\.com\b
 \bautonomica4\.info\b
 \bsega-univers\.de
+\b\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
