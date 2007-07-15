@@ -4658,6 +4658,7 @@ powerleveling-wow\.com
 \bpuy43\.free\.fr
 \bithelpdesksolutions\.com
 \bbrtravel\.com\.br
+\bgamerosters\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
