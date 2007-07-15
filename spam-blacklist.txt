@@ -4657,6 +4657,7 @@ powerleveling-wow\.com
 \bglobal-itv\.com
 \bpuy43\.free\.fr
 \bithelpdesksolutions\.com
+\bbrtravel\.com\.br
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
