@@ -4644,7 +4644,6 @@ powerleveling-wow\.com
 \bllegalemapas\.com
 \bhezarbareshgh\.blogfa\.com
 \bgeocities\.com\/celebrityspaghetti
-[0-9][0-9]\.free\.fr
 \bulink\.co\.nr\/
 \bpropeciahelp\.com
 \bandrewjohns\.ca
@@ -4656,7 +4655,7 @@ powerleveling-wow\.com
 \blanguedoc-france\.info
 \bsearchmusiconline\.com
 \bglobal-itv\.com
-
+\bpuy43\.free\.fr
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
