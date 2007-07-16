@@ -4655,7 +4655,7 @@ powerleveling-wow\.com
 \blanguedoc-france\.info
 \bsearchmusiconline\.com
 \bglobal-itv\.com
-\le\.puy43\.free\.fr
+\ble\.puy43\.free\.fr
 \bithelpdesksolutions\.com
 \bbrtravel\.com\.br
 \bgamerosters\.com
