@@ -4661,8 +4661,10 @@ powerleveling-wow\.com
 \bil.*\.interfree\.it
 \bla.*\.interfree\.it
 \bbabyhold\.com
-\bsustainablesystemsinternational\.org
 \bworldchesslinks\.net
+\bsustainablesystemsinternational\.org
+\bncaa2008rosters\.com
+\bles-sciences\.be
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
