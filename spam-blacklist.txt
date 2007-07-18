@@ -4203,7 +4203,7 @@ traditio\.ru
 \blocation\.essaouira-voyage\.com
 \bworkforall\.net
 \bhealthadel\.com
-\bs8\.org\/gargoyles
+\bs8\.org\/gargoyles\/askgreg
 \bsouthsurvey\.com
 \bkitzor\.net
 \bxlurl\.net
