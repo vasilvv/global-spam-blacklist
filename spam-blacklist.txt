@@ -4666,6 +4666,30 @@ powerleveling-wow\.com
 \bncaa2008rosters\.com
 \bles-sciences\.be
 \bsohbetoyun\.com
+\bbensohbet\.com
+\bduygum\.com
+\basksozlerim\.com
+\bvatanlar\.gen\.tr
+\bhaydichat\.net
+\bsohbetsu\.com
+\bhotels99\.net
+\bindependencia\.net
+\bdm-cqsf\.cn
+\bmqblog\.cn
+\bmendean\.net
+\bcelsnet\.cn
+\bcthb\.com\.cn
+\bcaws\.cn
+\bchongshang\.com\.cn
+\btimeyiqi\.com\.cn
+\bdm-lietou\.cn
+\beachost\.com
+\bhauyut\.com
+\bsino-biyan\.cn
+\bnanqu-dental\.com
+\batchina\.com\.cn
+\bhollycrm\.com
+\bstacent\.com\.cn
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
