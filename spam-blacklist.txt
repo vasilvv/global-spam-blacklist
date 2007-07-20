@@ -4690,6 +4690,7 @@ powerleveling-wow\.com
 \batchina\.com\.cn
 \bhollycrm\.com
 \bstacent\.com\.cn
+\bcaipirinha\.us\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
