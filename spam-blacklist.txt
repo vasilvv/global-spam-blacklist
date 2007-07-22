@@ -4691,6 +4691,6 @@ powerleveling-wow\.com
 \bhollycrm\.com
 \bstacent\.com\.cn
 \bcaipirinha\.us\b
-
+\banna-marly\.narod\.ru\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
