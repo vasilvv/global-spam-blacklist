@@ -4694,6 +4694,7 @@ powerleveling-wow\.com
 \banna-marly\.narod\.ru\b
 volgota\.com
 \b5min\.com\b
-
+\bminiville\.fr
+\bwinupdatesserv\.com 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
