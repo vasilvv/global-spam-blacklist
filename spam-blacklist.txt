@@ -4748,5 +4748,6 @@ volgota\.com
 \b5min\.com\b
 \bminiville\.fr
 \bwinupdatesserv\.com 
+\bcronologia\.it
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
