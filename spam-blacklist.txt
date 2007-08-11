@@ -585,10 +585,8 @@ beelinetv\.com
 wwitv\.com
 webtv-club\.com
 tv-cb\.com
-
-
-
-
+www\.2dou3\.com
+www\.global-study\.jp
 
 # Brian0918
 \.look4vacation\.com 
