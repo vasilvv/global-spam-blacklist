@@ -585,8 +585,14 @@ beelinetv\.com
 wwitv\.com
 webtv-club\.com
 tv-cb\.com
+# Aphaia chinese spams 2007-08
 www\.2dou3\.com
 www\.global-study\.jp
+topbearing\.cn
+jiadev\.com
+hs-pv\.com
+yg-pump\.com
+086pm\.cn
 
 # Brian0918
 \.look4vacation\.com 
