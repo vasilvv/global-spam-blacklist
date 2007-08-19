@@ -4765,6 +4765,9 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bdmseo\.cn\b
 \benrichuk\.com\b
 \bgoodpolisher\.com\b
+\bleexi\.com\b
+\btx-bridge\.com\b
+\bvcd-dvd168\.com\.cn\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
