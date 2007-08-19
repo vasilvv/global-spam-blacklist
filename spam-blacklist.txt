@@ -4755,5 +4755,16 @@ volgota\.com
 www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \.privatesalepartners\.com
 \.visaforu\.com 
+\bcilanie\.com\b
+\bpumppump\.cn\b
+\brecphone\.cn\b
+\bchina-byt\.com\b
+\bsh-dzbc\.cn\b
+\bofficezx\.com\b
+\bvcd-dvd168\.com\.cn\b
+\bdmseo\.cn\b
+\benrichuk\.com\b
+\bgoodpolisher\.com\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
