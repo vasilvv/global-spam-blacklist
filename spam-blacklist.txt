@@ -4769,6 +4769,19 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \btx-bridge\.com\b
 \bmyperpignan\.com\b
 \bperpignanfr\.com\b
+# Thai sexy
+\balexandre-pato-fanclub\.blogspot\.com\b
+\bcristianoronaldoworld\.com\b
+\bfernando-torres-fan\.info\b
+\bfrancesc-fabregas\.net\b
+\bjapan-sexygirls\.blogspot\.com\b
+\bsergio-aguero\.blogspot\.com\b
+\bthai-sexygirls\.blogspot\.com\b
+\bwallpaper-football\.com\b
+# painters
+\bbypainters\.com\b
+\bjeditoo\.com\b
+
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
