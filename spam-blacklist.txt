@@ -4788,6 +4788,16 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bairbrush\.pagina\.nl\b
 \bhenna\.pagina\.nl\b
 \bred-light-district\.nl\b
+\bbowtrol\.org\.ua\b
+\bbowtrolcoloncleanse\.org\.ua\b
+\bbuyhghproduct\.org\.ua\b
+\bchronicpainrelief\.org\.ua\b
+\begipt\.org\.ua\b
+\bhairrestoration\.org\.ua\b
+\bmelatrol\.org\.ua\b
+\bnitka\.org\.ua\b
+\bquitsmoking\.org\.ua\b
+\bthyrominethyroid\.org\.ua\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
