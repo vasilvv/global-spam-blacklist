@@ -4787,7 +4787,7 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bpinstriping\.startpagina\.nl\b
 \bairbrush\.pagina\.nl\b
 \bhenna\.pagina\.nl\b
-\red-light-district\.nl\b
+\bred-light-district\.nl\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
