@@ -4781,7 +4781,7 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 # painters
 \bbypainters\.com\b
 \bjeditoo\.com\b
-
+\bmysundial\.ca\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
