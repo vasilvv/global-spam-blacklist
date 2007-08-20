@@ -4798,6 +4798,15 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bnitka\.org\.ua\b
 \bquitsmoking\.org\.ua\b
 \bthyrominethyroid\.org\.ua\b
+\bcathar\.info\b
+\brenneslechateaubooks\.info\b
+\bbestfrenchfilms\.com\b
+\bst-ferriol\.com\b
+\bheretication\.info\b
+\bvotejedi\.co\.uk\b
+\bvotejedi\.com\b
+\bspringald\.com\b
+\brealstandards\.info\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
