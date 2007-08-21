@@ -4807,6 +4807,8 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bvotejedi\.com\b
 \bspringald\.com\b
 \brealstandards\.info\b
+\bobservacionesfilosoficas\.net\b
+\bprikeba.com\.ar\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
