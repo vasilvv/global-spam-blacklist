@@ -4809,6 +4809,22 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \brealstandards\.info\b
 \bobservacionesfilosoficas\.net\b
 \bprikeba.com\.ar\b
+\bwroclaw-online\.eu\b
+\bwarsaw-online\.eu\b
+\bpoznan-online\.net\b
+\bcracowonline\.com\b
+\bgdansk-online\.eu\b
+\bzakopane-online\.eu\b
+\ballkrakowhotels\.com\b
+\bkrakaddict\.com\b
+\btorunonline\.com\b
+\bhotelewkrakowie\.pl\b
+\bkrakowlife\.pl\b
+\bhotelewtoruniu\.pl\b
+\bhotele-warszawa\.eu\b
+\bnoclegi-wroclaw\.pl\b
+\bhotelewgdansku\.eu\b
+\bzakopane-noclegi\.eu\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
