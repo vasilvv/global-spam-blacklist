@@ -4825,6 +4825,16 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bnoclegi-wroclaw\.pl\b
 \bhotelewgdansku\.eu\b
 \bzakopane-noclegi\.eu\b
+\bbellazon\.org\b
+\bchilax\.de\b
+\bfsffm\.com\b
+\bwft-forum\.de\b
+\bbellazon\.de\b
+\bana-claudia-michels\.com\b
+\braica-oliveira\.com\b
+\balessandra-ambrosio\.eu\b
+\badriana-lima\.eu\b
+\badriana-lima-forum\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
