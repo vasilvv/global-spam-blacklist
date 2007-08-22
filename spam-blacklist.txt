@@ -593,6 +593,9 @@ jiadev\.com
 hs-pv\.com
 yg-pump\.com
 086pm\.cn
+# Aphaia 2007-08
+www\.incatech\.net\/TR\/productlist.asp
+
 
 # Brian0918
 \.look4vacation\.com 
