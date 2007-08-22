@@ -4924,6 +4924,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bthecladdaghrings\.com\b
 \bvideoclipcards\.com\b
 \bwindow-tinting-info\.com\b
+\bfiorano\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
