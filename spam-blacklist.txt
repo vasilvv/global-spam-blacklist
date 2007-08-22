@@ -4836,8 +4836,9 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \badriana-lima\.eu\b
 \badriana-lima-forum\.com\b
 \breisbegeleider\.com\b
-
 meinliedfuerdich\.com #Added by Yann: porn
+\bcanurl\.com\b
+\bgu\.ma\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
