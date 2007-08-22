@@ -4839,6 +4839,26 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 meinliedfuerdich\.com #Added by Yann: porn
 \bcanurl\.com\b
 \bgu\.ma\b
+\bakmokanzen\.ifrance\.com\b
+\bbroadwaylili\.ifrance\.com\b
+\bdemurediablo\.ifrance\.com\b
+\bdeviantrus\.ifrance\.com\b
+\bgirlwho-is\.ifrance\.com\b
+\bhighbulp\.ifrance\.com\b
+\bigaros\.ifrance\.com\b
+\bjdawsona\.ifrance\.com\b
+\bkalian42\.ifrance\.com\b
+\blordsander\.ifrance\.com\b
+\blovereceier\.ifrance\.com\b
+\bnoxuhax\.ifrance\.com\b
+\boiyaoi\.ifrance\.com\b
+\bsingaporepets\.ifrance\.com\b
+\bspeedofsoun\.ifrance\.com\b
+\btat-ooin\.ifrance\.com\b
+\btizolaa\.ifrance\.com\b
+\btoofarfrommaybe\.ifrance\.com\b
+\bvoltia\.ifrance\.com\b
+\byeeden\.ifrance\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
