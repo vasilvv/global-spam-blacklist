@@ -4929,6 +4929,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bwindow-tinting-info\.com\b
 \bfiorano\.com\b
 \bnetforu\.org\b
+\busome\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
