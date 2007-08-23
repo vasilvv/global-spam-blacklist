@@ -4930,6 +4930,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bfiorano\.com\b
 \bnetforu\.org\b
 \busome\.com\b
+\bbiblewalks\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
