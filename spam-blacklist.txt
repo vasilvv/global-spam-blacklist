@@ -4933,6 +4933,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bbiblewalks\.com\b
 \bmyspace.com\/universedaily\b
 \bericapacker\.com\b
+\bstickycarpet\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
