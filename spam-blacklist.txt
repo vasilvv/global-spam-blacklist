@@ -4941,6 +4941,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bericapacker\.com\b
 \bstickycarpet\.com\b
 \bvolvosellsdamagedcars\.com\b
+\bbratislava-info\.sk\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
