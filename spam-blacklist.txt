@@ -4816,7 +4816,7 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bspringald\.com\b
 \brealstandards\.info\b
 \bobservacionesfilosoficas\.net\b
-\bprikeba.com\.ar\b
+\bpsikeba.com\.ar\b
 \bwroclaw-online\.eu\b
 \bwarsaw-online\.eu\b
 \bpoznan-online\.net\b
