@@ -864,8 +864,7 @@ tiny\.cc
 tinyclick\.com 
 tinylink\.com
 \.tinyr\.us
-\btinyurl\.co\.uk\b
-\btinyurl\.com\b
+\btinyurl\.(co\.uk|com)\b
 tiny\.vj\.e\.pl
 \.tip\.nu
 \.tny\.se
