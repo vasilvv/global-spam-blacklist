@@ -864,8 +864,8 @@ tiny\.cc
 tinyclick\.com 
 tinylink\.com
 \.tinyr\.us
-tinyurl\.co\.uk
-tinyurl\.com
+\btinyurl\.co\.uk\b
+\btinyurl\.com\b
 tiny\.vj\.e\.pl
 \.tip\.nu
 \.tny\.se
@@ -1958,7 +1958,7 @@ wapurl\.co\.uk
 liteurl\.com
 zippedurl\.com
 32url\.com
-tinyurl\.us
+\btinyurl\.us\b
 relurl\.com
 urlkick\.com
 1url\.org
