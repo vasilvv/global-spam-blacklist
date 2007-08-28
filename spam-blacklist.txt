@@ -601,6 +601,10 @@ www\.gt-stair\.com
 www\.bjlaibao\.com
 # Aphaia others 2007-08
 www\.incatech\.net\/TR\/productlist.asp
+# Aph. OTRS ticket #2007072110009211
+caiquecrazy\.us\.tt
+caiquecrazy\.spreebb\.com
+
 
 
 # Brian0918
