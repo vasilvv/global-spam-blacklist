@@ -4655,6 +4655,7 @@ traditio\.ru
 \becemaml\.com
 \becemaml\.blogia\.com
 \bgeocities\.com\/wikipedia_bibliotecarios
+\bgeocities\.com\/censura_no
 \bspain\.info\/cn\/TourSpain      # spam on zh wp
 \bfredthompsonforum\.com
 \bmenwith\.blogspot\.com
