@@ -4950,6 +4950,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bislamhouse\.com\b
 \bsimplelink\.php5\.sk\b
 \bleggievai\.it\b
+\bmysundial\.2-www\.de\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
