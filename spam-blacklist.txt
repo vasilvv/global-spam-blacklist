@@ -4957,6 +4957,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bmysundial\.2go4\.de\b
 \bbjdyg\.com\.cn\b
 \bikyoku-jinji\.com\b
+\bvisaforu\.awardspace\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
