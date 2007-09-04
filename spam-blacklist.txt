@@ -4963,6 +4963,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bboxing-memorabilia\.com\b
 \bredtopbg\.com\b
 \b1tm\.de\b
+\biil\.be\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
