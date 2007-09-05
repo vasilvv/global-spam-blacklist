@@ -4965,6 +4965,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \b1tm\.de\b
 \biil\.be\b
 \bcarnivalservice\.com\b
+gtabeauties\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
