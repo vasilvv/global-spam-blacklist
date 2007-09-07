@@ -4978,6 +4978,11 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bfr\.ms\b
 \bhk\.ms\b
 \bshop\.ms\b
+\bhowtocrowd\.com\b
+\bremedycrowd\.com\b
+\brumorcrowd\.com\b
+\brantcrowd\.com\b
+\bpredictcrowd\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
