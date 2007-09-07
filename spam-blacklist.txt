@@ -4968,6 +4968,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bgtabeauties\.com\b
 \bgoascii\.com\b
 \bgoascii\.de\b
+\bsnurl\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
