@@ -4973,6 +4973,11 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bhr\.tl\b
 \bhu\.tl\b
 \bshim\.net\b
+\bau\.ms\b
+\bbr\.ms\b
+\bfr\.ms\b
+\bhk\.ms\b
+\bshop\.ms\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
