@@ -4985,6 +4985,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \brantcrowd\.com\b
 \bpredictcrowd\.com\b
 \bpalavas\.blog4ever\.com\b
+\bmysundial\.2see\.de\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
