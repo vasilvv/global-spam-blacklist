@@ -5031,6 +5031,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bsquoi-oop\.ifrance\.com\b
 \btrumanburb\.ifrance\.com\b
 \beakk\.ifrance\.com\b
+\bgoogle\.az\/search\?hl\=tr\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
