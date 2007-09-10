@@ -5011,6 +5011,26 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bSwissBankAccount\.biz\b
 \bSwissBankServices\.com\b
 \bWeKnowAbout\.com\b
+\balishca-st\.ifrance\.com\b
+\batrayah\.ifrance\.com\b
+\bcall-shotgun\.ifrance\.com\b
+\bcocopuff66\.ifrance\.com\b
+\bdejablu503\.ifrance\.com\b
+\bflawedamythyst\.ifrance\.com\b
+\bgabe95\.ifrance\.com\b
+\bgajar\.ifrance\.com\b
+\bhorcrionebay\.ifrance\.com\b
+\bjoshuaw-wise\.ifrance\.com\b
+\bkrychan\.ifrance\.com\b
+\blekusya\.ifrance\.com\b
+\blightmyfire0214\.ifrance\.com\b
+\bmfirishka\.ifrance\.com\b
+\bnokros\.ifrance\.com\b
+\bsm4\.ifrance\.com\b
+\bsmegmacheez\.ifrance\.com\b
+\bsquoi-oop\.ifrance\.com\b
+\btrumanburb\.ifrance\.com\b
+\beakk\.ifrance\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
