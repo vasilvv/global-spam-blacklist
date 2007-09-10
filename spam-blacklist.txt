@@ -4986,6 +4986,31 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bpredictcrowd\.com\b
 \bpalavas\.blog4ever\.com\b
 \bmysundial\.2see\.de\b
+\b12-Steps\.info\b
+\bAfricaCo\.com\b
+\bBankAccountsCo\.com\b
+\bCaymanBankingServices\.com\b
+\bClickSwiss\.com\b
+\bSwissBankNames\.com\b
+\bSwissPrivateBank\.com\b
+\bTaxHavenco\.com\b
+\bAnonymousDebitCard\.com\b
+\bAtozOfWatches\.com\b
+\bBillyFitz\.com\b
+\bChannelIslandsCo\.com\b
+\bCompanyFormationCo\.com\b
+\bCompanyFormationsCo\.com\b
+\bDebitCard24-7\.com\b
+\bDelawareCo\.com\b
+\bDubai24-7\.com\b
+\bMediterraneanCo\.com\b
+\bMerchantAccountCo\.com\b
+\bOffshoreExclusive\.com\b
+\bPrestigeAdverts\.com\b
+\bPrivateBankAccount\.com\b
+\bSwissBankAccount\.biz\b
+\bSwissBankServices\.com\b
+\bWeKnowAbout\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
