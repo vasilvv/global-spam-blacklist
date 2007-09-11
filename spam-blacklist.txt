@@ -5042,6 +5042,9 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bgoldenseconds\.com\b
 \bquotescrowd\.com\b
 \bideascrowd\.com\b
+\bgoogle\.az\/search\?hl\=az\b
+\bgoogle\.com\.tw\/search\?hl\=tr\b
+\bgoogle\.com\.br\/search\?hl\=tr\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
