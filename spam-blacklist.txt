@@ -5036,6 +5036,12 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bkonthaitour\.com\b
 \bhiphop-radio\.50webs\.com\b
 \breggae-radio\.50webs\.com\b
+\bcrowdspin\.com\b
+\breviewcrowd\.com\b
+\bcomedycrowd\.com\b
+\bgoldenseconds\.com\b
+\bquotescrowd\.com\b
+\bideascrowd\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
