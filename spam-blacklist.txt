@@ -5045,6 +5045,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bgoogle\.az\/search\?hl\=az\b
 \bgoogle\.com\.tw\/search\?hl\=tr\b
 \bgoogle\.com\.br\/search\?hl\=tr\b
+\bgoogle\.ru\/search\?hl\=ru\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
