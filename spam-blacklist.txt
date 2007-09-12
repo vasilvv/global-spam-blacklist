@@ -5053,6 +5053,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bwebkinz-cheat\.net\b
 \bmysundial\.3rdlevel\.de\b
 \bthesundialprimer\.2-www\.de\b
+\bworld-religion\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
