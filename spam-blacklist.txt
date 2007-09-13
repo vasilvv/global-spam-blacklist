@@ -5054,6 +5054,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bmysundial\.3rdlevel\.de\b
 \bthesundialprimer\.2-www\.de\b
 \bworld-religion\.org\b
+\botazoj\.nl\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
