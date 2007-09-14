@@ -585,6 +585,7 @@ beelinetv\.com
 wwitv\.com
 webtv-club\.com
 tv-cb\.com
+www\.incatech\.net\/TR\/productlist.asp
 # Aphaia chinese spams 2007-08
 www\.2dou3\.com
 www\.global-study\.jp
@@ -599,8 +600,8 @@ www\.21gctt\.com
 www\.57usa\.com
 www\.gt-stair\.com
 www\.bjlaibao\.com
-# Aphaia others 2007-08
-www\.incatech\.net\/TR\/productlist.asp
+# Aphaia chinese spams 2007-09
+vacancy@intershipco.com
 # Aph. OTRS ticket #2007072110009211
 caiquecrazy\.us\.tt
 caiquecrazy\.spreebb\.com
