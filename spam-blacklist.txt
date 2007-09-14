@@ -5059,6 +5059,8 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bcaiuszip\.com\b
 \bsciarthistory\.com\b
 \bstartingiseasy\.com\b
+\bmunfitnessblog\.com\b
+\bmunblog\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
