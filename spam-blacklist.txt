@@ -5065,6 +5065,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \btweetl\.com\b
 \bcaiozip\.com\b
 \bmundoceleste\.ch\b
+\bvideo\.olympus\.ru\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
