@@ -5066,6 +5066,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bcaiozip\.com\b
 \bmundoceleste\.ch\b
 \bvideo\.olympus\.ru\b
+\bsunprimer\.2-www\.de\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
