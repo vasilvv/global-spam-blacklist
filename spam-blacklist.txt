@@ -5127,6 +5127,9 @@ meinliedfuerdich\.com #Added by Yann: porn
 \buserpage\.de\b
 \bvisit-page\.com\b
 \bwwwjump\.de\b
+\bexasystem\.com\b 
+\bturkey-industry\.com\b 
+\bindustrieinderturkei\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
