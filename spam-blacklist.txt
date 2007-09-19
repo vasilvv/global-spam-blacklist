@@ -5133,6 +5133,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bsubaru-impreza\.it\b
 \bcasinobonusdeposit\.com\b
 \bgportal\.hu\/portal\/szilva96\b
+\bgportal\.hu\/szilva96\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
