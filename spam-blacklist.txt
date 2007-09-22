@@ -5136,6 +5136,11 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bgportal\.hu\/szilva96\b
 \bturkcemirc\.org\b
 \bbunchofphotosabout\.com\b
+\bbicycle-adventures\.com\b
+\bmy-island-penang\.com\b
+\bpulau-pangkor\.com\b
+\byangshuo-travel-guide\.com\b
+\bmalaysiavacationguide\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
