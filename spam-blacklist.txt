@@ -5048,7 +5048,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bgoogle\.com\.tw\/search\?hl\=tr\b
 \bgoogle\.com\.br\/search\?hl\=tr\b
 \bgoogle\.tr\/search\?hl\=tr\b
-\bgoogle\.com.tr\/search?hl\=tr\b
+\bgoogle\.com\.tr\/search?hl\=tr\b
 \bkinzparty\.info\b
 \bisraloft\.com\b
 \bwebkinz-recipes\.net\b
