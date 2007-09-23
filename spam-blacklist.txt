@@ -601,8 +601,9 @@ www\.21gctt\.com
 www\.57usa\.com
 www\.gt-stair\.com
 www\.bjlaibao\.com
-# Aphaia chinese spams 2007-09
+# Aphaia Job offering spams 2007-09
 vacancy@intershipco.com
+info@acglogistics.net
 # Aph. OTRS ticket #2007072110009211
 caiquecrazy\.us\.tt
 caiquecrazy\.spreebb\.com
