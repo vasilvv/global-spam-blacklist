@@ -5143,6 +5143,33 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bpulau-pangkor\.com\b
 \byangshuo-travel-guide\.com\b
 \bmalaysiavacationguide\.com\b
+\befn\.org\/~fotozone\b
+\befn\.org\/~hkrieger\b
+\bwithyouitspossible\.com\b
+\bcontigoesposible\.com\b
+\bdrugstoretm\.com\b
+\bonline-pharmacy-drugstore\.blogspot\.com\b
+\bamericapharmacyworld\.com\b
+\bhoganrx\.net\b
+\bmypharma1\.net\b
+\bmypharma1\.net\b
+\bmypharmacyworld\.net\b
+\bmypharman\.com\b
+\bmypharmanow\.com\b
+\bmypharmastop\.biz\b
+\bmypharmastop\.net\b
+\bmypharmausa\.biz\b
+\bmypharmausa\.net\b
+\bmyrxunited\.com\b
+\bpharma1\.net\b
+\bhibiny\.ru\b
+\bgervaisworld\.com\b
+\bjimmycarr\.net\b
+\bdbtalk\.co\.uk\b
+\bderren-brown\.net\b
+\binternetbabel\.com\b
+\bdrivingmadeeasy\.co\.uk\b
+
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
