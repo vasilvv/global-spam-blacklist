@@ -608,7 +608,7 @@ info@acglogistics.net
 caiquecrazy\.us\.tt
 caiquecrazy\.spreebb\.com
 # Aph Sep 2007
-maebashi\.cool\.ne\.jp/saibanin/
+maebashi\.cool\.ne\.jp\/saibanin\/
 
 
 # Brian0918
