@@ -2073,9 +2073,6 @@ myegotimes\.com
 \.x-shopz\.org
 \.banan\.net\.ua
 
-# temporary until 2007-02-15
-bringingfolkstogether\.com
-
 #added by Darkoneko 27/01/07, due to spambot on fr:wp
 daimonds\.php5\.cz
 
