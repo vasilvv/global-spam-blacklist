@@ -5174,5 +5174,6 @@ meinliedfuerdich\.com #Added by Yann: porn
 \ballkeyword\.org\b
 \bxml-rss\.com\b
 \bwikipedia\.try\.hu\b
+voip-services-provider\.co\.uk
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
