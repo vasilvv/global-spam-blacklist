@@ -5206,6 +5206,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \banimalstube\.com\b
 \bbunchofvideosabout\.com\b
 \bbiz-vision\.org\b
+\bworldwidealbums\.tk\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
