@@ -4015,6 +4015,32 @@ ultime-notizie\.eu
 # 20070314 by Shizhao add
 \bible\.ttsite\.com
 
+# Smartdots.com redirect sites Nick1915
+\bau\.tc\b
+\bco\.at\.tc\b
+\bco\.at\.tt\b
+\bco\.uk\.tc\b
+\bcom\.au\.tc\b
+\bes\.tc\b
+\bhk\.tc\b
+\bhu\.tc\b
+\bie\.tc\b
+\bit\.tc\b
+\bkr\.tc\b
+\bme\.uk\.tc\b
+\bme\.uk\.tt\b
+\bmx\.tc\b
+\borg\.uk\.tc\b
+\bpl\.tc\b
+\bse\.tc\b
+\bshop\.tc\b
+\bth\.tc\b
+\bua\.tc\b
+\buk\.tc\b
+\buk\.tt\b
+\bus\.tc\b
+\bus\.tt\b
+
 #Back to proper logging...
 \bfree-car-insurance-quote\.net
 \bchabad-baden\.de
@@ -5170,6 +5196,16 @@ meinliedfuerdich\.com #Added by Yann: porn
 \ballkeyword\.org\b
 \bxml-rss\.com\b
 \btry\.hu\b
-voip-services-provider\.co\.uk
+\bvoip-services-provider\.co\.uk\b
+\bminorurl\.com\b
+\bgourl\.biz\b
+\bflowers-photos\.eu\b
+\bendangeredspeciesinternational\.org\b
+\bwikimages\.org\b
+\bwikipedia\.try\.hu\b
+\banimalstube\.com\b
+\bbunchofvideosabout\.com\b
+\bbiz-vision\.org\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
