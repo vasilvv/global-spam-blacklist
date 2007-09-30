@@ -5207,5 +5207,12 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bbiz-vision\.org\b
 \bworldwidealbums\.tk\b
 
+# Temp black-list until fix es local
+
+\bdomisfera\.com\b
+\bcontratar\.org\b
+\bvisitarcanarias\.com\b
+\boriginal-design\.es\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
