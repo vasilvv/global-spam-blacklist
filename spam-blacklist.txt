@@ -5212,6 +5212,8 @@ meinliedfuerdich\.com #Added by Yann: porn
 \blix\.in\b
 \bhref\.to\b
 \bkuerzer\.de\b
+\braghunathmanet\.com\b
+\bmecatiss\.info\b
 
 # Temp black-list until fix es local
 
