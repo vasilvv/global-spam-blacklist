@@ -5206,6 +5206,12 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bbunchofvideosabout\.com\b
 \bbiz-vision\.org\b
 \bworldwidealbums\.tk\b
+\bzonow\.com\b
+\bkurl\.nl\b
+\burlsie\.com\b
+\blix\.in\b
+\bhref\.to\b
+\bkuerzer\.de\b
 
 # Temp black-list until fix es local
 
