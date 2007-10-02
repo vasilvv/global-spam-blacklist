@@ -5217,6 +5217,7 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bmecatiss\.com\b
 \bsmartlabs\.pl\b
 \bhiphop-radio\.50webs\.com\b
+losethegame\.com #encouraging page vandalism which includes this URL
 
 # Temp black-list until fix es local
 
