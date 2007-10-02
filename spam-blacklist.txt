@@ -5214,6 +5214,9 @@ meinliedfuerdich\.com #Added by Yann: porn
 \bkuerzer\.de\b
 \braghunathmanet\.com\b
 \bmecatiss\.info\b
+\bmecatiss\.com\b
+\bsmartlabs\.pl\b
+\bhiphop-radio\.50webs\.com\b
 
 # Temp black-list until fix es local
 
