@@ -3765,7 +3765,6 @@ users\.berexa\.info
 elliottgann\.com
 welikehorses\.com
 socrates\.run2\.ws
-\brepublica\.com[^.]*(\/.*)?$
 \bhem\.fyristorg\.com\/kraftwerk
 \binfonet\.com\.br\/mozart
 \bAutoInsuranceCarInsurance\.net
