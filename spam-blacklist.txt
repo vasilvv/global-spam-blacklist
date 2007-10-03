@@ -1267,7 +1267,6 @@ xxx-posed\.com
 \burlproxy\.com\b
 \bi\.am\b
 \blisten\.to\b
-\bminorurl\.com\b
 \bxaddr\.com\b
 \burlot\.com\b
 
