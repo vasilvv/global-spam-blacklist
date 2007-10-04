@@ -5217,6 +5217,10 @@ meinliedfuerdich\.com #Added by Yann: porn
 losethegame\.com #encouraging page vandalism which includes this URL
 \beclipse-glasses\.com\b
 \beclipse-glasses\.net\b
+\bengland-360\.co\.uk\b
+\bchester360\.co\.uk\b
+\byork360\.co\.uk\b
+\bbath360\.co\.uk\b
 
 # Temp black-list until fix es local
 
