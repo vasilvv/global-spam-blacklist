@@ -750,7 +750,7 @@ compactURL\.com
 \.connect\.to
 \.crash\.to
 \.cut\.by
-digbig\.com
+\bdigbig\.com\b
 \.direct\.at
 \.dive\.to
 \.doiop\.com
