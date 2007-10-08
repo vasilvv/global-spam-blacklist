@@ -5227,6 +5227,7 @@ losethegame\.com #encouraging page vandalism which includes this URL
 \bbeatoxic\.com\b
 \beclipse-glasses\.eu\b
 \bvenuscope\.com\b
+\bblpurl\.com\b
 
 # Temp black-list until fix es local
 
