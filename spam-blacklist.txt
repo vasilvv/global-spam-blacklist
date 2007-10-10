@@ -5229,6 +5229,7 @@ losethegame\.com #encouraging page vandalism which includes this URL
 \bvenuscope\.com\b
 \bblpurl\.com\b
 \bcmsimple\.com\.br\b
+\bsudpontino\.net\b
 
 # Temp black-list until fix es local
 
