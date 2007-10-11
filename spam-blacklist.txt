@@ -5232,7 +5232,7 @@ losethegame\.com #encouraging page vandalism which includes this URL
 \bsudpontino\.net\b
 \buarticles\.blogspot\.com\b
 \bdokuwiki\.com\.br\b
-\bdigilander\.libero\.it\/andrea\.nardo1977\b
+digilander\.libero\.it\/andrea\.nardo1977
 \badultcliks\.com\b
 \bav-videos\.com\b
 \bbabecollector\.com\b
