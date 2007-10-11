@@ -5261,6 +5261,7 @@ losethegame\.com #encouraging page vandalism which includes this URL
 \bvipclash\.com\b
 \bwatchmyexbabes\.com\b
 \bx-proxy\.com\b
+\bamazon\.de\/First-Class-Nudes-Marketa-Belonoha\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
