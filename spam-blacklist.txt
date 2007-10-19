@@ -5221,7 +5221,6 @@ losethegame\.com #encouraging page vandalism which includes this URL
 \byork360\.co\.uk\b
 \bbath360\.co\.uk\b
 \bhandster\.com\b
-\bpocketpcaddict\.com\b
 \bbeatbox\.be\b
 \bbeatoxic\.com\b
 \beclipse-glasses\.eu\b
