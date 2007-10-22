@@ -5265,6 +5265,9 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bhappybuyer\.org\b
 \bmicholita\.com\b
 \bcyndilauperuk\.com\/ReissuesPage.html\b
+\beleu\.net\b
+\beleuthera\.com\b
+\bbahamashomesite\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
