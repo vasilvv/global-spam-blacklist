@@ -5268,6 +5268,9 @@ digilander\.libero\.it\/andrea\.nardo1977
 \beleu\.net\b
 \beleuthera\.com\b
 \bbahamashomesite\.com\b
+\bhumanthermodynamics\.com\b
+\bhumanchemistry\.net\b
+\bendeav\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
