@@ -5271,6 +5271,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bhumanthermodynamics\.com\b
 \bhumanchemistry\.net\b
 \bendeav\.org\b
+\bwebalice\.it\/giubizza1\b
+\bgiubizza\.blogspot\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
