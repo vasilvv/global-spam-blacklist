@@ -5273,6 +5273,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bendeav\.org\b
 \bwebalice\.it\/giubizza1\b
 \bgiubizza\.blogspot\.com\b
+\bxoomer\.alice\.it\b
+\bgiubizza\.tk\b
 \bborgenproject\.org\b
 
 ## end of [[Spam blacklist/Log]] section
