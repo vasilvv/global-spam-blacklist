@@ -5279,6 +5279,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \b(?:facel-vega|facel.*\.wanadoo)\.fr\b
 \bshanghai2010\.hu\b
 \bapurogol\.com\b
+\badvisorsdirectory\.net\b
+\badvisorsdirectory\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
