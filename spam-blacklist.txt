@@ -5282,7 +5282,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \badvisorsdirectory\.net\b
 \badvisorsdirectory\.org\b
 \bexpo2010china\.hu\b
-\bgportal.hu\/gindex.php?prt=268564\b
+\bgportal.hu\/gindex.php\?prt=268564\b
 \bbahamas-beach-rental\.com\b
 \bbahamas-bookstore\.com\b
 \bbahamas-diving\.com\b
