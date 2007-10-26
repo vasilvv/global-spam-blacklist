@@ -5283,6 +5283,29 @@ digilander\.libero\.it\/andrea\.nardo1977
 \badvisorsdirectory\.org\b
 \bexpo2010china\.hu\b
 \bgportal.hu\/gindex.php?prt=268564\b
+\bbahamas-beach-rental\.com\b
+\bbahamas-bookstore\.com\b
+\bbahamas-diving\.com\b
+\bbahamas-honeymoon\.com\b
+\bbahamas-rental\.com\b
+\bbahamas-store\.com\b
+\bbahamas-travel\.com\b
+\bbahamas-villa-rental\.com\b
+\bbahamashomesite\.com\b
+\bcaribbean-rental\.com\b
+\bcat-island-rental\.com\b
+\bcat-island\.net\b
+\beleu\.net\b
+\beleuthera-bahamas-rental\.com\b
+\beleuthera-bahamas\.com\b
+\beleuthera-rental\.com\b
+\beleuthera-rental\.com\b
+\beleuthera\.biz\b
+\beleuthera\.com\b
+\bkafkas-cafe\.com\b
+\bout-island-wedding\.com\b
+\btheduckinn\.com\b
+\bwww-saand\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
