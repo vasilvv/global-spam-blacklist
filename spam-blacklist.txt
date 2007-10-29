@@ -5309,6 +5309,11 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bagrigento\.ag\b
 \bgelalive\.com\b
 \bgoogle\.com\.tr\/search\?hl\=tr&q\=changing\+transpotation\b
+\blogisticsclub\.com\b
+\blojistikkulubu\.org\b
+\blojistikkulubu\.com\b
+\blogisticsclub\.org\b
+\bmyspace\.com\/terriirwin\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
