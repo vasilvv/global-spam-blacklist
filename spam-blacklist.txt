@@ -5273,7 +5273,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bendeav\.org\b
 \bwebalice\.it\/giubizza1\b
 \bgiubizza\.blogspot\.com\b
-\bxoomer\.alice\.it\b
+\bxoomer\.alice\.it\/giubizza L'angolo di Giubizza\b
 \bgiubizza\.tk\b
 \bborgenproject\.org\b
 \b(?:facel-vega|facel.*\.wanadoo)\.fr\b
