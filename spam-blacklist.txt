@@ -5276,6 +5276,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bxoomer\.alice\.it\/giubizza\b
 \bgiubizza\.tk\b
 \bborgenproject\.org\b
+\bborgenproject\.com\b
 \b(?:facel-vega|facel.*\.wanadoo)\.fr\b
 \bshanghai2010\.hu\b
 \bapurogol\.com\b
