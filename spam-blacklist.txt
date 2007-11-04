@@ -5320,6 +5320,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \btravexpert\.net\b
 \btopsiter\.net\b
 \bparis-prisoner\.com\b
+\bilwebmaster\.net\b
+\bnoemy\.net\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
