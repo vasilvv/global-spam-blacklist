@@ -5317,6 +5317,9 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bmyspace\.com\/terriirwin\b
 \bbombingscience\.com\b
 \bitalien-gastgeber\.com\b
+\btravexpert\.net\b
+\btopsiter\.net\b
+\bparis-prisoner\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
