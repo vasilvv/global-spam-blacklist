@@ -5323,6 +5323,10 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bilwebmaster\.net\b
 \bnoemy\.net\b
 \bbayern-gastgeber\.de\b
+\btheflowersofromance\.tk\b
+\bdcc\.ttu\.ee\/Bands\/get\.asp\?ident\=2555\b
+\bmyspace\.com\/tfor\b
+\bmyspace\.com\/vennaskond\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
