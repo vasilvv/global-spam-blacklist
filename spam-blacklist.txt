@@ -5327,6 +5327,6 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bdcc\.ttu\.ee\/Bands\/get\.asp\?ident\=2555\b
 \bmyspace\.com\/tfor\b
 \bmyspace\.com\/vennaskond\b
-
+\bgportal\.hu\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
