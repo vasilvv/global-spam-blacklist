@@ -5331,6 +5331,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bexpo2010kina\.hu\b
 \bbeginner-sql-tutorial\.com\b
 \brxmedsoffer\.com\b
+\bbudapestpocketguide\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
