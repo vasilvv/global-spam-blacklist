@@ -610,10 +610,10 @@ caiquecrazy\.spreebb\.com
 # Aph Sep 2007
 dogbreedsdirectory\.co\.uk
 # "Saibanin stop" spam
-no-saiban-in.org
-www5f.biglobe.ne.jp\/~kokumin-shinbun\/H16\/1601\/1601002devilsystem.html
-maebashi\.cool\.ne\.jp\/saibanin
-www.interq.or.jp\/enka\/svkoya
+\bno-saiban-in\.org\b
+\bwww5f\.biglobe\.ne\.jp\/~kokumin-shinbun\/H16\/1601\/1601002devilsystem.html
+\bmaebashi\.cool\.ne\.jp\/saibanin
+\binterq\.or\.jp\/enka\/svkoya
 
 
 # Brian0918
