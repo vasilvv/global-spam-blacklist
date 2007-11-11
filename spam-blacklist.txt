@@ -608,8 +608,10 @@ info@acglogistics.net
 caiquecrazy\.us\.tt
 caiquecrazy\.spreebb\.com
 # Aph Sep 2007
-maebashi\.cool\.ne\.jp\/saibanin\/
 dogbreedsdirectory\.co\.uk
+# "Saibanin stop" spam
+maebashi\.cool\.ne\.jp\/saibanin
+www.interq.or.jp\/enka\/svkoya
 
 
 # Brian0918
