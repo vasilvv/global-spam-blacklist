@@ -5333,7 +5333,6 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bmyspace\.com\/vennaskond\b
 \bgportal\.hu\b
 \bexpo2010kina\.hu\b
-\bbeginner-sql-tutorial\.com\b
 \brxmedsoffer\.com\b
 \bbudapestpocketguide\.com\b
 \bfreelancer\.com\.ar\b
