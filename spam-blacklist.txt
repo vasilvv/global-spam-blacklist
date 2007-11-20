@@ -5399,6 +5399,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bhalongbay-vietnam\.com\b
 \bsofraser\.com\b
 \bmetro-subway-train-list\.com\b
+\borigamivideos\.net
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
