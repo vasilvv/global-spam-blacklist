@@ -5399,6 +5399,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bsofraser\.com\b
 \bmetro-subway-train-list\.com\b
 \borigamivideos\.net
+\bmetalhead\.ro\b
+\bbestmusic\.ro\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
