@@ -5398,6 +5398,9 @@ digilander\.libero\.it\/andrea\.nardo1977
 \borigamivideos\.net
 \bmetalhead\.ro\b
 \bbestmusic\.ro\b
+\bbilgipara\.com\b
+\bpataraexcavations\.com\b
+\brhodiapolis\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
