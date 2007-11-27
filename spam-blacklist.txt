@@ -4123,7 +4123,7 @@ ultime-notizie\.eu
 \bnorthernforestcanoetrail\.com
 \bsurvivaltopics\.com
 \bwhitemountainsworld\.com
-\bweb\.archive\.org[^ ]{0,50}obsessedwithwrestling\.com #to stop prior spamming with OWW columnist linking to deleted pages.
+\bweb\.archive\.org\[^ ]{0,50}obsessedwithwrestling\.com #to stop prior spamming with OWW columnist linking to deleted pages.
 \bmyinternetaccess\.net
 \bsteelecommerce\.com
 \bmyphoneservice\.net
