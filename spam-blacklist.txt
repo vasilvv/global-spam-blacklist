@@ -4123,7 +4123,7 @@ ultime-notizie\.eu
 \bnorthernforestcanoetrail\.com
 \bsurvivaltopics\.com
 \bwhitemountainsworld\.com
-\bweb\.archive\.org\[^ ]{0,50}obsessedwithwrestling\.com #to stop prior spamming with OWW columnist linking to deleted pages.
+\bweb\.archive\.org\[^ \]\{0,50\}obsessedwithwrestling\.com #to stop prior spamming with OWW columnist linking to deleted pages.
 \bmyinternetaccess\.net
 \bsteelecommerce\.com
 \bmyphoneservice\.net
@@ -4872,7 +4872,7 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \badriana-lima\.eu\b
 \badriana-lima-forum\.com\b
 \breisbegeleider\.com\b
-meinliedfuerdich\.com #Added by Yann: porn
+\bmeinliedfuerdich\.com\b #Added by Yann: porn
 \bcanurl\.com\b
 \bgu\.ma\b
 \bakmokanzen\.ifrance\.com\b
