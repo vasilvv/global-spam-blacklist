@@ -5401,6 +5401,9 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bpataraexcavations\.com\b
 \brhodiapolis\.com\b
 \bfree-lock-picking-guide\.com\b
+\ballmartialart\.com\b
+\bfreefighting\.org\b
+\bclosedefenceart\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
