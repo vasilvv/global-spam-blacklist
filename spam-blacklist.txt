@@ -5407,6 +5407,9 @@ digilander\.libero\.it\/andrea\.nardo1977
 \beirikur\.info\b
 \bmesothelioma\.pl\b
 \bcube2007\.com\b
+\bwypadek\.info\b
+\bglowicki\.pl\b
+\bwypadki\.fotolog\.pl\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
