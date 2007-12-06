@@ -5410,6 +5410,36 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bwypadek\.info\b
 \bglowicki\.pl\b
 \bwypadki\.fotolog\.pl\b
+\bthisdaythatyear\.com\b
+\bvizaginfo\.com\b
+\bandhranews\.net\b
+\belectionsinfo\.com\b
+\bpincodesindia\.com\b
+\bastrologyforu\.com\b
+\bvijaytechnologies\.com\b
+\bindiahostingreview\.com\b
+\bindiastudycenter\.com\b
+\biitisnapur\.com\b
+\bgajuwakainfo\.com\b
+\bedcetinfo\.com\b
+\baucet\.com\b
+\bicetinfo\.com\b
+\bandhranews\.com\b
+\bchitoor\.com\b
+\btelanganauniv\.com\b
+\bsrikakulaminfo\.com\b
+\btollywood\.info\b
+\bvizagclassifieds\.com\b
+\bsoftwaretalk\.info\b
+\bgetpaidindia\.com\b
+\bvizaginfo\.net\b
+\basuku\.com\b
+\bbanks-atms\.com\b
+\bcollegezones\.com\b
+\bcricketfun\.com\b
+\bgreatpersonalities\.com\b
+\bknowledgeisfun\.com\b
+\bvizagnews\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
