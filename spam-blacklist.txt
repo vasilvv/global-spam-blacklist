@@ -5412,7 +5412,6 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bwypadki\.fotolog\.pl\b
 \bthisdaythatyear\.com\b
 \bvizaginfo\.com\b
-\bandhranews\.net\b
 \belectionsinfo\.com\b
 \bpincodesindia\.com\b
 \bastrologyforu\.com\b
