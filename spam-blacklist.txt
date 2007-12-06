@@ -5423,7 +5423,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bedcetinfo\.com\b
 \baucet\.com\b
 \bicetinfo\.com\b
-# \bandhranews\.com\b
+\bandhranews\.com\b
 \bchitoor\.com\b
 \btelanganauniv\.com\b
 \bsrikakulaminfo\.com\b
