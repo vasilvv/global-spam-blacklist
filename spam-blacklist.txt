@@ -5440,6 +5440,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bknowledgeisfun\.com\b
 \bvizagnews\.com\b
 \bandhranews\.net\b
+\burbantrash\.altervista\.org\b
+\burbantrash\.net\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
