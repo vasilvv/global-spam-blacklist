@@ -5443,6 +5443,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \burbantrash\.altervista\.org\b
 \burbantrash\.net\b
 \bstatisticum\.org\b
+\bhurghadahomes\.co\.uk\b
+\bhurghada-tourism\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
