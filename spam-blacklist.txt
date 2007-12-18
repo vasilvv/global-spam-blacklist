@@ -5447,6 +5447,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bhurghada-tourism\.com\b
 \beasy-forex\.com\b
 \btuttotempolibero\.com\b
+\btuttotempolibero\.altervista\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
