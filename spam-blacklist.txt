@@ -5448,6 +5448,12 @@ digilander\.libero\.it\/andrea\.nardo1977
 \beasy-forex\.com\b
 \btuttotempolibero\.com\b
 \btuttotempolibero\.altervista\.org\b
+\bcmsarticles\.awardspace\.com\b 
+\be-zeus.narod\.ru\b
+\buarticles\.blogspot\.com\b 
+\ballhostinginfo\.com\b
+\bnedvarticles\.narod\.ru\b
+\bfirewall-pi\.narod\.ru\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
