@@ -2021,6 +2021,8 @@ beam\.to
 ##May 2007
 mobipocket\.ru
 excitesearch\.info
+##December 2007
+sommelier\.dn\.ua
 
 # Eloquence, August 2006
 rexcurry\.net
