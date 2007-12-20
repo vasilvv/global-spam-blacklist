@@ -2022,7 +2022,7 @@ beam\.to
 mobipocket\.ru
 excitesearch\.info
 ##December 2007
-sommelier\.dn\.ua
+\bsommelier\.dn\.ua
 
 # Eloquence, August 2006
 rexcurry\.net
