@@ -711,7 +711,6 @@ car-insurance-\.blogspot\.com
 
 #commons
 health-medical\.be
-ignorelist\.com
 freewebs\.com\/diet-about-diet
 fioricet-drugs\.mooo\.com
 ultram-drugs\.strangled\.net
