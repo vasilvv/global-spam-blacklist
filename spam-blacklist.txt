@@ -5459,6 +5459,15 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bfreewebs\.com\/tradeforeignexchange\b
 \bdirectoryforex\.com\b
 \beasyforexforum\.com\b
+\bseology\.co\.il\b
+\bbookkeeping-course\.com\b
+\bcanaseed\.com\b
+\bfancydiamonds\.net\b
+\bworldwide-tax\.com\b
+\bkwizcom\.com\b
+\bseo1site\.com\b
+\bseology\.co\.il\b
+\bwao\.co\.il\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
