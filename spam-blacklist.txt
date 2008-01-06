@@ -5473,6 +5473,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bseology\.co\.il\b
 \bwao\.co\.il\b
 \bmustangranch\.com\b
+\bdeu\.edu\.tr\/yot\b
+\bkisi\.deu\.edu\.tr\/dogan\.gunay\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
