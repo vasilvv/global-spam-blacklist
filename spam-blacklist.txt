@@ -657,6 +657,10 @@ nihonjustice\.hp\.infoseek\.co\.jp
 ijijiji\.com
 \.5g6y\.info
 
+#Kylu
+#req by Ryulong
+animesongs\.com\.br
+
 #as per request on talk:spam_blacklist page - User:M7 (M\/)
 adult-contact\.info
 7-24porn\.com
