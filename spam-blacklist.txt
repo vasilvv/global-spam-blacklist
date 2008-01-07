@@ -5477,6 +5477,13 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bkisi\.deu\.edu\.tr\/dogan\.gunay\b
 \b2girls1cup\.com\b
 \bpatanibook\.blogspot\.com\b
+\bmilostravel\.com\b
+\bkimolos-island\.com\b
+\bfolegandros\.com\b
+\bislands-greece\.com\b
+\bvilla-kapari\.com\b
+\bconnexia\.com\b
+\bisolegreche\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
