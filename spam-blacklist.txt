@@ -5484,6 +5484,19 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bvilla-kapari\.com\b
 \bconnexia\.com\b
 \bisolegreche\.com\b
+\bbirgersandzengallery\.com\b
+\bedgarpaynegallery\.com\b
+\belmerwachtelpaintings\.com\b
+\bgranvilleredmondgallery\.com\b
+\bguyrosegallery\.com\b
+\bguywigginspaintings\.com\b
+\bjohnmarshallgamble\.com\b
+\bjosephkleitschgallery\.com\b
+\bjosephraphaelgallery\.com\b
+\blawrencebeebe\.com\b
+\bmauricebraungallery\.com\b
+\bsvenbirgersandzen\.com\b
+\bwilliamwendtgallery\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
