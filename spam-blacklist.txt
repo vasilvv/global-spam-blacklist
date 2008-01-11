@@ -5497,6 +5497,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bmauricebraungallery\.com\b
 \bsvenbirgersandzen\.com\b
 \bwilliamwendtgallery\.com\b
+\bguidetocissp\.com\b
+\bzoabonito\b.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
