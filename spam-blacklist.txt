@@ -5502,6 +5502,24 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bsteadycam\.ws\b
 \bsteadycam-pro\.com\b
 \beurobiler\.dk\b
+\bbigbmw\.com\b
+\bbigonlinegames\.com\b
+\bchristmas\.bizhat.com\b
+\beurope\.bizhat\.com\b
+\bkeywords\.bizhat\.com\b
+\bmmorpg\.bizhat\.com\b
+\bonlinegames\.bizhat\.com\b
+\bdating-tip\.org\b
+\bdealertruck\.net\b
+\bfastestcar\.net\b
+\bflightlondon\.net\b
+\bhosting15\.com\b
+\borpgames\.com\b
+\btopcelebrityphoto\.com\b
+\btophybridcar\.net\b
+\bbbsggames\.net\b
+\bfreeogames\.com\b
+\bwebhostingspotter\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
