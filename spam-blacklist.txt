@@ -5501,7 +5501,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bzoabonito\b.com\b
 \bsteadycam\.ws\b
 \bsteadycam-pro\.com\b
-\beurobiler\.dk\b
+\bwww\.eurobiler\.dk\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
