@@ -1356,11 +1356,19 @@ enterfin\.net\.ru #requested by Sjakkalle
 stanleyng\.net
 \.etpass\.com
 
-##Naconkantari
+##Nakon
 
-##The reasons for adding the links below used to be located at http://en.wikipedia.org/wiki/User:Naconkantari/sbl
+##The reasons for adding the links below used to be located at
+##http://en.wikipedia.org/wiki/User:Nakon/sbl
 
-update my version.
+
+mesothelioma-fyi\.blogspot\.com
+mygeneralhospital\.com
+myabcsoaps\.com
+justin-timberlake-news\.blogspot\.com
+my-whitney-houston\.blogspot\.com
+terminator-chronicles\.blogspot\.com
+2008-american-idol\.blogspot\.com
 aspsupergirls\.phpnet\.us
 users\.libero\.it\/seza
 hifrienddd\.info
