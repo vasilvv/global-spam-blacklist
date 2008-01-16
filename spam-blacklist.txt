@@ -5549,6 +5549,11 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bcmsarticles\.narod\.ru\b
 \bhardwax\.net\b
 \bmyminicity\.com\b
+\bcnvacation\.com\b
+\bwow-powerleveling-wow\.com\b
+\bpowerlevelingweb\.com\b
+\bchinayuntong\.cn\b
+\btop-seo\.cn\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
