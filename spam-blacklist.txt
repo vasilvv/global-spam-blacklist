@@ -5537,6 +5537,16 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bsino-biyan\.cn
 \bstacent\.com\.cn
 \btimeyiqi\.com\.cn
+\bhosting-pi\.narod\.ru\b
+\bnedvarticles\.narod\.ru\b
+\bstroit-info\.narod\.ru\b
+\be-zeus\.narod\.ru\b
+\bcmsarticles\.awardspace\.com\b
+\buarticles\.blogspot\.com\b
+\ballhostinginfo\.com\b
+\bnedvarticles\.narod\.ru\b
+\bkompinfo\.com\b
+\bcmsarticles\.narod\.ru\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
