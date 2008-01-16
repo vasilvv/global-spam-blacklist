@@ -5548,6 +5548,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bkompinfo\.com\b
 \bcmsarticles\.narod\.ru\b
 \bhardwax\.net\b
+\bmyminicity\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
