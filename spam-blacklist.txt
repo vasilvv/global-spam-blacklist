@@ -1,4 +1,4 @@
- #<!-- leave this line exactly as it is --> <pre> 
+<!-- leave this line exactly as it is --> <pre> 
 ###########################################################################
 # DO NOT MODIFY THIS LIST UNLESS YOU HAVE A BASIC UNDERSTANDING OF REGEX! #
 ###########################################################################
@@ -1539,7 +1539,6 @@ fieronews\.com
 skincarecity\.com
 kleeneze-information\.co\.uk
 earningsboost\.com
-ourworld\.cs\.com
 kleeneze-information\.com
 \.slum\.in
 aiipa\.info
@@ -1571,7 +1570,6 @@ structuredsettlementtips\.com
 findlocalguide\.com
 tvmilk\.com
 5191victims\.com
-hometown\.aol\.de
 \.za\.pl
 bigestass\.info
 ibdanswers\.com
@@ -4306,7 +4304,6 @@ traditio\.ru
 \blocation\.essaouira-voyage\.com
 \bworkforall\.net
 \bhealthadel\.com
-\bs8\.org\/gargoyles\/askgreg
 \bsouthsurvey\.com
 \bkitzor\.net
 \bxlurl\.net
