@@ -5562,6 +5562,8 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bhungarybudapestguide\.com\b
 \btouristguide\.gyuli\.com\b
 \bmarvaoguide\.com\b
+\bipoconsult\.info\b
+\bhow-to-tie-a-tie-video\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
