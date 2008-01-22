@@ -5567,6 +5567,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bmetapedia\.org\b
 \bpugliarooms\.com\b
 \bthelolicon\.com\b
+\bgallipolibedbreakfast\.it\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
