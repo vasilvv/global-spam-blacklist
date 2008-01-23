@@ -5568,6 +5568,17 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bpugliarooms\.com\b
 \bthelolicon\.com\b
 \bgallipolibedbreakfast\.it\b
+\bmusicserver\.us\b
+\biccco\.org\b 
+\bpeace-diplomacy\.org\b 
+\bsynpolis\.org\b 
+\beufpc\.org\b 
+\bdiplomacy-advisory\.org\b
+\bcanadaliving.org\b
+\bdouggilmour\.com\b
+\bsemexpertise\.com\b
+\btax-services\.ca\b
+\blocalsearchcanada\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
