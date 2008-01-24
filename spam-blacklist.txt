@@ -5579,6 +5579,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bsemexpertise\.com\b
 \btax-services\.ca\b
 \blocalsearchcanada\.com\b
+\blyrikline\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
