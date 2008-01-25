@@ -5582,6 +5582,12 @@ digilander\.libero\.it\/andrea\.nardo1977
 \blyrikline\.org\b
 \blyrikline\.com\b
 \blyrikline\.net\b
-
+\bmyrize\.org\b
+\brizebilisim\.com\b
+\brizeresimleri\.blogcu\.com\b
+\brize-resimleri\.blogspot\.com\b
+\brize\.fukuku\.com\b
+\bcay\.fukuku\.com\b
+\byoutube-seo\.blogspot\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
