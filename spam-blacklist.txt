@@ -5592,6 +5592,24 @@ digilander\.libero\.it\/andrea\.nardo1977
 \btapp\.it\b
 \bsillyurl\.com\b
 \businglinux\.org\b
-
+\bkeskinmavi\.com\b
+\bkemaliye\.net\b
+\barsaofisi\.net\b
+\barsaborsa\.com\b
+\bkiemlak\.com\b
+\bemlaknetwork\.net\b
+\binformation-center\.biz\b
+\bkemaliye\.eu\b
+\bflatsinistanbul\.net\b
+\b1st-cheapest-domain-names-registration-best-price-hosting\.com\b
+\breseller\.1st-cheapest-domain-names-registration-best-price-hosting\.com\b
+\bkitdesign\.eu\b
+\bizmir\.us\b
+\btatilrehberiniz\.us\b
+\bkellekci\.net\b
+\begin\.us\b
+\brehberiniz\.org\b
+\bprojevi\.com\b
+\brehberi\.us\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
