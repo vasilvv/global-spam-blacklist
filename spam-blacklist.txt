@@ -5613,6 +5613,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \brehberi\.us\b
 \bclickbank\.net\b
 \btrrap\.net\b
+boylovernet
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
