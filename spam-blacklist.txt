@@ -5614,6 +5614,10 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bclickbank\.net\b
 \btrrap\.net\b
 boylovernet
+\bbigforexlive\.com\b
+\bdirectoryforex\.com\b
+\bforex.easy-forex\.com\.au\b
+\beasy-forex\.com\.au\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
