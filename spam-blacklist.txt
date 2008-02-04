@@ -5618,6 +5618,6 @@ boylovernet
 \bdirectoryforex\.com\b
 \bforex.easy-forex\.com\.au\b
 \beasy-forex\.com\.au\b
-
+\bdatashaping\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
