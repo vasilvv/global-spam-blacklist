@@ -5619,5 +5619,16 @@ boylovernet
 \bforex.easy-forex\.com\.au\b
 \beasy-forex\.com\.au\b
 \bdatashaping\.com\b
+\bsearchsmart\.net\b
+\bnewprinceton\.com\b
+\bclickscoring\.blogspot\.com\b
+\blanguageshaping\.com\b
+\bclickscoring\.com\b
+\bclick-audit\.com\b
+\bqueryintelligence\.com\b
+\btextraction\.com\b
+\btextshaping\.com\b
+\banalyticconsulting\.com\b
+\banalyticgroup\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
