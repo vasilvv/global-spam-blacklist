@@ -5630,5 +5630,6 @@ boylovernet
 \btextshaping\.com\b
 \banalyticconsulting\.com\b
 \banalyticgroup\.com\b
+\bbed-breakfastpuglia\.it\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
