@@ -5632,6 +5632,7 @@ boylovernet
 \banalyticgroup\.com\b
 \bbed-breakfastpuglia\.it\b
 \bplay-asia\.com\/SOap\b
+\bconflictologist\.narod\.ru\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
