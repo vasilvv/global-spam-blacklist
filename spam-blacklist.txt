@@ -5636,6 +5636,8 @@ boylovernet
 \bconflictologist\.narod\.ru\b
 \bpacino\.narod\.ru\b
 \bmustang\.te\.ua\b
+\bcaesarstone\.com\b
+\bcaesarstoneus\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
