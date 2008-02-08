@@ -5634,6 +5634,8 @@ boylovernet
 \bbed-breakfastpuglia\.it\b
 \bplay-asia\.com\/SOap\b
 \bconflictologist\.narod\.ru\b
+\bpacino\.narod\.ru\b
+\bmustang\.te\.ua\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
