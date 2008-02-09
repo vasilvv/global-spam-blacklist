@@ -5641,6 +5641,7 @@ boylovernet
 \blacalabria\.biz\b
 \bvacanzeatropea\.biz\b
 \bcapovaticano\.info\b
+\outdoorebooks\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
