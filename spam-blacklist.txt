@@ -5641,6 +5641,6 @@ boylovernet
 \bvacanzeatropea\.biz\b
 \bcapovaticano\.info\b
 \boutdoorebooks\.com\b
-
+\bd3m-host\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
