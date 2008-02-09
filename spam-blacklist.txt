@@ -5638,6 +5638,9 @@ boylovernet
 \bmustang\.te\.ua\b
 \bcaesarstone\.com\b
 \bcaesarstoneus\.com\b
+\blacalabria\.biz\b
+\bvacanzeatropea\.biz\b
+\bcapovaticano\.info\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
