@@ -5642,5 +5642,13 @@ boylovernet
 \bcapovaticano\.info\b
 \boutdoorebooks\.com\b
 \bd3m-host\.com\b
+\busabirds\.free\.fr\b 
+\bperrin.olivier\.free\.fr\b 
+\bnewyork\.drawing\.free\.fr\b 
+\bevry-daily-photo\.blogspot\.com\b
+\bwalkinnewyork\.blogspot\.com\b 
+\bnewyorkbirds\.free\.fr\b
+\bnyc2006\.free\.fr\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
