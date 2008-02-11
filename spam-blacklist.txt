@@ -5649,6 +5649,12 @@ boylovernet
 \bwalkinnewyork\.blogspot\.com\b 
 \bnewyorkbirds\.free\.fr\b
 \bnyc2006\.free\.fr\b
-
+\bclickok\.co\.uk\b
+\bmanaging-creativity\.com\b
+\bfile-splitter-by-lines\.com\b
+\bsqaji\.com\b
+\bheros-journey\.info\b
+\bscreenplay-structure\.com\b
+\bstory-structure\.org\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
