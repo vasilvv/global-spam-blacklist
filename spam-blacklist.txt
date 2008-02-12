@@ -5656,5 +5656,8 @@ boylovernet
 \bheros-journey\.info\b
 \bscreenplay-structure\.com\b
 \bstory-structure\.org\b
+\bamede\.nyc\.free\.fr\b
+\btk\.kelly\.free\.fr\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
