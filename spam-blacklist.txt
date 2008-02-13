@@ -5658,6 +5658,10 @@ boylovernet
 \bstory-structure\.org\b
 \bamede\.nyc\.free\.fr\b
 \btk\.kelly\.free\.fr\b
+\bthetimeshareforum\.com\b
+\btenerifedreams\.com\b
+\bresortproperties-world\.com\b
+\blovingdubai\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
