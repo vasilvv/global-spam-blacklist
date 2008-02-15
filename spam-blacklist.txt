@@ -5669,6 +5669,9 @@ boylovernet
 \bsucuraj-hvar\.com\b
 \bsucuraj\.com\b
 \bisland-of-brac\.info\b
+\bgeocities\.yahoo\.com\.br\/gotaelbr\b
+\bforeverpemba\.blogspot\.com\b
+\bplaneta\.terra\.com\.br\/turismo\/pesodaregua\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
