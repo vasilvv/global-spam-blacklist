@@ -5662,6 +5662,13 @@ boylovernet
 \btenerifedreams\.com\b
 \bresortproperties-world\.com\b
 \blovingdubai\.com\b
+\bisland-korcula\.info\b
+\briviera-makarska\.info\b
+\bisland-hvar\.info\b
+\bvis-island\.info\b
+\bsucuraj-hvar\.com\b
+\bsucuraj\.com\b
+\bisland-of-brac\.info\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
