@@ -5672,6 +5672,7 @@ boylovernet
 \bgeocities\.yahoo\.com\.br\/gotaelbr\b
 \bforeverpemba\.blogspot\.com\b
 \bplaneta\.terra\.com\.br\/turismo\/pesodaregua\b
+\bfunctionpointmodeler\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
