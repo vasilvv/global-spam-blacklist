@@ -5673,6 +5673,33 @@ boylovernet
 \bforeverpemba\.blogspot\.com\b
 \bplaneta\.terra\.com\.br\/turismo\/pesodaregua\b
 \bfunctionpointmodeler\.com\b
-
+\bbsunsweetskin\.com\b
+\bbasbestos-cancer\.sk\b
+\bbarchitecture\.sk\b
+\bbpsychoworld\.sk\b
+\bbasbestosdoc\.com\b
+\bbaboutmodafinil\.com\b
+\bbadaphostin\.com\b
+\bbampakines\.org\b
+\bbastirmarketing\.com\b
+\bbbarleylake\.com\b
+\bbburntreatment\.org\b
+\bbhedgefundquestions\.org\b
+\bbhmo-lawsuits\.com\b
+\bbhyperstrategy\.com\b
+\bbmalignesmesotheliom\.de\b
+\bbmesoteliomamaligno\.es\b
+\bbmesoteliomamaligno\.it\b
+\bbmesotheliomainternational\.org\b
+\bbmesotheliome\.fr\b
+\bbmigrainemanager\.com\b
+\bbnalmefene\.org\b
+\bbprodrax\.com\b
+\bbprovigilweb\.org\b
+\bbsitecoach\.com\b
+\bbsitecompass\.com\b
+\bbsleepdex\.org\b
+\bbstatinanswers\.com\b
+\bdalekozor\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
