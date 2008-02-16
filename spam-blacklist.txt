@@ -4119,7 +4119,6 @@ ultime-notizie\.eu
 \bproxyhole\.com
 \btvsylt\.de
 \bhomejobsite\.com
-\bdeath-?camps\.org
 \bmccallsnotes\.live\.spaces
 \bagloco\.com
 \baglocotest\.com
