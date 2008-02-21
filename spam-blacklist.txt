@@ -5700,5 +5700,7 @@ boylovernet
 \bbsleepdex\.org\b
 \bbstatinanswers\.com\b
 \bdalekozor\.com\b
+\bfunctionpointmodeler\.de\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
