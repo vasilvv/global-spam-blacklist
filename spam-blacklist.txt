@@ -5703,6 +5703,31 @@ boylovernet
 \bfunctionpointmodeler\.de\b
 \bvilasta\.com\b
 \bpteelien\.net\b
+\bajalehed\.com\b
+\bavisernorge\.com\b
+\bceskenoviny\.net\b
+\bdanskeaviser\.com\b
+\befimerides\.net\b
+\bgazeteler\.com\b
+\bgazetat\.net\b
+\bgiornaliitalia\.com\b
+\bjornais\.net\b
+\bjornaisdobrasil\.com\b
+\bjornaisportugueses\.com\b
+\bjournaux\.net\b
+\bnederlandsekranten\.com\b
+\bnewspapersinireland\.com\b
+\bnewspapersinnigeria\.com\b
+\bnewspapersintheuk\.com\b
+\bperiodikos\.com\b
+\bpolskiegazety\.net\b
+\bsuomensanomalehdet\.com\b
+\btidningarsverige\.com\b
+\btouslesjournaux\.com
+\bzeitungendeutschland\.com
+\bzeitungenosterreich\.com
+\bzeitungenschweiz\.com
+\bziareromanesti\.net
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
