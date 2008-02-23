@@ -5701,6 +5701,8 @@ boylovernet
 \bbstatinanswers\.com\b
 \bdalekozor\.com\b
 \bfunctionpointmodeler\.de\b
+\bvilasta\.com\b
+\bpteelien\.net\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
