@@ -5728,7 +5728,6 @@ boylovernet
 \bzeitungenosterreich\.com
 \bzeitungenschweiz\.com
 \bziareromanesti\.net
-\btrabzonspor\.org\.tr
 \btshaberler\.com
 
 ## end of [[Spam blacklist/Log]] section
