@@ -5729,7 +5729,7 @@ boylovernet
 \bzeitungenschweiz\.com
 \bziareromanesti\.net
 \btshaberler\.com
-\balgart.net
+\balgart\.net
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
