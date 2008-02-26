@@ -5730,6 +5730,7 @@ boylovernet
 \bziareromanesti\.net
 \btshaberler\.com
 \balgart\.net
+\bfmbb\.livreforum\.com
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
