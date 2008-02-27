@@ -5731,6 +5731,7 @@ boylovernet
 \btshaberler\.com
 \balgart\.net
 \bfmbb\.livreforum\.com
+\bseksmarketim\.biz\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
