@@ -5732,6 +5732,7 @@ boylovernet
 \bfmbb\.livreforum\.com
 \bseksmarketim\.biz\b
 \bextremesportsvideos\.org\b
+\beuropedia\.moussis\.eu\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
