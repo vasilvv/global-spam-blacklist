@@ -5631,7 +5631,6 @@ boylovernet
 \banalyticgroup\.com\b
 \bbed-breakfastpuglia\.it\b
 \bplay-asia\.com\/SOap\b
-\bconflictologist\.narod\.ru\b
 \bpacino\.narod\.ru\b
 \bmustang\.te\.ua\b
 \bcaesarstone\.com\b
