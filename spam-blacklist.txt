@@ -5735,6 +5735,9 @@ boylovernet
 \beuropedia\.moussis\.eu\b
 \blegambientecorato\.it\b
 \bhiphop-reggae-radio\.we\.bs\b
+\bpresident-star\.blogspot\.com\b
+\bmetallica\.su\b
+\bplaymates\.su\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
