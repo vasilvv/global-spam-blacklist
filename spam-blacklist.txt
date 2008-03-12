@@ -5738,6 +5738,11 @@ boylovernet
 \bpresident-star\.blogspot\.com\b
 \bmetallica\.su\b
 \bplaymates\.su\b
+\bvideophone\.nu\b
+\blive-station\.org\b
+\bdrukwerken\.nl\b
+\bdrukkerij-drukwerk\.nl\b
+\btrouwkaartjes\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
