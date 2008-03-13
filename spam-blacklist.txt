@@ -5745,6 +5745,7 @@ boylovernet
 \btrouwkaartjes\.com\b
 \btagate\.com\b
 \bfactasy\.com\b
+\bsmileurl\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
