@@ -5746,6 +5746,9 @@ boylovernet
 \btagate\.com\b
 \bfactasy\.com\b
 \bsmileurl\.com\b
+\bhumbleurl\.(com|net)\b
+\burlhash\.(com|org)\b
+\burlsmash\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
