@@ -5749,6 +5749,7 @@ boylovernet
 \bhumbleurl\.(com|net)\b
 \burlhash\.(com|org)\b
 \burlsmash\.com\b
+\bcommonpurpose\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
