@@ -5750,6 +5750,8 @@ boylovernet
 \burlhash\.(com|org)\b
 \burlsmash\.com\b
 \bcommonpurpose\.org\b
+\blibertas\.sm\b
+\blibertas-newssanmarino\.blogspot\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
