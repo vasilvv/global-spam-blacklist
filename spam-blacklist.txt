@@ -5728,7 +5728,6 @@ boylovernet
 \bzeitungenschweiz\.com
 \bziareromanesti\.net
 \btshaberler\.com
-\balgart\.net
 \bfmbb\.livreforum\.com
 \bseksmarketim\.biz\b
 \bextremesportsvideos\.org\b
@@ -5745,13 +5744,18 @@ boylovernet
 \btrouwkaartjes\.com\b
 \btagate\.com\b
 \bfactasy\.com\b
+\bcommonpurpose\.org\b
+\blibertas\.sm\b
+\blibertas-newssanmarino\.blogspot\.com\b
+
+## URL shorteners 2
 \bsmileurl\.com\b
 \bhumbleurl\.(com|net)\b
 \burlhash\.(com|org)\b
 \burlsmash\.com\b
-\bcommonpurpose\.org\b
-\blibertas\.sm\b
-\blibertas-newssanmarino\.blogspot\.com\b
+\boffto\.net\b
+\balgart\.net
+# End of URL shorteners 2
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
