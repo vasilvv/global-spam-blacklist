@@ -5747,6 +5747,7 @@ boylovernet
 \bcommonpurpose\.org\b
 \blibertas\.sm\b
 \blibertas-newssanmarino\.blogspot\.com\b
+\bvirtual\.oradea\.net\b
 
 ## URL shorteners 2
 \bsmileurl\.com\b
