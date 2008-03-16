@@ -5748,6 +5748,11 @@ boylovernet
 \blibertas\.sm\b
 \blibertas-newssanmarino\.blogspot\.com\b
 \bvirtual\.oradea\.net\b
+\bmoneybookers\.com\/app\/\?rid=
+\bamazon.com\/gp\/redirect\.html
+\brcm\.amazon\.com\/cm\?t=
+\bamazon\.com\/.*&tag=
+\bbastore\.amazon\.com\b
 
 ## URL shorteners 2
 \bsmileurl\.com\b
