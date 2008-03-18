@@ -5753,6 +5753,7 @@ boylovernet
 \brcm\.amazon\.com\/cm\?t=
 \bamazon\.com\/.*&tag=
 \bbastore\.amazon\.com\b
+\beclipse-china\.com\b
 
 ## URL shorteners 2
 \bsmileurl\.com\b
