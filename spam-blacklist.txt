@@ -5754,8 +5754,8 @@ boylovernet
 \bamazon\.com\/.*&tag=
 \bbastore\.amazon\.com\b
 \beclipse-china\.com\b
-\bdeathcamps\.com\b
-\bdeath-camps\.com\b
+\bdeathcamps\.org\b
+\bdeath-camps\.org\b
 
 ## URL shorteners 2
 \bsmileurl\.com\b
