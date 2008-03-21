@@ -5890,6 +5890,7 @@ boylovernet
 \bierasmus\.com\b
 \bplaneterasmus\.net\b
 \bparapara-doga\.seesaa\.net\b
+\bvinatown\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
