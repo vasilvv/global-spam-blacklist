@@ -5765,6 +5765,7 @@ boylovernet
 \boffto\.net\b
 \balgart\.net
 # End of URL shorteners 2
+
 \bdotcominfoway\.com\b
 \bgalatta\.com\b
 \bshriyaonline\.info\b
@@ -5888,6 +5889,7 @@ boylovernet
 \breggae-hiphop-radio\.we\.bs\b
 \bierasmus\.com\b
 \bplaneterasmus\.net\b
+\bparapara-doga\.seesaa\.net\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
