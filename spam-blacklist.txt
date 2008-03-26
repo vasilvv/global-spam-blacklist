@@ -5986,6 +5986,11 @@ boylovernet
 \bportugal-travel-guide\.info\/\b
 \bviajes-portugal\.info\/\b
 \bbaccara-forever\.de\b
+\bviajes-alemania\.info\/\b
+\bvoyage-portugal\.info\/\b
+\bvoyage-allemagne\.info\/\b
+\bviaggi-germania\.info\/\b
+\bgermany-travel\.info/\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
