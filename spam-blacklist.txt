@@ -5977,6 +5977,7 @@ boylovernet
 \busednotebookuk\.co\.uk\b
 \bweb-services-4u\.co\.uk\b
 \bweddings-cebu\.com\b
+\bautomarkhistory\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
