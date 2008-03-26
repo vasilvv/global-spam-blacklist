@@ -5978,6 +5978,11 @@ boylovernet
 \bweb-services-4u\.co\.uk\b
 \bweddings-cebu\.com\b
 \bautomarkhistory\.com\b
+\breizen-portugal\.info\b
+\breizen-duitsland\.info\b
+\bportugal-travel-guide\.info\b
+\bviaggi-portogallo\.info\b
+\bviagens-alemanha\.info\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
