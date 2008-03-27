@@ -5999,6 +5999,7 @@ boylovernet
 \bkizilsungurdefender\.jimdo\.com\b
 \bsuedtirol-tirol\.com\b
 \bidiotikon\.ch\b
+\bfree-proxy\.org\.ua\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
