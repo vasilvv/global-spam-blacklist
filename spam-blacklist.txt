@@ -5993,6 +5993,7 @@ boylovernet
 \bgermany-travel-guide\.info/\b
 \bseguente\.com\b
 \bbursahalter\.com\b
+\bprovenmodels\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
