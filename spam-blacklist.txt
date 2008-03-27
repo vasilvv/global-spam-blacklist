@@ -5997,6 +5997,8 @@ boylovernet
 \bvizads\.com\b
 \bamorrow.wikidot\.com\b
 \bkizilsungurdefender\.jimdo\.com\b
+\bsuedtirol-tirol\.com\b
+\bidiotikon\.ch\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
