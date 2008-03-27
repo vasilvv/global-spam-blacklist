@@ -5994,6 +5994,7 @@ boylovernet
 \bseguente\.com\b
 \bbursahalter\.com\b
 \bprovenmodels\.com\b
+\bvizads\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
