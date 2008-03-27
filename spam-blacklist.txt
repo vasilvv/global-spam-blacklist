@@ -5991,6 +5991,7 @@ boylovernet
 \bvoyage-allemagne\.info\/\b
 \bviaggi-germania\.info\/\b
 \bgermany-travel-guide\.info/\b
+\bseguente\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
