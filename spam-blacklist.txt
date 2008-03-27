@@ -3,7 +3,7 @@
 # DO NOT MODIFY THIS LIST UNLESS YOU HAVE A BASIC UNDERSTANDING OF REGEX! #
 ###########################################################################
 #
-# This is a list of domain names which are considered spam.
+# This is a list of domain names which are considered spam or may be used to bypass it.
 # Guidelines:
 #    - Only blacklist for widespread, unmanageable spam.
 #    - To disable an entry, *remove* it, don't comment it out.
