@@ -6004,6 +6004,7 @@ boylovernet
 \bjosefov\.com\b
 \bpevnostjosefov\.wz\.cz\b
 \bmyclassifiedads\.net\b
+\blogosphera\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
