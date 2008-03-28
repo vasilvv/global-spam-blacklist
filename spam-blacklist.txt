@@ -6005,6 +6005,6 @@ boylovernet
 \bpevnostjosefov\.wz\.cz\b
 \bmyclassifiedads\.net\b
 \blogosphera\.com\b
-\bupload\.wikimedia\.org\/.*XRumer_screenshot\.gif\b
+upload\.wikimedia\.org\/.*XRumer_screenshot\.gif
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
