@@ -6001,6 +6001,8 @@ boylovernet
 \bidiotikon\.ch\b
 \bfree\-proxy\.org\.ua\b
 \bmeloteca\.com\b
+\bjosefov\.com\b
+\bpevnostjosefov\.wz\.cz\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
