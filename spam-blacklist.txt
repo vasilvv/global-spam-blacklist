@@ -6005,6 +6005,8 @@ boylovernet
 \bpevnostjosefov\.wz\.cz\b
 \bmyclassifiedads\.net\b
 \blogosphera\.com\b
-upload\.wikimedia\.org\/.*XRumer.screenshot\.gif
+upload\.wikimedia\.org/.*XRumer.screenshot\.gif
+\bimg\d{0,3}.imageshack.us/.*alianzapapelonom3\.jpg # imageshack.us
+\btremulous\.net\.ru\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
