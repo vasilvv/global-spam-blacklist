@@ -6006,7 +6006,7 @@ boylovernet
 \bmyclassifiedads\.net\b
 \blogosphera\.com\b
 upload\.wikimedia\.org/.*XRumer.screenshot\.gif
-\bimg362\.imageshack\.us\b # imageshack.us
+\bimg352\.imageshack\.us\b # imageshack.us
 \btremulous\.net\.ru\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
