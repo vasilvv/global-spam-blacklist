@@ -6008,5 +6008,7 @@ boylovernet
 upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bimg352\.imageshack\.us\b # imageshack.us
 \btremulous\.net\.ru\b
+\bcroatia-map\.net\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
