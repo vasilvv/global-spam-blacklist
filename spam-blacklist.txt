@@ -6009,6 +6009,18 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bimg352\.imageshack\.us\b # imageshack.us
 \btremulous\.net\.ru\b
 \bcroatia-map\.net\b
-
+\balfpoker\.com\b   
+\bayvalikda\.com\b   
+\bbikerosario\.com\.ar\b    
+\bcundadan\.com\b   
+\bimg352\.imageshack\.us\b  
+\bkarvinsko\.eu\b   
+\blogosphera\.com\b  
+\bsarimsaklida\.com\b   
+\btremulous\.net\.ru\b   
+\bvidiac\.com\b   
+\bworldmapfinder\.com\b   
+\byarakweb\.com\b   
+\byarak\.co\.uk\b 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
