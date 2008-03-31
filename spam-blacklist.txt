@@ -5998,7 +5998,6 @@ boylovernet
 \bamorrow.wikidot\.com\b
 \bkizilsungurdefender\.jimdo\.com\b
 \bsuedtirol-tirol\.com\b
-\bidiotikon\.ch\b
 \bfree\-proxy\.org\.ua\b
 \bmeloteca\.com\b
 \bjosefov\.com\b
