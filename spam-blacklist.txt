@@ -6024,6 +6024,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpacino\.narod\.ru\b
 \bjava-certification-tutorial\.com\b
 \bplsql-tutorial\.com\b
+\bs9\.bitefight\.ru\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
