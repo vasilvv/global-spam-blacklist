@@ -6030,6 +6030,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bbanjaluka\.je\.to\b
 #temporary: to stop cross-wiki creation of empty spampages
 \bjohntitor\.com\b
+\bislamhouse\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
