@@ -6028,8 +6028,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bbanjaluka\.rs\.ba\b
 \bgradbanjaluka\.blogspot\.com\b
 \bbanjaluka\.je\.to\b
-#temporary: to stop cross-wiki creation of empty spampages
-\bjohntitor\.com\b
 \bislamhouse\.com\b
 
 ## end of [[Spam blacklist/Log]] section
