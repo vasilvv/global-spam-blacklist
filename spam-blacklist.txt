@@ -6029,6 +6029,13 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bgradbanjaluka\.blogspot\.com\b
 \bbanjaluka\.je\.to\b
 \bislamhouse\.com\b
+#2 April 2008
+\babdulmatic\.com\b
+\babdulpaula\.com\b
+\bpaulaabdul\.tk\b
+\bpaula-abdul\.eu\b
+\brandyjackson\.de\b
+\bpaulapaula\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
