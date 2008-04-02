@@ -6025,9 +6025,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bjava-certification-tutorial\.com\b
 \bplsql-tutorial\.com\b
 \bs9\.bitefight\.ru\b
-\bbanjaluka\.rs\.ba\b
-\bgradbanjaluka\.blogspot\.com\b
-\bbanjaluka\.je\.to\b
 \bislamhouse\.com\b
 #2 April 2008
 \babdulmatic\.com\b
