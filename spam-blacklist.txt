@@ -6034,5 +6034,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpaulapaula\.com\b
 \bthecosplayworld\.com\b
 \bfrancenepal\.info\b
+#3 April 2008
+\bfine-art-images\.net\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
