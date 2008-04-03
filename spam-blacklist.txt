@@ -6032,7 +6032,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpaula-abdul\.eu\b
 \brandyjackson\.de\b
 \bpaulapaula\.com\b
-\b.*\.thecosplayworld\.com\b
-\b.*\.francenepal\.info\b
+\bthecosplayworld\.com\b
+\bfrancenepal\.info\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
