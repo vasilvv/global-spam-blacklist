@@ -6038,5 +6038,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bfine-art-images\.net\b
 #5 April 2008
 \breggae-auction\.com\b
+\bkomendant\.cal\.pl\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
