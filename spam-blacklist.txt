@@ -6045,5 +6045,10 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpuroibiza\.com\b
 \bhuntforantiques\.com\b
 \bsaopaulochannel\.com\b
+\bmother-surrogate\.net\b
+\bmother-surrogate\.com\b
+\bsurrogate-mother-cost\.com\b
+\bsurrogate-motherhood\.net\b
+\bsurrogate-mothers\.net\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
