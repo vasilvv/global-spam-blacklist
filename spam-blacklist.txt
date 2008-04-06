@@ -6044,5 +6044,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bvision\.chobirich\.com\b
 \bpuroibiza\.com\b
 \bhuntforantiques\.com\b
+\bsaopaulochannel\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
