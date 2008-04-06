@@ -6040,5 +6040,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \breggae-auction\.com\b
 \bkomendant\.cal\.pl\b
 \bmaps-for-free\.com\b
+\bsexidate\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
