@@ -6050,5 +6050,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsurrogate-mother-cost\.com\b
 \bsurrogate-motherhood\.net\b
 \bsurrogate-mothers\.net\b
+#7 april 2008
+\bsquidoo\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
