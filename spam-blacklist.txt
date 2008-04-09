@@ -6053,5 +6053,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 #7 april 2008
 \bsquidoo\.com\b
 \bboardthesun\.com\b
+\bpolskiswiat\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
