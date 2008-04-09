@@ -6054,5 +6054,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsquidoo\.com\b
 \bboardthesun\.com\b
 \bpolskiswiat\.com\b
+\bworldmartialartsfederation\.org\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
