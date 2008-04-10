@@ -6052,7 +6052,5 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpolskiswiat\.com\b
 \bworldmartialartsfederation\.org\b
 \bconflictologist\.narod\.ru\b
-\bnmmagazine\.com\b
-\bnewmexico\.org\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
