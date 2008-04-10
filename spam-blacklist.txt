@@ -6025,7 +6025,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bplsql-tutorial\.com\b
 \bs9\.bitefight\.ru\b
 \bislamhouse\.com\b
-#2 April 2008
 \babdulmatic\.com\b
 \babdulpaula\.com\b
 \bpaulaabdul\.tk\b
@@ -6034,9 +6033,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpaulapaula\.com\b
 \bthecosplayworld\.com\b
 \bfrancenepal\.info\b
-#3 April 2008
 \bfine-art-images\.net\b
-#5 April 2008
 \breggae-auction\.com\b
 \bkomendant\.cal\.pl\b
 \bmaps-for-free\.com\b
@@ -6050,7 +6047,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsurrogate-mother-cost\.com\b
 \bsurrogate-motherhood\.net\b
 \bsurrogate-mothers\.net\b
-#7 april 2008
 \bsquidoo\.com\b
 \bboardthesun\.com\b
 \bpolskiswiat\.com\b
