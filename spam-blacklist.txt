@@ -6052,5 +6052,10 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpolskiswiat\.com\b
 \bworldmartialartsfederation\.org\b
 \bconflictologist\.narod\.ru\b
+\btipsity\.com\b
+\bthenokian96\.com\b
+\bvoipguides\.blogspot\.com\b
+\bdishwashersreview\.com\b
+\bair-conditioner-review\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
