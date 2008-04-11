@@ -6057,5 +6057,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bvoipguides\.blogspot\.com\b
 \bdishwashersreview\.com\b
 \bair-conditioner-review\.com\b
+\bmodelsobserver\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
