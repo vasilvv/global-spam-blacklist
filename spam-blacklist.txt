@@ -5743,7 +5743,7 @@ boylovernet
 \btrouwkaartjes\.com\b
 \btagate\.com\b
 \bfactasy\.com\b
-#\bcommonpurpose\.org\b
+\bcommonpurpose\.org\b
 \blibertas\.sm\b
 \blibertas-newssanmarino\.blogspot\.com\b
 \bvirtual\.oradea\.net\b
