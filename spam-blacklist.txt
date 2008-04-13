@@ -6069,5 +6069,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bzirvesi\.net\b
 \bdiziniz\.net\b
 \bhitkazan\.info\b
+\bmovie-net\.org\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
