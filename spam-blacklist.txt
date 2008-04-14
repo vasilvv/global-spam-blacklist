@@ -6075,5 +6075,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bacneshoponline\.com\b
 \bpharmacyrx\.org\b
 \biasa\.ir\b # per http://meta.wikimedia.org/w/index.php?title=User:SpamReportBot/cw/iasa.ir&oldid=957680
+\baluminiumleader\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
