@@ -6077,5 +6077,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \biasa\.ir\b
 \baluminiumleader\.com\b
 \bmiysvit\.info\b
+\brickrolling\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
