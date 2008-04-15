@@ -6082,6 +6082,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bhotel-5\.net\b
 \binca-cola\.com\b
 \bhotelclick\.org\b
+\bhurtigruten\.tk\b 
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
