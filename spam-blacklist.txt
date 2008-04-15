@@ -6081,6 +6081,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmetallian\.com\b
 \bhotel-5\.net\b
 \binca-cola\.com\b
+\bhotelclick\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
