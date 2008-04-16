@@ -6095,5 +6095,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bdvdfilmler\.net\b
 \biltuobenessere\.com\b
 \bmircmerkez\.net\b
+\bpolonia\.asia\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
