@@ -6088,6 +6088,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bisraelinphotos\.com\b
 \belvisromania\.ro\b
 \bturismo-prerromanico\.es\b
+\blabel\.fr\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
