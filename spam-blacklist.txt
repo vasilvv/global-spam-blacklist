@@ -6098,6 +6098,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpolonia\.asia\b
 \bcachacastore\.com\b
 \bcutehoneys\.com\b
+\bweb-bearn\.fr\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
