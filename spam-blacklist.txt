@@ -6085,6 +6085,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bhurtigruten\.tk\b 
 \bemedialive\.com\b
 \bsantabot\.com\b
+\bisraelinphotos\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
