@@ -6092,6 +6092,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bgastreferenten\.de\b
 \bradiopapesse\.org\b
 \bit-servizi\.it\b
+\bdvdfilmler\.net\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
