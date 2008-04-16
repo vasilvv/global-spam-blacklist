@@ -6104,5 +6104,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bovablastic\.blogspot\.com\b
 \bsunfrance\.com\b
 \bnews\.nikito\.su\b
+\bpamparam\.md\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
