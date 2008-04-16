@@ -6101,5 +6101,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bweb-bearn\.fr\b
 \blucadea\.com\b
 \bpresstv\.asia\b
+\bovablastic\.blogspot\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
