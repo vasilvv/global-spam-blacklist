@@ -6090,6 +6090,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bturismo-prerromanico\.es\b
 \blabel\.fr\b
 \bgastreferenten\.de\b
+ \bradiopapesse\.org\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
