@@ -6135,5 +6135,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bradiotecktonik\.ro\b
 \bforum\.radiotecktonik\.ro\b
 \bpetrsoukal\.profitux\.cz\b
+\bjaponsko\.profitux\.cz\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
