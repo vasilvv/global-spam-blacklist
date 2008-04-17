@@ -1380,7 +1380,7 @@ germanplaces\.com
 nmmagazine\.com
 newmexico\.org
 istinitisti\.com
-nacion\.com
+\bnacion\.com\b
 slacker\.ch
 kanusur\.com\.ar
 reve-de-bagages\.fr
