@@ -6132,5 +6132,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsunfrance\.com\b
 \bnews\.nikito\.su\b
 \bpamparam\.md\b
+\bradiotecktonik\.ro\b
+\bforum\.radiotecktonik\.ro\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
