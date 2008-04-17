@@ -6140,5 +6140,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bbjornborgfanforever2\.free\.fr\b
 \bdavidbisbalbrowser\.com\b
 \bmembers\.lycos\.co\.uk\/davidbisbal\/
+\bmaluw\.flyfolder\.ru\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
