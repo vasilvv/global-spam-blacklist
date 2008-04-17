@@ -1358,7 +1358,7 @@ stanleyng\.net
 
 ##Nakon
 
-##The reasons for adding the links below used to be located at
+##The reasons for adding the links below is located at
 ##http://meta.wikimedia.org/wiki/User:Nakon/sbl
 
 #New
@@ -1375,7 +1375,17 @@ bepress\.com
 goear\.com
 wsiadaj\.pl
 mymusiki\.com
-
+hadiths\.eu
+germanplaces\.com
+nmmagazine\.com
+newmexico\.org
+istinitisti\.com
+nacion\.com
+slacker\.ch
+kanusur\.com\.ar
+reve-de-bagages\.fr
+googlekaydi\.com
+la-malle-en-coin\.com
 
 #Old
 
