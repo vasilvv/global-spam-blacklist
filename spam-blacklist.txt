@@ -1359,8 +1359,25 @@ stanleyng\.net
 ##Nakon
 
 ##The reasons for adding the links below used to be located at
-##http://en.wikipedia.org/wiki/User:Nakon/sbl
+##http://meta.wikimedia.org/wiki/User:Nakon/sbl
 
+#New
+letraslibres\.com
+members\.lycos\.co\.uk
+giovannardierontini\.it
+basicincome\.com
+freiheitstattvollbeschaeftigung\.de
+\bpl\.net\b
+\busbig\.net\b
+busfoto\.nl
+globalincome\.org
+bepress\.com
+goear\.com
+wsiadaj\.pl
+mymusiki\.com
+
+
+#Old
 
 mesothelioma-fyi\.blogspot\.com
 mygeneralhospital\.com
