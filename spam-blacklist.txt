@@ -6154,5 +6154,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bborderterriers\.xooit\.fr\b
 \bsolobale\.com\b
 \brakastar\.com\b
+\bmarylinmonroe\.it\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
