@@ -1380,7 +1380,6 @@ stanleyng\.net
 \bnewmexico\.org\b
 \bistinitisti\.com\b
 \bslacker\.ch\b
-\bkanusur\.com\.ar\b
 \breve-de-bagages\.fr\b
 \bgooglekaydi\.com\b
 \bla-malle-en-coin\.com\b
