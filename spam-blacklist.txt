@@ -6156,6 +6156,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bblog\.goo\.ne\.jp\/umineko300\b
 \bborderterriers\.xooit\.fr\b
 \bsolobale\.com\b
-
+\brakastar\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
