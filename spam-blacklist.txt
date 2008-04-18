@@ -1372,7 +1372,6 @@ stanleyng\.net
 \bbusfoto\.nl\b
 \bglobalincome\.org\b
 \bbepress\.com\b
-\bgoear\.com\b
 \bwsiadaj\.pl\b
 \bmymusiki\.com\b
 \bhadiths\.eu\b
