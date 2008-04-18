@@ -6141,7 +6141,16 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bdavidbisbalbrowser\.com\b
 \bmembers\.lycos\.co\.uk\/davidbisbal\/
 \bmaluw\.flyfolder\.ru\b
-#temporary to stop a vandal:
+\bpeons4hire-4mmo\.com\b
+\bbrogame\.com\b
+\bitemrate\.com\b
 \bwowgold1078\.com\b
+\bshshenyang\.com\b
+\bminghsing\.com\b
+\bmj-net\.jp\b
+\bsenior-work\.jp\b
+\bcaxa\.com\b
+\bcad\.caxa\.com\b
+\bmarucollet\.jp\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
