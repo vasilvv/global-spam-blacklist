@@ -6141,5 +6141,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bdavidbisbalbrowser\.com\b
 \bmembers\.lycos\.co\.uk\/davidbisbal\/
 \bmaluw\.flyfolder\.ru\b
+#temporary to stop a vandal:
+\bwowgold1078\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
