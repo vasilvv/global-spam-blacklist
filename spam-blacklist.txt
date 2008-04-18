@@ -6153,5 +6153,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bcad\.caxa\.com\b
 \bmarucollet\.jp\b
 \bdocs\.weblog\.ro\b
+\bblog\.goo\.ne\.jp\/umineko300\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
