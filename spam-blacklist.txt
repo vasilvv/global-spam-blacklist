@@ -6136,7 +6136,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpetrsoukal\.php5\.cz\b
 \bbjornborgfanforever2\.free\.fr\b
 \bdavidbisbalbrowser\.com\b
-\bmembers\.lycos\.co\.uk\/davidbisbal\/
+#\bmembers\.lycos\.co\.uk\/davidbisbal\/   ## blocked whole domain. no ideas why --vvv, 19-04-08
 \bmaluw\.flyfolder\.ru\b
 \bpeons4hire-4mmo\.com\b
 \bbrogame\.com\b
