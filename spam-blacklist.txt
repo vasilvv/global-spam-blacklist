@@ -1375,8 +1375,6 @@ stanleyng\.net
 \bmymusiki\.com\b
 \bhadiths\.eu\b
 \bgermanplaces\.com\b
-\bnmmagazine\.com\b
-\bnewmexico\.org\b
 \bistinitisti\.com\b
 \bslacker\.ch\b
 \bkanusur\.com\.ar\b
