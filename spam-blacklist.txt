@@ -1363,7 +1363,7 @@ stanleyng\.net
 
 #New
 \bletraslibres\.com\b
-\bmembers\.lycos\.co\.uk\b
+#\bmembers\.lycos\.co\.uk\b
 \bgiovannardierontini\.it\b
 \bbasicincome\.com\b
 \bfreiheitstattvollbeschaeftigung\.de\b
