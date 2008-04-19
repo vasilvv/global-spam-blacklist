@@ -6156,5 +6156,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \brakastar\.com\b
 \bmarylinmonroe\.it\b
 \bblocked\.on\.nimp\.org\b
+\blogos\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
