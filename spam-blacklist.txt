@@ -1371,7 +1371,7 @@ stanleyng\.net
 \busbig\.net\b
 \bbusfoto\.nl\b
 \bglobalincome\.org\b
-rem\bwsiadaj\.pl\b
+\bwsiadaj\.pl\b
 \bmymusiki\.com\b
 \bhadiths\.eu\b
 \bgermanplaces\.com\b
