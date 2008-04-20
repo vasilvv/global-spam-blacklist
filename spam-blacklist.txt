@@ -6158,5 +6158,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bfanhistory\.com\b
 \bpasiontango\.net\b
 \bskyscrapervideos\.com\b
+\bhnl-statistika\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
