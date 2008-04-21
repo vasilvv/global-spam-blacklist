@@ -6180,5 +6180,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpasiphae\.poem\s.googlepages\.com\b
 \buntoldtales\.googlepages\.com\b
 \bbibblish\.blogspot\.com\b
+\bvzugadi\.googlepages\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
