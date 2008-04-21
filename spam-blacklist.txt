@@ -6177,6 +6177,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bchatsohbetodasi\.net\b
 \bnews\.architectures\.sk\b
 #temporary for stopping cross-wiki stubcreations
-\kernel\.org\b
+\bkernel\.org\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
