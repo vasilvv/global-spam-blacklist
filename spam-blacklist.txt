@@ -6176,5 +6176,9 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bprison-break\.org\.ua\b
 \bchatsohbetodasi\.net\b
 \bnews\.architectures\.sk\b
+\bmarshall\.charles\.googlepages\.com\b
+\bpasiphae\.poem\s.googlepages\.com\b
+\buntoldtales\.googlepages\.com\b
+\bbibblish\.blogspot\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
