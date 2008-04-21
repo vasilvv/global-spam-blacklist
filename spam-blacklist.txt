@@ -6169,5 +6169,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bthomas\.eu\b
 \bthomascarlyle\.eu\b
 \bfunkyukrainian\.com\b
+\bjapan-architects\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
