@@ -3933,6 +3933,11 @@ republika\.pl\/stranasmer
 \blasiklasereyesurgeries\.com
 \blowcarb\.ca
 \bnewyork-architects\.com
+\bswiss-architects\.com
+\bbelgium-architects\.com
+\bworld-architects\.com
+\baustriaarchitects\.com
+\bchinese-architects\.com
 \bsardiniaholidayrentals\.com
 \bsatellite-service-providers\.com
 \bskincaresinformation\.com
