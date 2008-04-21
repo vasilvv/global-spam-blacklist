@@ -6175,5 +6175,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \babers-tourisme\.com\b
 \bprison-break\.org\.ua\b
 \bchatsohbetodasi\.net\b
+\bnews\.architectures\.sk\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
