@@ -6173,5 +6173,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \badslteknikservis\.com\b
 \bhandresearch\.com\b
 \babers-tourisme\.com\b
+\bprison-break\.org\.ua\b
+\bchatsohbetodasi\.net\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
