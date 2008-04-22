@@ -6257,5 +6257,9 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bzmaxtravel\.com\b
 \bbydinka\.ucoz\.ru\b
 \bpersonalstructures\.org\b
+\bmyresistor\.com\b
+\bmeikk\.com\b
+\btcfaces\.com\b
+\bmusique\.arabe\.over-blog\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
