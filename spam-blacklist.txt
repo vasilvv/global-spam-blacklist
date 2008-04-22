@@ -6181,5 +6181,18 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \buntoldtales\.googlepages\.com\b
 \bbibblish\.blogspot\.com\b
 \bvzugadi\.googlepages\.com\b
+\bdeluxecruises\.com\b
+\bseabourn\.us\b
+\bcroisieresdeluxe\.com\b
+\bjustcrystalcruises\.com\b
+\bsilversea\.info\b
+\bluxury-cruises\.info\b
+\bbantanges\.com\b
+\bbourgogneimmo\.biz\b
+\bcuisery\.com\b
+\bporquerolles\.biz\b
+\bregentcruises\.us\b
+\briomavuba\.com\b
+\bsilversea-luxury-cruises\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
