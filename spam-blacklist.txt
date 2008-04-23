@@ -6267,5 +6267,26 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bic1\.it\b
 \binformagiovani\.vi\.it\b
 \bmusupaveldas\.lt\b
+\barabic\.images\.free\.fr\b
+\bbreton\.brezhoneg\.free\.fr\b
+\bfr\.youtube\.com/profile?user=Languages1001\b
+\bfr\.youtube\.com/user/Languages1001\b
+\bhebrew\.images\.free\.fr\b
+\blang\.deutsch\.free\.fr\b
+\blang\.esperanto\.free\.fr\b
+\blang\.farsi\.free\.fr\b
+\blang\.gaeilge\.free\.fr\b
+\blang\.hebraic\.free\.fr\b
+\blang\.neerlandais\.free\.fr\b
+\blang\.occitan\.free\.fr\b
+\blang\.polski\.free\.fr\b
+\blang\.russe\.free\.fr\b
+\blang\.shqip\.free\.fr\b
+\blang\.svenska\.free\.fr\b
+\blang\.swahili\.free\.fr\b
+\blang\.turk\.free\.fr\b
+\bmacedonian\.free\.fr\b
+\bpince31\.free\.fr\b
+\bportuguesa\.lingua\.free\.fr\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
