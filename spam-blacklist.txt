@@ -1367,7 +1367,6 @@ stanleyng\.net
 \bgiovannardierontini\.it\b
 \bbasicincome\.com\b
 \bfreiheitstattvollbeschaeftigung\.de\b
-\bpl\.net\b
 \busbig\.net\b
 \bbusfoto\.nl\b
 \bglobalincome\.org\b
