@@ -6295,8 +6295,5 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsohachawla\.blogspot\.com\b
 \bwhizlabs\.com\b
 \bziceholidays\.com\b
-\bbuy-ebook\.com\b
-\be-library\.(us|com)\b
-\bartdhtml\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
