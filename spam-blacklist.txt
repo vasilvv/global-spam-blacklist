@@ -6262,5 +6262,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \btcfaces\.com\b
 \bmusique\.arabe\.over-blog\.com\b
 \belusiva\.com\b
+\binformacitta\.vi\.it\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
