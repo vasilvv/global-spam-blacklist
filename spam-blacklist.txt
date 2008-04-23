@@ -6287,5 +6287,13 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmacedonian\.free\.fr\b
 \bpince31\.free\.fr\b
 \bportuguesa\.lingua\.free\.fr\b
+\bcertlobby\.com\b
+\bhot-air-ballooning\.org\b
+\bimaseo\.com\b
+\binesystems\.com\b
+\bsemguru\.wordpress\.com\b
+\bsohachawla\.blogspot\.com\b
+\bwhizlabs\.com\b
+\bziceholidays\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
