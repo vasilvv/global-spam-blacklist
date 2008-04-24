@@ -6323,5 +6323,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \blights-and-sounds\.de\b
 \bdonau-don\.info\b
 \bpromowatch\.de\b
+\bindymedia\.org\b # Beetstra # [[User:SpamReportBot/cw/indymedia.org|ReportBot page]] - poking the spammer, remove after one hour, please.
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
