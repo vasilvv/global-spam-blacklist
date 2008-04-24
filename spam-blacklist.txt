@@ -887,6 +887,7 @@ tophonors\.com
 \.travel\.to
 turl\.jp
 \.turn\.to
+\burlalarm\b.com\b
 uncutuncensored.com
 \.url123\.com
 url\.fibiger\.org
