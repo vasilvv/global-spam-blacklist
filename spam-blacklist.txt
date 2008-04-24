@@ -6301,5 +6301,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bantalya-web\.com\b
 \bfotobox24\.com\b
 \bprisonbreak\.org\.ua\b
+\bhotelsworld\.pl\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
