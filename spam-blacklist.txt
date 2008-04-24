@@ -1362,7 +1362,6 @@ stanleyng\.net
 ##http://meta.wikimedia.org/wiki/User:Nakon/sbl
 
 #New
-\bletraslibres\.com\b
 \bgiovannardierontini\.it\b
 \bbasicincome\.com\b
 \bfreiheitstattvollbeschaeftigung\.de\b
@@ -6295,5 +6294,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bwhizlabs\.com\b
 \bziceholidays\.com\b
 \bdaldorfer\.info\b
+\bmusicvmix\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
