@@ -6324,5 +6324,14 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bdonau-don\.info\b
 \bpromowatch\.de\b
 \bkravmaga-paris16\.com\b
+
+# drini: croswiki spam seo
+\bhzgames\.com\b
+\btopowerleveling\.com\b
+\bgowowpowerleveling\.com\b
+\bhigh-replica\.com\b
+\bgame-win\.com\b
+\byszdh\.com \b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
