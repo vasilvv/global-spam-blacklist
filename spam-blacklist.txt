@@ -6351,6 +6351,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bhekimmadencilik\.com\b
 \bhekimplastik\.com\b
 \bhekimsut\.com\b
-palaeo-bavarian-geological-survey\.de\b
+\bpalaeo\-bavarian\-geological\-survey\.de\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
