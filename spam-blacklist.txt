@@ -6327,6 +6327,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bledcalculator\.net\b
 \bcorfu-kerkyra\.eu\b
 \bzanteisland\.com\b
+\bcomicradioshow\.com\b
 
 # drini: croswiki spam seo
 \bhzgames\.com\b
