@@ -6325,6 +6325,8 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpromowatch\.de\b
 \bkravmaga-paris16\.com\b
 \bledcalculator\.net\b
+\bcorfu-kerkyra\.eu\b
+\bzanteisland\.com\b
 
 # drini: croswiki spam seo
 \bhzgames\.com\b
