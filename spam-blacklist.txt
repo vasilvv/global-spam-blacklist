@@ -6324,6 +6324,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bdonau-don\.info\b
 \bpromowatch\.de\b
 \bkravmaga-paris16\.com\b
+\bledcalculator\.net\b
 
 # drini: croswiki spam seo
 \bhzgames\.com\b
