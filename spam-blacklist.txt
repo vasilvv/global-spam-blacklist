@@ -6328,7 +6328,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bcorfu-kerkyra\.eu\b
 \bzanteisland\.com\b
 \bcomicradioshow\.com\b
-
 # drini: croswiki spam seo
 \bhzgames\.com\b
 \btopowerleveling\.com\b
@@ -6336,6 +6335,21 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bhigh-replica\.com\b
 \bgame-win\.com\b
 \byszdh\.com \b
-
+#end drini
+\bprefabrike\.net\b
+\bartiajans\.net\b
+\bprefabrik\.tv\b
+\bprefabrikyapi\.com\b
+\bartiajans\.info\b
+\bhekimholding\.com\b
+\bhekimmadencilik\.com\b
+\bozgeyapi\.com\b
+\bhekimyapi\.com\b
+\bheboyapi\.com\b
+\bhekimsirketlergrubu\.com\b
+\bhekimboya\.com\b
+\bhekimmadencilik\.com\b
+\bhekimplastik\.com\b
+\bhekimsut\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
