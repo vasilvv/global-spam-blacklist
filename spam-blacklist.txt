@@ -6352,5 +6352,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bhekimplastik\.com\b
 \bhekimsut\.com\b
 \bpalaeo\-bavarian\-geological\-survey\.de\b
+\bnakedafrica\.net\b
+\bnahaafrika\.cz\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
