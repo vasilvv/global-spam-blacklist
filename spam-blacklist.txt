@@ -6355,5 +6355,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bnakedafrica\.net\b
 \bnahaafrika\.cz\b
 \bfotoplantas\.110mb\.com\b
+\babkhazia\.nu\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
