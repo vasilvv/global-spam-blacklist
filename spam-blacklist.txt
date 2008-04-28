@@ -6360,7 +6360,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \babkhazia\.nu\b
 \bphotovolcanica\.com\b
 \byouporn\.com\b
-
+\binternet-srs\.biz\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
