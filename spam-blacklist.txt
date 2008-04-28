@@ -6357,6 +6357,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bfotoplantas\.110mb\.com\b
 \babkhazia\.nu\b
 \bphotovolcanica\.com\b
+\byouporn\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
