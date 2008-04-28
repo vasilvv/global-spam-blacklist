@@ -6351,6 +6351,8 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bhekimmadencilik\.com\b
 \bhekimplastik\.com\b
 \bhekimsut\.com\b
+\bilportaleditrieste\.it\b
+\bilportaleditrieste\.com\b
 \bpalaeo\-bavarian\-geological\-survey\.de\b
 \bnakedafrica\.net\b
 \bnahaafrika\.cz\b
@@ -6358,6 +6360,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \babkhazia\.nu\b
 \bphotovolcanica\.com\b
 \byouporn\.com\b
+
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
