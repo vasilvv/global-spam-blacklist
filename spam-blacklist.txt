@@ -6051,7 +6051,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bjava-certification-tutorial\.com\b
 \bplsql-tutorial\.com\b
 \bs9\.bitefight\.ru\b
-\bislamhouse\.com\b
 \babdulmatic\.com\b
 \babdulpaula\.com\b
 \bpaulaabdul\.tk\b
