@@ -6361,6 +6361,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bphotovolcanica\.com\b
 \byouporn\.com\b
 \binternet-srs\.biz\b
+\burlgen\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
