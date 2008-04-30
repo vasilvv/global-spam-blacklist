@@ -1379,7 +1379,7 @@ stanleyng\.net
 \breve-de-bagages\.fr\b
 \bgooglekaydi\.com\b
 \bla-malle-en-coin\.com\b
-interfree.it\b
+\binterfree\.it\b
 
 #Old
 
