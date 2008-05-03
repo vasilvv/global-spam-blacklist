@@ -6367,24 +6367,14 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bindirdur\.blogcu\.com\b
 
 #url shorteners
-\beb\.cx\b
 \bshorl\.com\b
-\burl\.fm\b
-\bqurl\.net\b
 \bshortlinks\.co\.uk\b
-\burl123\.com\b
-\b1tiny\.com\b
 \b6url\.com\b
 \bflingk\.com\b
-\blin\.kz\b
 \bmetamark\.net\b
-\bminilien\.com\b
-\bo-rly\.net\b
 \bpaulding\.net\b
 \bsmcurl\.com\b
 \btighturl\.com\b
-\burl\.etusivu\.net\b
-\bw3t\.org\b
 \byatuc\.com\b
 \byep\.it\b
 #end of url shorteners
