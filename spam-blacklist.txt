@@ -6377,17 +6377,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \btighturl\.com\b
 \byatuc\.com\b
 \byep\.it\b
-                   #Mike.lifeguard May 03/2008
-\bshorl\.com\b
-\bshortlinks\.co\.uk\b
-\b6url\.com\b
-\bflingk\.com\b
-\bmetamark\.net\b
-\bpaulding\.net\b
-\bsmcurl\.com\b
-\btighturl\.com\b
-\byatuc\.com\b
-\byep\.it\b
 #end of url shorteners
 
 ## end of [[Spam blacklist/Log]] section
