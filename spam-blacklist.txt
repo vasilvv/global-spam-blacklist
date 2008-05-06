@@ -1906,6 +1906,11 @@ wikipedia(c|l|m)\.(info|net)
 yales\.info
 yalesimkin\.com
 yowiehunter\.com
+\bganjagrower\.com\b
+\balienstarships\.com\b
+\bterriirwin\.info\b
+\bmasterwho\.com\b
+\bdalekinvasion\.com\b
 
 #end UD
 
