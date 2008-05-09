@@ -6362,7 +6362,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bnahaafrika\.cz\b
 \bfotoplantas\.110mb\.com\b
 \babkhazia\.nu\b
-\bphotovolcanica\.com\b
 \byouporn\.com\b
 \binternet-srs\.biz\b
 \burlgen\.com\b
