@@ -6369,6 +6369,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bindirdur\.blogcu\.com\b
 \bsitetiny\.com\b
 \bbloomsdaynyc\.com\b
+\bkosovo-law\.org\b
 
 #url shorteners
 \bshorl\.com\b
