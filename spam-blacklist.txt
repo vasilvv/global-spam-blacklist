@@ -6370,6 +6370,8 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsitetiny\.com\b
 \bbloomsdaynyc\.com\b
 \bkosovo-law\.org\b
+\bnavarra\.net\b
+\bpamplona\.com\b
 
 #url shorteners
 \bshorl\.com\b
