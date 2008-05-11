@@ -6387,7 +6387,8 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 #end of url shorteners
 
 #Mike.lifeguard's additions
-\buudisvoog\.postimees.ee\b
+\bpostimees.ee\b
+\btiibet\.org\b
 #end Mike.lifeguard's additions
 
 ## end of [[Spam blacklist/Log]] section
