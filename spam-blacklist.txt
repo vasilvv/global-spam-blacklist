@@ -6387,7 +6387,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 #end of url shorteners
 
 #Mike.lifeguard's additions
-\bpostimees.ee\b
+\buudisvoog\.postimees.ee\b
 \bkalev\.ee\b
 \binnojairja\.blogspot\.com\b
 \btiibet\.org\b
