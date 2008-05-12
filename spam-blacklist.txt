@@ -6395,5 +6395,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \btiibet\.org\b
 #end Mike.lifeguard's additions
 
+\berosramazzotti\.biz\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
