@@ -1364,11 +1364,7 @@ stanleyng\.net
 
 #New
 \bgiovannardierontini\.it\b
-\bbasicincome\.com\b
-\bfreiheitstattvollbeschaeftigung\.de\b
-\busbig\.net\b
 \bbusfoto\.nl\b
-\bglobalincome\.org\b
 \bwsiadaj\.pl\b
 \bmymusiki\.com\b
 \bhadiths\.eu\b
