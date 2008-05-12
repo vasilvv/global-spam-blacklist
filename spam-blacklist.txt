@@ -6372,6 +6372,13 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bkosovo-law\.org\b
 \bnavarra\.net\b
 \bpamplona\.com\b
+\bsexdoctor4men\.blogspot\.com\b
+\bsexinfo4women\.blogspot\.com\b
+\bpeniss-size\.blogspot\.com\b
+\bwomen-menses\.blogspot\.com\b
+\bbreast-info12\.blogspot\.com\b
+\bdating-tips08\.blogspot\.com\b
+\bmoney-making12\.blogspot\.com\b
 
 #url shorteners
 \bshorl\.com\b
