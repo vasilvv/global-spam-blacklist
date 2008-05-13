@@ -6368,6 +6368,12 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bkalev\.ee\b
 \binnojairja\.blogspot\.com\b
 \btiibet\.org\b
+\bmsapubli\.com\b
+\ballaahuakbar\.net\b
+\btroid\.org\b
+\bmuslims\.ws\b
+\basipak\.com\b
+\bclaasfamily\.org\b
 #end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
