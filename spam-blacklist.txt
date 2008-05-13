@@ -6372,6 +6372,13 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
 \balcoholaddiction\.org\b
-
+\bvipflux\.com\b
+\bjourneyetc\.com\b
+\bluv-emo\.com\b
+\bmusicflux\.net\b
+\bbacalaureat2008\.net\b
+\bsoccerbro\.com\b
+\bmp3pls\.com\b
+\bmyimg\.org\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
