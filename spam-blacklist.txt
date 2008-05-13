@@ -6301,31 +6301,9 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bprisonbreak\.org\.ua\b
 \bhotelsworld\.pl\b
 
-#E-library and related
+#E-library
 \be-library\.net\b
-\bbuy-ebook\.com\b
 \be-library\.us\b
-\bartdhtml\.com\b
-\bvlasta-tula\.ru\b
-\bistrodina\.com\b
-\bazubicard\.de\b
-\barchitekturbuero-eisele\.de\b
-\bluftbildaufnahmen-vs\.de\b
-\btula\.net\b
-\bseibold-ketterer\.com\b
-\bcard3\.de\b
-\bjewishsinglesvideoconnection\.com\b
-\btuvproductions\.com\b
-\bobivka\.ru\b
-\bbg2001\.ru\b
-\blights-and-sounds\.de\b
-\bdonau-don\.info\b
-\bpromowatch\.de\b
-\bkravmaga-paris16\.com\b
-\bledcalculator\.net\b
-\bcorfu-kerkyra\.eu\b
-\bzanteisland\.com\b
-\bcomicradioshow\.com\b
 # drini: croswiki spam seo
 \bhzgames\.com\b
 \btopowerleveling\.com\b
