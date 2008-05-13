@@ -3753,7 +3753,6 @@ besttradelink\.info
 usadaytrade\.biz
 superrefinancerate\.info
 myblog\.es
-# \.cabinda\.net
 \.gaudi\.cat 
 geekissues\.org # contains redirect pages to porn/shock sites
 manutd-clip\.blogspot\.com
