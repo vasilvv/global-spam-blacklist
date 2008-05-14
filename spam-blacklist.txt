@@ -1360,7 +1360,7 @@ stanleyng\.net
 ##Nakon
 
 ##The reasons for adding the links below is located at
-##http://meta.wikimedia.org/wiki/User:Nakon/sbl
+##http://meta.wikimedia.org/wiki/Spam_blacklist/Log/Nakon/sbl
 
 #New
 \bgiovannardierontini\.it\b
