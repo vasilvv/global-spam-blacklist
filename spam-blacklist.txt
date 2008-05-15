@@ -475,8 +475,8 @@ datasheet\.org\.uk
 \.icbank\.com
 bestincosmetics\.com
 videposters\.es
-# josiemodel\.ca
-# brookesbedroom\.ca
+josiemodel\.ca
+brookesbedroom\.ca
 top20man\.in\.ua
 ringtonemaker\.blogs\.eurosport\.com
 blog\.yukonho\.com
