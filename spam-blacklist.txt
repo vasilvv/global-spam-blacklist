@@ -6390,5 +6390,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmyimg\.org\b
 \baudado\.com\b
 \bvector\.com\.pl\b
+\bweb-app\.net\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
