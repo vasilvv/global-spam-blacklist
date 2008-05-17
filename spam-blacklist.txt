@@ -6376,6 +6376,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bclaasfamily\.org\b
 \bshorterlink\.co\.uk\b
 \bcocktailteam\.net\b
+\bindicatoreamaranto\.it\b
 ########################################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
