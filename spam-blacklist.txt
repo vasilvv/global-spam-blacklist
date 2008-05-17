@@ -6377,6 +6377,13 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bshorterlink\.co\.uk\b
 \bcocktailteam\.net\b
 \bindicatoreamaranto\.it\b
+\bthatsqingdao\.com\b
+\bqingdaoofficialguide\.com\b
+\bqingdaochinaguide\.com\b
+\bmyredstar\.com\b
+\bmyredguide\.com\b
+\bmyredsail\.com\b
+\bmyredstar\.com\.cn\b
 ########################################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
