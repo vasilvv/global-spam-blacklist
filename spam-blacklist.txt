@@ -6433,5 +6433,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bweb-app\.us\b
 \bmlapp\.org\b
 \bwdalaw\.com\b
+#emergency
+\banti-jw\.chat\.ru\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
