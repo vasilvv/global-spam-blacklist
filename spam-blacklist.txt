@@ -1,18 +1,18 @@
-<!-- leave this line exactly as it is --> <pre> 
-###########################################################################
-# DO NOT MODIFY THIS LIST UNLESS YOU HAVE A BASIC UNDERSTANDING OF REGEX! #
-###########################################################################
-#
-# This is a list of domain names which are considered spam or may be used to bypass it.
-# Guidelines:
-#    - Only blacklist for widespread, unmanageable spam.
-#    - To disable an entry, *remove* it, don't comment it out.
-#    - Add entries to [[Spam blacklist/Log]] (and remove them when they're removed here).
-# 
-# Syntax:
-#    - Everything from a "#" character to the end of the line is a comment
-#    - Every non-blank line is a regex fragment which will only match hosts inside URLs
+ ###########################################################################
+ # DO NOT MODIFY THIS LIST UNLESS YOU HAVE A BASIC UNDERSTANDING OF REGEX! #
+ ###########################################################################
+ #
+ # This is a list of domain names which are blocked - nobody can add links to these domains
+ # Guidelines:
+ #    - Only blacklist for widespread, unmanageable spam.
+ #    - To disable an entry, *remove* it, don't comment it out.
+ #    - Add entries to [http://meta.wikimedia.org/wiki/Spam_blacklist/Log the log] (and remove them when they're removed here).
+ # 
+ # Syntax:
+ #    - Everything from a "#" character to the end of the line is a comment
+ #    - Every non-blank line is a regex fragment which will only match hosts inside URLs
 
+<!-- leave this line exactly as it is --> <pre> 
 # Words
 s-e-x
 \zoofilia
