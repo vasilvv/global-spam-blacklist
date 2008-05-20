@@ -6435,5 +6435,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bwdalaw\.com\b
 #emergency
 \banti-jw\.chat\.ru\b
+##by Dungodung (May 20, 08); can be discussed
+\bsokobanja\.net\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
