@@ -6424,5 +6424,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bashley-tisdale\.tv\b
 \bjennifer-pics\.com\b
 \bsharapova-pics\.com\b
+\baniston-pics\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
