@@ -6394,7 +6394,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bspirited\-expeditions\.com\b
 \bsearchx\.1gb\.in\b
 \bkelis\-pics\.com\b
-.*\-pics\.com\b
+#.*\-pics\.com\b
 \baliciakeys\-pics\.com\b
 \bshakira\-pictures\.net\b
 ########################################end Mike.lifeguard's additions
