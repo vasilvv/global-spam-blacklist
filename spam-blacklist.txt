@@ -6418,5 +6418,8 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \banti-jw\.chat\.ru\b
 \bnatureperu\.com\b
 \bciovo\.eu\b
+\bamanda-bynes\.tv\b
+\bvanessa-hudgens\.tv\b
+\brwitherspoon\.net\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
