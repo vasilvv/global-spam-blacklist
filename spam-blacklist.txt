@@ -6391,12 +6391,11 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bimmaginasas\.it\b
 \bilovekatsuni\.com\b
 \bkatsunihardcore\.com\b
-\bspirited\-expeditions\.com\b
+\bspirited-expeditions\.com\b
 \bsearchx\.1gb\.in\b
 \bkelis\-pics\.com\b
-#.*\-pics\.com\b
-\baliciakeys\-pics\.com\b
-\bshakira\-pictures\.net\b
+\baliciakeys-pics\.com\b
+\bshakira-pictures\.net\b
 ########################################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
