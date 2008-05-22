@@ -6394,6 +6394,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bspirited-expeditions\.com\b
 \bsearchx\.1gb\.in\b
 \bkelis\-pics\.com\b
+.*\-pics\.com\b
 ########################################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
