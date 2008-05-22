@@ -6421,6 +6421,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bamanda-bynes\.tv\b
 \bvanessa-hudgens\.tv\b
 \brwitherspoon\.net\b
-\bashley-tisdale\.tv 
+\bashley-tisdale\.tv\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
