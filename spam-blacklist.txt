@@ -6438,5 +6438,15 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \baniston-pics\.com\b
 \bgeocities\.com\/spiritualsatanist\b
 \bgeocities\.com\/satanismresource\b
+\bimmovableproperty\.com\b
+\bbanknotes\.com\b
+\bequay\.com\b
+\bfloridah\.com\b 
+\bnortherncarolina\.com\b 
+\breserve-bank\.com\b
+\bsingle2\.com\b 
+\buinternet\.com\b
+\bbanknote\.biz\b
+\bworldcurrency\.biz\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
