@@ -6434,5 +6434,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bjennifer-pics\.com\b
 \bsharapova-pics\.com\b
 \baniston-pics\.com\b
+\bgeocities\.com\/spiritualsatanist\b
+\bgeocities\.com\/satanismresource\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
