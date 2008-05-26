@@ -6448,5 +6448,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \buinternet\.com\b
 \bbanknote\.biz\b
 \bworldcurrency\.biz\b
+\badrian-valles\.com\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
