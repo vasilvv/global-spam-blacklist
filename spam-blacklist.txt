@@ -6403,6 +6403,8 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \blafee\.net\.ru\b
 \bwienbilder\.at\b
 \bucadhadi\.fr\.gd\b
+\bchristianthomaskohl\.googlepages\b.com\b
+\bctkohl\.googlepages\.com\b
 ########################################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
