@@ -6449,6 +6449,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bbanknote\.biz\b
 \bworldcurrency\.biz\b
 \badrian-valles\.com\b
+\bantalyahomes\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
