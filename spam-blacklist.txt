@@ -6454,5 +6454,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bgroups\.yahoo\.com\/group\/satanismresource\b
 \bCelebPoker\.com\b
 \bimaginationtakeover\.blogspot\.com\b
+\bmultiquiz\.net\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
