@@ -6162,7 +6162,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bfanhistory\.com\b
 \bpasiontango\.net\b
 \bskyscrapervideos\.com\b
-\bhnl-statistika\.com\b
 \bthomas\.eu\b
 \bthomascarlyle\.eu\b
 \bfunkyukrainian\.com\b
