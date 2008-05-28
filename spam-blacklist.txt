@@ -6453,6 +6453,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bantalyahomes\.com\b
 \bgroups\.yahoo\.com\/group\/satanismresource\b
 \bCelebPoker\.com\b
-
+\bimaginationtakeover\.blogspot\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
