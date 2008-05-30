@@ -6406,6 +6406,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bctkohl\.googlepages\.com\b
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
+\boffisteria\.com\b
 ########################################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
