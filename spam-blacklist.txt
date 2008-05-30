@@ -6458,6 +6458,13 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bimaginationtakeover\.blogspot\.com\b
 \bmultiquiz\.net\b
 \berosramazzottiweb\.com\b
-
+\bwikifipau\.org\b
+\bnukinavi-212\.com\b
+\bdeli-spot\.net\b
+\bza-hitonotsuma.co\b
+\bnightlifepartner\.com\b
+\boka-3\.com\b
+\bfuzokudx\.com\b
+\bpropaganda-web\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
