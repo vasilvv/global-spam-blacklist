@@ -6467,5 +6467,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \boka-3\.com\b
 \bfuzokudx\.com\b
 \bpropaganda-web\.com\b
+\bfolkmusicindia\.com\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
