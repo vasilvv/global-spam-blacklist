@@ -6468,6 +6468,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bfuzokudx\.com\b
 \bpropaganda-web\.com\b
 \bfolkmusicindia\.com\b
+\bgiacomo\.lorenzoni\.name\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
