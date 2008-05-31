@@ -6363,7 +6363,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \byatuc\.com\b
 \byep\.it\b
 #end of url shorteners
-########################################Mike.lifeguard's additions
+##################Mike.lifeguard's additions
 \bkalev\.ee\b
 \binnojairja\.blogspot\.com\b
 \btiibet\.org\b
@@ -6407,7 +6407,8 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
 \boffisteria\.com\b
-########################################end Mike.lifeguard's additions
+\bradiovazogasy\.com\b
+##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
 \balcoholaddiction\.org\b
