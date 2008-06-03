@@ -6476,5 +6476,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bcocateaperu\.com\b
 \bincaperu\.org\b
 \bminibooksworld\.com\b
+\bsatanismresource\.fortunecity\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
