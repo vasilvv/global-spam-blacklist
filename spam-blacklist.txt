@@ -6473,5 +6473,8 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bgiacomo\.lorenzoni\.name\b
 \bviartis\.net\b
 \bthingyurl\.com\b
+\bcocateaperu\.com\b
+\bincaperu\.org\b
+\bminibooksworld\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
