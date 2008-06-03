@@ -6479,5 +6479,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bminibooksworld\.com\b
 \bsatanismresource\.fortunecity\.com\b
 \bapartmani\.soko-banja\.org\b
+\bwikipediareview\.com\b  # TEMP ADDITION, remove when site does not contain virus anymore
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
