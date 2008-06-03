@@ -6408,6 +6408,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bgaliza\.indymedia\.org\b
 \boffisteria\.com\b
 \bradiovazogasy\.com\b
+\bthemza\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
