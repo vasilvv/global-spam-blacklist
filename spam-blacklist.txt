@@ -6415,6 +6415,7 @@ stock-load\.org
 securitiesfinance\.com
 pipe-replacement\.com
 loan-stock\.org
+seoogle\.com\.tr
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
