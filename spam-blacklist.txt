@@ -6497,5 +6497,16 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bseoogle\.net\b
 \bsomethingunpredictable\.com\b
 \bvoxml\.org\b
+\bcasinogun\.com\b
+\bcasinomundi\.com\b
+\bgalloeros\.com\b
+\bgallogeo\.com\b
+\bgallomania\.it\b
+\bgallomedia\.net\b
+\bgallosexy\.com\b
+\bgalloshop\.com\b
+\bgallovip\.com\b
+\bpokerinweb\.com\b
+\bsmsfusion\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
