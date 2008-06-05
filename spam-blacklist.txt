@@ -6486,5 +6486,6 @@ seoogle\.com\.tr
 \bsatanismresource\.fortunecity\.com\b
 \bapartmani\.soko-banja\.org\b
 \bgeocities\.com\/Peces20
+\bzhengyexing\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
