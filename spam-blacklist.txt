@@ -6410,12 +6410,12 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bradiovazogasy\.com\b
 \bthemza\.com\b
 \bdesigneeroaarnio\.com\b
-hedge(lender|loan)(\.wordpress)?\.(com|net|org)
-stock-load\.org
-securitiesfinance\.com
-pipe-replacement\.com
-loan-stock\.org
-seoogle\.com\.tr
+\bhedge(lender|loan)(\.wordpress)?\.(com|net|org)\b
+\bstock-load\.org\b
+\bsecuritiesfinance\.com\b
+\bpipe-replacement\.com\b
+\bloan-stock\.org\b
+\bseoogle\.com\.tr\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
