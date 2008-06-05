@@ -6487,5 +6487,15 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bapartmani\.soko-banja\.org\b
 \bgeocities\.com\/Peces20
 \bzhengyexing\.com\b
+\b1kez\.com\b
+\badslkurulum\.com\b
+\bcityairportrain\.com\b
+\bkiralik-oto-ankara\.com\b
+\bmuzikfakultesi\.com\b
+\bpechakucha\.org\b
+\bseoogle\.com\.tr\b
+\bseoogle\.net\b
+\bsomethingunpredictable\.com\b
+\bvoxml\.org\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
