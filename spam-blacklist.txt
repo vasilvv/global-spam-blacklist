@@ -6509,5 +6509,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpokerinweb\.com\b
 \bsmsfusion\.com\b
 \btreatmentcenters\.org\b
+\bdrugrehabcenter\.com\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
