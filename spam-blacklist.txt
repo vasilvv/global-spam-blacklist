@@ -6511,6 +6511,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \btreatmentcenters\.org\b
 \bdrugrehabcenter\.com\b
 \bsupermodels\.nl\b
-
+\bcccb\.org\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
