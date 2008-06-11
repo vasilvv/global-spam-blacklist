@@ -6516,5 +6516,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bstadiumzone\.net\b
 \bpedagogy\.ir\b
 \bronaldoweb\.com\b
+\balizee-latino\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
