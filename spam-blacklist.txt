@@ -6515,5 +6515,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmaskmelin\.livejournal\.com\b
 \bstadiumzone\.net\b
 \bpedagogy\.ir\b
+\bronaldoweb\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
