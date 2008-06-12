@@ -6517,5 +6517,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpedagogy\.ir\b
 \bronaldoweb\.com\b
 \balizee-latino\.com\b
+\bossolaland\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
