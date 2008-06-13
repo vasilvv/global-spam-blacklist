@@ -6405,7 +6405,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 # CTKohl section
 \bchristianthomaskohl\.googlepages\b.com\b
 \bctkohl\.googlepages\.com\b
-\blankalibrary\.com\/phpBB\/viewtopic.php\?t=3618\b 
+\blankalibrary\.com\/phpBB\/viewtopic\.php\?t=3618\b 
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
