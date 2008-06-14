@@ -6523,5 +6523,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \balizee-latino\.com\b
 \bossolaland\.com\b
 \bm-monroe\.org\b
+\bw3\.coh\.arizona\.edu\/french\/accueil\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
