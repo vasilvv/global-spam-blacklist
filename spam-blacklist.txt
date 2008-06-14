@@ -6525,6 +6525,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bm-monroe\.org\b
 \bw3\.coh\.arizona\.edu\/french\/accueil\b
 \bqaraim\.eu\.googlepages\.com\b
+\bvideo-globe\.com\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
