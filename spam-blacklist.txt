@@ -6406,6 +6406,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bchristianthomaskohl\.googlepages\b.com\b
 \bctkohl\.googlepages\.com\b
 \blankalibrary\.com\/phpBB\/viewtopic\.php\?t=3618\b 
+\bboloji\.com\/buddhism\/00119\.htm\b
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
@@ -6527,7 +6528,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bqaraim\.eu\.googlepages\.com\b
 \bvideo-globe\.com\b
 \bjehovah-shamah\.wikidot\.com\b
-\bboloji\.com\/buddhism\/00119\.htm\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
