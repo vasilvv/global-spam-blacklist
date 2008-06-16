@@ -6526,6 +6526,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bw3\.coh\.arizona\.edu\/french\/accueil\b
 \bqaraim\.eu\.googlepages\.com\b
 \bvideo-globe\.com\b
-
+\bjehovah-shamah\.wikidot\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
