@@ -6528,6 +6528,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bqaraim\.eu\.googlepages\.com\b
 \bvideo-globe\.com\b
 \bjehovah-shamah\.wikidot\.com\b
+\banimal-sex\.com\.ua\b
 
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
