@@ -6527,5 +6527,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bqaraim\.eu\.googlepages\.com\b
 \bvideo-globe\.com\b
 \bjehovah-shamah\.wikidot\.com\b
+\bboloji\.com\/buddhism\/00119\.htm\b
+
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
