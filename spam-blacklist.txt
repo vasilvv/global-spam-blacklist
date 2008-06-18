@@ -1276,7 +1276,7 @@ xxx-posed\.com
 \burlot\.com\b
 
 # spyware
-ntsearch\.com
+\bntsearch\.com\b
 
 # spam
 kapitalism\.net
