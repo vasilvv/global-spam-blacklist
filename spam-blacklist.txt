@@ -6530,6 +6530,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bvideo-globe\.com\b
 \bjehovah-shamah\.wikidot\.com\b
 \banimal-sex\.com\.ua\b
-
+\bvilnius1\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
