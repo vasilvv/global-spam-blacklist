@@ -6534,5 +6534,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bvilnius1\.com\b
 \badmiroutes\.asso\.fr\/larevue\/2007\/83\/kohl\.htm
 \bla-palma\.de\b
+\bblack-imari\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
