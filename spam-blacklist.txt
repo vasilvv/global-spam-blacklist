@@ -2,7 +2,7 @@
  # DO NOT MODIFY THIS LIST UNLESS YOU HAVE A BASIC UNDERSTANDING OF REGEX! #
  ###########################################################################
  #
- # This is a list of domain names which are blocked - nobody can add links to these domains
+ # This is a list of domain names which are blocked - nobody can add new links to these domains
  # Guidelines:
  #    - Only blacklist for widespread, unmanageable spam.
  #    - To disable an entry, *remove* it, don't comment it out.
@@ -6423,7 +6423,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bbidmonfa\.com\b
 \bis\.gd\b
 \bkamasyworkamanda\.info\b
-\bfreewebs\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
