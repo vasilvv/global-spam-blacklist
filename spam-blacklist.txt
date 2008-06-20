@@ -6532,5 +6532,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bjehovah-shamah\.wikidot\.com\b
 \banimal-sex\.com\.ua\b
 \bvilnius1\.com\b
+\badmiroutes\.asso\.fr\/larevue\/2007\/83\/kohl\.htm
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
