@@ -6537,5 +6537,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bblack-imari\.com\b
 \bnil\.su\b
 \baccessoarerdesign\.se\b
+\btownbridgecom\.com\b
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
