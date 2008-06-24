@@ -6549,5 +6549,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 #temporary to stop ongoing cross-wiki spam
 \bbudterence\.it\b
 \bitem4u\.com\b
+\biphone\.click2creation\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
