@@ -6550,5 +6550,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bbudterence\.it\b
 \bitem4u\.com\b
 \biphone\.click2creation\.com\b
+\bachterhoek-promotie\.nl\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
