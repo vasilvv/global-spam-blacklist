@@ -6552,5 +6552,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \biphone\.click2creation\.com\b
 \bachterhoek-promotie\.nl\b
 \bpatagoniaschool\.com\b
+\ball-pokersites\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
