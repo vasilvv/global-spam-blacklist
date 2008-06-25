@@ -6553,5 +6553,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bachterhoek-promotie\.nl\b
 \bpatagoniaschool\.com\b
 \ball-pokersites\.com\b
+\bautomovil\.cc\b 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
