@@ -6556,5 +6556,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \ball-pokersites\.com\b
 \bautomovil\.cc\b 
 \bpowerplaymanager\.com\b
+\bone2many\.eu\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
