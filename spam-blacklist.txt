@@ -6555,5 +6555,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpatagoniaschool\.com\b
 \ball-pokersites\.com\b
 \bautomovil\.cc\b 
+\bpowerplaymanager\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
