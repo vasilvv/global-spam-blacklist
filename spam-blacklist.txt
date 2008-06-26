@@ -6428,6 +6428,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \beverestpoker\.com\b
 \bpokertars\.com\b
 \bultimatepoker\.com\b
+\bcarmasutra\.fr\.gd\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
