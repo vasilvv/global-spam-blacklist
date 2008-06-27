@@ -6430,6 +6430,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bultimatepoker\.com\b
 \bcarmasutra\.fr\.gd\b
 \bmysticquestontheweb\.free\.fr\b
+\bnatsume-hyuga\.net\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
