@@ -6435,6 +6435,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bgiannanannini\.fan-club\.it\b
 \bspanish\.online-spanisch\.com\b
 \bnoticiasmusicais\.com\b
+\beclipse-china\.cn\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
