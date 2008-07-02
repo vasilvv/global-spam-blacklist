@@ -6568,6 +6568,8 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bone2many\.eu\b
 \bmonkeysee\.com\b
 \bstavanger-guide\.no\b
+\bsandnes-guide\.no\b
+\bsandnes-guide\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
