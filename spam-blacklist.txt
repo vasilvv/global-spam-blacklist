@@ -6571,5 +6571,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsandnes-guide\.no\b
 \bsandnes-guide\.com\b
 \bpanorama-cities\.net\b
+\b/undeadcf\.info\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
