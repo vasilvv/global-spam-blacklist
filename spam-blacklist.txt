@@ -6573,5 +6573,10 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpanorama-cities\.net\b
 \bundeadcf\.info\b
 \bkaralahana\.net\b
+\bbaccara2007\.moonfruit\.com\b
+\bbaccara-web\.de\b
+\bboards\.melodysoft\.com\/baccara2000\b
+\bczejarek\.pl\/baccara\b
+\bmayte-mateos\.cabanova\.de\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
