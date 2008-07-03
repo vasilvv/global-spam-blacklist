@@ -6578,5 +6578,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bboards\.melodysoft\.com\/baccara2000\b
 \bczejarek\.pl\/baccara\b
 \bmayte-mateos\.cabanova\.de\b
+\bmondakalendaro\.org\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
