@@ -6580,5 +6580,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmayte-mateos\.cabanova\.de\b
 \bmondakalendaro\.org\b
 \bklaku\.net\b
+\bjameslastfan\.de\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
