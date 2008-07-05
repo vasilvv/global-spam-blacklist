@@ -6438,6 +6438,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \beclipse-china\.cn\b
 \bcardcounting\.com\.br\b
 \bstorz-bickel\.com\b
+\bflash-ascript\.blogspot\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
