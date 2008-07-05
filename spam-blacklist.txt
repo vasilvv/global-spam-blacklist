@@ -6582,6 +6582,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bklaku\.net\b
 \bjameslastfan\.de\b
 \beturbo\.net\b
+\bdieselevante\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
