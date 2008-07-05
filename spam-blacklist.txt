@@ -6581,6 +6581,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmondakalendaro\.org\b
 \bklaku\.net\b
 \bjameslastfan\.de\b
+\beturbo\.net\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
