@@ -6584,6 +6584,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bjameslastfan\.de\b
 \beturbo\.net\b
 \bdieselevante\.com\b
-
+\brastaforum\.org\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
