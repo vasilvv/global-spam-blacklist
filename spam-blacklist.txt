@@ -6591,6 +6591,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bforexinvestor\.us\b
 \bforexinvestor\.es\b
 \bseo-info\.nl\b
+\bkavlak\.net\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
