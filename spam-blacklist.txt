@@ -6594,6 +6594,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bkavlak\.net\b
 \badoraphoto\.com\b
 \bmhbox\.cn\b
+\bfm9001\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
