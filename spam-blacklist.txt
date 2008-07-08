@@ -6601,5 +6601,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \b198m\.com\b
 \bbendery-600\.ru\b
 \bsheetmusicarchive\.net\b
+\bmusicdumper\.com\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
