@@ -6599,5 +6599,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bdaliprinting\.com\b
 \bzstrans\.com\b
 \b198m\.com\b
+\bbendery-600\.ru\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
