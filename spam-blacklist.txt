@@ -6571,7 +6571,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bstavanger-guide\.no\b
 \bsandnes-guide\.no\b
 \bsandnes-guide\.com\b
-\bpanorama-cities\.net\b
 \bundeadcf\.info\b
 \bkaralahana\.net\b
 \bbaccara2007\.moonfruit\.com\b
