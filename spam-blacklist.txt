@@ -5432,6 +5432,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \borigamivideos\.net
 \bmetalhead\.ro\b
 \bbestmusic\.ro\b
+\brockon\.ro\b
 \bbilgipara\.com\b
 \bpataraexcavations\.com\b
 \brhodiapolis\.com\b
