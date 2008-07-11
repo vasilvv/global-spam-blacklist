@@ -6606,5 +6606,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \boil-community\.blogspot\.com\b
 #temporary - crosswiki spam
 \bimg205\.imageshack\.us\b
+\bimageshack\.us\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
