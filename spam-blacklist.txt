@@ -6607,5 +6607,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 #temporary - crosswiki spam
 \bimg205\.imageshack\.us\b
 \bimageshack\.us\b
+\brapmatix\.com\/musics\/music527\.mp3\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
