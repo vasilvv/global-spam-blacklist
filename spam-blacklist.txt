@@ -6587,11 +6587,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \beturbo\.net\b
 \bdieselevante\.com\b
 \brastaforum\.org\b
-\bforexinvestor\.se\b
-\bforexinvestor\.de\b
-\bforexinvestor\.nl\b
-\bforexinvestor\.us\b
-\bforexinvestor\.es\b
+\bforexinvestor\.(se|de|nl|us|es)\b
 \bseo-info\.nl\b
 \bkavlak\.net\b
 \badoraphoto\.com\b
