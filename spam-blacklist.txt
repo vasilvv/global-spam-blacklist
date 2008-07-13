@@ -137,18 +137,10 @@ hostfuck\.com
 \.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility.
 
 # Replacing overly broad once above - Andre Engels, 2005-08-09
-heavytools\.webzdarma\.cz
+\b(heavytools|hydrocodone|spyware|phentermine|carisoprodol|sexforfree)\.webzdarma\.cz\b
 phentermine-online
-hydrocodone\.webzdarma\.cz
-spyware\.webzdarma\.cz
-phentermine\.webzdarma\.cz
-carisoprodol\.webzdarma\.cz
-sexforfree\.webzdarma\.cz
-viagra\.newmail\.ru
-phentermine\.newmail\.ru
-donewhere\.bigsitecity\.com
-olonline\.bigsitecity\.com
-spyware\.bigsitecity\.com
+(viagra|phentermine)\.newmail\.ru
+(donewhere|olonline|spyware)\.bigsitecity\.com
 
 # Added by Andre Engels, 2005-08-09
 
@@ -163,16 +155,10 @@ crionica\.bpa\.nu
 streamings\.cable\.nu
 fectr\.dundeeleagues\.ca
 sherlok\.homes\.com\.au
-author\.nerdcamp\.net
-chaka\.nerdcamp\.net
-dabest\.nerdcamp\.net
-ferdrubt\.nerdcamp\.net
-freedom\.nerdcamp\.net
-popov\.nerdcamp\.net
+(author|chaka|dabest|ferdrubt|freedom|popov)\.nerdcamp\.net
 perfection\.prettyfar\.com
 whoisi\.whyza\.net
-bidlo\.zenno\.info
-fakir\.zenno\.info
+(bidlo|fakir)\.zenno\.info
 
 # Added by UninvitedCompany, 8\/10\/2005
 all-hotels-motels\.com
@@ -184,16 +170,8 @@ phentermine-drugs\.euro\.tm
 21jewelry\.com
 mrjeweller\.us
 detox-kit\.com
-adipex\.shengen\.ru
-levitra\.shengen\.ru
-lortab\.shengen\.ru
-diazepam\.shengen\.ru
-protonix\.shengen\.ru
-hydrocodone\.shengen\.ru
+(adipex|levitra|lortab|diazepam|protonix|hydrocodone|toe|detox|jewelry)\.shengen\.ru
 tests-market\.com
-toe\.shengen\.ru
-detox\.shengen\.ru
-jewelry\.shengen\.ru
 
 # added by brion
 about-travels\.host\.sk
@@ -215,9 +193,7 @@ gensei-ryu\.nl
 # [[User:AlisonW|Alison Wheeler]] 22:13, 31 May 2006 (UTC)
 
 # Zenno\.info spam links
-epsilon\.zenno\.info
-googlesuka\.zenno\.info
-stol\.zenno\.info
+(epsilon|googlesuka|stol)\.zenno\.info
 shoesbuy\.com
 shoesshop\.biz
 
@@ -231,15 +207,11 @@ shoesshop\.biz
 
 # from zh 
 \.6iuhecai\.com
-\.ltdcr\.com
-\.ltdcr\.net
-\.ltdcr\.org
-\.ltdcr\.cn
+\.ltdcr\.(com|net|org|cn)
 \.hkccr\.org
 \.hkce\.org
 \.hkce\.net
-\.cegcr\.com
-\.cegcr\.net
+\.cegcr\.(com|net)
 \.hktmr\.com
 \.hkltdcr\.org
 \.tradeinvests\.com
@@ -408,15 +380,8 @@ hothouse\.linux\.dk
 \.true-search\.net
 \.wikipedia\.741\.com
 freesexxx\.blog-city\.com
-freesexxx1\.blog-city\.com
-freesexxx2\.blog-city\.com
-freesexxx3\.blog-city\.com
-freesexxx4\.blog-city\.com
-club\.blog-city\.com
-club1\.blog-city\.com
-club2\.blog-city\.com
-club3\.blog-city\.com
-club4\.blog-city\.com
+freesexxx(1|2|3|4)\.blog-city\.com
+club(1|2|3|4)?\.blog-city\.com
 \.comunalia\.com\/replica
 gaestebuch\.007box\.de
 \.sove\.info
@@ -528,9 +493,7 @@ goatse\.ca
 \.fengshui-xuankong\.com
 \.chineseart\.com\/feng-shui\.htm
 \.smilingbamboo\.com
-www\.splashblog\.com\/orderambien
-www\.splashblog\.com\/orderphentermine
-www\.splashblog\.com\/ordercarisoprodol
+\bsplashblog\.com\/order(ambien|phentermine|carisoprodol)\b
 www\.debt-money\.com
 www\.newskentei\.jp
 831rec\.blog99\.fc2\.com
@@ -707,11 +670,7 @@ princeoftennis\.de
 shaman-king\.de
 yugioh\.de
 \.fanart\.de
-freeonlinecasinoslots\.blogspot\.com
-vip-freeonlineslots\.blogspot\.com
-vip-bestonlinecasinos\.blogspot\.com
-atlanticcitycasinos\.blogspot\.com
-car-insurance-\.blogspot\.com
+(freeonlinecasinoslots|vip-freeonlineslots|vip-bestonlinecasinos|atlanticcitycasinos|car-insurance-)\.blogspot\.com
 
 #commons
 health-medical\.be
@@ -1520,10 +1479,7 @@ top\.netfirms\.com
 homes\.aol\.com
 tfitj\.info
 espacioblog\.com
-ngvjj\.info
-udtgt\.info
-pzkyy\.info
-pxjhh\.info
+(ngvjj|udtgt|pzkyy|pxjhh)\.info
 21publish\.de
 chezmoi\.aol\.ca
 \.cs\.com
@@ -1647,11 +1603,7 @@ woodking24india\.com
 woodking24india\.b2bquote\.com
 woodking24\.exporterindias\.com
 geocities\.com\/woodking24
-indoorfurniture\.co\.in
-outdoorfurniture\.co\.in
-rusticfurniture\.co\.in
-indianfurniture\.co\.in
-homefurniture\.co\.in
+(indoor|outdoor|rustic|indian|home)furniture\.co\.in
 20six\.co\.uk
 \.pill[0-9]\.info
 funchain\.com
@@ -1772,34 +1724,12 @@ quotaless\.com
 #Brass India
 aksharmetal\.com
 appleeou\.com
-appleinternational\.com
-appleinternationalenggworks\.com
-appleinternational\.co\.in
-appleinternational\.in
+appleinternational(enggworks)?\.(com|in|co\.in)
 appleworldwide\.com
 autobrassonline\.com
-brassbuildinghardware\.com
-brasscableglands\.com
-brasselectrical\.com
-brasselectricalaccessories\.com
-brasselectricalcomponents\.com
-brassfastenersindia\.com
-brass-fasteners\.com
-brass-fasteners-india\.com
-brassfittingcomponents\.com
-brassinsertsbrassnutsbrassbolts\.com
-brass-inserts-fasteners-india\.com
-brassneutrallinks\.com
-brassnuts-brassbolts\.com
-brasspartsindia\.com
+brass(turnedcomponents|terminalconnectors|-screws-bolts-nuts|precisionparts|partsindia|nuts-brassbolts|neutrallinks|-inserts-fasteners-india|insertsbrassnutsbrassbolts|buildinghardware|cableglands|electrical|electricalaccessories|electricalcomponents|fastenersindia|-fasteners|-fasteners-india|fittingcomponents)\.com
 brassparts\.ind\.in
-brassprecisionparts\.com 
-brass-screws-bolts-nuts\.com
-brassterminalconnectors\.com
-brassturnedcomponents\.com
-cableglands-india\.com
-cable-glands-asia\.com
-cableglandsworldwide\.com
+cable(glandsworldwide|-glands-asia|glands-india)\.com
 hindustanimpex\.com
 jamnagaronline\.com
 rathodind\.com
@@ -1853,8 +1783,7 @@ alien(life|news)\.info
 amateurspaceflight\.com
 \.artofwar\.name
 atomicrockets\.com
-badastronomer\.com
-badastronomy\.info
+badastronom(er|y)\.com
 bindiirwin\.info
 carlsagan\.info
 chloemurdoch\.com
@@ -1912,8 +1841,7 @@ yowiehunter\.com
 ##Gastrich
 jcsm\.org
 jasongastrich\.com
-lamusiclessons\.com
-sdmusiclessons\.com
+(la|sd)musiclessons\.com
 \.golbu\.com
 maleboge\.com # added by JzG ~~~~~
 
@@ -1935,11 +1863,9 @@ swiki\.nadir\.org\/refs
 japanese-girl\-xxx\.com
 
 ##spam on catux\.org
-\.xmail\.net\/search
-\.xmail\.net\/ac
+\.xmail\.net\/(search|ac)
 doc\.svp-info\.com
-weer\.blogs\.eurosport\.es\/files
-weer\.pbwiki\.com\/f
+weer\.blogs\.(eurosport\.es\/files|com\/f)
 figgles\.8k\.com
 privetparis\.com
 
@@ -2076,22 +2002,6 @@ parishilton-paris\.blogspot\.com
 lifestylemagic\.com #en spamming
 strumpette\.com #en spamming; discussed by arbcom
 
-#These sites are redirecting requests from Wikimedia sites to a third-party site\.
-
-# Per talk,these redirects appear to have stopped in mid-2006. Commented for the time being. -Eloquence
-
-#namebase\.org
-
-#wikipedia-watch\.org    
-
-#google-watch\.org       
-
-#cia-on-campus\.org      
-
-#scroogle\.org
-
-#yahoo-watch\.org
-
 #The following sites are being used to get around the scroogle.org spam blacklisting (above)
 being-ones-self\.org
 myegotimes\.com
@@ -2162,12 +2072,9 @@ onix1000\.com
 \.w0qb\.info
 \.redirect\.hm
 drugs\.passingg\.as
-drugs\.isgre\.at
+drugs\.(isgre|lowestprices)\.at
 drugs\.byinter\.net
-drugs\.lowestprices\.at
-drugs\.chickenkiller\.com
-drugs\.ignorelist\.com
-drugs\.mooo\.com
+drugs\.(mooo|ignorelist|chickenkiller)\.com
 drugs\.strangled\.net
 [0-9]+\.[-\w\d]+\.info\/?[-\w\d]+[0-9]+[-\w\d]*\]
 \.lol\.to
@@ -2188,8 +2095,7 @@ oxrash\.com
 cell-phones-store\.net
 pill\.envy\.nu
 order-online\.50webs\.com
-casino-baron\.com
-casino-flower\.com
+casino-(flower|baron)\.com
 pornzonehost\.com
 meenan1\.com
 debt-consolidation-loan-c\.blogspot\.com
@@ -2459,9 +2365,7 @@ eczz\.com
 musica\.org\.es
 \.y365\.com
 -cam-chat\.com
--chat-room\.us
--chat-live\.com
--chat-room\.com
+-chat-(room|live)\.(us|com)
 -webcams\.com
 xyzdown\.com
 boxget\.net
@@ -2705,9 +2609,7 @@ firsthearingaids\.com
 medicalhairtransplantation\.org
 southbeach-diet-plan\.info
 toxicblackmoldhelp\.org
-treatacidreflux\.org
-treatgenitalwarts\.org
-treatnailfungus\.org
+treat(acidreflux|genitalwarts|nailfungus)\.org
 \.aatrax\.com
 \.abilogic\.com
 alaska-adventures\.net
@@ -2836,8 +2738,7 @@ b2\.boards2go\.com
 big\.de\.com
 boenicke-keramik\.de
 book-translation\.com
-buy-ambien-online\.fuks\.pl
-buy-valium-online\.fuks\.pl
+buy-(valium|ambien)-online\.fuks\.pl
 celebrities\.evac4\.com 
 cheapholidayaccommodation
 chinaplay\.org
@@ -3240,9 +3141,8 @@ amanteaninelmondo\.info
 (zzw2z|myjhy|ngvjj|eqqwsa|ccxxsg|weewss)\.info
 (uskupi|klzuydg|abradco|xddme|dicmh)\.com
 (prosaleshop|bestbidbuy|adirect)\.org
-(lyvyl|moank|anagl|ankyl|gergv|clapn|tigri|teeti|sabd|scyb|iifooi|qsskk|csddj|ddl8i|afdss|oberl|ykkkh|tdfsf|zfdfs)\.info
+(oduuy|aiipa|lyvyl|moank|anagl|ankyl|gergv|clapn|tigri|teeti|sabd|scyb|iifooi|qsskk|csddj|ddl8i|afdss|oberl|ykkkh|tdfsf|zfdfs)\.info
 special-ringtones\.net
-(oduuy|aiipa)\.info
 \.xxell\.com
 blackcomb\.co\.uk
 centraldorap\.com
@@ -3371,27 +3271,15 @@ attorneys-online\.org
 animations-games-india\.com
 \.brascomponents\.com
 \.brasparts\.com
-brass-components-india\.com
-brass-copper-castings\.com
-brass-fastener-india\.com
-brass-fittings-india\.com
-\.brass-inserts\.com
-brass-nuts-screws-fasteners\.com
-brass-parts-india\.com
-\.brassfast\.com
-brassfittingsindia\.com
+\bbrass(fittingsindia|fast|-parts-india|-nuts-screws-fasteners|-inserts|-fittings-india|-fastener-india|-copper-castings|-components-india)\.com\b
 bronze-castings-fittings\.com
 \.cableaccs\.com
 \.cableglandsindia\.com
 \.conexindia\.com
 \.conexmetals\.com
 \.conextechno\.com
-diamond-earrings-india\.com
-diamond-jewellery-india\.com
-diamond-pendants-india\.com
-diamond-ring-diamond-rings\.com
+diamond-(rings-india|ring-diamond-rings|pendants-india|earrings-india|jewellery-india)\.com
 diamond-ring-rings\.tripod\.com
-diamond-rings-india\.com
 \.elecaccs\.com
 electrical-brass-components\.com
 electricalbrass\.f2s\.com
@@ -3511,24 +3399,7 @@ npcart\.com
 shumilloff\.jino-net\.ru
 modlibrary\.net\/proxy
 waterfordhomeschool\.org
-mk8\.org
-dy9\.org
-b80\.org
-t63\.org
-m32\.org
-80i\.org
-b65\.org
-bz8\.org
-68t\.org
-51a\.org
-z56\.org
-z95\.org
-7rg\.org
-74a\.org
-mr7\.org
-98f\.org
-i38\.org
-d4x\.org
+\b(mk8|dy9|b80|t63|m32|80i|b65|bz8|68t|51a|z56|z95|7rg|74a|mr7|98f|i38|d4x)\.org\b
 clandrake\.org
 ninjaproxy\.com
 fastfreeproxy\.com
@@ -3550,21 +3421,10 @@ surfonsteroids\.com
 browsefrom\.com
 letmepast\.com
 shipproxy\.com
-proxyfriend\.com
-proxyeye\.com
-proxybat\.com
+proxy(friend|eye|bat|77|88|mix|raptor|work|snow|pulse|aliens|flame)\.com
 proxycover\.(com|net)
-proxy77\.com
-proxy88\.com
 bypassproxy\.net
-proxymix\.com
-proxyraptor\.com
-proxywork\.com
-proxysnow\.com
-proxypulse\.com
 waterproxy\.com
-proxyaliens\.com
-proxyflame\.com
 gostealthy\.com
 shannen\.info
 redlandsclassic\.org
@@ -3578,15 +3438,11 @@ lesproxy\.com
 ipdefend\.com
 worldproxy\.info
 proxyl(y|la)\.com
-proxyatwork\.com
+\bproxy(atwork|atschool|allow)\.com\b
 cloakme\.net
-proxyatschool\.com
-proxyallow\.com
 proxies\.bz
-elproxy\.com
-anoproxy\.com
+\b(eco|ano|el)proxy\.com
 shadowsurf\.com
-ecoproxy\.com
 nevercaught\.com
 unblockweb\.com
 daveproxy\.co\.uk
@@ -3705,9 +3561,8 @@ didbarrycheat\.com
 lasvegasbuyeragent\.com
 \.sportus\.com
 easybaseballbetting\.com
-manchestercityyears\.com
+(manchester|birmingham)cityyears\.com
 arsenalfcyears\.com
-birminghamcityyears\.com
 plymouthargyleyears\.com
 sunderlandafcyears\.com
 fulhamfcyears\.com
@@ -3728,12 +3583,7 @@ infinitionlinemechanic\.com
 \.m35forum\.com
 \.m45forum\.com
 \.maximaclub\.org
-nissancommercials\.com
-nissanforia\.com
-nissanonlinemechanic\.com
-nissantech\.com
-nissanterranaut\.com
-nissanversa\.org
+nissan(commercials|foria|onlinemechanic|tech|terranaut|versa)\.com
 \.q45\.org
 \.qx56club\.org
 \.rb26dett\.com
@@ -3771,13 +3621,8 @@ pussy\.phpbbx\.de
 pendant\.php5\.cz
 jewellery\.php5\.cz
 1001nights\.net\\free-porn
-gilbertwesleypurdy\.blogspot\.com
-vgs-wiki-watchdog\.blogspot\.com
-gilbert-wesley-purdy\.blogspot\.com
-vgs-index-and-specialty\.blogspot\.com
-vgs-pbr-reviews\.blogspot\.com
+(virtual-grub-street|vgs-pbr-reviews|vgs-index-and-specialty|gilbert-wesley-purdy|vgs-wiki-watchdog|gilbertwesleypurdy)\.blogspot\.com
 vgscomputerarchive\.myblogsite\.com
-virtual-grub-street\.blogspot\.com
 catalyzerjournal\.com
 studentville\.it
 digital-synthesizer\.info
@@ -4012,17 +3857,9 @@ republika\.pl\/stranasmer
 \bagablog\.com
 \bakoblog\.com
 \bfamilyincestbiz\.com
-\backue\.info
-\baepwd\.org
-\baexqq\.org
-\baqhfc\.info
-\bcqfnc\.info
-\bcqhfs\.info
-\bcxqqc\.org
-\bfoxqq\.org
-\bxcjas\.com
-\bxcjei\.com
-\bxcjin\.com
+\b(cqhfs|cqfnc|ackue|aqhfc)\.info\b
+\b(aepwd|aexqq|cxqqc|foxqq)\.org
+\b(xcjas|xcjei|xcjin)\.com
 \bamantea\.eu
 \boutrate\.net
 \btutorialspoint\.com
@@ -4048,30 +3885,11 @@ ultime-notizie\.eu
 \bible\.ttsite\.com
 
 # Smartdots.com redirect sites Nick1915
-\bau\.tc\b
-\bco\.at\.tc\b
-\bco\.at\.tt\b
-\bco\.uk\.tc\b
-\bcom\.au\.tc\b
-\bes\.tc\b
-\bhk\.tc\b
-\bhu\.tc\b
-\bie\.tc\b
-\bit\.tc\b
-\bkr\.tc\b
-\bme\.uk\.tc\b
+\b(au|es|hk|hu|ie|it|kr|mx|pl|se|th|ua|us|shop)\.tc\b
+\b(co|com)\.at\.(tc|tt)\b
+\b(co|me|borg)\.uk\.tc\b
 \bme\.uk\.tt\b
-\bmx\.tc\b
-\borg\.uk\.tc\b
-\bpl\.tc\b
-\bse\.tc\b
-\bshop\.tc\b
-\bth\.tc\b
-\bua\.tc\b
-\buk\.tc\b
-\buk\.tt\b
-\bus\.tc\b
-\bus\.tt\b
+\b(uk|us)\.tt\b
 
 #Back to proper logging...
 \bfree-car-insurance-quote\.net
@@ -4092,22 +3910,15 @@ ultime-notizie\.eu
 \blutik\.info
 \baffordable-auto-insurance\b.biz
 \bpressarchive\.net
-\ballthingschina\.com
-\bAllthingsChina\.org
+\ballthingschina\.(com|org)\b
 \balternateroutestravel\.com
-\bbusinessesi\.com
-\bbusinessesi\.org
+\bbusinessesi\.(com|org)
 \bchinahearts\.com
 \bchinaschoolreview\.org
-\bchinatravelfacts\.com
-\bChinaVisaService\.org
-\beslfranchise\.com
-\besljobschina\.com
-\beslschoolreview\.com
-\beslz\.net
+\bchina(travelfacts|visaservice)\.com\b
+\besl(franchise|jobschina|schoolreview|z)\.com\b
 \bhunanteach\.com
-\bjourneyeast\.org
-\bjourneywest\.org
+\bjourney(east|west)\.org\b
 \blearnchinesenow\.net
 \bstudenttravelchina\.org
 \bteach-and-travel\.org
@@ -4351,29 +4162,7 @@ traditio[\.．]ru
 \bdear\.to\b
 \btakeoff\.to\b
 \bchild-support-laws-state-by-state\.com\b
-\bsharon-ariel\.blogspot\.com\b
-\bdaniel911\.blogspot\.com\b
-\bdaniel-911\.blogspot\.com\b
-\blosttentribes\.blogspot\.com\b
-\blifeisatrek\.blogspot\.com\b
-\bchristmasandeaster\.blogspot\.com\b
-\bplaintruthabouteaster\.blogspot\.com\b
-\byitzhakrabin\.blogspot\.com\b
-\bshimonperes\.blogspot\.com\b
-\bdavid-ben-ariel\.blogspot\.com\b
-\bherbert-w-armstrong\.blogspot\.com\b
-\btentribes\.blogspot\.com\b
-\bunresolution181\.blogspot\.com\b
-\beuropeunitedstates\.blogspot\.com\b
-\btwo-witnesses-revelation\.blogspot\.com\b
-\btoledo-race-riots\.blogspot\.com\b
-\barmstrongherbert\.blogspot\.com\b
-\bkemplervideo\.blogspot\.com\b
-\btemplemountjerusalem\.blogspot\.com\b
-\bchristmascondemned\.blogspot\.com\b
-\bbeyondbabylon\.blogspot\.com\b
-\bcometobeyondbabylon\.blogspot\.com\b
-\bronpaulpresident\.blogspot\.com\b
+\b(ronpaulpresident|cometobeyondbabylon|beyondbabylon|christmascondemned|templemountjerusalem|kemplervideo|armstrongherbert|toledo-race-riots|two-witnesses-revelation|europeunitedstates|unresolution181|tentribes|herbert-w-armstrong|david-ben-ariel|shimonperes|yitzhakrabin|plaintruthabouteaster|christmasandeaster|lifeisatrek|losttentribes|daniel-911|daniel911|sharon-ariel)\.blogspot\.com\b
 \balanasoares\.net\b
 \balenaseredova\.org\b
 \balinavacariu\.net\b
@@ -4479,24 +4268,14 @@ traditio[\.．]ru
 \bendre\.info\b
 \bfard\.org\b
 \bfederalcreditunion\.biz\b
-\bjaki\.info\b
-\bjuho\.info\b
-\bkapi\.info\b
-\bmuci\.info\b
-\bnulo\.info\b
-\bolid\.info\b
+\b(vodu|toed|tios|salp|olid|nulo|muci|kapi|juho|jaki)\.info\b
 \bpape\.us\b
-\bsalp\.info\b
 \bseacartel\.com\b
 \bsnns\.biz\b
-\btios\.info\b
-\btoed\.info\b
-\bvodu\.info\b
 \byogacentre\.info\b
 \bandorraz\.org\b
 \bkwfm\.net\b
-\bluketheking\.2page\.de\b
-\bluketheking\.zweipage\.de\b
+\bluketheking\.(2page|zweipage)\.de\b
 \bdui-trix\.com\b
 \bsigord\.blogfa\.com\b
 \bpargatravel\.eu\b
@@ -4674,10 +4453,7 @@ traditio[\.．]ru
 \bexpert-dog-training\.com
 \b100studentloans\.com
 \bacnexpert\.com
-\ball-carparts\.com
-\ball-digitalreviews\.com
-\ball-home-security\.com
-\ball-pcgames\.com
+\ball-(carparts|digitalreviews|home-security|pcgames)\.com\b
 \barthritis-hub\.com
 \basthmaxpert\.com
 \bbulimia-expert\.com
