@@ -3584,7 +3584,7 @@ infinitionlinemechanic\.com
 \.m45forum\.com
 \.maximaclub\.org
 \bnissan(commercials|foria|onlinemechanic|tech|terranaut)\.com\b
-\bnissanversa\.net\b
+\bnissanversa\.org\b
 \.q45\.org
 \.qx56club\.org
 \.rb26dett\.com
