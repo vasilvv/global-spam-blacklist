@@ -15,7 +15,7 @@
 <!-- leave this line exactly as it is --> <pre> 
 # Words
 s-e-x
-\zoofilia
+zoofilia
 xqit
 ganzaoji
 aotubang
@@ -343,8 +343,8 @@ justlovexx\.net
 4ljd\.info
 pills-pharmacy\.be
 98\.to # Hégésippe's list
-\.us\.ma([\/\]\b\s]|$)
-\.be\.ma([\/\]\b\s]|$)
+\.us\.ma\b
+\.be\.ma\b
 1stOK\.com
 3xforum\.ro
 servik\.com
@@ -3770,7 +3770,7 @@ sexfreevideos\.info
 pussy\.phpbbx\.de
 pendant\.php5\.cz
 jewellery\.php5\.cz
-1001nights\.net\free-porn
+1001nights\.net\\free-porn
 gilbertwesleypurdy\.blogspot\.com
 vgs-wiki-watchdog\.blogspot\.com
 gilbert-wesley-purdy\.blogspot\.com
@@ -4217,7 +4217,7 @@ ultime-notizie\.eu
 \bsecretofmana\.info
 \bsnesclassics\.com
 \bsonycarstereos\.co\.uk
-\btranslatedarticles\].com
+\btranslatedarticles\.com
 \bhiphopjazzproductions\.com
 \bquetzal\.4t\.com
 \bdmv\.org
