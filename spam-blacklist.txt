@@ -5210,6 +5210,7 @@ digilander\.libero\.it\/andrea\.nardo1977
 \bmetalhead\.ro\b
 \bbestmusic\.ro\b
 \brockon\.ro\b
+\bmetalheadtv\.com\b
 \bbilgipara\.com\b
 \bpataraexcavations\.com\b
 \brhodiapolis\.com\b
