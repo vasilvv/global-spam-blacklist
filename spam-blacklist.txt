@@ -6228,6 +6228,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bgeorge-michael\.nl\b
 \bspeereo\.com\b
 \bdraftydraft\.com\b
+\bletzlearn\.org\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
