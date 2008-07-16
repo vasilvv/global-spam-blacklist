@@ -4864,7 +4864,6 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bsquoi-oop\.ifrance\.com\b
 \btrumanburb\.ifrance\.com\b
 \beakk\.ifrance\.com\b
-\bgoogle\.az\/search\?hl\=tr\b
 \bkonthaitours\.com\b
 \bkonthaitour\.com\b
 \bhiphop-radio\.50webs\.com\b
@@ -4875,10 +4874,6 @@ www\.google\.com\/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bgoldenseconds\.com\b
 \bquotescrowd\.com\b
 \bideascrowd\.com\b
-\bgoogle\.az\/search\?hl\=az\b
-\bgoogle\.com\.tw\/search\?hl\=tr\b
-\bgoogle\.com\.br\/search\?hl\=tr\b
-\bgoogle\.tr\/search\?hl\=tr\b
 \bgoogle\.com\.tr\/search?hl\=tr\b
 \bkinzparty\.info\b
 \bisraloft\.com\b
