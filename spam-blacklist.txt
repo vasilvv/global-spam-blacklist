@@ -6384,5 +6384,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmusicdumper\.com\b
 \boil-community\.blogspot\.com\b
 \bdesigparis\.com\b
+#temp, ongoing vandalism
+\brapmatix\.com\/musics\/music527\.mp3
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
