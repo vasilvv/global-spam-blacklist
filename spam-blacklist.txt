@@ -6388,10 +6388,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsheetmusicarchive\.net\b
 \bmusicdumper\.com\b
 \boil-community\.blogspot\.com\b
-#temporary - crosswiki spam
-\bimg205\.imageshack\.us\b
-\bimageshack\.us\b
-\brapmatix\.com\/musics\/music527\.mp3\b
 \bdesigparis\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
