@@ -6181,7 +6181,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bctkohl\.googlepages\.com\b
 \blankalibrary\.com\/phpBB\/viewtopic\.php\?t=3618\b 
 \bboloji\.com\/buddhism\/00119\.htm\b
-nagarjuna.*\bgooglepages\.com\b
+nagarjuna.*?\.googlepages\.com\b
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
