@@ -6386,7 +6386,6 @@ nagarjuna.*?\.goglepages\.com\b
 \bmusicdumper\.com\b
 \boil-community\.blogspot\.com\b
 \bdesigparis\.com\b
-#temp, ongoing vandalism
 \brapmatix\.com\/musics\/music527\.mp3\b
 \breadysteadygirls\.eu\b
 ## end of [[Spam blacklist/Log]] section\
