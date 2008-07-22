@@ -6183,6 +6183,9 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bboloji\.com\/buddhism\/00119\.htm\b
 nagarjuna.*?\.googlepages\.com\b
 nagarjuna.*?\.goglepages\.com\b
+\bnagarjunafreiburg\.wordpress\.com\b
+\bchristianthomaskohl\.wordpress\.com\b
+\bbuddhismandquantumphysics\.blogspot\.com\b
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
