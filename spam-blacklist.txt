@@ -6391,5 +6391,21 @@ nagarjuna.*?\.goglepages\.com\b
 \bdesigparis\.com\b
 \brapmatix\.com\/musics\/music527\.mp3\b
 \breadysteadygirls\.eu\b
+\bvipaocgold\.com\b
+\baocsale\.com\b
+\bbuyfastgold\.com\b
+\baocgold10\.com\b
+\bhellgate-pd\.com\b
+\brgtrcredit\.com\b
+\bbuy-cheap-aoc-gold\.com\b
+\bgold4power\.com\b
+\bgame4power\.com\b
+\bmmop\.com\b
+\bitemchannel\.com\b
+\bgo4guide\.com\b
+\bitemstores\.com\b
+\bmmocdk\.com\b
+\bbuyaccounts\.net\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
