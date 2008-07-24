@@ -6407,6 +6407,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bmmocdk\.com\b
 \bbuyaccounts\.net\b
 \bcheapsneakersb2b\.com\b
+\bminu\.ws\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
