@@ -6414,6 +6414,12 @@ nagarjuna.*?\.goglepages\.com\b
 \bbuyaccounts\.net\b
 \bcheapsneakersb2b\.com\b
 \bminu\.ws\b
+\bwallpaper-3d\.tripod\.com\b
+\bwallpaper-new\.0catch\.com\b
+\bwallpaper-new\.100freemb\.com\b
+\bwallpaper\.0fees\.net\b
+\bwallpaper\.totalh\.com\b
+\bwallpaper\.66ghz\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
