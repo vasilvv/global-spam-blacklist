@@ -6186,6 +6186,12 @@ nagarjuna.*?\.goglepages\.com\b
 \bnagarjunafreiburg\.wordpress\.com\b
 \bchristianthomaskohl\.wordpress\.com\b
 \bbuddhismandquantumphysics\.blogspot\.com\b
+\brationalvedanta\.net\/node\/137\b
+\bscribd\.com\/doc\/3245023\/Buddhism-and-Quantum-Physics\b
+\bblog\.civilisations-matter\.org\/2008\/01\/15\/east-meets-west\b
+\bblog\.civilisations-matter\.org\/category\/blog-von-christian-thomas-kohl\b
+\bcm-germany\.org\/wordpress\/2008\/02\/09\/east-meets-west\/\b
+\bnewdualism\.org\/papers\/C\.Kohl\/Buddhism-QP-Parallel\.htm\b
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
