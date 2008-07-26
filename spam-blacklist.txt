@@ -6421,6 +6421,6 @@ nagarjuna.*?\.goglepages\.com\b
 \bwallpaper\.totalh\.com\b
 \bwallpaper\.66ghz\.com\b
 \btopsearch\.ws\b
-
+\bpicturesofaruba\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
