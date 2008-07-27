@@ -6424,5 +6424,9 @@ nagarjuna.*?\.goglepages\.com\b
 \bpicturesofaruba\.com\b
 \budinesechannel\.it\b
 \btravel2macedonia\.com\.mk\b
+\bmorrodesaopaulo\.com\.br\b
+\bmorrodesaopaulobrasil\.com\.br\b
+\bpousadamarraro\.com\.br\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
