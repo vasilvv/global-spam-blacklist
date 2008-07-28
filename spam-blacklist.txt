@@ -6428,6 +6428,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bmorrodesaopaulobrasil\.com\.br\b
 \bpousadamarraro\.com\.br\b
 \bhomonyme(\.eu|s\.fr)\b #temp, to stop JackPotte
+\b1host\.in\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
