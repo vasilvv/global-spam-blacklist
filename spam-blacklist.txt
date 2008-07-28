@@ -6427,7 +6427,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bmorrodesaopaulo\.com\.br\b
 \bmorrodesaopaulobrasil\.com\.br\b
 \bpousadamarraro\.com\.br\b
-\bhomonyme\.eu\b #temp, to stop JackPotte
+\bhomonyme(\.eu|s\.fr)\b #temp, to stop JackPotte
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
