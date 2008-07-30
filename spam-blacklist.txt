@@ -6236,6 +6236,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bletzlearn\.org\b
 \baberystwyth-online\.co\.uk\b
 \bhomonyme(\.eu|s\.fr)
+\bedom\.co\.uk\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
