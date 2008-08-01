@@ -6249,6 +6249,10 @@ nagarjuna.*?\.goglepages\.com\b
 \baboutliverpool\.com\b
 \bbigorchestra\.com\b
 \bmandelbrot\.ovh\.org\b
+\bsms\.ie\.ma\b
+\bphony\.ie\.ma\b
+\busd4ever\.com\b
+\bhotusd\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
