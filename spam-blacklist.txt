@@ -6450,5 +6450,6 @@ nagarjuna.*?\.goglepages\.com\b
 \byoutube\.com\/watch\?v=tqedszqxxzs\b
 \bolympiakosnicosia\.tk\b
 \barcocarib\.com\b
+\ball-tourism\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
