@@ -6451,5 +6451,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bolympiakosnicosia\.tk\b
 \barcocarib\.com\b
 \ball-tourism\.com\b
+\bcheapestwowgold\.org\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
