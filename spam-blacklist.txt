@@ -6452,6 +6452,9 @@ nagarjuna.*?\.goglepages\.com\b
 \barcocarib\.com\b
 \ball-tourism\.com\b
 \bcheapestwowgold\.org\b
+\bpharmashell\.com\b
+\bpharmazon\.gr\b
+\bpha24\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
