@@ -6458,6 +6458,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bpha24\.com\b
 \bfx-daytrader\.blogspot\.com
 \bvuoialonsoinmclaren\.sitonline\.it\b
+\baustrians\.at\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
