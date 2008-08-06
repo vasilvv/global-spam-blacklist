@@ -6462,5 +6462,7 @@ nagarjuna.*?\.goglepages\.com\b
 \brosari\.eu\b
 \bplantaospicegirls\.com\b
 \bparroquiadepalafrugell\.com\b
+\bhomonym\.fr\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
