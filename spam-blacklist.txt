@@ -6463,6 +6463,6 @@ nagarjuna.*?\.goglepages\.com\b
 \bplantaospicegirls\.com\b
 \bparroquiadepalafrugell\.com\b
 \bhomonym\.fr\b
-
+\bisfp\.co\.uk
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
