@@ -3621,7 +3621,7 @@ sexfreevideos\.info
 pussy\.phpbbx\.de
 pendant\.php5\.cz
 jewellery\.php5\.cz
-1001nights\.net\\free-porn
+1001nights\.net\/free-porn
 (virtual-grub-street|vgs-pbr-reviews|vgs-index-and-specialty|gilbert-wesley-purdy|vgs-wiki-watchdog|gilbertwesleypurdy)\.blogspot\.com
 vgscomputerarchive\.myblogsite\.com
 catalyzerjournal\.com
@@ -3931,7 +3931,7 @@ ultime-notizie\.eu
 \binstant-auto-insurance-quote\.net
 \bvulcanovacanze\.it
 \bvulcanoconsult\.it
-\mysergeybrin\.com
+\bmysergeybrin\.com
 \bmoviemirth\.com
 \bgeocities\.com\/anxietydetective
 \banxietydetective\.org
@@ -4124,7 +4124,7 @@ ultime-notizie\.eu
 \bsaree\.50webs\.com
 \bminiweblink\.com
 \bsubmitlink\.biz
-\hd-dvd-key\.com
+\bhd-dvd-key\.com
 \babruzzoturismo\.net
 traditio[\.．]ru
 \bcais-soas\.com
