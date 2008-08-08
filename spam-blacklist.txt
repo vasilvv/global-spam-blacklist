@@ -6465,5 +6465,6 @@ nagarjuna.*?\.goglepages\.com\b
 \bhomonym\.fr\b
 \bisfp\.co\.uk
 \bstreamingtheolympics\.com\b
+\blluisllach\.pl\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
