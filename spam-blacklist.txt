@@ -6467,5 +6467,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bisfp\.co\.uk
 \bstreamingtheolympics\.com\b
 \blluisllach\.pl\b
+\bonline-roulette-gambling\.com\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
