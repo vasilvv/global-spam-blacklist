@@ -6235,7 +6235,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bdraftydraft\.com\b
 \bletzlearn\.org\b
 \baberystwyth-online\.co\.uk\b
-\bhomonyme(\.eu|s\.fr)
+\bhomonyme(\.eu|s\.fr|-list\.com)\b
 \bedom\.co\.uk\b
 \bcopenhagencity\.org\b
 \bjamsankoski\.com\b
