@@ -6469,6 +6469,7 @@ nagarjuna.*?\.goglepages\.com\b
 \blluisllach\.pl\b
 \bonline-roulette-gambling\.com\b
 \babel\.arts\.kuleuven\.be\b
+\bhuguesdepayns\.fr\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
