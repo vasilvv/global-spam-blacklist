@@ -6471,6 +6471,7 @@ nagarjuna.*?\.goglepages\.com\b
 \babel\.arts\.kuleuven\.be\b
 \bhuguesdepayns\.fr\b
 \bfree-training-tutorial\.com\b
-
+\bnijmegennieuws\.nl\b
+\bdoetinchemnieuws\.nl\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
