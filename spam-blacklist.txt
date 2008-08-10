@@ -6470,6 +6470,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bonline-roulette-gambling\.com\b
 \babel\.arts\.kuleuven\.be\b
 \bhuguesdepayns\.fr\b
+\bfree-training-tutorial\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
