@@ -6255,6 +6255,8 @@ nagarjuna.*?\.goglepages\.com\b
 \bhotusd\.com\b
 \bhkc22\.com\b
 \bhow-to-make-money-easily\.com\b
+\blinkedin\.com\/in\/nguyenta\b
+\bthemilli\.com\/ta\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
