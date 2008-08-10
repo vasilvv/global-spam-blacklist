@@ -6473,5 +6473,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bfree-training-tutorial\.com\b
 \bnijmegennieuws\.nl\b
 \bdoetinchemnieuws\.nl\b
+\beasypostjob4u\.com\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
