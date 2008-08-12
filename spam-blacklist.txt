@@ -6477,6 +6477,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bdoetinchemnieuws\.nl\b
 \beasypostjob4u\.com\b
 \bfabianswebworld\.fa\.funpic\.de\b
+\bnervenhammer\.com\b
 
 ##Highhi spam - See every contrib @ http://toolserver.org/~vvv/sulutil.php?user=Highhi
 ##Kylu 8/12/08
