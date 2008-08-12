@@ -6477,5 +6477,13 @@ nagarjuna.*?\.goglepages\.com\b
 \bdoetinchemnieuws\.nl\b
 \beasypostjob4u\.com\b
 
+##Highhi spam - See every contrib @ http://toolserver.org/~vvv/sulutil.php?user=Highhi
+##Kylu 8/12/08
+\bhkcbn\.org\b
+\bnavmc\.com\b
+\b16885\.com\b
+\bchaosantiques\.com\b
+\btravelchinaplanner\.com\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
