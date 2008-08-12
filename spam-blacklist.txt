@@ -6466,7 +6466,6 @@ nagarjuna.*?\.goglepages\.com\b
 \bplantaospicegirls\.com\b
 \bparroquiadepalafrugell\.com\b
 \bhomonym\.fr\b
-\bisfp\.co\.uk
 \bstreamingtheolympics\.com\b
 \blluisllach\.pl\b
 \bonline-roulette-gambling\.com\b
