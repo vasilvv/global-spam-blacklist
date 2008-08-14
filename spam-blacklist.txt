@@ -6487,6 +6487,5 @@ nagarjuna.*?\.goglepages\.com\b
 \b16885\.com\b
 \bchaosantiques\.com\b
 \btravelchinaplanner\.com\b
-\bdtools\.net\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
