@@ -1931,6 +1931,8 @@ lnk\.in
 
 # Added by MaxSem
 
+\bconservapedia\.com # temp, site hacked
+
 ## August 2006
 \.ipfox\.com
 \.opticsplanet\.net
