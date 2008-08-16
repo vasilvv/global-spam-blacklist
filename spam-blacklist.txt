@@ -6262,6 +6262,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bporno-izlee\.com\b
 \bcontroversi\.org\b
 \bstadtfuehrung-magdeburg\.de\b
+\bmyoyvey\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
