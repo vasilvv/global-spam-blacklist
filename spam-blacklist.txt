@@ -6260,6 +6260,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bsiciliasud\.it\b
 \bviticciodeironchi\.it\b
 \bporno-izlee\.com\b
+\bcontroversi\.org\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
