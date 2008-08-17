@@ -6483,6 +6483,8 @@ nagarjuna.*?\.goglepages\.com\b
 \beasypostjob4u\.com\b
 \bfabianswebworld\.fa\.funpic\.de\b
 \bnervenhammer\.com\b
+\btheamazingsysrem\.ws\b
+\bezy-money\.ws\b
 
 ##Highhi spam - See every contrib @ http://toolserver.org/~vvv/sulutil.php?user=Highhi
 ##Kylu 8/12/08
