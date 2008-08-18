@@ -6487,7 +6487,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bnervenhammer\.com\b
 \btheamazingsysrem\.ws\b
 \bezy-money\.ws\b
-\binternationalbadminton\.org\b
+# \binternationalbadminton\.org\b
 
 ##Highhi spam - See every contrib @ http://toolserver.org/~vvv/sulutil.php?user=Highhi
 ##Kylu 8/12/08
