@@ -6514,5 +6514,8 @@ nagarjuna.*?\.goglepages\.com\b
 \brocaesmeralda\.com\b
 \bimperialpark\.org\b
 \bdiamantebeach\.com\b
+\bfirme\.rs\b
+\bdtpwiz\.com\b
+\bfirme.co\.yu\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
