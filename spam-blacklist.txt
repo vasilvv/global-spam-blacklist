@@ -6506,5 +6506,13 @@ nagarjuna.*?\.goglepages\.com\b
 \brealistikbebek\.com\b
 \brealistshop\.com\b
 \bsibersonic\.com\b
+\bencostablanca\.com\b
+\bgrupoesmeralda\.com\b
+\bunitursa\.com\b
+\bgalaxtur\.com\b
+\bgaletamar\.com\b
+\brocaesmeralda\.com\b
+\bimperialpark\.org\b
+\bdiamantebeach\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
