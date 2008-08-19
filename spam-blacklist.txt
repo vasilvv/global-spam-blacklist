@@ -6497,5 +6497,14 @@ nagarjuna.*?\.goglepages\.com\b
 \b16885\.com\b
 \bchaosantiques\.com\b
 \btravelchinaplanner\.com\b
+
+\bbellisimasexshop\.com\b
+\bcinselticaret\.com\b
+\bgulyeri\.com\b
+\bhikayelersex\.com\b
+\bkaliterehberi.com\.tr\b
+\brealistikbebek\.com\b
+\brealistshop\.com\b
+\bsibersonic\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
