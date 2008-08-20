@@ -6523,5 +6523,6 @@ nagarjuna.*?\.goglepages\.com\b
 \bfihaa\.com\b
 \bcgarab\.com\b
 \bmysmp\.com\b
+\brich-media-project\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
