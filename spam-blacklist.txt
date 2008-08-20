@@ -6525,5 +6525,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bmysmp\.com\b
 \brich-media-project\.com\b
 \bweb-anatomy\.com\b
+\bmagicurl\.net\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
