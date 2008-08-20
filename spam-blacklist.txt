@@ -6191,6 +6191,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bblog\.civilisations-matter\.org\/category\/blog-von-christian-thomas-kohl\b
 \bcm-germany\.org\/wordpress\/2008\/02\/09\/east-meets-west\/\b
 \bnewdualism\.org\/papers\/C\.Kohl\/Buddhism-QP-Parallel\.htm\b
+\bkohl12345\.googlepages\.com\b
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
