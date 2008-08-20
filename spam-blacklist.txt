@@ -6267,6 +6267,7 @@ nagarjuna.*?\.goglepages\.com\b
 \bbasketter1991(\.co\.cc|\.wsnw\.net)\b
 \babsolutregis\.com\b
 \bdebruk\.pl\b
+\bqpc\.ro\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
