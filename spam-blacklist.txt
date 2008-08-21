@@ -6534,5 +6534,6 @@ nagarjuna.*?\.goglepages\.com\b
 \banderszorn\.org\b
 \bvincent-van-gogh-gallery\.org\b
 \brembrandtonline\.org\b
+\beugenedelacroix\.org\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
