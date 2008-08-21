@@ -6527,6 +6527,12 @@ nagarjuna.*?\.goglepages\.com\b
 \brich-media-project\.com\b
 \bweb-anatomy\.com\b
 \bmagicurl\.net\b
-
+\bpaul-gauguin\.net\b
+\bedgar-degas\.org\b
+\bkatsushikahokusai\.org\b
+\bgabrielmetsu\.org\b
+\banderszorn\.org\b
+\bvincent-van-gogh-gallery\.org\b
+\brembrandtonline\.org\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
