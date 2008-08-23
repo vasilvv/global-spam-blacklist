@@ -6541,5 +6541,32 @@ nagarjuna.*?\.goglepages\.com\b
 \bclaudemonetgallery\.org\b
 \bcreepsmash\.de\b
 \bur1\.ca\b
+\b8xhost\.com\/automativerepair\b
+\bautoguide\.gigacities\.net\b
+\bautomotiverepair\.co\.nr\b
+\bautorepair\.netfast\.org\b
+\bcureacne\.koolhost\.com\b
+\bdedicatedhosting\.com\b
+\be-tutes\.com\b
+\bfastservers\.net\b
+\bfreetutes\.com\b
+\bfriendfinder\.com\/go\b
+\bgeocities\.com\/cooltutorials\b
+\bkqzyfj\.com\b
+\bmaligant-mesothelioma\.co\.nr\b
+\boxado\.com\b
+\bprogrammersheaven\.com\b
+\brealdownload\.webng\.com\b
+\bresellerspanel\.com\b
+\brhapsodydownload\.webng\.com\b
+\bsystemanalysis\.co\.nr\b
+\bsystemanalysis\.freehostpro\.com\b
+\btutes\.webng\.com\b
+\btutorial-index\.com\b
+\btutorialized\.com\b
+\bvbplanet\.gigacities\.net\b
+\bvisualbasic6\.tekcities\.com\b
+\bwebng\.com\/pcnow\b
+\bwebng\.com\/tutes\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
