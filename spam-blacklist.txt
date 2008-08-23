@@ -6540,5 +6540,6 @@ nagarjuna.*?\.goglepages\.com\b
 \bgiottodibondone\.org\b
 \bclaudemonetgallery\.org\b
 \bcreepsmash\.de\b
+\bur1\.ca\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
