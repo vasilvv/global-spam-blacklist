@@ -6554,5 +6554,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bvbplanet\.gigacities\.net\b
 \bvisualbasic6\.tekcities\.com\b
 \bwebng\.com/(?:pcnow|tutes)\b
+\btnij\.org\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
