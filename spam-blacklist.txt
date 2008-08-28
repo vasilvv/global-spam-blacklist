@@ -6558,7 +6558,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \blegalmenu\.com\b
 \bcalculate-linux\.org\b
 #temp spamblock
-\bfcoffgeorgebush-yu\.Blogspot\.Com\/2008\/08\/bfcoff-george-bush-blunt-kds-bbs-pics\.Html\b
+bfcoffgeorgebush-yu\.blogspot\.com
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
