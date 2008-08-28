@@ -23,12 +23,12 @@ sonnerie
 sexyongpin
 grusskarte
 geburtstagskarten
-sex(cam|chat|-with|-plugin|-zone)
-adult(chat|live|porn|web\.) # dot for adultweblaw.com
-(animal|cam|chat|dog|hardcore|live|online|voyeur)sex
-(hardcore|teen|xxx)porn
+sex(?:cam|chat|-with|-plugin|-zone)
+adult(?:chat|live|porn|web\.) # dot for adultweblaw.com
+(?:animal|cam|chat|dog|hardcore|live|online|voyeur)sex
+(?:hardcore|teen|xxx)porn
 lesbiansex\. #dot for lesbiansexmafia.org
-(live|cam)girl
+(?:live|cam)girl
 spycam
 casino-online
 online-casino
@@ -45,7 +45,7 @@ paris-hilton
 2large
 oa274
 -horoskop
-fuel(ing)?-dispenser
+fuel(?:ing)?-dispenser
 huojia
 jinxinghj
 telemati[ck]sone
@@ -86,7 +86,7 @@ szilva96 # (crosswiki spammer, added by Nick1915)
 \bfullmelon\.com
 \bxuemeipaper\.com
 \bsem\.org\.cn
-\becyy\.c(n|om)
+\becyy\.c(?:n|om)
 
 # Added by Andre Engels 7/20/05
 \bnerdcamp\.net
@@ -116,10 +116,10 @@ hostfuck\.com
 \.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility.
 
 # Replacing overly broad once above - Andre Engels, 2005-08-09
-\b(heavytools|hydrocodone|spyware|phentermine|carisoprodol|sexforfree)\.webzdarma\.cz\b
+\b(?:heavytools|hydrocodone|spyware|phentermine|carisoprodol|sexforfree)\.webzdarma\.cz\b
 phentermine-online
-(viagra|phentermine)\.newmail\.ru
-(donewhere|olonline|spyware)\.bigsitecity\.com
+(?:viagra|phentermine)\.newmail\.ru
+(?:donewhere|olonline|spyware)\.bigsitecity\.com
 
 # Added by Andre Engels, 2005-08-09
 
@@ -134,10 +134,10 @@ crionica\.bpa\.nu
 streamings\.cable\.nu
 fectr\.dundeeleagues\.ca
 sherlok\.homes\.com\.au
-(author|chaka|dabest|ferdrubt|freedom|popov)\.nerdcamp\.net
+(?:author|chaka|dabest|ferdrubt|freedom|popov)\.nerdcamp\.net
 perfection\.prettyfar\.com
 whoisi\.whyza\.net
-(bidlo|fakir)\.zenno\.info
+(?:bidlo|fakir)\.zenno\.info
 
 # Added by UninvitedCompany, 8/10/2005
 all-hotels-motels\.com
@@ -149,7 +149,7 @@ phentermine-drugs\.euro\.tm
 21jewelry\.com
 mrjeweller\.us
 detox-kit\.com
-(adipex|levitra|lortab|diazepam|protonix|hydrocodone|toe|detox|jewelry)\.shengen\.ru
+(?:adipex|levitra|lortab|diazepam|protonix|hydrocodone|toe|detox|jewelry)\.shengen\.ru
 tests-market\.com
 
 # added by brion
@@ -172,7 +172,7 @@ gensei-ryu\.nl
 # [[User:AlisonW|Alison Wheeler]] 22:13, 31 May 2006 (UTC)
 
 # Zenno\.info spam links
-(epsilon|googlesuka|stol)\.zenno\.info
+(?:epsilon|googlesuka|stol)\.zenno\.info
 shoesbuy\.com
 shoesshop\.biz
 
@@ -186,11 +186,11 @@ shoesshop\.biz
 
 # from zh 
 \.6iuhecai\.com
-\.ltdcr\.(com|net|org|cn)
+\.ltdcr\.(?:com|net|org|cn)
 \.hkccr\.org
 \.hkce\.org
 \.hkce\.net
-\.cegcr\.(com|net)
+\.cegcr\.(?:com|net)
 \.hktmr\.com
 \.hkltdcr\.org
 \.tradeinvests\.com
@@ -470,7 +470,7 @@ goatse\.ca
 \.fengshui-xuankong\.com
 \.chineseart\.com/feng-shui\.htm
 \.smilingbamboo\.com
-\bsplashblog\.com/order(ambien|phentermine|carisoprodol)\b
+\bsplashblog\.com/order(?:ambien|phentermine|carisoprodol)\b
 www\.debt-money\.com
 www\.newskentei\.jp
 831rec\.blog99\.fc2\.com
@@ -647,7 +647,7 @@ princeoftennis\.de
 shaman-king\.de
 yugioh\.de
 \.fanart\.de
-(freeonlinecasinoslots|vip-freeonlineslots|vip-bestonlinecasinos|atlanticcitycasinos|car-insurance-)\.blogspot\.com
+(?:freeonlinecasinoslots|vip-freeonlineslots|vip-bestonlinecasinos|atlanticcitycasinos|car-insurance-)\.blogspot\.com
 
 #commons
 health-medical\.be
@@ -791,7 +791,7 @@ rubyurl\.com
 \.shorl\.com
 \.shortcut\.to
 \.shortlinks\.co\.uk
-shurl\.(net|org)
+shurl\.(?:net|org)
 \.simurl\.com
 \.skip\.to
 skocz\.pl
@@ -813,7 +813,7 @@ tiny\.cc
 tinyclick\.com
 tinylink\.com
 \.tinyr\.us
-\btinyurl\.(co\.uk|com)\b
+\btinyurl\.(?:co\.uk|com)\b
 tiny\.vj\.e\.pl
 \.tip\.nu
 \.tny\.se
@@ -828,7 +828,7 @@ uncutuncensored.com
 \.url123\.com
 url\.fibiger\.org
 \.url\.fm
-urlcut\.(com|net)
+urlcut\.(?:com|net)
 \burlfreeze\.com\b
 \burlic\.com\b
 urlin\.it
@@ -1354,7 +1354,7 @@ glow-sticks\.org
 glowsticks\.co\.uk
 partners\.webmasterplan\.com
 \.hepi\.pl
-hometown\.aol\.com/(kolakq|cup2006fifa|fokann)
+hometown\.aol\.com/(?:kolakq|cup2006fifa|fokann)
 \.hentai\.com
 \.xhost\.ro
 nigeria\.chickenkiller\.com
@@ -1437,15 +1437,15 @@ webtest-community\.canoo\.com
 \.jo\.pl
 \.blog\.naszemiasto\.pl
 pardoschiken\.info
-parent(leaders|directorymp3|soasis|ingliving|sreportcard)\.info
+parent(?:leaders|directorymp3|soasis|ingliving|sreportcard)\.info
 parejaslibeales\.info
 paripori\.info
-paris(officedetourisme|tennessenews|roller|texasnewspaper)\.info
-park(11|avemassage|avenuecoc|blvdwest|crossingpoker)\.info
+paris(?:officedetourisme|tennessenews|roller|texasnewspaper)\.info
+park(?:11|avemassage|avenuecoc|blvdwest|crossingpoker)\.info
 \.abukir\.info
-bao(jiti|leys|limingdu|linzhai|lize)\.info
+bao(?:jiti|leys|limingdu|linzhai|lize)\.info
 admmission\.info
-ad(mmusicgroup|musics|musicacademy)\.info
+ad(?:mmusicgroup|musics|musicacademy)\.info
 nychesskids\.com
 makinamuhendisi\.com
 u288\.com
@@ -1456,7 +1456,7 @@ top\.netfirms\.com
 homes\.aol\.com
 tfitj\.info
 espacioblog\.com
-(ngvjj|udtgt|pzkyy|pxjhh)\.info
+(?:ngvjj|udtgt|pzkyy|pxjhh)\.info
 21publish\.de
 chezmoi\.aol\.ca
 \.cs\.com
@@ -1580,7 +1580,7 @@ woodking24india\.com
 woodking24india\.b2bquote\.com
 woodking24\.exporterindias\.com
 geocities\.com/woodking24
-(indoor|outdoor|rustic|indian|home)furniture\.co\.in
+(?:indoor|outdoor|rustic|indian|home)furniture\.co\.in
 20six\.co\.uk
 \.pill[0-9]\.info
 funchain\.com
@@ -1591,7 +1591,7 @@ topozo\.org
 medbucks\.info
 techblog\.net\.ru
 \.dv8\.com
-shoes(ebuy|order)\.(com|biz)
+shoes(?:ebuy|order)\.(?:com|biz)
 xlale\.com
 xoomer\.virgilio\.it/insurance*
 slsae\.org
@@ -1621,7 +1621,7 @@ peter-leeds\.org
 badcredit-loan\.org
 foto-julius\.at
 sexandcum\.info
-\.astore\.amazon\.(com|co\.uk|fr)
+\.astore\.amazon\.(?:com|co\.uk|fr)
 srisathyasaibookcentre\.org\.uk
 liveeyetv\.org
 lonympics\.co\.uk
@@ -1701,12 +1701,12 @@ quotaless\.com
 #Brass India
 aksharmetal\.com
 appleeou\.com
-appleinternational(enggworks)?\.(com|in|co\.in)
+appleinternational(?:enggworks)?\.(?:com|in|co\.in)
 appleworldwide\.com
 autobrassonline\.com
-brass(turnedcomponents|terminalconnectors|-screws-bolts-nuts|precisionparts|partsindia|nuts-brassbolts|neutrallinks|-inserts-fasteners-india|insertsbrassnutsbrassbolts|buildinghardware|cableglands|electrical|electricalaccessories|electricalcomponents|fastenersindia|-fasteners|-fasteners-india|fittingcomponents)\.com
+brass(?:turnedcomponents|terminalconnectors|-screws-bolts-nuts|precisionparts|partsindia|nuts-brassbolts|neutrallinks|-inserts-fasteners-india|insertsbrassnutsbrassbolts|buildinghardware|cableglands|electrical|electricalaccessories|electricalcomponents|fastenersindia|-fasteners|-fasteners-india|fittingcomponents)\.com
 brassparts\.ind\.in
-cable(glandsworldwide|-glands-asia|glands-india)\.com
+cable(?:glandsworldwide|-glands-asia|glands-india)\.com
 hindustanimpex\.com
 jamnagaronline\.com
 rathodind\.com
@@ -1756,11 +1756,11 @@ webdistributionltd\.com
 #end of ANI
 
 #Universe Daily (en.wiki redir spam)
-alien(life|news)\.info
+alien(?:life|news)\.info
 amateurspaceflight\.com
 \.artofwar\.name
 atomicrockets\.com
-badastronom(er|y)\.com
+badastronom(?:er|y)\.com
 bindiirwin\.info
 carlsagan\.info
 chloemurdoch\.com
@@ -1770,39 +1770,39 @@ everythingscience\.org
 everythingspace\.com
 fuckamerica\.info
 fuckisrael\.org
-james-?packer\.(info|net|org)
-jamie-packer\.(com|net|org)
-jamiepacker\.(com|net)
+james-?packer\.(?:info|net|org)
+jamie-packer\.(?:com|net|org)
+jamiepacker\.(?:com|net)
 janogibson\.com
 jeeperscreepers3\.net
-jerrypournelle\.(net|org)
-jodhi(meares|packer)\.com
+jerrypournelle\.(?:net|org)
+jodhi(?:meares|packer)\.com
 jodiemeares\.com
-lachlanmurdoch\.(net|org)
+lachlanmurdoch\.(?:net|org)
 lochnessmonster\.name
 manpoweredflight\.com
 \.minotaur\.name
-monster(hunter|news)\.org
-nuclear(australia|starships)\.com
+monster(?:hunter|news)\.org
+nuclear(?:australia|starships)\.com
 nuclearspace\.org
-projectorion\.(info|net|org)
+projectorion\.(?:info|net|org)
 projectorion\.proboards28\.com
 richardfinnila\.com
 rupertmurdoch\.ws
 robertzubrin\.com
-\.science(geek|weekly)\.info
-\.sciencenews\.(name|ws)
+\.science(?:geek|weekly)\.info
+\.sciencenews\.(?:name|ws)
 sciforums\.info
 space4peace\.com
 \.spacedaily\.info
-\.spaceforums\.(info|org)
+\.spaceforums\.(?:info|org)
 stephenhawkingsuniverse\.com
 \.terrorismnews\.info
-universedaily\.(com|info|org)
-universetoday\.(info|net)
-wendideng\.(net|org)
+universedaily\.(?:com|info|org)
+universetoday\.(?:info|net)
+wendideng\.(?:net|org)
 wendimurdoch\.com
-wikipedia[clm]\.(info|net)
+wikipedia[clm]\.(?:info|net)
 \.wikipedian\.info
 yales\.info
 yalesimkin\.com
@@ -1818,7 +1818,7 @@ yowiehunter\.com
 ##Gastrich
 jcsm\.org
 jasongastrich\.com
-(la|sd)musiclessons\.com
+(?:la|sd)musiclessons\.com
 \.golbu\.com
 maleboge\.com # added by JzG ~~~~~
 
@@ -1840,9 +1840,9 @@ swiki\.nadir\.org/refs
 japanese-girl-xxx\.com
 
 ##spam on catux\.org
-\.xmail\.net/(search|ac)
+\.xmail\.net/(?:search|ac)
 doc\.svp-info\.com
-weer\.blogs\.(eurosport\.es/files|com/f)
+weer\.blogs\.(?:eurosport\.es/files|com/f)
 figgles\.8k\.com
 privetparis\.com
 
@@ -1854,7 +1854,7 @@ privetparis\.com
 needlustgirl\.org
 
 ##phrases
-(online|discount|best)(md|rx)
+(?:online|discount|best)(?:md|rx)
 cheap-xanax
 bestviag
 buycheap
@@ -1886,11 +1886,11 @@ freexmovies
 \.ssr\.be
 zapto\.org
 redirectme\.com
-\.myftp\.(biz|org)
+\.myftp\.(?:biz|org)
 bounceme\.net
 \.hopto\.org
 myvnc\.com
-serve(beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
+serve(?:beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
 sytes\.net
 clipurl\.com
 wapurl\.co\.uk
@@ -1935,7 +1935,7 @@ plone\.akl\.lt
 
 ## Oct
 the2ndmortgagehelp\.com
-encyclopediadramatica\.(com|net|org)
+encyclopediadramatica\.(?:com|net|org)
 
 ## Nov
 offshoreincorporation101\.com
@@ -2017,7 +2017,7 @@ elodiscovery\.com
 # [[Spam blacklist/Log]]
 
 ## Unknown
-(gui.*|chai?r|lamp.*|cook.*|visa.*)\.white\.prohosting\.com
+(?:gui.*|chai?r|lamp.*|cook.*|visa.*)\.white\.prohosting\.com
 \.4ljd\.info
 buy-cheap-meds\.us
 julie\.xxserv\.com
@@ -2030,9 +2030,9 @@ vacarreno\.net
 wiki\.servetown\.com
 cumfiesta4\.us
 stadianet\.com
-\.(asiangirlss|chickens|freeadult69|japanesegirl|matures|onlybestsex|sexgirls|supergirls\d*|wiki|wikipedia)\.servik\.com
+\.(?:asiangirlss|chickens|freeadult69|japanesegirl|matures|onlybestsex|sexgirls|supergirls\d*|wiki|wikipedia)\.servik\.com
 \.fw\.nu
-(alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
+(?:alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
 sex\.hut1\.ru
 vanjatka\.be
 \.vorbo\.com
@@ -2049,9 +2049,9 @@ onix1000\.com
 \.w0qb\.info
 \.redirect\.hm
 drugs\.passingg\.as
-drugs\.(isgre|lowestprices)\.at
+drugs\.(?:isgre|lowestprices)\.at
 drugs\.byinter\.net
-drugs\.(mooo|ignorelist|chickenkiller)\.com
+drugs\.(?:mooo|ignorelist|chickenkiller)\.com
 drugs\.strangled\.net
 [0-9]+\.[-\w\d]+\.info/?[-\w\d]+[0-9]+[-\w\d]*\]
 \.lol\.to
@@ -2065,14 +2065,14 @@ skozlozop\.com
 z0rder\.tripod\.com
 smuttygirls\.info
 f3so\.info
-(allmed|comeds)\.blogs\.eurosport\.com
+(?:allmed|comeds)\.blogs\.eurosport\.com
 \.dare14\.com
 ourtrinity\.net
 oxrash\.com
 cell-phones-store\.net
 pill\.envy\.nu
 order-online\.50webs\.com
-casino-(flower|baron)\.com
+casino-(?:flower|baron)\.com
 pornzonehost\.com
 meenan1\.com
 debt-consolidation-loan-c\.blogspot\.com
@@ -2342,7 +2342,7 @@ eczz\.com
 musica\.org\.es
 \.y365\.com
 -cam-chat\.com
--chat-(room|live)\.(us|com)
+-chat-(?:room|live)\.(?:us|com)
 -webcams\.com
 xyzdown\.com
 boxget\.net
@@ -2453,8 +2453,8 @@ aauu\.net
 kykdz\.com
 china-crawfish\.com
 in-net\.ws
-yahoo\.com/(a1likostar|a0cany_2004|a00poleroid|a00asaz|a0_00leksa|stoons_cartoon)
-yahoo\.com/(skystarpilot|klirinc|fhkdfohjdfhk|freekeramika|aikishot)
+yahoo\.com/(?:a1likostar|a0cany_2004|a00poleroid|a00asaz|a0_00leksa|stoons_cartoon)
+yahoo\.com/(?:skystarpilot|klirinc|fhkdfohjdfhk|freekeramika|aikishot)
 les-mas-de-provence\.com
 mp3prof\.com
 fullhentaimovies\.net
@@ -2586,7 +2586,7 @@ firsthearingaids\.com
 medicalhairtransplantation\.org
 southbeach-diet-plan\.info
 toxicblackmoldhelp\.org
-treat(acidreflux|genitalwarts|nailfungus)\.org
+treat(?:acidreflux|genitalwarts|nailfungus)\.org
 \.aatrax\.com
 \.abilogic\.com
 alaska-adventures\.net
@@ -2632,10 +2632,10 @@ thehyips\.info
 yearstoyourhealth\.com
 
 ## 2004
-7csun\.(com|org|net)
+7csun\.(?:com|org|net)
 \.8cx\.net
 17train\.com
-18show\.(cn|org|net)
+18show\.(?:cn|org|net)
 88aabb\.com
 100comm\.com
 100jjy\.com
@@ -2648,7 +2648,7 @@ dongyiqi\.com
 ebook2u\.com
 \.ec[59]1\.com
 \.emay\.cn
-\.emmss\.(net|com)
+\.emmss\.(?:net|com)
 free-porn-friend-finder-adult\.info
 ganzao\.68l\.com
 gerhard\.paducktions\.net
@@ -2656,7 +2656,7 @@ hanlang88\.com
 home\.graffiti\.net/grafikdesign
 jlsun\.com
 kgc-networks\.com
-\.kingnetwork\.(org|net)
+\.kingnetwork\.(?:org|net)
 \.kingonline\.org
 lemai\.com
 lingshengdown\.com
@@ -2674,7 +2674,7 @@ paperlessarchives\.com
 property2u\.com
 renzhengwang\.com
 riba\.unixserverhosting\.com
-\.s018\.(org|net)
+\.s018\.(?:org|net)
 scandinavia-pictures\.com
 searchmiracle\.com
 shop263\.com
@@ -2687,7 +2687,7 @@ targetwords\.com
 ticketsmyway\.com
 ultimasurf\.net
 \.uusky\.com
-voip99\.(com|net)
+voip99\.(?:com|net)
 webrank\.cn
 wines-cellar\.info
 www1\.com\.cn
@@ -2695,8 +2695,8 @@ www1\.com\.cn
 \.to8\.com
 
 ## sometime 2005 ([[Spam blacklist/Log]])
-(duranduran|limahlmania)\.cjb\.net
-(duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com
+(?:duranduran|limahlmania)\.cjb\.net
+(?:duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com
 \.0302\.net
 51dragon\.com
 \.98\.to
@@ -2714,7 +2714,7 @@ b2\.boards2go\.com
 big\.de\.com
 boenicke-keramik\.de
 book-translation\.com
-buy-(valium|ambien)-online\.fuks\.pl
+buy-(?:valium|ambien)-online\.fuks\.pl
 celebrities\.evac4\.com
 cheapholidayaccommodation
 chinaplay\.org
@@ -2738,7 +2738,7 @@ flats\.h1\.ru
 freewebs\.com/home-business-0
 games\.net4free\.org
 ganzao\.88118888\.com
-geocities\.com/(enspaland|hungarybusiness/spaland\.htm|railwayguide|spalandhu)
+geocities\.com/(?:enspaland|hungarybusiness/spaland\.htm|railwayguide|spalandhu)
 gghggh\.com
 glmf33\.fr\.fm
 globalflights\.org
@@ -3029,7 +3029,7 @@ art-passion\.site\.voila\.fr
 chocolateplanet\.org
 coffee-guide\.us
 freesex\.com
-ipfeurope\.(eu|com|net|org)
+ipfeurope\.(?:eu|com|net|org)
 \.kreuz\.net
 lunesta\.wz\.cz
 perso\.orange\.fr/jf\.dumousseaux
@@ -3042,15 +3042,15 @@ zocor-1\.be
 \.spaingate\.com
 
 ## 2006-07 ([[Spam blacklist/Log]])
-hoops(vibe|stats)\.com
+hoops(?:vibe|stats)\.com
 adsbus\.com
 freebao\.com
 
 ## 2006-09 ([[Spam blacklist/Log]])
-(dojo|ecole)-miyamoto-musashi\.com
+(?:dojo|ecole)-miyamoto-musashi\.com
 bmd-certificates\.co\.uk
 casinoforumu\.com
-chabad(east|usa|world)?\.(am|com|org)
+chabad(?:east|usa|world)?\.(?:am|com|org)
 easytobook\.com
 ecole-miyamoto-musashi\.com
 favyr\.fa\.funpic\.org
@@ -3073,11 +3073,11 @@ hpc1\.biblog\.ru
 nationalparksgallery\.com
 \.ytmnd\.com
 succodimelone\.it
-(debt|financ|loan|morgage).*\.blogspot\.com
+(?:debt|financ|loan|morgage).*\.blogspot\.com
 rosnersquared\.com
 code-interactive\.com
 ideamappingsuccess\.com
-(cup|league|football|wayne|premiership|steven|united|athletic).*years\.com
+(?:cup|league|football|wayne|premiership|steven|united|athletic).*years\.com
 ilsonline\.it
 engagementring-4u\.com
 \.forumcommunity\.net
@@ -3096,7 +3096,7 @@ zigiweb\.com
 wikipediia\.info
 
 ## 2006-11 ([[Spam blacklist/Log]])
-killerstore\.(it|net)
+killerstore\.(?:it|net)
 \.mliii\.info
 savealbertparkcollege\.com
 amantea\.net
@@ -3109,13 +3109,13 @@ webcam-[a-z]+-sms\.info
 videochat-porno-sms\.info
 webcam-sexo-[a-z]+\.info
 shareinvestornz\.jconserv\.net
-theshadowsun\.(com|net)
-amantea(online|radio|calcio)\.it
+theshadowsun\.(?:com|net)
+amantea(?:online|radio|calcio)\.it
 amanteaninelmondo\.info
-(zzw2z|myjhy|ngvjj|eqqwsa|ccxxsg|weewss)\.info
-(uskupi|klzuydg|abradco|xddme|dicmh)\.com
-(prosaleshop|bestbidbuy|adirect)\.org
-(oduuy|aiipa|lyvyl|moank|anagl|ankyl|gergv|clapn|tigri|teeti|sabd|scyb|iifooi|qsskk|csddj|ddl8i|afdss|oberl|ykkkh|tdfsf|zfdfs)\.info
+(?:zzw2z|myjhy|ngvjj|eqqwsa|ccxxsg|weewss)\.info
+(?:uskupi|klzuydg|abradco|xddme|dicmh)\.com
+(?:prosaleshop|bestbidbuy|adirect)\.org
+(?:oduuy|aiipa|lyvyl|moank|anagl|ankyl|gergv|clapn|tigri|teeti|sabd|scyb|iifooi|qsskk|csddj|ddl8i|afdss|oberl|ykkkh|tdfsf|zfdfs)\.info
 special-ringtones\.net
 \.xxell\.com
 blackcomb\.co\.uk
@@ -3125,12 +3125,12 @@ song-book\.info
 anysubs\.com
 pichunter\.com
 suite101\.com
-federazionepagana\.(it|com)
+federazionepagana\.(?:it|com)
 free-ringtones\.aqhhhh\.info
 loan\.ododf\.info
 yourmerchandise\.org
 exploring-[a-z]+\.com
-melano(corp|planet)\.com
+melano(?:corp|planet)\.com
 melanotan\.com\.au
 12987\.rapidforum\.com
 teens\.fr33host\.net
@@ -3206,14 +3206,14 @@ t1quotes\.net
 voipblogs\.blogspot\.com
 voiphunt\.com
 kewlestsites\.com
-\bcognigen\.(com|net)
+\bcognigen\.(?:com|net)
 \.ld\.net
 \.myld\.net
 \.envy\.nu
 halychen\.com
 just2buy\.com
 bestmine\.com
-(.*/)?18speedtranny
+(?:.*/)?18speedtranny
 urlbounce\.com
 \.xbuv\.info
 sveti-stefan\.net
@@ -3245,14 +3245,14 @@ attorneys-online\.org
 animations-games-india\.com
 \.brascomponents\.com
 \.brasparts\.com
-\bbrass(fittingsindia|fast|-parts-india|-nuts-screws-fasteners|-inserts|-fittings-india|-fastener-india|-copper-castings|-components-india)\.com\b
+\bbrass(?:fittingsindia|fast|-parts-india|-nuts-screws-fasteners|-inserts|-fittings-india|-fastener-india|-copper-castings|-components-india)\.com\b
 bronze-castings-fittings\.com
 \.cableaccs\.com
 \.cableglandsindia\.com
 \.conexindia\.com
 \.conexmetals\.com
 \.conextechno\.com
-diamond-(rings-india|ring-diamond-rings|pendants-india|earrings-india|jewellery-india)\.com
+diamond-(?:rings-india|ring-diamond-rings|pendants-india|earrings-india|jewellery-india)\.com
 diamond-ring-rings\.tripod\.com
 \.elecaccs\.com
 electrical-brass-components\.com
@@ -3373,9 +3373,9 @@ npcart\.com
 shumilloff\.jino-net\.ru
 modlibrary\.net/proxy
 waterfordhomeschool\.org
-\b(mk8|dy9|b80|t63|m32|80i|b65|bz8|68t|51a|z56|z95|7rg|74a|mr7|98f|i38|d4x)\.org\b
+\b(?:mk8|dy9|b80|t63|m32|80i|b65|bz8|68t|51a|z56|z95|7rg|74a|mr7|98f|i38|d4x)\.org\b
 clandrake\.org
-(ninja|fastfree|getmyspace|school|myinternet|ship|water|les|grand|dirty|cgiweb|arandom|angry|fully)proxy\.com
+(?:ninja|fastfree|getmyspace|school|myinternet|ship|water|les|grand|dirty|cgiweb|arandom|angry|fully)proxy\.com
 drpruxy\.net
 prxy\.co\.uk
 freetoview\.net
@@ -3390,25 +3390,25 @@ proxymummy\.com
 surfonsteroids\.com
 browsefrom\.com
 letmepast\.com
-proxy(friend|eye|bat|77|88|mix|raptor|work|snow|pulse|aliens|flame|tiger|nanny)\.com
-proxycover\.(com|net)
+proxy(?:friend|eye|bat|77|88|mix|raptor|work|snow|pulse|aliens|flame|tiger|nanny)\.com
+proxycover\.(?:com|net)
 bypassproxy\.net
 gostealthy\.com
 shannen\.info
 redlandsclassic\.org
 avpas\.org
 atomblog\.org
-(3ga|6ad|bx3|2ry|23a|43j|4j4|5b5|70m|78n|8hj|9rb|20d|68u|73r|d39|3xa|k1d)\.org
+(?:3ga|6ad|bx3|2ry|23a|43j|4j4|5b5|70m|78n|8hj|9rb|20d|68u|73r|d39|3xa|k1d)\.org
 pr0xy\.us
 connypug\.org
 proxymess\.com
 ipdefend\.com
 worldproxy\.info
-proxyl(y|la)\.com
-\bproxy(atwork|atschool|allow)\.com\b
+proxyl(?:y|la)\.com
+\bproxy(?:atwork|atschool|allow)\.com\b
 cloakme\.net
 proxies\.bz
-\b(eco|ano|el)proxy\.com
+\b(?:eco|ano|el)proxy\.com
 shadowsurf\.com
 nevercaught\.com
 unblockweb\.com
@@ -3506,7 +3506,7 @@ surfquotes\.com
 old-classics\.com
 \.by\.ru\.ru
 myspace\.com/anchoredcross
-joseplacido\.(net|com)
+joseplacido\.(?:net|com)
 onlineloanofficers\.com
 shaadibliss\.com
 crazysportsfan\.com
@@ -3520,7 +3520,7 @@ didbarrycheat\.com
 lasvegasbuyeragent\.com
 \.sportus\.com
 easybaseballbetting\.com
-(manchester|birmingham)cityyears\.com
+(?:manchester|birmingham)cityyears\.com
 arsenalfcyears\.com
 plymouthargyleyears\.com
 sunderlandafcyears\.com
@@ -3542,7 +3542,7 @@ infinitionlinemechanic\.com
 \.m35forum\.com
 \.m45forum\.com
 \.maximaclub\.org
-\bnissan(commercials|foria|onlinemechanic|tech|terranaut)\.com\b
+\bnissan(?:commercials|foria|onlinemechanic|tech|terranaut)\.com\b
 \bnissanversa\.org\b
 \.q45\.org
 \.qx56club\.org
@@ -3581,7 +3581,7 @@ pussy\.phpbbx\.de
 pendant\.php5\.cz
 jewellery\.php5\.cz
 1001nights\.net/free-porn
-(virtual-grub-street|vgs-pbr-reviews|vgs-index-and-specialty|gilbert-wesley-purdy|vgs-wiki-watchdog|gilbertwesleypurdy)\.blogspot\.com
+(?:virtual-grub-street|vgs-pbr-reviews|vgs-index-and-specialty|gilbert-wesley-purdy|vgs-wiki-watchdog|gilbertwesleypurdy)\.blogspot\.com
 vgscomputerarchive\.myblogsite\.com
 catalyzerjournal\.com
 studentville\.it
@@ -3674,8 +3674,8 @@ firewalldown\.com
 \bgamesff\.com
 \bsimone-numismatica-e-storia\.blogspot\.com
 \bbestwaytoinvest\.com
-\bpussymania\.(com|info|net)
-\bpussyass\.(com|info|net|org)
+\bpussymania\.(?:com|info|net)
+\bpussyass\.(?:com|info|net|org)
 \bfavorite-games\.com
 \binstant-car-insurance-quote\.net
 \balessia-ventura\.net\.ms
@@ -3817,9 +3817,9 @@ republika\.pl/stranasmer
 \bagablog\.com
 \bakoblog\.com
 \bfamilyincestbiz\.com
-\b(cqhfs|cqfnc|ackue|aqhfc)\.info\b
-\b(aepwd|aexqq|cxqqc|foxqq)\.org
-\b(xcjas|xcjei|xcjin)\.com
+\b(?:cqhfs|cqfnc|ackue|aqhfc)\.info\b
+\b(?:aepwd|aexqq|cxqqc|foxqq)\.org
+\b(?:xcjas|xcjei|xcjin)\.com
 \bamantea\.eu
 \boutrate\.net
 \btutorialspoint\.com
@@ -3845,17 +3845,17 @@ ultime-notizie\.eu
 \bible\.ttsite\.com
 
 # Smartdots.com redirect sites Nick1915
-\b(au|es|hk|hu|ie|it|kr|mx|pl|se|th|ua|us|shop)\.tc\b
-\b(co|com)\.at\.(tc|tt)\b
-\b(co|me|borg)\.uk\.tc\b
+\b(?:au|es|hk|hu|ie|it|kr|mx|pl|se|th|ua|us|shop)\.tc\b
+\b(?:co|com)\.at\.(?:tc|tt)\b
+\b(?:co|me|borg)\.uk\.tc\b
 \bme\.uk\.tt\b
-\b(uk|us)\.tt\b
+\b(?:uk|us)\.tt\b
 
 #Back to proper logging...
 \bfree-car-insurance-quote\.net
 \bchabad-baden\.de
 \baffordable-car-insurance\.net
-\bcontrolling21\.(de|eu|net|com|org|biz|at|ch|info)
+\bcontrolling21\.(?:de|eu|net|com|org|biz|at|ch|info)
 \bmultimedia-beratung\.de
 \bmortgagequeen\.us
 \banemony\.info
@@ -3870,15 +3870,15 @@ ultime-notizie\.eu
 \blutik\.info
 \baffordable-auto-insurance\b.biz
 \bpressarchive\.net
-\ballthingschina\.(com|org)\b
+\ballthingschina\.(?:com|org)\b
 \balternateroutestravel\.com
-\bbusinessesi\.(com|org)
+\bbusinessesi\.(?:com|org)
 \bchinahearts\.com
 \bchinaschoolreview\.org
-\bchina(travelfacts|visaservice)\.com\b
-\besl(franchise|jobschina|schoolreview|z)\.com\b
+\bchina(?:travelfacts|visaservice)\.com\b
+\besl(?:franchise|jobschina|schoolreview|z)\.com\b
 \bhunanteach\.com
-\bjourney(east|west)\.org\b
+\bjourney(?:east|west)\.org\b
 \blearnchinesenow\.net
 \bstudenttravelchina\.org
 \bteach-and-travel\.org
@@ -4085,7 +4085,7 @@ ultime-notizie\.eu
 \bsubmitlink\.biz
 \bhd-dvd-key\.com
 \babruzzoturismo\.net
-traditio[\..]ru
+traditio[\.．]ru
 \bcais-soas\.com
 \bsardimpex\.it
 \bantiwrap\.com\b
@@ -4122,7 +4122,7 @@ traditio[\..]ru
 \bdear\.to\b
 \btakeoff\.to\b
 \bchild-support-laws-state-by-state\.com\b
-\b(ronpaulpresident|cometobeyondbabylon|beyondbabylon|christmascondemned|templemountjerusalem|kemplervideo|armstrongherbert|toledo-race-riots|two-witnesses-revelation|europeunitedstates|unresolution181|tentribes|herbert-w-armstrong|david-ben-ariel|shimonperes|yitzhakrabin|plaintruthabouteaster|christmasandeaster|lifeisatrek|losttentribes|daniel-911|daniel911|sharon-ariel)\.blogspot\.com\b
+\b(?:ronpaulpresident|cometobeyondbabylon|beyondbabylon|christmascondemned|templemountjerusalem|kemplervideo|armstrongherbert|toledo-race-riots|two-witnesses-revelation|europeunitedstates|unresolution181|tentribes|herbert-w-armstrong|david-ben-ariel|shimonperes|yitzhakrabin|plaintruthabouteaster|christmasandeaster|lifeisatrek|losttentribes|daniel-911|daniel911|sharon-ariel)\.blogspot\.com\b
 \balanasoares\.net\b
 \balenaseredova\.org\b
 \balinavacariu\.net\b
@@ -4228,14 +4228,14 @@ traditio[\..]ru
 \bendre\.info\b
 \bfard\.org\b
 \bfederalcreditunion\.biz\b
-\b(vodu|toed|tios|salp|olid|nulo|muci|kapi|juho|jaki)\.info\b
+\b(?:vodu|toed|tios|salp|olid|nulo|muci|kapi|juho|jaki)\.info\b
 \bpape\.us\b
 \bseacartel\.com\b
 \bsnns\.biz\b
 \byogacentre\.info\b
 \bandorraz\.org\b
 \bkwfm\.net\b
-\bluketheking\.(2page|zweipage)\.de\b
+\bluketheking\.(?:2page|zweipage)\.de\b
 \bdui-trix\.com\b
 \bsigord\.blogfa\.com\b
 \bpargatravel\.eu\b
@@ -4401,7 +4401,7 @@ traditio[\..]ru
 \bzacefronforum\.com\b
 \bzhangziyiweb\.com\b
 \bzoesaldana\.org\b
-\bdatasheet(4u|s)?\.(net|co\.kr|in)\b
+\bdatasheet(?:4u|s)?\.(?:net|co\.kr|in)\b
 \.orkut\.com/Comm
 \bphilosopedia\.org
 \bmysh-game\.de
@@ -4413,7 +4413,7 @@ compact\.exe\.su
 \bexpert-dog-training\.com
 \b100studentloans\.com
 \bacnexpert\.com
-\ball-(carparts|digitalreviews|home-security|pcgames)\.com\b
+\ball-(?:carparts|digitalreviews|home-security|pcgames)\.com\b
 \barthritis-hub\.com
 \basthmaxpert\.com
 \bbulimia-expert\.com
@@ -5042,7 +5042,7 @@ digilander\.libero\.it/andrea\.nardo1977
 \bgiubizza\.tk\b
 \bborgenproject\.org\b
 \bborgenproject\.com\b
-\b(facel-vega|facel.*\.wanadoo)\.fr\b
+\b(?:facel-vega|facel.*\.wanadoo)\.fr\b
 \bshanghai2010\.hu\b
 \bapurogol\.com\b
 \badvisorsdirectory\.net\b
@@ -5518,8 +5518,8 @@ boylovernet
 
 ## URL shorteners 2
 \bsmileurl\.com\b
-\bhumbleurl\.(com|net)\b
-\burlhash\.(com|org)\b
+\bhumbleurl\.(?:com|net)\b
+\burlhash\.(?:com|org)\b
 \burlsmash\.com\b
 \boffto\.net\b
 \balgart\.net
@@ -6157,7 +6157,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bradiovazogasy\.com\b
 \bthemza\.com\b
 \bdesigneeroaarnio\.com\b
-\bhedge(lender|loan)(\.wordpress)?\.(com|net|org)\b
+\bhedge(?:lender|loan)(?:\.wordpress)?\.(?:com|net|org)\b
 \bstock-load\.org\b
 \bsecuritiesfinance\.com\b
 \bpipe-replacement\.com\b
@@ -6194,7 +6194,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bdraftydraft\.com\b
 \bletzlearn\.org\b
 \baberystwyth-online\.co\.uk\b
-\bhomonym(e\.eu|es\.fr|-list\.com)\b
+\bhomonym(?:e\.eu|es\.fr|-list\.com)\b
 \bedom\.co\.uk\b
 \bcopenhagencity\.org\b
 \bjamsankoski\.com\b
@@ -6222,7 +6222,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcontroversi\.org\b
 \bstadtfuehrung-magdeburg\.de\b
 \bmyoyvey\.com\b
-\bbasketter1991(\.co\.cc|\.wsnw\.net)\b
+\bbasketter1991(?:\.co\.cc|\.wsnw\.net)\b
 \babsolutregis\.com\b
 \bdebruk\.pl\b
 \bqpc\.ro\b
@@ -6275,7 +6275,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bweb-app\.net\b
 \becommerce[a-z]\.blogspot\.com\b
 \bcommerceusa\.blogspot\.com\b
-\biran(home|learn)\d?\.(blogfa|blogspot|blogtak)?\.(com|ir|net)\b
+\biran(?:home|learn)\d?\.(?:blogfa|blogspot|blogtak)?\.(?:com|ir|net)\b
 \bcoo\.ir\b
 \bbuyuyenicerik\.com\b
 \bweb-app\.us\b
@@ -6403,7 +6403,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \beturbo\.net\b
 \bdieselevante\.com\b
 \brastaforum\.org\b
-\bforexinvestor\.(se|de|nl|us|es)\b
+\bforexinvestor\.(?:se|de|nl|us|es)\b
 \bseo-info\.nl\b
 \bkavlak\.net\b
 \badoraphoto\.com\b
@@ -6438,14 +6438,14 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcheapsneakersb2b\.com\b
 \bminu\.ws\b
 \bwallpaper-3d\.tripod\.com\b
-\bwallpaper-new\.(0catch|100freemb)\.com\b
+\bwallpaper-new\.(?:0catch|100freemb)\.com\b
 \bwallpaper\.0fees\.net\b
-\bwallpaper\.(totalh|66ghz)\.com\b
+\bwallpaper\.(?:totalh|66ghz)\.com\b
 \btopsearch\.ws\b
 \bpicturesofaruba\.com\b
 \budinesechannel\.it\b
 \btravel2macedonia\.com\.mk\b
-\bmorrodesaopaulo(brasil)?\.com\.br\b
+\bmorrodesaopaulo(?:brasil)?\.com\.br\b
 \bpousadamarraro\.com\.br\b
 \b1host\.in\b
 \bventimiglia\.biz\b
@@ -6553,7 +6553,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \btutorialized\.com\b
 \bvbplanet\.gigacities\.net\b
 \bvisualbasic6\.tekcities\.com\b
-\bwebng\.com/(pcnow|tutes)\b
+\bwebng\.com/(?:pcnow|tutes)\b
 \btnij\.org\b
 \blegalmenu\.com\b
 \bcalculate-linux\.org\b
