@@ -6557,8 +6557,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \btnij\.org\b
 \blegalmenu\.com\b
 \bcalculate-linux\.org\b
-#temp spamblock
-bfcoffgeorgebush-yu\.blogspot\.com
+\bbfcoffgeorgebush-yu\.blogspot\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
