@@ -6268,6 +6268,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \btradedoubler\.com\b
 \bsbaffiliates\.com\b
 \bnhatrang\.hotels\.officelive\.com\b
+\bactive-domain\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
