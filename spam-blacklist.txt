@@ -6567,6 +6567,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \blegalmenu\.com\b
 \bcalculate-linux\.org\b
 \bbfcoffgeorgebush-yu\.blogspot\.com\b
+\boinakarin\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
