@@ -6223,6 +6223,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bstadtfuehrung-magdeburg\.de\b
 \bmyoyvey\.com\b
 \bbasketter1991(?:\.co\.cc|\.wsnw\.net)\b
+\bcgi\.sfu\.ca\/~gpeters\b
 \babsolutregis\.com\b
 \bdebruk\.pl\b
 \bqpc\.ro\b
