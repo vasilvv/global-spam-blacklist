@@ -3050,7 +3050,7 @@ freebao\.com
 (?:dojo|ecole)-miyamoto-musashi\.com
 bmd-certificates\.co\.uk
 casinoforumu\.com
-chabad(?:east|usa|world)?\.(?:am|com|org)
+chabad(?:east|usa|world)\.(?:am|com|org)
 easytobook\.com
 ecole-miyamoto-musashi\.com
 favyr\.fa\.funpic\.org
