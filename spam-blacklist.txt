@@ -6570,6 +6570,15 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcalculate-linux\.org\b
 \bbfcoffgeorgebush-yu\.blogspot\.com\b
 \boinakarin\.com\b
+\bitourschina\.com
+\bitourbeijing\.com\b
+\bitourstibet\.com
+\btripbus\.com
+\btraveltibettours\.com
+\bchinayak\.com
+\btibetinchina\.com
+\bpanda-tour\.net
+\yangtzeriver-cruise\.net
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
