@@ -6571,15 +6571,15 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcalculate-linux\.org\b
 \bbfcoffgeorgebush-yu\.blogspot\.com\b
 \boinakarin\.com\b
-\bitourschina\.com
+\bitourschina\.com\b
 \bitourbeijing\.com\b
-\bitourstibet\.com
-\btripbus\.com
-\btraveltibettours\.com
-\bchinayak\.com
-\btibetinchina\.com
-\bpanda-tour\.net
-\yangtzeriver-cruise\.net
+\bitourstibet\.com\b
+\btripbus\.com\b
+\btraveltibettours\.com\b
+\bchinayak\.com\b
+\btibetinchina\.com\b
+\bpanda-tour\.net\b
+\byangtzeriver-cruise\.net\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
