@@ -6487,7 +6487,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bdoetinchemnieuws\.nl\b
 \beasypostjob4u\.com\b
 \bfabianswebworld\.fa\.funpic\.de\b
-\bnervenhammer\.com\b
 \btheamazingsysrem\.ws\b
 \bezy-money\.ws\b
 # \binternationalbadminton\.org\b
