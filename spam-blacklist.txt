@@ -6,7 +6,7 @@
  # Guidelines:
  #    - Only blacklist for widespread, unmanageable spam.
  #    - To disable an entry, *remove* it, don't comment it out.
- #    - Add entries to [http://meta.wikimedia.org/wiki/Spam_blacklist/Log the log] (and remove them when they're removed here).
+ #    - Add entries or their removal to [http://meta.wikimedia.org/wiki/Spam_blacklist/Log the log].
  # 
  # Syntax:
  #    - Everything from a "#" character to the end of the line is a comment
@@ -125,8 +125,7 @@ phentermine-online
 
 # German repeated spammers
 \.modz\.de
-viagra100\.tk
-viagra100\.net
+viagra100\.(?:tk|net)
 
 # Japanese sex spammer
 aftar\.bpa\.nu
@@ -188,8 +187,7 @@ shoesshop\.biz
 \.6iuhecai\.com
 \.ltdcr\.(?:com|net|org|cn)
 \.hkccr\.org
-\.hkce\.org
-\.hkce\.net
+\.hkce\.(?:org|net)
 \.cegcr\.(?:com|net)
 \.hktmr\.com
 \.hkltdcr\.org
@@ -234,8 +232,7 @@ amafan\.snow\.prohosting\.com
 buyceleb\.wyger\.nl
 newvoy\.earth\.prohosting\.com
 buyhyd\.wyger\.nl
-002biz\.tripod\.com
-003biz\.tripod\.com
+00[23]biz\.tripod\.com
 003biz\.5u\.com
 004biz\.i8\.com
 yourpharm\.vstore\.ca
@@ -453,8 +450,7 @@ jessicaalbalife\.com
 shakiralife\.com
 terapatricklife\.com
 adrianalimapics\.org
-wifi-world\.org
-wifi-planet\.org
+wifi-(?:world|planet)\.org
 wifiguide\.org
 university-canada\.net
 zwai\.stikipad\.com
@@ -498,8 +494,7 @@ biyi-sohbet\.com
 bsohbete\.net
 btrcafe\.com
 bossanovamusic\.net
-au-feminin\.blogspot\.com
-au-masculin\.blogspot\.com
+au-(?:feminin|masculin)\.blogspot\.com
 millionnairedeluxe\.com
 cavalierhealth\.org
 praguedailyphoto\.blogspot\.com
@@ -512,8 +507,7 @@ astipalea\.gr
 delmar\.gr
 kithnos\.gr
 alexandros-skopelos\.gr
-yahotels\.net
-yahotels\.eu
+yahotels\.(?:net|eu)
 stripshowclubs\.com
 nissiros\.gr
 findhotels\.gr
@@ -542,8 +536,7 @@ www\.bjlaibao\.com
 vacancy@intershipco.com
 info@acglogistics.net
 # Aph. OTRS ticket #2007072110009211
-caiquecrazy\.us\.tt
-caiquecrazy\.spreebb\.com
+caiquecrazy\.(?:us\.tt|spreebb\.com)
 # Aph Sep 2007
 dogbreedsdirectory\.co\.uk
 # "Saibanin stop" spam
@@ -636,8 +629,7 @@ animemanga\.de
 detektivconan\.de
 digitalmonsters\.de
 dragonballz\.de
-gundamwing\.de
-gundamseed\.de
+gundam(?:wing|seed)\.de
 hikarunogo\.de
 inuyasha\.de
 \.naruto\.de
@@ -747,8 +739,7 @@ makeashorterlink\.com
 \.messages\.to
 \.mine\.at
 \.minilien\.com
-\.more\.at
-\.more\.by
+\.more\.(?:at|by)
 \.move\.to
 moviefever\.com
 mp3-archives\.com
@@ -760,10 +751,7 @@ myprivateidaho\.com
 \.nav\.to
 nlug\.org/url
 \.notlong\.com
-\.notrix\.at
-\.notrix\.ch
-\.notrix\.de
-\.notrix\.net
+\.notrix\.(?:at|ch|de|net)
 \bnow\.to\b
 \.on\.to
 \.page\.to
@@ -810,8 +798,7 @@ s-url\.net
 thrill\.to
 \.tighturl\.com
 tiny\.cc
-tinyclick\.com
-tinylink\.com
+tiny(?:click|link)\.com
 \.tinyr\.us
 \btinyurl\.(?:co\.uk|com)\b
 tiny\.vj\.e\.pl
@@ -6558,8 +6545,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \brealdownload\.webng\.com\b
 \bresellerspanel\.com\b
 \brhapsodydownload\.webng\.com\b
-\bsystemanalysis\.co\.nr\b
-\bsystemanalysis\.freehostpro\.com\b
+\bsystemanalysis\.(?:co\.nr|freehostpro\.com)\b
 \btutes\.webng\.com\b
 \btutorial-index\.com\b
 \btutorialized\.com\b
