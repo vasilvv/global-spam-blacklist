@@ -7,8 +7,9 @@
  #    - Only blacklist for widespread, unmanageable spam.
  #    - To disable an entry, *remove* it, don't comment it out.
  #    - Add entries or their removal to [http://meta.wikimedia.org/wiki/Spam_blacklist/Log the log].
- #    - Use <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}}} to link to diffs on this page. For removals
- #      use <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}|removal}}.
+ #    - Snippet for [http://meta.wikimedia.org/wiki/Spam_blacklist/Log/{{CURRENTYEAR}}/{{CURRENTMONTH}}?action=edit logging]:
+ #      -Additions: <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}}}
+ #      -Removals:  <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}|removal}}
  # 
  # Syntax:
  #    - Everything from a "#" character to the end of the line is a comment
