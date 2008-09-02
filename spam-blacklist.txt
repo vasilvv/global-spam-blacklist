@@ -3051,6 +3051,7 @@ freebao\.com
 bmd-certificates\.co\.uk
 casinoforumu\.com
 chabad(?:east|usa|world)\.(?:am|com|org)
+chabad\.am
 easytobook\.com
 ecole-miyamoto-musashi\.com
 favyr\.fa\.funpic\.org
