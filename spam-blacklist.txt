@@ -111,17 +111,15 @@ szilva96 # (crosswiki spammer, added by Nick1915)
 
 # Added by UninvitedCompany 8/5/05
 -handys\.de 
-handy-fun\.tk 
-handy-kaufhaus\.tk 
+handy-(?:fun|kaufhaus)\.tk 
 hostfuck\.com
 
 # Added by brion 2005-08-08
 \.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility.
 
 # Replacing overly broad once above - Andre Engels, 2005-08-09
-\b(?:heavytools|hydrocodone|spyware|phentermine|carisoprodol|sexforfree)\.webzdarma\.cz\b
-phentermine-online
-(?:viagra|phentermine)\.newmail\.ru
+\b(?:heavytools|spyware|carisoprodol|sexforfree)\.webzdarma\.cz\b
+viagra\.newmail\.ru
 (?:donewhere|olonline|spyware)\.bigsitecity\.com
 
 # Added by Andre Engels, 2005-08-09
@@ -136,30 +134,22 @@ crionica\.bpa\.nu
 streamings\.cable\.nu
 fectr\.dundeeleagues\.ca
 sherlok\.homes\.com\.au
-(?:author|chaka|dabest|ferdrubt|freedom|popov)\.nerdcamp\.net
 perfection\.prettyfar\.com
 whoisi\.whyza\.net
-(?:bidlo|fakir)\.zenno\.info
 
 # Added by UninvitedCompany, 8/10/2005
 all-hotels-motels\.com
 
 # Added by James F\., 2005\.vii\.21, as requested by CraigSpurrier
-buyhydrocodone\.afraid\.org
-phentermine-drugs\.euro\.tm
-[a-z-]*drugs\.euro\.tm
 21jewelry\.com
 mrjeweller\.us
 detox-kit\.com
-(?:adipex|levitra|lortab|diazepam|protonix|hydrocodone|toe|detox|jewelry)\.shengen\.ru
 tests-market\.com
 
 # added by brion
 about-travels\.host\.sk
 
 # Added by Yann on 25-8-2005 (from Meta)
-phenterminex\.freespaces\.com
-phentermine-pills\.euro\.tm
 smartsearch\.name
 fanny-girls\.info
 hotsex\.free-pussy\.org
@@ -168,13 +158,11 @@ hotsex\.free-pussy\.org
 \.etunisie\.net
 
 # Some nl spam links
-\.hostfuck\.com
 gensei-ryu\.nl
 
 # [[User:AlisonW|Alison Wheeler]] 22:13, 31 May 2006 (UTC)
 
 # Zenno\.info spam links
-(?:epsilon|googlesuka|stol)\.zenno\.info
 shoesbuy\.com
 shoesshop\.biz
 
@@ -200,7 +188,6 @@ shoesshop\.biz
 cnfibernet\.com\.cn
 \.tvsou\.com
 \.54163\.com
-pharmacy\.rr\.nu
 
 #additions by Mindspillage
 
@@ -247,7 +234,6 @@ mrjht\.info
 
 #11 Jul 06 - bot spamming en.wp
 gallery\.angel-btvs\.co\.uk/include/cheapvalium
-flyingpirate\.com/images/phentermineonline
 clicnetwork\.com
 yszmpfpr\.com
 beemdqay\.com
@@ -290,7 +276,6 @@ dinge-ohne-namen\.de
 
 # Amgine's
 justlovexx\.net
-\.f9zs\.info
 4ljd\.info
 pills-pharmacy\.be
 98\.to # Hégésippe's list
@@ -354,7 +339,6 @@ denwa\.omiki\.com
 \.ynkmty\.com
 \.zjunited\.com
 \.zuche258\.com
-greedo\.servehttp\.com
 hothouse\.linux\.dk
 \.true-search\.net
 \.wikipedia\.741\.com
@@ -376,16 +360,11 @@ freehostonline\.com
 websamba\.com
 \.luckysportsmanagement\.com
 \.steveyzerman\.com
-buy-hydrocodone\.webzdarma\.cz
 levitra\.webzdarma\.cz
 
 #\.wz\.cz
-buy-viagra-online\.webzdarma\.cz
 jarmyl\.tripod\.com
-rx-phentermine\.tripod\.com
 lunesta\.tripod\.com
-buy-viagra-online\w*\.tripod\.com
-hydrocodone\w*\.ds4a\.com
 xanax-pills\.tripod\.com
 valium-online\.tripod\.com
 sex4you\.webzdarma\.cz
@@ -393,7 +372,6 @@ s-sex4you\.tripod\.com
 works1\.netfirms\.com
 works-at-home14\.tripod\.com
 green-tea\w*\.netfirms\.com
-phentermine\.netfirms\.com
 lunesta\.netfirms\.com
 where\.netfirms\.com
 best-weight-loss-diet\.netfirms\.com
@@ -401,11 +379,9 @@ ephedra-weight-loss\.netfirms\.com
 incognitto\.tripod\.com
 slow-weight-loss\.netfirms\.com
 weight-loss-for-women\.netfirms\.com
-hydrocodone\w*\.b0x\.com
 on-line\.tripod\.com
 medicine\.netfirms\.com
 \.xf\.cz
-hydrocodone\.tripod\.com
 xmail\.net
 site\.voila\.fr/cine-passion
 cine-passion\.site\.voila\.fr
@@ -443,7 +419,6 @@ pharma-store\.docspages\.com
 tablets\.php5\.cz
 no-amazon\.com
 benefits-of-honey\.com
-blagoslovenie\.rovno\.ua
 cartier-glasses\.personal-watercraft-loan\.info
 iamtv\.tv
 nigeria\.mooo\.com
@@ -453,8 +428,7 @@ jessicaalbalife\.com
 shakiralife\.com
 terapatricklife\.com
 adrianalimapics\.org
-wifi-(?:world|planet)\.org
-wifiguide\.org
+wifi(?:-world|-planet|guide)\.org
 university-canada\.net
 zwai\.stikipad\.com
 hawksquawk\.net
@@ -465,11 +439,10 @@ maclenet\.com
 goatse\.ca
 
 # Aphaia: 
-\.newo[vz]\.info
 \.fengshui-xuankong\.com
 \.chineseart\.com/feng-shui\.htm
 \.smilingbamboo\.com
-\bsplashblog\.com/order(?:ambien|phentermine|carisoprodol)\b
+\bsplashblog\.com/order(?:ambien|carisoprodol)\b
 www\.debt-money\.com
 www\.newskentei\.jp
 831rec\.blog99\.fc2\.com
@@ -539,7 +512,7 @@ www\.bjlaibao\.com
 vacancy@intershipco.com
 info@acglogistics.net
 # Aph. OTRS ticket #2007072110009211
-caiquecrazy\.(?:us\.tt|spreebb\.com)
+caiquecrazy\.spreebb\.com
 # Aph Sep 2007
 dogbreedsdirectory\.co\.uk
 # "Saibanin stop" spam
@@ -647,14 +620,11 @@ yugioh\.de
 #commons
 health-medical\.be
 freewebs\.com/diet-about-diet
-fioricet-drugs\.mooo\.com
-ultram-drugs\.strangled\.net
 
 #Added by Raul654 on Jan 25 2006 - constant spamming on en main page
 all\.yard\.ru
 sleepgoodmusic\.com
 w9uh\.info
-wikipedia\.on\.nimp\.org
 \.on\.nimp\.org
 
 # URL shorteners
@@ -662,8 +632,6 @@ wikipedia\.on\.nimp\.org
 \bleenk\.org
 \bdwarfurl\.com
 \.1tiny\.com
-\.301url\.com
-\.6url\.com
 \.all\.at
 andmuchmore\.com
 ataja\.es
@@ -688,19 +656,16 @@ compactURL\.com
 \bdigbig\.com\b
 \.direct\.at
 \.dive\.to
-\.doiop\.com
 \.drink\.to
 \.drive\.to
 \.drop\.to
 \.easy\.to
 \.eb\.cx
-\.elfurl\.com
 escape\.to
 \.everything\.at
 \.fade\.to
 \.fanclub\.ms
 \.firstpage\.de
-\.flingk\.com
 \.fly\.to
 \.flying\.to
 fornovices\.com
@@ -733,12 +698,10 @@ link\.toolbot\.com
 linkezy\.com
 linktrim\.com
 ln-s\.net # silsor
-\.lnk\.in
 lznk\.com
 makeashorterlink\.com
 \.mediasite\.de
 \.megapage\.de
-\.metamark\.net
 \.messages\.to
 \.mine\.at
 \.minilien\.com
@@ -753,13 +716,11 @@ myprivateidaho\.com
 \bmyurl\.com\.tw\b
 \.nav\.to
 nlug\.org/url
-\.notlong\.com
 \.notrix\.(?:at|ch|de|net)
 \bnow\.to\b
 \.on\.to
 \.page\.to
 \.pagina\.de
-\.paulding\.net
 \.played\.by
 \.playsite\.de
 \.privat\.ms
@@ -779,14 +740,10 @@ rubyurl\.com
 \bsail\.to\b
 \.scroll\.to
 \.seite\.ms
-\.shorl\.com
 \.shortcut\.to
-\.shortlinks\.co\.uk
 shurl\.(?:net|org)
-\.simurl\.com
 \.skip\.to
 skocz\.pl
-\.smcurl\.com
 \.snap\.to
 \bsnipurl\.com
 \.soft-ware\.de
@@ -799,7 +756,6 @@ s-url\.net
 \.switch\.to
 \.talk\.to
 thrill\.to
-\.tighturl\.com
 tiny\.cc
 tiny(?:click|link)\.com
 \.tinyr\.us
@@ -823,7 +779,6 @@ urlcut\.(?:com|net)
 \burlic\.com\b
 urlin\.it
 urlmask\.com
-\.urlx\.org
 urlser\.com
 vacations\.to
 veryweird\.com
@@ -839,8 +794,6 @@ webdare\.com
 \.window\.to
 xrl\.us
 xxx-posed\.com
-\.yatuc\.com
-\.yep\.it
 \.yours\.at
 \.zap\.to
 \.zip\.to
@@ -887,8 +840,7 @@ xxx-posed\.com
 \bdigs\.it\b
 \badores\.it\b
 \bchills\.it\b
-\bis-groovin\.it\b
-\bis-chillin\.it\b
+\bis-(?:chillin|groovin)\.it\b
 \bdrives\.it\b
 \breads\.it\b
 \bsurfs\.it\b
@@ -946,8 +898,7 @@ xxx-posed\.com
 \bchristiandemocrats\.at\b
 \bcname\.at\b
 \bcolors\.at\b
-\bcommodore\.at\b
-\bcommodore64\.at\b
+\bcommodore(?:64)?\.at\b
 \bcommunists\.at\b
 \bconservatives\.at\b
 \bconspiracy\.at\b
@@ -989,8 +940,7 @@ xxx-posed\.com
 \bgreenparty\.at\b
 \bgrunge\.at\b
 \bhacked\.at\b
-\bhang\.at\b
-\bhangup\.at\b
+\bhang(?:up)?\.at\b
 \bhide\.at\b
 \bhindu\.at\b
 \bhtmlpage\.at\b
@@ -1068,8 +1018,7 @@ xxx-posed\.com
 \bsupercomputer\.at\b
 \bswedish\.at\b
 \bsynagogue\.at\b
-\bsyntax\.at\b
-\bsyntaxerror\.at\b
+\bsyntax(?:error)?\.at\b
 \btechie\.at\b
 \btemple\.at\b
 \bthinkbig\.at\b
@@ -1239,12 +1188,7 @@ coinable\.com #by epopt
 cheap-airline-tickets\.be
 pills-pharmacy\.us
 www-search\.be
-\.viprape\.com
 bestdeals\.at
-\.rr\.nu
-\.ontheweb\.nu
-\.isgre\.at
-\.byinter\.net
 girlswantmore\.info
 \.qiiq\.info
 putinbay\.com
@@ -1265,7 +1209,6 @@ norvasc\.be
 physicsarchives\.com
 xenon-hebergement\.net
 adultclub\.adultserving\.com
-nigeria\.tz4\.com
 nigeriaplanet\.proboards43\.com
 e-economysolutions\.com
 friendscyberclub\.com
@@ -1359,9 +1302,7 @@ gabenewell\.com
 theglowcompany\.co\.uk
 forum\.bodybuilding\.com
 bodybuilding\.com/fun/bigron
-guide-proteines\.org
-guide-phytosante\.org
-guide-vitamines\.org
+guide-(?:phytosante|proteines|vitamines)\.org
 all-musculation\.com
 forums\.2cpu\.com
 g00ns\.net
@@ -1446,7 +1387,7 @@ top\.netfirms\.com
 homes\.aol\.com
 tfitj\.info
 espacioblog\.com
-(?:ngvjj|udtgt|pzkyy|pxjhh)\.info
+(?:udtgt|pzkyy|pxjhh)\.info
 21publish\.de
 chezmoi\.aol\.ca
 \.cs\.com
@@ -1480,14 +1421,11 @@ kleeneze-information\.co\.uk
 earningsboost\.com
 kleeneze-information\.com
 \.slum\.in
-aiipa\.info
 \.iwde\.de
-\.edom\.co\.uk
 shop-links\.info
 \.rapa\.jp
 airports\.org\.ua
 logicgame\.com\.ua
-airports\.ho\.com\.ua
 putivnyk\.com
 ishipress\.com
 jbactors\.com
@@ -1532,8 +1470,7 @@ animals-pictures-dictionary\.com
 \.45\.kg
 \.ledes\.net
 \.thea[spt]\.info
-xoomer\.alice\.it/dynamixpro
-xoomer\.alice\.it/iokimo
+xoomer\.alice\.it/(?:dynamixpro|iokimo)
 yearlykos\.org
 rootg\.org
 \.comlive\.biz
@@ -1566,8 +1503,7 @@ freewebsitehosting\.net
 fqred\.com
 streamload\.com
 kipredinstitute\.org
-woodking24india\.com
-woodking24india\.b2bquote\.com
+woodking24india(?:\.b2bquote)?\.com
 woodking24\.exporterindias\.com
 geocities\.com/woodking24
 (?:indoor|outdoor|rustic|indian|home)furniture\.co\.in
@@ -1582,7 +1518,6 @@ medbucks\.info
 techblog\.net\.ru
 \.dv8\.com
 shoes(?:ebuy|order)\.(?:com|biz)
-xlale\.com
 xoomer\.virgilio\.it/insurance*
 slsae\.org
 anzwers\.org
@@ -1626,8 +1561,7 @@ extranomical\.com
 yosemitetours\.travel
 coffeereview\.net
 auto-insurance-company\.net
-isbn-check\.com
-isbn-check\.de
+isbn-check\.(?:com|de)
 pimpblog\.nl
 reciter\.com
 blogagotchi\.com
@@ -1775,8 +1709,7 @@ manpoweredflight\.com
 monster(?:hunter|news)\.org
 nuclear(?:australia|starships)\.com
 nuclearspace\.org
-projectorion\.(?:info|net|org)
-projectorion\.proboards28\.com
+projectorion\.(?:proboards28\.com|info|net|org)
 richardfinnila\.com
 rupertmurdoch\.ws
 robertzubrin\.com
@@ -1830,7 +1763,6 @@ swiki\.nadir\.org/refs
 japanese-girl-xxx\.com
 
 ##spam on catux\.org
-\.xmail\.net/(?:search|ac)
 doc\.svp-info\.com
 weer\.blogs\.(?:eurosport\.es/files|com/f)
 figgles\.8k\.com
@@ -1911,7 +1843,6 @@ aceshowbiz\.com
 alexeykaz\.boom\.ru
 \.rxhj\.net
 lop\.netfirms\.com
-free-porn\.aiipa\.info
 \.nokedem\.com
 booksmusicfilmstv\.com
 freehardcorevideo\.org
@@ -1995,10 +1926,8 @@ planoland\.com
 professionalhooker\.com
 SinCityBaby\.net
 texomaland\.com
-theprofessionalhooker\.com
 thongtalking\.com
-webitems\.com
-webitemspro\.com
+webitems(?:pro)?\.com
 ingenieur-verlag\.de
 
 #added by Redux on February 1st 2007
@@ -2008,7 +1937,6 @@ elodiscovery\.com
 
 ## Unknown
 (?:gui.*|chai?r|lamp.*|cook.*|visa.*)\.white\.prohosting\.com
-\.4ljd\.info
 buy-cheap-meds\.us
 julie\.xxserv\.com
 pills-pharmacy\.net
@@ -2020,8 +1948,6 @@ vacarreno\.net
 wiki\.servetown\.com
 cumfiesta4\.us
 stadianet\.com
-\.(?:asiangirlss|chickens|freeadult69|japanesegirl|matures|onlybestsex|sexgirls|supergirls\d*|wiki|wikipedia)\.servik\.com
-\.fw\.nu
 (?:alprazolam|ambien|diazepam|valium|xanax|zolpidem)\.daj\.pl
 sex\.hut1\.ru
 vanjatka\.be
@@ -2037,13 +1963,9 @@ onix1000\.com
 
 # piratebay\.org #test/temp
 \.w0qb\.info
-\.redirect\.hm
-drugs\.passingg\.as
-drugs\.(?:isgre|lowestprices)\.at
-drugs\.byinter\.net
+drugs\.lowestprices\.at
 drugs\.(?:mooo|ignorelist|chickenkiller)\.com
 drugs\.strangled\.net
-[0-9]+\.[-\w\d]+\.info/?[-\w\d]+[0-9]+[-\w\d]*\]
 \.lol\.to
 loprox\.atwork\.to
 niaspan\.mrfriendly\.com
@@ -2060,12 +1982,10 @@ f3so\.info
 ourtrinity\.net
 oxrash\.com
 cell-phones-store\.net
-pill\.envy\.nu
 order-online\.50webs\.com
 casino-(?:flower|baron)\.com
 pornzonehost\.com
 meenan1\.com
-debt-consolidation-loan-c\.blogspot\.com
 west263\.com
 firmasiden\.com
 \.ttmr\.com
@@ -2086,8 +2006,6 @@ hssight\.com
 changyuansh\.com
 \.ynsw\.com
 datianmachine\.com
-\.ad-ope\.com
-\.ama-son\.com
 microzovd\.com
 haugeprint\.co\.uk
 logical-planet\.co\.uk
@@ -2155,14 +2073,12 @@ accessories-car\.com
 chinese-suppliers\.com
 chinalifting\.com
 blogletters\.com
-\.shop\.tc
 uvinewine\.co\.uk
 couponmountain\.com
 hukuki\.net
 gift800\.net
 \.mmyou\.com
 chinamimi\.net
-7csun\.com
 fimdainternet\.com\.br
 allwoodoxford\.com
 cornishholidaysuk\.com
@@ -2214,7 +2130,6 @@ execsoft-software\.co\.uk
 bodet-clocks\.co\.uk
 buzz-hotels\.co\.uk
 longcrossgroup\.co\.uk
-reuterbrook\.co\.uk
 pantandsocks\.co\.uk
 bjrealcolor\.com
 efuchina\.com
@@ -2285,7 +2200,6 @@ power-steering-pump\.com
 xiaogang\.com
 happysport\.com
 \.cn006\.com
-\.web136\.net
 ittea\.net
 mysunmun\.com
 luck-star\.com
@@ -2326,7 +2240,6 @@ jiayinte\.com
 pkuyy\.com
 \.ebani\.com
 52wenxue\.com
-casino-online-on-line\.com
 eczz\.com
 211\.157\.35\.153
 musica\.org\.es
@@ -2351,7 +2264,6 @@ huifu\.com
 cnnttm\.com
 soonlink\.net
 cnbjflower\.com
-huojia315\.com
 sexeach\.com
 branson-china\.com
 lycos\.co\.uk/elo575
@@ -2367,10 +2279,6 @@ bjjingtu\.com
 \.dfrog\.be
 -frauentag\.de\.sr
 zonemu\.com
-3sex-zone\.com
-lazy-stars\.com
-eblja\.com
-sexy-eblja\.com
 ama-son\.com
 ad-ope\.com
 lariska-porn\.com
@@ -2443,8 +2351,7 @@ aauu\.net
 kykdz\.com
 china-crawfish\.com
 in-net\.ws
-yahoo\.com/(?:a1likostar|a0cany_2004|a00poleroid|a00asaz|a0_00leksa|stoons_cartoon)
-yahoo\.com/(?:skystarpilot|klirinc|fhkdfohjdfhk|freekeramika|aikishot)
+yahoo\.com/(?:a1likostar|a0cany_2004|a00poleroid|a00asaz|a0_00leksa|stoons_cartoon|skystarpilot|klirinc|fhkdfohjdfhk|freekeramika|aikishot)
 les-mas-de-provence\.com
 mp3prof\.com
 fullhentaimovies\.net
@@ -2510,8 +2417,7 @@ de-lete\.tv
 nudotnetguy
 save-money\.ws
 \.brig\.nu
-pics-of\.com
-pics-of\.org
+pics-of\.(?:com|org)
 pictures-free\.org
 \.wic\.nu
 \.xvil\.tv
@@ -2689,7 +2595,6 @@ www1\.com\.cn
 (?:duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com
 \.0302\.net
 51dragon\.com
-\.98\.to
 \.888\.web\.com
 25340\.rapidforum\.com
 5782601\.net
@@ -2716,8 +2621,7 @@ degrassi\.dumbbaby\.net
 didrex
 \.dimmo\.net
 discuss\.freeforumsite\.com
-dmoz\.org/Bookmarks/S/spaland
-dmoz\.org/profiles/spaland\.html
+dmoz\.org/(?:Bookmarks/S/spaland|profiles/spaland\.html)
 ebackground-checks\.com
 ebusiness-cards\.org
 ecar-rentals\.com
@@ -2753,13 +2657,11 @@ law-translation\.com
 losthorizons\.com
 lucky7\.to
 \.mq6\.info
-mycompiere\.com
-mycompiere\.net
+mycompiere\.(?:com|net)
 newsmotion\.com
 notlong\.com
 online-shopping\.wb\.st
 paper-translation\.com
-payday-loan\.de\.com
 pharmacy\.pumag\.net
 phentermine
 pokera\.web\.com
@@ -2783,7 +2685,6 @@ torrie-wilson\.org
 ubtt\.org
 vbzx\.net
 viagra-drugs\.no-ip\.info
-viagra-drugs\.pills-pharmacy\.net
 villepin2007\.org
 viprape\.com
 voip-guide\.org
@@ -2800,7 +2701,6 @@ wikidragon\.net
 \.a688\.net
 \.angelfire\.com/poetry/seidel
 \.copychina\.cn
-\.dralex\.info
 \.dzsc\.com
 \.epackshop\.net
 \.games-soft\.net/sex_games\.html
@@ -2827,7 +2727,6 @@ zymq\.com
 \.cool\.ac
 \.corp\.st
 \.euro\.tm
-\.explode\.to
 \.freewebpage\.org
 \.golft\.nl
 \.go\.51\.net
@@ -2843,7 +2742,6 @@ zymq\.com
 \.zlip\.to
 \.zmack\.to
 \.znap\.to
-\.zwap\.to
 \.zwitch\.to
 \.go\.to
 \.shengen\.ru
@@ -2863,10 +2761,6 @@ ywxjm\.com
 \.gguu\.com
 idc2008\.cn
 google-in-china\.org
-\.detox-kit\.com
-\.21jewelry\.com
-\.maclenet\.com
-\.mrjeweller\.us
 \.lxhost\.com
 \.125mb\.com
 \.linemd\.com
@@ -2900,7 +2794,6 @@ diazepampill\.com
 russia\.webmatrixhosting\.net
 zya9\.info
 \.p2l\.info
-azzacash\.com
 m0re\.net
 utenti\.lycos\.it/pills1
 hagensafrika\.de
@@ -2910,9 +2803,6 @@ gotgeeks\.com
 3d-game\.com
 is-a-geek\.com
 soma\.homelinux\.com
-ultram\.serveftp\.com
-mobic\.sytes\.net
-naproxen\.zapto\.org
 
 ## 2005-05 ([[Spam blacklist/Log]])
 \.qx5\.net
@@ -2980,8 +2870,7 @@ tzpet\.com\.cn
 x-rainbow\.com\.cn
 yorkinstrument\.com
 hg-fix\.com
-hgfix\.org
-hg-fix\.org
+hg-?fix\.org
 wxzgyb\.com
 yy-ls\.com
 xd-fw\.com
@@ -3043,7 +2932,6 @@ casinoforumu\.com
 chabad(?:east|usa|world)\.(?:am|com|org)
 chabad\.am
 easytobook\.com
-ecole-miyamoto-musashi\.com
 favyr\.fa\.funpic\.org
 gamenline\.ga\.funpic\.org
 klavato\.kl\.funpic\.de
@@ -3127,8 +3015,7 @@ melanotan\.com\.au
 teens\.fr33host\.net
 blackburnroversyears\.com
 woodland-bunkbeds\.com
-silent-night\.info
-silentnight\.info
+silent-?night\.info
 board123\.com
 holocaustresearchproject\.org
 hs4free\.info
@@ -3179,7 +3066,6 @@ dishnetworkordirectv\.com
 infinitephone\.net
 internetpro\.ws
 jackspirko\.com
-marketingPitBull\.net
 magnumsandbass\.com
 mamasmarketplace\.com
 marketingpitbull\.net
@@ -3190,16 +3076,12 @@ sagelocalphone\.com
 sagetelecom\.net
 search-engine-positioning-experts\.com
 shopfort1\.com
-squidoo\.com/inexpensive-wine
-squidoo\.com/localphoneservice
 t1quotes\.net
 \.telebay\.com
 voipblogs\.blogspot\.com
 voiphunt\.com
 kewlestsites\.com
 \bcognigen\.(?:com|net)
-\.ld\.net
-\.myld\.net
 \.envy\.nu
 halychen\.com
 just2buy\.com
@@ -3236,15 +3118,14 @@ attorneys-online\.org
 animations-games-india\.com
 \.brascomponents\.com
 \.brasparts\.com
-\bbrass(?:fittingsindia|fast|-parts-india|-nuts-screws-fasteners|-inserts|-fittings-india|-fastener-india|-copper-castings|-components-india)\.com\b
+\bbrass(?:fast|-parts-india|-nuts-screws-fasteners|-inserts|-fittings-india|-fastener-india|-copper-castings|-components-india)\.com\b
 bronze-castings-fittings\.com
 \.cableaccs\.com
 \.cableglandsindia\.com
 \.conexindia\.com
 \.conexmetals\.com
 \.conextechno\.com
-diamond-(?:rings-india|ring-diamond-rings|pendants-india|earrings-india|jewellery-india)\.com
-diamond-ring-rings\.tripod\.com
+diamond-(?:rings-india|ring-diamond-rings|pendants-india|earrings-india|jewellery-india|ring-rings\.tripod)\.com
 \.elecaccs\.com
 electrical-brass-components\.com
 electricalbrass\.f2s\.com
@@ -3314,7 +3195,6 @@ google\.com/group/watdet
 probuzz\.wordpress\.com
 \.kalakendra\.com
 blueplanetsurfmaps\.com
-\.kapills\.com
 asphost4free\.com
 \.lame\.name
 geocities.com/stymets
@@ -3344,7 +3224,6 @@ morefori\.org
 \.velikaze\.org
 \.retructi\.org
 \.minipik\.org
-\.queroumforum\.com
 boogiestreet\.com
 adult-sex-chat\.info
 declarationofindependents\.net
@@ -3394,7 +3273,6 @@ pr0xy\.us
 connypug\.org
 proxymess\.com
 ipdefend\.com
-worldproxy\.info
 proxyl(?:y|la)\.com
 \bproxy(?:atwork|atschool|allow)\.com\b
 cloakme\.net
@@ -3546,7 +3424,6 @@ homephotog\.com
 \.z32club\.org
 webbrainiac\.com
 \.nicoclub\.com
-payday\.besttradelink\.info    # Jdforrester # repeated spam
 \.iyisozluk\.com               # Jdforrester # pan-wiki spam
 loans.mortgagerefinancedot\.info
 homeloancourse\.info
@@ -3635,8 +3512,7 @@ firewalldown\.com
 \bksuria\.com
 \blycosasia\.com
 \bmagicwin\.com\.my
-\bmalaysia-supplier\.com
-\bmalaysia-webdesign\.com
+\bmalaysia-(?:supplier|webdesign)\.com
 \bmalaysiaseo\.net
 \bmanufacturer-supplier\.com
 \bmaximus\.com\.my
@@ -3687,7 +3563,6 @@ firewalldown\.com
 \bautoinsurancequoteonline\.us
 \bprofrios\.hpg\.ig\.com\.br
 \bsima\.kit\.net
-\bberlin\.gratuliermir\.de
 \bgelsenkirchen-im-blick\.de
 \blastmeasure.zoy.org
 \bjobpilto\.de
@@ -3698,8 +3573,7 @@ republika\.pl/stranasmer
 
 # All these additions can be found properly logged.
 \b40weekspregnancystages\.com
-\babout-credit-card\.com
-\babout-credit-report\.com
+\babout-credit-(?:card|report)\.com
 \baboutbodybuilding\.net
 \bacneskincareinfo\.com
 \bair-purifier-and-filter\.com
@@ -3708,8 +3582,7 @@ republika\.pl/stranasmer
 \batkindietplan\.com
 \batkins-diet\.cc
 \bbenefit-green-tea\.com
-\bbreast-augmentation-and-enlargement\.com
-\bbreast-augmentation-implants\.com
+\bbreast-augmentation-(?:and-enlargement|implants)\.com
 \bcabbage-soup-diet-plan\.com
 \bcarpetsearch\.org
 \bcell-phone-blog\.net
@@ -3717,14 +3590,12 @@ republika\.pl/stranasmer
 \bdiabetes-diabetic-diet\.com
 \bdietpills-information\.com
 \bdigital-camera-technology\.com
-\bdsl-broadband-isp\.com
-\bdsl-link\.com
+\bdsl-(broadband-isp|link)\.com
 \bedi-guide\.com
 \bfitness-health-plan\.com
 \bgrapefruit-diet\.org
 \bhdtv-lcd-plasma\.com
-\blasik-surgery-info\.com
-\blasiklasereyesurgeries\.com
+\blasik(?:-surgery-info|lasereyesurgeries)\.com
 \blowcarb\.ca
 \bnewyork-architects\.com
 \bswiss-architects\.com
@@ -3768,7 +3639,6 @@ republika\.pl/stranasmer
 \bxatpro\.com
 \bgratuliermir\.de
 \bforumfree\.net
-\binternet-history\.tz4\.com
 \bstatisticsoftheworld\.page\.tl
 \bparkourstyle\.com
 \btexaspoker\.tk
@@ -3793,7 +3663,6 @@ republika\.pl/stranasmer
 \bgo-sierra-nevada\.com
 \bnarutokage\.135\.it
 \bgo-passau-land\.com
-\belrelojdesol\.com/classical-music-online/wolfgang-amadeus-mozart
 \bbratz\.tv
 \bvoila\.fr/bharatanatyam-dance
 \bgeocities\.com/medhahari
@@ -3828,8 +3697,7 @@ republika\.pl/stranasmer
 \b321books\.co\.uk
 \bhaber80\.net
 ultime-notizie\.eu
-\byahoo\.335-i\.com/BMW
-\byahoo\.335-i\.com/Mercedes_Benz
+\byahoo\.335-i\.com/(?:BMW|Mercedes_Benz)
 \bgeiz-gorilla\.com
 
 # 20070314 by Shizhao add
@@ -3839,8 +3707,7 @@ ultime-notizie\.eu
 \b(?:au|es|hk|hu|ie|it|kr|mx|pl|se|th|ua|us|shop)\.tc\b
 \b(?:co|com)\.at\.(?:tc|tt)\b
 \b(?:co|me|borg)\.uk\.tc\b
-\bme\.uk\.tt\b
-\b(?:uk|us)\.tt\b
+\bu[ks]\.tt\b
 
 #Back to proper logging...
 \bfree-car-insurance-quote\.net
@@ -3872,9 +3739,8 @@ ultime-notizie\.eu
 \bjourney(?:east|west)\.org\b
 \blearnchinesenow\.net
 \bstudenttravelchina\.org
-\bteach-and-travel\.org
+\bteach-(?:and-travel|in-zhejiang)\.org
 \bteach-in-Beijing\.com
-\bteach-in-zhejiang\.org
 \bTEFLjobs\.org
 \bz-visa\.com
 \baffordable-car-insurance\.biz
@@ -3908,8 +3774,7 @@ ultime-notizie\.eu
 \btvsylt\.de
 \bhomejobsite\.com
 \bmccallsnotes\.live\.spaces
-\bagloco\.com
-\baglocotest\.com
+\bagloco(?:test)?\.com
 \bjohnchow\.com
 \bwegetpaidtosurf\.com
 \bxfile007\.blogspot\.com
@@ -3947,9 +3812,8 @@ ultime-notizie\.eu
 \bthe-planets\.com
 \bmyclassiclyrics\.com
 \bpornstarbucks\.com
-\bmilos-island\.com
+\bmilos(?:-island|isforlovers)\.com
 \bmilos-hotels\.org
-\bmilosisforlovers\.com
 \biMilos\.com
 \brashi12\.com
 \brefspace\.com
@@ -3966,7 +3830,7 @@ ultime-notizie\.eu
 \bGamedogs\.org
 \bgoodoldtoronto\.com
 \bdoctorscloset\.com
-\bhiphopjazzproduction\.com
+\bhiphopjazzproductions?\.com
 \bracetotheright\.com
 \bLearning-Theories\.com
 \blearninginvideogames\.com
@@ -3980,7 +3844,6 @@ ultime-notizie\.eu
 \bsnesclassics\.com
 \bsonycarstereos\.co\.uk
 \btranslatedarticles\.com
-\bhiphopjazzproductions\.com
 \bquetzal\.4t\.com
 \bdmv\.org
 \baffiliateprograms\.com
@@ -4070,7 +3933,6 @@ ultime-notizie\.eu
 \bthekarachi\.com
 \btopnasdaqstocks\.com
 \bportal\.ismaili-net\.com
-\bsubmitlink\.biz/lodhi
 \bsaree\.50webs\.com
 \bminiweblink\.com
 \bsubmitlink\.biz
@@ -4084,10 +3946,7 @@ traditio[\.．]ru
 \blysting\.com
 \bautocrust\.blogspot\.com
 \bafif\.ws
-\bafifpoem\.com
-\bafif2\.com
-\bafifchat\.com
-\bafifup\.com
+\bafif(?:2|chat|poem|up)\.com
 \blocation\.essaouira-voyage\.com
 \bworkforall\.net
 \bhealthadel\.com
@@ -4108,8 +3967,7 @@ traditio[\.．]ru
 \bdestined\.to\b
 \bembark\.to\b
 \bwakeup\.to\b
-\btrax\.to\b
-\btrak\.to\b
+\btra[kx]\.to\b
 \bdear\.to\b
 \btakeoff\.to\b
 \bchild-support-laws-state-by-state\.com\b
@@ -4155,13 +4013,9 @@ traditio[\.．]ru
 \bscpanel\.net\b
 \bgoogle\..{1,5}/cse\b
 \bxshorturl\.info\b
-\burlfreeze\.com\b
 \bchrismorris\.ws\b
-\bclik\.to\b
-\bclix\.to\b
+\bcli[kx]\.to\b
 \bdevoted\.to\b
-\bcrocsclub\.com\b
-\bsearchtravel\.biz/countrylist/italy.php
 \byoutube\.ag\b
 \bsearchtravel\.biz/countrylist/italy\.php\b
 \bwowomg\.com\b
@@ -4177,8 +4031,6 @@ traditio[\.．]ru
 \blg-sl\.net\b
 \banti2ch\.blog61\.fc2\.com\b
 \barvel7aico\.btblog\.jp\b
-\bcarandbikeforum\.com\b
-\bautocrust\.blogspot\.com\b
 \bAdvisorsDirectory\.com\b
 \bdebbiedoesdallasagain\.net\b
 \bjennafilms\.com\b
@@ -4204,8 +4056,7 @@ traditio[\.．]ru
 \bziggyswitkowski\.com\b
 \bhoodiagordoniiplus\.com\b
 \betclinic\.com\b
-\bcrocsclub\.com\b
-\bcrocsclub\.info\b
+\bcrocsclub\.(?:com|info)\b
 \bmobiways\.com\b
 \bankor\.info\b
 \bbems\.info\b
@@ -4288,8 +4139,6 @@ traditio[\.．]ru
 \bangellocsin\.org\b
 \barnoldaloisschwarzenegger\.com\b
 \bashleesimpsonclub\.com\b
-\bbachelorfan\.com\b
-\bbigbrotherfansite\.com\b
 \bburberryworld\.com\b
 \bcaptainbarbell\.org\b
 \bcassieforum\.com\b
@@ -4327,8 +4176,7 @@ traditio[\.．]ru
 \bkatieholmesweb\.com\b
 \bkeithurbanforum\.com\b
 \bkelliepicklerforum\.com\b
-\bkimchiu\.net\b
-\bkimchiu\.org\b
+\bkimchiu\.(?:net|org)\b
 \bkirstendunstforum\.com\b
 \bleasalonga\.net\b
 \bmariahfansite\.com\b
@@ -4336,7 +4184,6 @@ traditio[\.．]ru
 \bmariolopez\.info\b
 \bmarthastewartfans\.com\b
 \bmauitaylor\.org\b
-\bmaumarcelo\.org\b
 \bmichellerodriguezforum\.com\b
 \bmimirogersonline\.com\b
 \bmyangelinajolie\.com\b
@@ -4437,10 +4284,8 @@ compact\.exe\.su
 \bdidimbeachresort\.net
 \bstudiando\.it\b
 \bwebalice\.it/pigionantialfio\b
-\becemaml\.com
-\becemaml\.blogia\.com
-\bgeocities\.com/wikipedia_bibliotecarios
-\bgeocities\.com/censura_no
+\becemaml\.(?:blogia\.)?com
+\bgeocities\.com/(?:wikipedia_bibliotecarios|censura_no)
 \bspain\.info/cn/TourSpain      # spam on zh wp
 \bfredthompsonforum\.com
 \bmenwith\.blogspot\.com
@@ -4453,7 +4298,6 @@ compact\.exe\.su
 \btelefilmseries\.com\b
 \bautonomica4\.info\b
 \bsega-univers\.de
-\bglobal-itv\.com\b
 \bcarnifest\.com
 \bjobklub\.com
 \bmsoe\.edu/~millerni
@@ -4475,8 +4319,7 @@ cheapviagra
 get-mortgage-refinancing\.info
 \bjuicybooty\.net
 \bkerismart\.com
-mobile-content-news\.info
-mobile-ringbacks\.info
+mobile-(?:content-news|ringbacks)\.info
 second-mortgage-refinance\.net
 \bspokenwordz\.com
 \boperafiles\.com
@@ -4494,12 +4337,10 @@ powerleveling-wow\.com
 \bcnvacation\.com
 \blang\.arabe\.free\.fr
 \bllegalemapas\.com
-\bhezarbareshgh\.blogfa\.com
 \bgeocities\.com/celebrityspaghetti
 \bulink\.co\.nr/
 \bpropeciahelp\.com
 \bandrewjohns\.ca
-\.gu\.ma\b
 \bsanpedrodeatacama\.net
 \blatuaautomobile\.com
 \bfishingnotes\.com
@@ -4508,7 +4349,6 @@ powerleveling-wow\.com
 \bsearchmusiconline\.com
 \bglobal-itv\.com
 \ble\.puy43\.free\.fr
-\bithelpdesksolutions\.com
 \bbrtravel\.com\.br
 \bgamerosters\.com
 \bil.*\.interfree\.it
@@ -4526,7 +4366,6 @@ powerleveling-wow\.com
 \bsohbetsu\.com
 \bhotels99\.net
 \bindependencia\.net
-\bdm-cqsf\.cn
 \bmqblog\.cn
 \bmendean\.net
 \bcelsnet\.cn
@@ -4534,7 +4373,6 @@ powerleveling-wow\.com
 \bcaws\.cn
 \bchongshang\.com\.cn
 \btimeyiqi\.com\.cn
-\bdm-lietou\.cn
 \beachost\.com
 \bhauyut\.com
 \bsino-biyan\.cn
@@ -4585,8 +4423,7 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bairbrush\.pagina\.nl\b
 \bhenna\.pagina\.nl\b
 \bred-light-district\.nl\b
-\bbowtrol\.org\.ua\b
-\bbowtrolcoloncleanse\.org\.ua\b
+\bbowtrol(?:coloncleanse)?\.org\.ua\b
 \bbuyhghproduct\.org\.ua\b
 \bchronicpainrelief\.org\.ua\b
 \begipt\.org\.ua\b
@@ -4600,8 +4437,7 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bbestfrenchfilms\.com\b
 \bst-ferriol\.com\b
 \bheretication\.info\b
-\bvotejedi\.co\.uk\b
-\bvotejedi\.com\b
+\bvotejedi\.co(?:\.uk|m)\b
 \bspringald\.com\b
 \brealstandards\.info\b
 \bobservacionesfilosoficas\.net\b
@@ -4630,8 +4466,7 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bana-claudia-michels\.com\b
 \braica-oliveira\.com\b
 \balessandra-ambrosio\.eu\b
-\badriana-lima\.eu\b
-\badriana-lima-forum\.com\b
+\badriana-lima(?:-forum\.com|\.eu)\b
 \breisbegeleider\.com\b
 \bmeinliedfuerdich\.com\b #Added by Yann: porn
 \bcanurl\.com\b
@@ -4678,23 +4513,19 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \barturnikitin\.com\b
 \bbargainhammocks\.com\b
 \bbenedict-xvi-pope\.com\b
-\bbest-mortgage-quotes\.com\b
-\bbest-sex-enhancers\.com\b
-\bbest-sunless-tanning\.com\b
+\bbest-(?:mortgage-quotes|sex-enhancers|sunless-tanning)\.com\b
 \bbobbleheadfinder\.com\b
 \bbreast-enhancement-help\.com\b
 \bbuy-cruise\.com\b
 \bcell-phone-wallpapers\.com\b
 \bcellularservicehelp\.com\b
-\bcheap-playstation\.com\b
-\bcheap-x-box\.com\b
+\bcheap-(?:playstation|x-box)\.com\b
 \bcloset-world\.com\b
 \beroticsexylingerie\.com\b
 \bfindfurnace\.com\b
 \bfreecurrencycalculator\.com\b
 \bfreedesktopfun\.com\b
-\bget-degree-online\.com\b
-\bget-fast-money\.com\b
+\bget-(?:degree-online|fast-money)\.com\b
 \bgetaircompressors\.com\b
 \bgypsumus\.com\b
 \bhairextensionhelp\.com\b
@@ -4706,8 +4537,7 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bmytinybaby\.com\b
 \bmytinyphone\.com\b
 \bmywifiphones\.com\b
-\bonline-auto-quotes\.com\b
-\bonline-car-quotes\.com\b
+\bonline-(?:auto|car)-quotes\.com\b
 \border-drugs-online\.com\b
 \bphone-screensavers\.com\b
 \bpoolsarea\.com\b
@@ -4734,11 +4564,9 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 
 \bsimplelink\.php5\.sk\b
 \bleggievai\.it\b
-\bmysundial\.2-www\.de\b
 \btelavivguide\.net\b
 \bmoolamusic\.co\.il\b
 \bporto-guide\.com\b
-\bmysundial\.2go4\.de\b
 \bbjdyg\.com\.cn\b
 \bikyoku-jinji\.com\b
 \bvisaforu\.awardspace\.com\b
@@ -4750,25 +4578,17 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \biil\.be\b
 \bcarnivalservice\.com\b
 \bgtabeauties\.com\b
-\bgoascii\.com\b
-\bgoascii\.de\b
+\bgoascii\.(?:com|de)\b
 \bsnurl\.com\b
-\bsk\.tl\b
-\bhr\.tl\b
-\bhu\.tl\b
+\b(?:sk|hr|hu)\.tl\b
 \bshim\.net\b
-\bau\.ms\b
-\bbr\.ms\b
-\bfr\.ms\b
-\bhk\.ms\b
-\bshop\.ms\b
+\b(?:au|br|fr|hk|shop)\.ms\b
 \bhowtocrowd\.com\b
 \bremedycrowd\.com\b
 \brumorcrowd\.com\b
 \brantcrowd\.com\b
 \bpredictcrowd\.com\b
 \bpalavas\.blog4ever\.com\b
-\bmysundial\.2see\.de\b
 \b12-Steps\.info\b
 \bAfricaCo\.com\b
 \bBankAccountsCo\.com\b
@@ -4816,8 +4636,7 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \beakk\.ifrance\.com\b
 \bkonthaitours\.com\b
 \bkonthaitour\.com\b
-\bhiphop-radio\.50webs\.com\b
-\breggae-radio\.50webs\.com\b
+\b(?:hiphop|reggae)-radio\.50webs\.com\b
 \bcrowdspin\.com\b
 \breviewcrowd\.com\b
 \bcomedycrowd\.com\b
@@ -4827,13 +4646,9 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bgoogle\.com\.tr/search\?hl=tr\b
 \bkinzparty\.info\b
 \bisraloft\.com\b
-\bwebkinz-recipes\.net\b
-\bwebkinz-cheat\.net\b
-\bmysundial\.3rdlevel\.de\b
-\bthesundialprimer\.2-www\.de\b
+\bwebkinz-(?:recipes|cheat)\.net\b
 \bworld-religion\.org\b
 \botazoj\.nl\b
-\bsundialprimer\.2-www\.de\b
 \bcaiuszip\.com\b
 \bsciarthistory\.com\b
 \bstartingiseasy\.com\b
@@ -4843,7 +4658,6 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bcaiozip\.com\b
 \bmundoceleste\.ch\b
 \bvideo\.olympus\.ru\b
-\bsunprimer\.2-www\.de\b
 \b2-www\.de\b
 \b2go4\.de\b
 \b2see\.de\b
@@ -4851,21 +4665,16 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \b4sports\.de\b
 \bbesucht\.de\b
 \bcheck-page\.net\b
-\bclick-fun\.net\b
-\bclick-page\.net\b
-\bclick-url\.net\b
+\bclick(?:-fun|-page|-?url)\.net\b
 \bclickdown\.de\b
-\bclickurl\.net\b
 \bclubpage\.de\b
 \bdirect2\.de\b
 \be33\.de\b
-\bfast-here\.com\b
-\bfast-visit\.com\b
+\bfast-(?:here|visit)\.com\b
 \bfast2\.de\b
 \bfly-page\.net\b
 \bflyurl\.net\b
-\bfun-url\.com\b
-\bfun-url\.net\b
+\bfun-url\.(?:com|net)\b
 \bfun-visit\.com\b
 \bfunhome\.de
 \bfwd2\.de\b
@@ -4876,8 +4685,7 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bhere4u\.de\b
 \bhereurl\.com\b
 \bhispeed\.de\b
-\bist-hier\.de\b
-\bist-im-netz\.de\b
+\bist-(?:hier|im-netz)\.de\b
 \bixy\.de\b
 \bkurz-url\.de\b
 \blikesmusic\.de\b
@@ -4891,15 +4699,12 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bpageme\.de\b
 \bpageshow\.net\b
 \bpageurl\.net\b
-\bshow-fast\.com\b
-\bshow-url\.com\b
+\bshow-(?:fast|url)\.com\b
 \bshowurl\.net\b
 \bsub-page\.com\b
 \bsub\.cc\b
 \bsub4u\.de\b
-\bsubdomains\.at\b
-\bsubdomains\.ch\b
-\bsubdomains\.de\b
+\bsubdomains\.?:(at|ch|de)\b
 \btvsite\.de\b
 \buserpage\.de\b
 \bvisit-page\.com\b
@@ -4909,8 +4714,6 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bindustrieinderturkei\.com\b
 \bsubaru-impreza\.it\b
 \bcasinobonusdeposit\.com\b
-\bgportal\.hu/portal/szilva96\b
-\bgportal\.hu/szilva96\b
 \bturkcemirc\.org\b
 \bbunchofphotosabout\.com\b
 \bbicycle-adventures\.com\b
@@ -4918,8 +4721,7 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bpulau-pangkor\.com\b
 \byangshuo-travel-guide\.com\b
 \bmalaysiavacationguide\.com\b
-\befn\.org/~fotozone\b
-\befn\.org/~hkrieger\b
+\befn\.org/~(?:fotozone|hkrieger)\b
 \bwithyouitspossible\.com\b
 \bcontigoesposible\.com\b
 \bdrugstoretm\.com\b
@@ -4927,14 +4729,9 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bamericapharmacyworld\.com\b
 \bhoganrx\.net\b
 \bmypharma1\.net\b
-\bmypharma1\.net\b
 \bmypharmacyworld\.net\b
-\bmypharman\.com\b
-\bmypharmanow\.com\b
-\bmypharmastop\.biz\b
-\bmypharmastop\.net\b
-\bmypharmausa\.biz\b
-\bmypharmausa\.net\b
+\bmypharman(?:ow)?\.com\b
+\bmypharma(?:stop|usa)\.(?:biz|net)\b
 \bmyrxunited\.com\b
 \bpharma1\.net\b
 \bhibiny\.ru\b
@@ -4953,7 +4750,6 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bflowers-photos\.eu\b
 \bendangeredspeciesinternational\.org\b
 \bwikimages\.org\b
-\bwikipedia\.try\.hu\b
 \banimalstube\.com\b
 \bbunchofvideosabout\.com\b
 \bbiz-vision\.org\b
@@ -4965,13 +4761,10 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bhref\.to\b
 \bkuerzer\.de\b
 \braghunathmanet\.com\b
-\bmecatiss\.info\b
-\bmecatiss\.com\b
+\bmecatiss\.(?:com|info)\b
 \bsmartlabs\.pl\b
-\bhiphop-radio\.50webs\.com\b
 losethegame\.com #encouraging page vandalism which includes this URL
-\beclipse-glasses\.com\b
-\beclipse-glasses\.net\b
+\beclipse-glasses\.(?:com|net)\b
 \bengland-360\.co\.uk\b
 \bchester360\.co\.uk\b
 \byork360\.co\.uk\b
@@ -5003,8 +4796,7 @@ digilander\.libero\.it/andrea\.nardo1977
 \bklivecam\.com\b
 \bkpeeing\.com\b
 \bkporns\.com\b
-\bkscans-germany\.com\b
-\bkscans\.com\b
+\bkscans(?:-germany)?\.com\b
 \bkteama.info\b
 \bmouthpee\.net\b
 \bpuppetcams\.com\b
@@ -5021,8 +4813,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \bhappybuyer\.org\b
 \bmicholita\.com\b
 \bcyndilauperuk\.com/ReissuesPage.html\b
-\beleu\.net\b
-\beleuthera\.com\b
 \bbahamashomesite\.com\b
 \bhumanthermodynamics\.com\b
 \bhumanchemistry\.net\b
@@ -5031,34 +4821,19 @@ digilander\.libero\.it/andrea\.nardo1977
 \bgiubizza\.blogspot\.com\b
 \bxoomer\.alice\.it/giubizza\b
 \bgiubizza\.tk\b
-\bborgenproject\.org\b
-\bborgenproject\.com\b
+\bborgenproject\.(?:com|org)\b
 \b(?:facel-vega|facel.*\.wanadoo)\.fr\b
 \bshanghai2010\.hu\b
 \bapurogol\.com\b
-\badvisorsdirectory\.net\b
-\badvisorsdirectory\.org\b
+\badvisorsdirectory\.(?:net|org)\b
 \bexpo2010china\.hu\b
-\bgportal\.hu/gindex\.php\?prt=268564\b
-\bbahamas-beach-rental\.com\b
-\bbahamas-bookstore\.com\b
-\bbahamas-diving\.com\b
-\bbahamas-honeymoon\.com\b
-\bbahamas-rental\.com\b
-\bbahamas-store\.com\b
-\bbahamas-travel\.com\b
-\bbahamas-villa-rental\.com\b
-\bbahamashomesite\.com\b
+\bbahamas(?:-beach-rental|-bookstore|-diving|-honeymoon|-rental|-store|-travel|-villa-rental|homesite)\.com\b
 \bcaribbean-rental\.com\b
 \bcat-island-rental\.com\b
 \bcat-island\.net\b
 \beleu\.net\b
-\beleuthera-bahamas-rental\.com\b
-\beleuthera-bahamas\.com\b
-\beleuthera-rental\.com\b
-\beleuthera-rental\.com\b
-\beleuthera\.biz\b
-\beleuthera\.com\b
+\beleuthera-(?:bahamas|bahamas-rental|rental)\.com\b
+\beleuthera\.(?:biz|com)\b
 \bkafkas-cafe\.com\b
 \bout-island-wedding\.com\b
 \btheduckinn\.com\b
@@ -5067,8 +4842,7 @@ digilander\.libero\.it/andrea\.nardo1977
 \bgelalive\.com\b
 \bgoogle\.com\.tr/search\?hl=tr&q=changing\+transpotation\b
 \blogisticsclub\.com\b
-\blojistikkulubu\.org\b
-\blojistikkulubu\.com\b
+\blojistikkulubu\.(?:com|org)\b
 \blogisticsclub\.org\b
 \bmyspace\.com/terriirwin\b
 \bbombingscience\.com\b
@@ -5081,8 +4855,7 @@ digilander\.libero\.it/andrea\.nardo1977
 \bbayern-gastgeber\.de\b
 \btheflowersofromance\.tk\b
 \bdcc\.ttu\.ee/Bands/get\.asp\?ident=2555\b
-\bmyspace\.com/tfor\b
-\bmyspace\.com/vennaskond\b
+\bmyspace\.com/(?:tfor|vennaskond)\b
 \bgportal\.hu\b
 \bexpo2010kina\.hu\b
 \bbeginner-sql-tutorial\.com\b
@@ -5090,19 +4863,13 @@ digilander\.libero\.it/andrea\.nardo1977
 \bbudapestpocketguide\.com\b
 \bfreelancer\.com\.ar\b
 \bfaeroerne\.dk\b
-\b2008-beijingolympics\.com\b
-\b2008-beijingolympics\.org\b
+\b2008-beijingolympics\.(?:com|org)\b
 \b2010shanghaiworldexpo\.com\b
 \balternateroutestravel\.org\b
-\bausteach\.com\b
-\bausteach\.org\b
-\bbusinessesl\.com\b
-\bbusinessesl\.org\b
-\bbuxiban\.biz\b
-\bbuxiban\.net\b
-\bchina-2008-beijing\.com\b
-\bchina-study-in\.com\b
-\bchina-teach-in\.com\b
+\bausteach\.(?:com|org)\b
+\bbusinessesl\.(?:com|org)\b
+\bbuxiban\.(?:biz|net)\b
+\bchina-(2008-beijing|study-in|teach-in)\.com\b
 \bchinacam\.net\b
 \bchinaeducationexchange\.com\b
 \bchinatravelfacts\.org\b
@@ -5110,43 +4877,33 @@ digilander\.libero\.it/andrea\.nardo1977
 \besljobschina\.org\b
 \beslschoolreview\.org\b
 \beslschoolwatch\.com\b
-\beslteachercafe\.com\b
-\beslteachercafe\.net\b
-\beslteachercafe\.org\b
-\beslteachersboard\.net\b
-\beslteachersboard\.org\b
+\beslteachercafe\.(?:com|net|org)\b
+\beslteachersboard\.(?:net|org)\b
 \beslteacherscafe\.net\b
 \bflooring-contractor\.biz\b
 \bflooring-laminate\.net\b
 \bflooringfromchina\.net\b
 \bflooringsupply\.biz\b
 \bfootprintsrecruiting\.net\b
-\bhunanteach\.net\b
-\bhunanteach\.org\b
+\bhunanteach\.(?:net|org)\b
 \bjourneywest\.net\b
 \blearnchinesenow\.org\b
 \bmarksesl\.org\b
 \bmikescreel\.com\b
 \bmychinesewife\.com\b
-\bpandasteps\.com\b
-\bpandasteps\.net\b
+\bpandasteps\.(?:com|net)\b
 \bstudent-travel-china\.org\b
 \bstudyinchina\.biz\b
-\bsummerinchina\.net\b
-\bsummerinchina\.org\b
+\bsummerinchina\.(?:net|org)\b
 \bteach-and-travel\.com\b
-\bteach-in-asia\.org\b
-\bteach-in-beijing\.org\b
-\bteach-in-shanghai\.org\b
+\bteach-in-(?:asia|beijing|shanghai)\.org\b
 \bteachcn\.org\b
 \bteachinasia\.org\b
-\btesolmax\.net\b
-\btesolmax\.org\b
+\btesolmax\.(?:net|org)\b
 \btravel-insurance-quote\.org\b
 \buschina-edu\.com\b
 \bvolunteer-jobs-abroad\.com\b
-\bz-visa\.net\b
-\bz-visa\.org\b
+\bz-visa\.(?:net|org)\b
 \bnicole-scherzinger\.bizs\.pl\b
 \bhalongbay-vietnam\.com\b
 \bsofraser\.com\b
@@ -5199,17 +4956,13 @@ digilander\.libero\.it/andrea\.nardo1977
 \bknowledgeisfun\.com\b
 \bvizagnews\.com\b
 \bandhranews\.net\b
-\burbantrash\.altervista\.org\b
-\burbantrash\.net\b
+\burbantrash\.(?:net|altervista\.org)\b
 \bstatisticum\.org\b
 \bhurghadahomes\.co\.uk\b
 \bhurghada-tourism\.com\b
 \beasy-forex\.com\b
-\btuttotempolibero\.com\b
-\btuttotempolibero\.altervista\.org\b
-\bcmsarticles\.awardspace\.com\b
+\btuttotempolibero\.(?:com|altervista\.org)\b
 \be-zeus.narod\.ru\b
-\buarticles\.blogspot\.com\b
 \ballhostinginfo\.com\b
 \bnedvarticles\.narod\.ru\b
 \bfirewall-pi\.narod\.ru\b
@@ -5224,7 +4977,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \bworldwide-tax\.com\b
 \bkwizcom\.com\b
 \bseo1site\.com\b
-\bseology\.co\.il\b
 \bwao\.co\.il\b
 \bmustangranch\.com\b
 \bdeu\.edu\.tr/yot\b
@@ -5274,40 +5026,15 @@ digilander\.libero\.it/andrea\.nardo1977
 \bbbsggames\.net\b
 \bfreeogames\.com\b
 \bwebhostingspotter\.com\b
-\batchina\.com\.cn
-\bcaws\.cn
-\bcelsnet\.cn
-\bchongshang\.com\.cn
-\bcthb\.com\.cn
-\bdm-cqsf\.cn
-\bdm-lietou\.cn
-\beachost\.com
-\bhauyut\.com
-\bhollycrm\.com
-\bhollycrm\.com
-\bmendean\.net
-\bmqblog\.cn
-\bnanqu-dental\.com
-\bsino-biyan\.cn
-\bstacent\.com\.cn
-\btimeyiqi\.com\.cn
+\bdm-(?:cqsf|lietou)\.cn
 \bhosting-pi\.narod\.ru\b
-\bnedvarticles\.narod\.ru\b
 \bstroit-info\.narod\.ru\b
-\be-zeus\.narod\.ru\b
 \bcmsarticles\.awardspace\.com\b
-\buarticles\.blogspot\.com\b
-\ballhostinginfo\.com\b
-\bnedvarticles\.narod\.ru\b
 \bkompinfo\.com\b
 \bcmsarticles\.narod\.ru\b
 \bhardwax\.net\b
 \bmyminicity\.com\b
-\bcnvacation\.com\b
-\bwow-powerleveling-wow\.com\b
-\bpowerlevelingweb\.com\b
 \bchinayuntong\.cn\b
-\btop-seo\.cn\b
 \bhungarybudapestguide\.com\b
 \btouristguide\.gyuli\.com\b
 \bmarvaoguide\.com\b
@@ -5328,9 +5055,7 @@ digilander\.libero\.it/andrea\.nardo1977
 \bsemexpertise\.com\b
 \btax-services\.ca\b
 \blocalsearchcanada\.com\b
-\blyrikline\.org\b
-\blyrikline\.com\b
-\blyrikline\.net\b
+\blyrikline\.(?:com|net|org)\b
 \bmyrize\.org\b
 \brizebilisim\.com\b
 \brizeresimleri\.blogcu\.com\b
@@ -5351,7 +5076,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \bkemaliye\.eu\b
 \bflatsinistanbul\.net\b
 \b1st-cheapest-domain-names-registration-best-price-hosting\.com\b
-\breseller\.1st-cheapest-domain-names-registration-best-price-hosting\.com\b
 \bkitdesign\.eu\b
 \bizmir\.us\b
 \btatilrehberiniz\.us\b
@@ -5364,9 +5088,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \btrrap\.net\b
 boylovernet
 \bbigforexlive\.com\b
-\bdirectoryforex\.com\b
-\bforex.easy-forex\.com\.au\b
-\beasy-forex\.com\.au\b
 \bdatashaping\.com\b
 \bsearchsmart\.net\b
 \bnewprinceton\.com\b
@@ -5383,8 +5104,7 @@ boylovernet
 \bplay-asia\.com/SOap\b
 \bpacino\.narod\.ru\b
 \bmustang\.te\.ua\b
-\bcaesarstone\.com\b
-\bcaesarstoneus\.com\b
+\bcaesarstone(?:us)?\.com\b
 \blacalabria\.biz\b
 \bvacanzeatropea\.biz\b
 \bcapovaticano\.info\b
@@ -5414,8 +5134,7 @@ boylovernet
 \briviera-makarska\.info\b
 \bisland-hvar\.info\b
 \bvis-island\.info\b
-\bsucuraj-hvar\.com\b
-\bsucuraj\.com\b
+\bsucuraj(?:-hvar)?\.com\b
 \bisland-of-brac\.info\b
 \bgeocities\.yahoo\.com\.br/gotaelbr\b
 \bforeverpemba\.blogspot\.com\b
@@ -5436,8 +5155,7 @@ boylovernet
 \bbhmo-lawsuits\.com\b
 \bbhyperstrategy\.com\b
 \bbmalignesmesotheliom\.de\b
-\bbmesoteliomamaligno\.es\b
-\bbmesoteliomamaligno\.it\b
+\bbmesoteliomamaligno\.(?:es|it)\b
 \bbmesotheliomainternational\.org\b
 \bbmesotheliome\.fr\b
 \bbmigrainemanager\.com\b
@@ -5504,8 +5222,7 @@ boylovernet
 \bamazon\.com/.*&tag=
 \bbastore\.amazon\.com\b
 \beclipse-china\.com\b
-\bdeathcamps\.org\b
-\bdeath-camps\.org\b
+\bdeath-?camps\.org\b
 
 ## URL shorteners 2
 \bsmileurl\.com\b
@@ -5533,15 +5250,13 @@ boylovernet
 \bjithanramesh\.com\b
 \bsherin-online\.com\b
 \bjothika-online\.com\b
-\bkettavanthemovie\.com\b
-\bkettavanthefilm\.com\b
+\bkettavanthe(?:movie|film)\.com\b
 \b2checkout\.com\b
 \bdashaavtaram\.com\b
 \bvaaranamaayiram\.com\b
 \bbheema\.info\b
 \bbheemaa\.com\b
 \bsultan-the-film\.com\b
-\bdashaavtaram\.com\b
 \bkuruvi\.info\b
 \bbillathemovie\.com\b
 \bgraphwise\.com\b
@@ -5563,7 +5278,6 @@ boylovernet
 \bpriyamudansneha\.com\b
 \bmy-bharath\.blogspot\.com\b
 \bgalatta\.tv\b
-\bparuthiveeranthemovie\.com\b
 \borampo\.com\b
 \bbilla2007\.info\b
 \bkaalai\.com\b
@@ -5576,7 +5290,6 @@ boylovernet
 \bactorsuriya\.com\b
 \bactorarya\.com\b
 \bmachakkaaran\.com\b
-\bpazhani\.com\b
 \brskworld\.com\b
 \b75yearstamilcinema\.com\b
 \bsuriya-online\.com\b
@@ -5593,7 +5306,6 @@ boylovernet
 \bpoothefilm\.com\b
 \bramanthediyaseethai\.com\b
 \brmadhavan\.com\b
-\bgauthammenon\.com\b
 \btrsimbu\.com\b
 \bbhavana-online\.com\b
 \bvannathupoochi\.com\b
@@ -5607,9 +5319,7 @@ boylovernet
 \bactorvishal\.com\b
 \blaila\.net\b
 \btamilmathefilm\.com\b
-\bactorarya\.com\b
 \brameshwaramthemovie\.com\b
-\bactresspooja\.com\b
 \bdirectorbala\.com\b
 \bvalavaan\.com\b
 \bsathyamthemovie\.com\b
@@ -5661,24 +5371,15 @@ boylovernet
 \bbroadband-4u\.com\b
 \bbusiness-services-4u\.co\.uk\b
 \bcebu-food\.com\b
-\bcheap-flights4u\.com\b
-\bcheap-sat-nav\.com\b
-\bcheap-travel-4u\.co\.uk\b
-\bcheapcomputeruk\.co\.uk\b
-\bcheaplaptopuk\.co\.uk\b
-\bcheapnotebookuk\.co\.uk\b
+\bcheap-(?:flights4u|sat-nav)\.com\b
+\bcheap(?:-travel-4u|computeruk|laptopuk|notebookuk)\.co\.uk\b
 \bclothing-4u\.co\.uk\b
 \bcommunication4\.co\.uk\b
-\bcomputercaseuk\.co\.uk\b
-\bcomputercomputeruk\.co\.uk\b
-\bcomputermonitoruk\.co\.uk\b
-\bconsumer-electronics-4u\.co\.uk\b
-\bconsumer-goods-4u\.co\.uk\b
-\bconsumer-services-4u\.co\.uk\b
+\bcomputer(?:caseuk|computeruk|monitoruk)\.co\.uk\b
+\bconsumer-(?:electronics|goods|services)-4u\.co\.uk\b
 \bdating-service-4u\.com\b
 \bdiscountcomputeruk\.co\.uk\b
-\becommerce-asia\.co\.uk\b
-\becommerce-asia\.com\b
+\becommerce-asia\.co(?:\.uk|m)\b
 \becommercebuddy\.co\.uk\b
 \bexhibitions-promotions-4u\.co\.uk\b
 \bfinancialservice4u\.com\b
@@ -5689,15 +5390,11 @@ boylovernet
 \bhealthonline4u\.com\b
 \bholiday-4u\.com\b
 \bhome-improvements-4u\.co\.uk\b
-\binternet-services-4u\.co\.uk\b
-\binternetbuyerdirect\.co\.uk\b
-\binternetcomputersdirect\.co\.uk\b
-\binternetcomputersdirect\.com\b
+\binternet(?:-services-4u|buyerdirect)\.co\.uk\b
+\binternetcomputersdirect\.co(?:\.uk|m)\b
 \bjust-diamond-jewellery\.co\.uk\b
 \bkitesurfing4u\.com\b
-\blaptopbatteryuk\.co\.uk\b
-\blaptopcomputeruk\.co\.uk\b
-\blaptoplaptopuk\.co\.uk\b
+\blaptop(?:battery|computer|laptop)uk\.co\.uk\b
 \bloans-online4u\.com\b
 \bmoalboal-travel-guide\.com\b
 \bnews-4u3\.co\.uk\b
@@ -5717,8 +5414,7 @@ boylovernet
 \bsports-stuff-4u\.co\.uk\b
 \bstudentcomputer\.org\.uk\b
 \bstudentkiss\.co\.uk\b
-\bstudentmachines\.co\.uk\b
-\bstudentmachines\.com\b
+\bstudentmachines\.co(?:\.uk|m)\b
 \btransport-4u\.co\.uk\b
 \busbfactory\.co\.uk\b
 \busedcomputeruk\.co\.uk\b
@@ -5728,18 +5424,13 @@ boylovernet
 \bweb-services-4u\.co\.uk\b
 \bweddings-cebu\.com\b
 \bautomarkhistory\.com\b
-\breizen-portugal\.info/\b
-\breizen-duitsland\.info/\b
+\breizen-(portugal|duitsland)\.info/\b
 \bportugal-travel-guide\.info/\b
-\bviaggi-portogallo\.info/\b
+\bviaggi-(?:germania|portogallo)\.info/\b
 \bviagens-alemanha\.info/\b
-\bportugal-travel-guide\.info/\b
-\bviajes-portugal\.info/\b
+\bviajes-(?:alemania|portugal)\.info/\b
 \bbaccara-forever\.de\b
-\bviajes-alemania\.info/\b
-\bvoyage-portugal\.info/\b
-\bvoyage-allemagne\.info/\b
-\bviaggi-germania\.info/\b
+\bvoyage-(portugal|allemagne)\.info/\b
 \bgermany-travel-guide\.info/\b
 \bseguente\.com\b
 \bbursahalter\.com\b
@@ -5755,7 +5446,6 @@ boylovernet
 \bmyclassifiedads\.net\b
 \blogosphera\.com\b
 upload\.wikimedia\.org/.*XRumer.screenshot\.gif
-\bimg352\.imageshack\.us\b # imageshack.us
 \btremulous\.net\.ru\b
 \bcroatia-map\.net\b
 \balfpoker\.com\b
@@ -5764,14 +5454,11 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bcundadan\.com\b
 \bimg352\.imageshack\.us\b
 \bkarvinsko\.eu\b
-\blogosphera\.com\b
 \bsarimsaklida\.com\b
-\btremulous\.net\.ru\b
 \bvidiac\.com\b
 \bworldmapfinder\.com\b
 \byarakweb\.com\b
 \byarak\.co\.uk\b
-\bpacino\.narod\.ru\b
 \bjava-certification-tutorial\.com\b
 \bplsql-tutorial\.com\b
 \bs9\.bitefight\.ru\b
@@ -5791,11 +5478,9 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bpuroibiza\.com\b
 \bhuntforantiques\.com\b
 \bsaopaulochannel\.com\b
-\bmother-surrogate\.net\b
-\bmother-surrogate\.com\b
+\bmother-surrogate\.(?:com|net)\b
 \bsurrogate-mother-cost\.com\b
-\bsurrogate-motherhood\.net\b
-\bsurrogate-mothers\.net\b
+\bsurrogate-mother(?:hood|s)\.net\b
 \bsquidoo\.com\b
 \bboardthesun\.com\b
 \bpolskiswiat\.com\b
@@ -5855,7 +5540,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bnews\.nikito\.su\b
 \bpamparam\.md\b
 \bradiotecktonik\.ro\b
-\bforum\.radiotecktonik\.ro\b
 \bpetrsoukal\.profitux\.cz\b
 \bjaponsko\.profitux\.cz\b
 \bpetrsoukal\.php5\.cz\b
@@ -5872,7 +5556,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmj-net\.jp\b
 \bsenior-work\.jp\b
 \bcaxa\.com\b
-\bcad\.caxa\.com\b
 \bmarucollet\.jp\b
 \bdocs\.weblog\.ro\b
 \bblog\.goo\.ne\.jp/umineko300\b
@@ -5880,13 +5563,11 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsolobale\.com\b
 \brakastar\.com\b
 \bmarylinmonroe\.it\b
-\bblocked\.on\.nimp\.org\b
 \blogos\.com\b
 \bfanhistory\.com\b
 \bpasiontango\.net\b
 \bskyscrapervideos\.com\b
-\bthomas\.eu\b
-\bthomascarlyle\.eu\b
+\bthomas(?:carlyle)?\.eu\b
 \bfunkyukrainian\.com\b
 \bjapan-architects\.com\b
 \badslteknikservis\.com\b
@@ -5921,58 +5602,33 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bcroisiere-de-luxe\.net\b
 \bcroisieresdeluxe\.biz\b
 \bcrucero-de-lujo\.com\b
-\bcruisebalconiesandsuites\.com\b
-\bcruisebalconiesandsuites\.us\b
+\bcruisebalconiesandsuites\.(?:com|us)\b
 \bcruisebids\.com\b
 \bcruisesaroundtheworld\.com\b
 \bcrystal-luxury-cruises\.com\b
-\bcunard-luxury-cruises\.com\b
-\bcunard-queen-mary-2us\.com\b
-\bcunard-queens-grillus\.com\b
-\bcunardqueenelizabeth\.biz\b
-\bcunardqueenelizabeth\.com\b
-\bcunardqueenelizabeth\.info\b
-\bcunardqueenelizabeth\.net\b
-\bcunardqueenelizabeth\.org\b
-\bcunardqueenelizabeth\.us\b
-\bcunardqueenelizabethblog\.com\b
-\bcunardqueenelizabethhome\.com\b
-\bcunardqueenelizabethonline\.com\b
-\bcunardqueenelizabethsite\.com\b
-\bcunardqueenvictoria\.biz\b
-\bcunardqueenvictoria\.com\b
-\bcunardqueenvictoria\.info\b
-\bcunardqueenvictoria\.net\b
-\bcunardqueenvictoria\.org\b
-\bdeluxe-cruises\.info\b
-\bdeluxe-cruises\.net\b
-\bdeluxecruises\.biz\b
-\bdeluxecruises\.info\b
+\bcunard-(?:luxury-cruises|queen-mary-2us|queens-grillus)\.com\b
+\bcunardqueenelizabeth\.(?:biz|com|info|net|org|us)\b
+\bcunardqueenelizabeth(?:blog|home|online|site)\.com\b
+\bcunardqueenvictoria\.(?:biz|com|info|net|org)\b
+\bdeluxe-cruises\.(?:info|net)\b
+\bdeluxecruises\.(?:biz|info)\b
 \bdemeuresdeluxe\.com\b
 \beurope-annonce\.com\b
 \bjustcunardcruises\.com\b
 \bjustradissoncruises\.com\b
-\bjustsilversea\.com\b
-\bjustsilverseacruises\.com\b
-\bluxury-castles\.com\b
-\bluxury-cruises-single\.com\b
-\bluxury-world-cruises\.com\b
-\bluxurycruisesforless\.com\b
+\bjustsilversea(?:cruises)?\.com\b
+\bluxury(?:-castles|-cruises-single|-world-cruises|cruisesforless)\.com\b
 \bmiami-beach-condos\.org\b
 \bmichelinechaneac\.com\b
 \bnewcunardqueenelizabeth\.com\b
 \bofficialcunardqueenelizabeth\.com\b
-\bprestiges-autos\.com\b
-\bprestigesautos\.com\b
+\bprestiges-?autos\.com\b
 \bqvcruises\.com\b
 \bradisson-luxury-cruises\.com\b
-\brestaurant-le-tilleul\.com\b
-\brestaurantletilleul\.com\b
+\brestaurant(?:-le-|le)tilleul\.com\b
 \bseabourn-luxury-cruises\.com\b
 \bthecunardqueenelizabeth\.com\b
-\bvoituresdeluxe\.info\b
-\bvoituresdeluxe\.net\b
-\bvoituresdeluxe\.us\b
+\bvoituresdeluxe\.(?:info|net|us)\b
 \bzmaxtravel\.com\b
 \bbydinka\.ucoz\.ru\b
 \bpersonalstructures\.org\b
@@ -5987,22 +5643,9 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \binformagiovani\.vi\.it\b
 \barabic\.images\.free\.fr\b
 \bbreton\.brezhoneg\.free\.fr\b
-\bfr\.youtube\.com/profile\?user=Languages1001\b
-\bfr\.youtube\.com/user/Languages1001\b
+\bfr\.youtube\.com/(?:profile\?user=|user/)Languages1001\b
 \bhebrew\.images\.free\.fr\b
-\blang\.deutsch\.free\.fr\b
-\blang\.esperanto\.free\.fr\b
-\blang\.farsi\.free\.fr\b
-\blang\.gaeilge\.free\.fr\b
-\blang\.hebraic\.free\.fr\b
-\blang\.neerlandais\.free\.fr\b
-\blang\.occitan\.free\.fr\b
-\blang\.polski\.free\.fr\b
-\blang\.russe\.free\.fr\b
-\blang\.shqip\.free\.fr\b
-\blang\.svenska\.free\.fr\b
-\blang\.swahili\.free\.fr\b
-\blang\.turk\.free\.fr\b
+\blang\.(deutsch|esperanto|farsi|gaeilge|hebraic|neerlandais|occitan|polski|russe|shqip|svenska|swahili|turk)\.free\.fr\b
 \bmacedonian\.free\.fr\b
 \bpince31\.free\.fr\b
 \bportuguesa\.lingua\.free\.fr\b
@@ -6017,15 +5660,13 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bdaldorfer\.info\b
 \bmusicvmix\.com\b
 \bnew-beat\.musicblog\.be\b
-\bantalya-webcam\.com\b
-\bantalya-web\.com\b
+\bantalya-web(?:cam)?\.com\b
 \bfotobox24\.com\b
 \bprisonbreak\.org\.ua\b
 \bhotelsworld\.pl\b
 
 #E-library
-\be-library\.net\b
-\be-library\.us\b
+\be-library\.(?:net|us)\b
 # drini: croswiki spam seo
 \bhzgames\.com\b
 \btopowerleveling\.com\b
@@ -6046,11 +5687,9 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bheboyapi\.com\b
 \bhekimsirketlergrubu\.com\b
 \bhekimboya\.com\b
-\bhekimmadencilik\.com\b
 \bhekimplastik\.com\b
 \bhekimsut\.com\b
-\bilportaleditrieste\.it\b
-\bilportaleditrieste\.com\b
+\bilportaleditrieste\.(?:com|it)\b
 \bpalaeo-bavarian-geological-survey\.de\b
 \bnakedafrica\.net\b
 \bnahaafrika\.cz\b
@@ -6102,10 +5741,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bthatsqingdao\.com\b
 \bqingdaoofficialguide\.com\b
 \bqingdaochinaguide\.com\b
-\bmyredstar\.com\b
-\bmyredguide\.com\b
-\bmyredsail\.com\b
-\bmyredstar\.com\.cn\b
+\bmyred(?:guide|sail|star)\.com\b
 \bportalepienza\.it\b
 \bportalevaldorcia\.it\b
 \bfototoscana\.it\b
@@ -6136,8 +5772,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bbuddhismandquantumphysics\.blogspot\.com\b
 \brationalvedanta\.net/node/137\b
 \bscribd\.com/doc/3245023/Buddhism-and-Quantum-Physics\b
-\bblog\.civilisations-matter\.org/2008/01/15/east-meets-west\b
-\bblog\.civilisations-matter\.org/category/blog-von-christian-thomas-kohl\b
+\bblog\.civilisations-matter\.org/(?:2008/01/15/east-meets-west|category/blog-von-christian-thomas-kohl)\b
 \bcm-germany\.org/wordpress/2008/02/09/east-meets-west/\b
 \bnewdualism\.org/papers/C\.Kohl/Buddhism-QP-Parallel\.htm\b
 \bkohl12345\.googlepages\.com\b
@@ -6153,14 +5788,12 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bsecuritiesfinance\.com\b
 \bpipe-replacement\.com\b
 \bloan-stock\.org\b
-\bseoogle\.com\.tr\b
 \bbidmonfa\.com\b
 \bis\.gd\b
 \bkamasyworkamanda\.info\b
 \bpokerloco\.com\b
 \bpokertars\.com\b
 \beverestpoker\.com\b
-\bpokertars\.com\b
 \bultimatepoker\.com\b
 \bcarmasutra\.fr\.gd\b
 \bmysticquestontheweb\.free\.fr\b
@@ -6304,8 +5937,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bjennifer-pics\.com\b
 \bsharapova-pics\.com\b
 \baniston-pics\.com\b
-\bgeocities\.com/spiritualsatanist\b
-\bgeocities\.com/satanismresource\b
+\bgeocities\.com/(?:satanismresource|spiritualsatanist)\b
 \bimmovableproperty\.com\b
 \bbanknotes\.com\b
 \bequay\.com\b
@@ -6348,8 +5980,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bkiralik-oto-ankara\.com\b
 \bmuzikfakultesi\.com\b
 \bpechakucha\.org\b
-\bseoogle\.com\.tr\b
-\bseoogle\.net\b
+\bseoogle\.(?:com\.tr|net)\b
 \bsomethingunpredictable\.com\b
 \bvoxml\.org\b
 \bcasinogun\.com\b
@@ -6401,8 +6032,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bone2many\.eu\b
 \bmonkeysee\.com\b
 \bstavanger-guide\.no\b
-\bsandnes-guide\.no\b
-\bsandnes-guide\.com\b
+\bsandnes-guide\.(?:com|no)\b
 \bundeadcf\.info\b
 \bkaralahana\.net\b
 \bbaccara2007\.moonfruit\.com\b
@@ -6450,10 +6080,8 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bbuyaccounts\.net\b
 \bcheapsneakersb2b\.com\b
 \bminu\.ws\b
-\bwallpaper-3d\.tripod\.com\b
-\bwallpaper-new\.(?:0catch|100freemb)\.com\b
+\bwallpaper(?:-3d\.tripod|-new\.0catch|-new\.100freemb|\.totalh|\.66ghz)\.com\b
 \bwallpaper\.0fees\.net\b
-\bwallpaper\.(?:totalh|66ghz)\.com\b
 \btopsearch\.ws\b
 \bpicturesofaruba\.com\b
 \budinesechannel\.it\b
@@ -6560,8 +6188,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \brhapsodydownload\.webng\.com\b
 \bsystemanalysis\.(?:co\.nr|freehostpro\.com)\b
 \btutes\.webng\.com\b
-\btutorial-index\.com\b
-\btutorialized\.com\b
+\btutorial(?:-index|ized)\.com\b
 \bvbplanet\.gigacities\.net\b
 \bvisualbasic6\.tekcities\.com\b
 \bwebng\.com/(?:pcnow|tutes)\b
