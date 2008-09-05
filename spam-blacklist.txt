@@ -6579,6 +6579,17 @@ nagarjuna.*?\.goo?glepages\.com\b
 \btibetinchina\.com\b
 \bpanda-tour\.net\b
 \byangtzeriver-cruise\.net\b
+\bseoloji\.org\b
+\bguzelcekoyu\.org\b
+\bvidovix\.com\b
+\btarzoyun\.com\b
+\bkurbaga\.net\b
+\bsinematik\.org\b
+\brehberblog\.com\b
+\bibrahimari\.net\b
+\bsuperoyunx\.com\b
+\bibrahimerdogan\.com\b
+\bkemalist-iz\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
