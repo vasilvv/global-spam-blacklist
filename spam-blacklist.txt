@@ -6218,5 +6218,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bibrahimerdogan\.com\b
 \bkemalist-iz\.com\b
 \bara-bux\.com\b
+\bcaracal-pistol\.info\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
