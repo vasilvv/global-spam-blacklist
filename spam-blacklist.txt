@@ -5904,7 +5904,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bhip-hop\.net/member/Luna%20Musik\b
 \bguzmanconstruction\.webs\.com\b
 \blunamusik\.webs\.com\b
-\bhost\.co\.in\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
