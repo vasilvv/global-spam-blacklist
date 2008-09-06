@@ -6219,5 +6219,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bkemalist-iz\.com\b
 \bara-bux\.com\b
 \bcaracal-pistol\.info\b
+\bhost\.co\.in\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
