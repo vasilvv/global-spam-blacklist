@@ -1878,9 +1878,6 @@ excitesearch\.info
 ##December 2007
 \bsommelier\.dn\.ua
 
-##2008
-\bweborama\.ru
-
 # Eloquence, August 2006
 rexcurry\.net
 \.2surf\.eu
