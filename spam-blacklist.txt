@@ -1963,7 +1963,6 @@ onix1000\.com
 
 # piratebay\.org #test/temp
 \.w0qb\.info
-drugs\.lowestprices\.at
 drugs\.(?:mooo|ignorelist|chickenkiller)\.com
 drugs\.strangled\.net
 \.lol\.to
@@ -3137,8 +3136,7 @@ myjewelz\.com
 pipefitindia\.com
 primemumbai\.com
 screwfastindia\.com
-stainlesssteel-fittings\.com
-stanlesssteel-fittings\.com
+stai?nlesssteel-fittings\.com
 205\.234\.131\.76/
 
 ## 2007-01 ([[Spam blacklist/Log]])
@@ -3155,9 +3153,7 @@ myspace\.com/3933516
 hoodia.*\.blogspot\.com
 party-poker.*\.blogspot\.com
 casino-gam.*\.blogspot\.com
-soydebarakaldo\.com
-soydeportugalete\.com
-soydesanturtzi\.com
+soyde(?:barakaldo|portugalete|santurtzi)\.com
 \.waslan\.de
 chiquitania\.com
 \.kensavage\.com
@@ -3174,8 +3170,7 @@ o-zone-website\.narod\.ru
 sachabaroncohen\.narod\.ru
 aminmaalouf\.narod\.ru
 in-gridsite\.narod\.ru
-\.sapesw\.com
-\.sapeso\.com
+\.sapes[ow]\.com
 \.sanpsw\.com
 \.freewishes\.com
 \.free-wishes\.com
@@ -3250,17 +3245,13 @@ drpruxy\.net
 prxy\.co\.uk
 freetoview\.net
 workbrowse\.com
-proxyfoxy\.com
 hideip\.be
-proxyguy\.com
 surfatschool\.com
-proxyvoid\.com
 phproxy5\.com
-proxymummy\.com
 surfonsteroids\.com
 browsefrom\.com
 letmepast\.com
-proxy(?:friend|eye|bat|77|88|mix|raptor|work|snow|pulse|aliens|flame|tiger|nanny)\.com
+proxy(?:77|80|88|aliens|bat|devil|drop|eye|ez|flame|flux|foxy|friend|guy|index|lla|ly|mess|mix|mummy|nanny|offer|pulse|raptor|snow|spy|theweb|tips|tiger|void|work|zap)?\.com
 proxycover\.(?:com|net)
 bypassproxy\.net
 gostealthy\.com
@@ -3271,9 +3262,7 @@ atomblog\.org
 (?:3ga|6ad|bx3|2ry|23a|43j|4j4|5b5|70m|78n|8hj|9rb|20d|68u|73r|d39|3xa|k1d)\.org
 pr0xy\.us
 connypug\.org
-proxymess\.com
 ipdefend\.com
-proxyl(?:y|la)\.com
 \bproxy(?:atwork|atschool|allow)\.com\b
 cloakme\.net
 proxies\.bz
@@ -3289,7 +3278,6 @@ privprox\.com
 underfirewall\.com
 iphide\.com
 blairstownnj\.org
-proxytips\.com
 atunnel\.com
 thejays\.org
 proxee\.net
@@ -3298,11 +3286,9 @@ foxyproxy\.net
 yourportal\.us
 hiddenwebbrowser\.com
 ucacanada\.org
-proxyoffer\.com
 3tiered\.org
 backfox\.com
 goproxing\.com
-proxyflux\.com
 blockmenot\.co\.uk
 dunkindonuts\.be
 myproxy\.ca
@@ -3311,15 +3297,12 @@ w00tage\.com
 schoolmyspace\.com
 confusedyeti\.com
 75i\.net
-proxyez\.com
-proxy80\.com
 ageautam\.org
 dejacey\.com
 guardster\.com
 proxy\.tl
 atmnetwork\.org
 concealmy\.info
-proxyindex\.com
 atedplace\.org
 thecamelclub\.org
 proxyplanet\.info
@@ -3332,30 +3315,24 @@ roboproxy\.com
 schooloflostarts\.org
 no-block\.com
 proxers\.com
-proxyzap\.com
 shoutproxy\.com
-proxydrop\.com
 bypasslive\.com
 stealthclick\.com
 myproxybox\.com
 zeroproxy\.com
 gopast\.net
-proxyspy\.com
-proxydevil\.com
 xeaq\.com
 palsys\.ca/proxy
 libertyproxy\.com
 provacy\.com/phproxy
 browseatwork1\.com
 gmprs\.org
-proxy\.info
 nchausa\.org
 rockproxy\.com
 anonymouscamp\.org
 webwarper\.net
 officeproxy\.net
 rdcumd\.org
-proxytheweb\.com
 adamworks\.org
 crazyarabs\.moonfruit\.com
 xx-viewer\.com
@@ -4813,7 +4790,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \bhappybuyer\.org\b
 \bmicholita\.com\b
 \bcyndilauperuk\.com/ReissuesPage.html\b
-\bbahamashomesite\.com\b
 \bhumanthermodynamics\.com\b
 \bhumanchemistry\.net\b
 \bendeav\.org\b
@@ -4840,7 +4816,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \bwww-saand\.com\b
 \bagrigento\.ag\b
 \bgelalive\.com\b
-\bgoogle\.com\.tr/search\?hl=tr&q=changing\+transpotation\b
 \blogisticsclub\.com\b
 \blojistikkulubu\.(?:com|org)\b
 \blogisticsclub\.org\b
@@ -6197,7 +6172,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \btutes\.webng\.com\b
 \btutorial(?:-index|ized)\.com\b
 \bvbplanet\.gigacities\.net\b
-\bvisualbasic6\.tekcities\.com\b
 \bwebng\.com/(?:pcnow|tutes)\b
 \btnij\.org\b
 \blegalmenu\.com\b
