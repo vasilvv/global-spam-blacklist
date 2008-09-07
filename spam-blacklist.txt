@@ -3525,7 +3525,7 @@ firewalldown\.com
 \bmydotmobi\.com
 \bmyhydro1\.com
 \bnewmalaysia\.com\.my
-\bnstpi\.com\.my/ client
+\bnstpi\.com\.my/
 \bonlinefloristmalaysia\.com
 \bpersonalimagegrooming\.com
 \bpestcontrol-malaysia\.com
