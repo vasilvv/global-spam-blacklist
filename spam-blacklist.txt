@@ -6203,9 +6203,5 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bhost\.co\.in\b
 \bfrancizor\.ro\b
 \bchannelf\.ro\b
-
-# Added by Alison - 9/8/08
- \bnimp\.org\b
-
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
