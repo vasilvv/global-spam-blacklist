@@ -625,7 +625,7 @@ freewebs\.com/diet-about-diet
 all\.yard\.ru
 sleepgoodmusic\.com
 w9uh\.info
-\.on\.nimp\.org
+\bnimp\.org\b
 
 # URL shorteners
 \b0rz\.tw\b
