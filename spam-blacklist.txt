@@ -3251,7 +3251,7 @@ phproxy5\.com
 surfonsteroids\.com
 browsefrom\.com
 letmepast\.com
-proxy(?:77|80|88|aliens|bat|devil|drop|eye|ez|flame|flux|foxy|friend|guy|index|lla|ly|mess|mix|mummy|nanny|offer|pulse|raptor|snow|spy|theweb|tips|tiger|void|work|zap)?\.com
+proxy(?:77|80|88|aliens|bat|devil|drop|eye|ez|flame|flux|foxy|friend|guy|index|lla|ly|mess|mix|mummy|nanny|offer|pulse|raptor|snow|spy|theweb|tips|tiger|void|work|zap)\.com
 proxycover\.(?:com|net)
 bypassproxy\.net
 gostealthy\.com
@@ -3327,6 +3327,7 @@ libertyproxy\.com
 provacy\.com/phproxy
 browseatwork1\.com
 gmprs\.org
+proxy\.info
 nchausa\.org
 rockproxy\.com
 anonymouscamp\.org
