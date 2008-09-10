@@ -5893,7 +5893,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bexhauss-ibnkhaldoun\.com\.tn\b
 \bstencils\.ch\b
 \bcasesdecastalla(\.blogspot)?\.com\b
-
+\bgazipasam\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
