@@ -5896,6 +5896,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcasesdecastalla(\.blogspot)?\.com\b
 \bgazipasam\.com\b
 \badriatic\.wikidot\.com\b
+\bandroid-phone\.org\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
