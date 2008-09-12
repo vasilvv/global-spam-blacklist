@@ -5898,6 +5898,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \badriatic\.wikidot\.com\b
 \bandroid-phone\.org\b
 \biaindustrie\.fr\.nf\b
+\bwohnprojekte-berlin\.info\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
