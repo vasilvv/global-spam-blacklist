@@ -6219,5 +6219,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bchannelf\.ro\b
 \bexploremychina\.com\b
 \bhuntforjustice\.com\b
+\benergie\.numeriblog\.fr\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
