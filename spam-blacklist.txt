@@ -5901,6 +5901,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bwohnprojekte-berlin\.info\b
 \bkoningin-wilhelmina\.hyves\.nl\b
 \bgarbagefan\.8k\.com\b
+\boutofthedark\.net\.ms\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
