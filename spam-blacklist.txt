@@ -6225,6 +6225,9 @@ nagarjuna.*?\.goo?glepages\.com\b
 \benergie\.numeriblog\.fr\b
 \bstaderennais1901\.com\b
 \bnig\.gr\b
+\bnike888\.com\b
+\bnike-jordan-shoes\.com\b
+\bnike888\.en\.ec21\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
