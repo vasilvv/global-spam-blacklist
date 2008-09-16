@@ -6228,6 +6228,9 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bnike888\.com\b
 \bnike-jordan-shoes\.com\b
 \bnike888\.en\.ec21\.com\b
+\bnikexyz\.com\b
+\bshoesprovision\.com\b
+\bglobaltrademarket\.org\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
