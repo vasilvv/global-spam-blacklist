@@ -6237,5 +6237,14 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bglobaltrademarket\.org\b
 \bwmsg-draughts\.org\b
 \bwikio\.com\b
+\bfootball-talents\.org\b
+\bfootballtalent\.net\b
+\bfootball-talents\.fr\b
+\bfootball-talent\.net\b
+\bfootball-talents\.co\.uk\b
+\bfutbal-talentos\.es\b
+\bfussball-talente\.com\b
+\bvoetbal-talenten\.nl\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
