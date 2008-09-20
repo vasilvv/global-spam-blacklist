@@ -6223,6 +6223,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfutbal-talentos\.es\b
 \bfussball-talente\.com\b
 \bvoetbal-talenten\.nl\b
+\bvissen-barramundi\.nl\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
