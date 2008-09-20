@@ -6236,6 +6236,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bshoesprovision\.com\b
 \bglobaltrademarket\.org\b
 \bwmsg-draughts\.org\b
-
+\bwikio\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
