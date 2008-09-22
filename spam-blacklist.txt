@@ -5874,6 +5874,8 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bkikindai\.hu\b
 \bdiegovelazquez\.webcindario\.com\b
 \bdiegovelazquez\.110mb\.com\b
+\bnacho\.miarroba\.com\b
+\bdiegovelazquez\.about\.vg\b
 \bcosmoetica\.com\b
 \bswinoujscie\.travel\.pl\b
 \bceyiz\.com\b
