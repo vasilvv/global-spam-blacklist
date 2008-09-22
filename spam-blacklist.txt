@@ -5873,6 +5873,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bvideocix\.com\b
 \bkikindai\.hu\b
 \bdiegovelazquez\.webcindario\.com\b
+\bdiegovelazquez\.110mb\.com\b
 \bcosmoetica\.com\b
 \bswinoujscie\.travel\.pl\b
 \bceyiz\.com\b
@@ -6224,6 +6225,5 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfussball-talente\.com\b
 \bvoetbal-talenten\.nl\b
 \bvissen-barramundi\.nl\b
-
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
