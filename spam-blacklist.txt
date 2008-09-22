@@ -6232,6 +6232,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bmemurl\.com\b
 \bix\.lt\b
 \bturo\.us\b
+\bx\.se\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
