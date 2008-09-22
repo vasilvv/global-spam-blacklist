@@ -6230,6 +6230,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bvissen-barramundi\.nl\b
 \buseurl\.us\b
 \bmemurl\.com\b
+\bix\.lt\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
