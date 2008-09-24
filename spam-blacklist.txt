@@ -5903,6 +5903,14 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bbouncecup\.com\b
 \bp-navigator\.com\b
 \baudi-a1\.(org|com)\b
+\bbulgarien\.(se|nu)\b
+\btoowoomba\.org\b
+\b(redarmy|heavymetal|grandonline|(black|white|blue|red)devils|cska|bollywood|redarmy|holland|montecarlo|greekcasino|india|ganges|gibraltar|bangalore|greatwall|flamingo|goldenpalace|bellavista|germany|hongkong)(casino|poker(club)?)\.(com|biz|org|net|info)\b
+\bsevenluckystars\.info\b
+\b24karatgold\.org\b
+\bpanama-pictures\.com\b
+\boxidativstress\.se\b
+\bcasino4e\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
