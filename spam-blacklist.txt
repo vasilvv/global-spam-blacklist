@@ -5899,6 +5899,8 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bverder\.cn\b
 \bhumanity\.sh\.cn\b
 \bsourmath\.com\b
+\bcupvid\.com\b
+\bbouncecup\.com\b
 \bp-navigator\.com\b
 \baudi-a1\.(org|com)\b
 ##################end Mike.lifeguard's additions
