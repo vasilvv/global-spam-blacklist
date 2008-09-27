@@ -6250,5 +6250,16 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfreeitsolutions\.com\b
 \bnederlandnieuws\.nl\b
 \bforeignelegion\.blogspot\.com\b
+\bbariloche\.esp\.br\b
+\bbarilocheargentina\.blogspot\.com\b
+\bbombinhas\.org\b
+\bhomero-simpson\.com\b
+\bkillersites\.com\.ar\b
+\bkillersitesdesign\.com\b
+\bonline-hoteles\.com\.ar\b
+\bonlinehoteles\.com\b 
+\bsimpsonstrivia\.com\.ar\b
+\bvillalaangostura\.com\.br\b
+\bonlinehoteles\.com\.ar\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
