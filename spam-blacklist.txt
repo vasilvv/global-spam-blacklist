@@ -6249,6 +6249,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bx\.se\b
 \bfreeitsolutions\.com\b
 \bnederlandnieuws\.nl\b
-
+\bforeignelegion\.blogspot\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
