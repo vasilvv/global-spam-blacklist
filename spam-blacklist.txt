@@ -6265,5 +6265,15 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bvillalaangostura\.com\.br\b
 \bonlinehoteles\.com\.ar\b
 \bshop\.ebay\.com\b
+\bbuk\.me\b
+\bfuseurl\.com\b
+\bgofrom\.us\b
+\bprevurl\.com\b
+\bshrink2one\.com\b
+\btinycurl\.com\b
+\bu95\.ru\b
+\bxedurl\.com\b
+
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
