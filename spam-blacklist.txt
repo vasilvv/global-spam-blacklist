@@ -5915,6 +5915,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bturkiyemirc\.org\b
 \bircsohbet\.com\b
 \bfotosalhambra\.es\b
+\bpalelive\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
