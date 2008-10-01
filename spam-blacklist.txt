@@ -5,11 +5,9 @@
  # This is a list of domain names which are blocked - nobody can add new links to these domains
  # Guidelines:
  #    - Only blacklist for widespread, unmanageable spam.
- #    - To disable an entry, *remove* it, don't comment it out.
- #    - Add entries or their removal to [http://meta.wikimedia.org/wiki/Spam_blacklist/Log the log].
- #    - Snippet for [http://meta.wikimedia.org/wiki/Spam_blacklist/Log/{{CURRENTYEAR}}/{{CURRENTMONTH}}?action=edit&editintro=Template:Spam_blacklist_log_instructions logging]:
- #      -Additions: <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}}}
- #      -Removals:  <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}|removal}}
+ #    - To disable an entry, *remove* it, don't comment it out. Please log removals.
+ #    - Add entries or their removal to the log.
+ #    - <small style="color:gray;" id="oldid" class="plainlinks">Snippet for [http://meta.wikimedia.org/wiki/Spam_blacklist/Log/{{CURRENTYEAR}}/{{CURRENTMONTH}}?action=edit&editintro=Template:Spam_blacklist_log_instructions logging]: <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}}}</small>
  # 
  # Syntax:
  #    - Everything from a "#" character to the end of the line is a comment
