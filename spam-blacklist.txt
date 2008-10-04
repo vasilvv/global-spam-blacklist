@@ -6282,6 +6282,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bquickfilepost\.com\b
 \bjacksonstreet\.nl\b
 \bfirenzebb\.net\b
-
+\bisoladiburano\.it\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
