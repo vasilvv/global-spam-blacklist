@@ -6285,6 +6285,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bisoladiburano\.it\b
 \bmembers\.home\.nl\/robtenberge\b
 \brobtenberge\.nl\b
+\bartstamps\.dk\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
