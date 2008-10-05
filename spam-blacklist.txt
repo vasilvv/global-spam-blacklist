@@ -5925,6 +5925,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \btheclickinfo\.com\b
 \binfoom\.se\b
 \bclumber-spaniel\.(eu|nl)\b
+\btourmycountry\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
