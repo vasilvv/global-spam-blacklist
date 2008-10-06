@@ -5928,6 +5928,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \btourmycountry\.com\b
 \bmaps\.google\.com\/maps\/user\?uid=114217009802191006570\b #temp to stop UNIVERSALKYNGE
 \bmonetpainting\.net\b
+\bzeta\.torrent\.googlepages\.com\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
