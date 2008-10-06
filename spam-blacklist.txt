@@ -5933,6 +5933,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \blamazmorraabandon\.com\b
 \buaeuro2012\.com\b
 \btoledo-travelguide\.com\b
+\bjudetulgorj\.info\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
