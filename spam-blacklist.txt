@@ -1999,7 +1999,7 @@ chinese-pesticide\.com
 ynkm-trip\.com
 \.euyn\.com
 e-fanyi\.com
-huangshan\.com
+\bhuangshan\.com\b
 hssight\.com
 changyuansh\.com
 \.ynsw\.com
