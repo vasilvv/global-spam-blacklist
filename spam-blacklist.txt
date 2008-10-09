@@ -6305,6 +6305,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bflickr.com\/1315\/1332889069_b98e8bffea_o\.jpg\b
 \bflickr.com\/120\/250582489_502d133364_o\.jpg\b
 \bflickr.com\/79\/250582482_305b4c1817_b\.jpg\b
-
+\bvallenajerilla\.com\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
