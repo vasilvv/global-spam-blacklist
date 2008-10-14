@@ -5948,6 +5948,16 @@ nagarjuna.*?\.goo?glepages\.com\b
 \brummyportal\.com\b
 \broomsinscotland\.com\b
 \bwhitexx\.ru\b
+\bbluecruisesturkey\.com\b
+\bbayrams\.com\b
+\banzacgallipolitour\.com\b
+\bhotairballooncappadocia\.com\b
+\bolympostreehouse\.com\b
+\bzesttravel\.com\b
+\bolymposturkey\.com\b
+\bv-go(hotel)?\.(com|co\.uk)\b
+\bboatcruiseturkey\.com\b
+\banzacdaytoursturkey\.co\.(uk|nz)\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
