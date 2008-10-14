@@ -5766,8 +5766,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bbidmonfa\.com\b
 \bis\.gd\b
 \bkamasyworkamanda\.info\b
-\bpokerloco\.com\b
-\bpokertars\.com\b
+\bpoker(?:loco|tars)\.com\b
 \beverestpoker\.com\b
 \bultimatepoker\.com\b
 \bcarmasutra\.fr\.gd\b
@@ -5819,14 +5818,14 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bstadtfuehrung-magdeburg\.de\b
 \bmyoyvey\.com\b
 \bbasketter1991(?:\.co\.cc|\.wsnw\.net)\b
-\bcgi\.sfu\.ca\/~gpeters\b
+\bcgi\.sfu\.ca/~gpeters\b
 \babsolutregis\.com\b
 \bdebruk\.pl\b
 \bqpc\.ro\b
-\btravesti\.(?:bz|mn)\b
 \bburcuyum\.com\b
 \bmodeltravestiler\.com\b
 \brenkarenk\.net\b
+\btravesti\.(?:bz|mn)\b
 \btravesti(?:cik|evi|sohbet)\.net\b
 \btravesti(?:evi|i|nilsu|esmerayasil|mujde)\.com\b
 \btravestiyim\.(?:org|com)\b
@@ -5871,10 +5870,8 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bolgu\.org\b
 \bvideocix\.com\b
 \bkikindai\.hu\b
-\bdiegovelazquez\.webcindario\.com\b
-\bdiegovelazquez\.110mb\.com\b
+\bdiegovelazquez\.(?:110mb\.com|webcindario\.com|about\.vg)\b
 \bnacho\.miarroba\.com\b
-\bdiegovelazquez\.about\.vg\b
 \bnachobenjumea\.atspace\.org\b
 \bcosmoetica\.com\b
 \bswinoujscie\.travel\.pl\b
@@ -5901,10 +5898,10 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcupvid\.com\b
 \bbouncecup\.com\b
 \bp-navigator\.com\b
-\baudi-a1\.(org|com)\b
-\bbulgarien\.(se|nu)\b
+\baudi-a1\.(?:org|com)\b
+\bbulgarien\.(?:se|nu)\b
 \btoowoomba\.org\b
-\b(redarmy|heavymetal|grandonline|(black|white|blue|red)devils|cska|bollywood|redarmy|holland|montecarlo|greekcasino|india|ganges|gibraltar|bangalore|greatwall|flamingo|goldenpalace|bellavista|germany|hongkong)(casino|poker(club)?)\.(com|biz|org|net|info)\b
+\b(?:redarmy|heavymetal|grandonline|(?:black|white|blue|red)devils|cska|bollywood|redarmy|holland|montecarlo|greekcasino|india|ganges|gibraltar|bangalore|greatwall|flamingo|goldenpalace|bellavista|germany|hongkong)(?:casino|poker(?:club)?)\.(?:com|biz|org|net|info)\b
 \bsevenluckystars\.info\b
 \b24karatgold\.org\b
 \bpanama-pictures\.com\b
@@ -5924,9 +5921,9 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bsearchoptima\.com\b
 \btheclickinfo\.com\b
 \binfoom\.se\b
-\bclumber-spaniel\.(eu|nl)\b
+\bclumber-spaniel\.(?:eu|nl)\b
 \btourmycountry\.com\b
-\bmaps\.google\.com\/maps\/user\?uid=114217009802191006570\b #temp to stop UNIVERSALKYNGE
+\bmaps\.google\.com/maps/user\?uid=114217009802191006570\b #temp to stop UNIVERSALKYNGE
 \bmonetpainting\.net\b
 \bzeta\.torrent\.googlepages\.com\b
 \bpitbuehler\.ch\b
@@ -5936,7 +5933,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bjudetulgorj\.info\b
 \bshakira\.in\.rs\b
 \baccounts-rs2\.net\b
-\b(hero|star)questgame\.com\b
+\b(?:hero|star)questgame\.com\b
 \bcheryclub\.com\b
 \bshibuimarkets\.com\b
 \bveryglamour\.com\b
@@ -5955,9 +5952,9 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bolympostreehouse\.com\b
 \bzesttravel\.com\b
 \bolymposturkey\.com\b
-\bv-go(hotel)?\.(com|co\.uk)\b
+\bv-go(?:hotel)?\.(?:com|co\.uk)\b
 \bboatcruiseturkey\.com\b
-\banzacdaytoursturkey\.co\.(uk|nz)\b
+\banzacdaytoursturkey\.co\.(?:uk|nz)\b
 \bmarmaris\.kalemguzeli\.net\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
@@ -6297,12 +6294,10 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfreeitsolutions\.com\b
 \bnederlandnieuws\.nl\b
 \bforeignelegion\.blogspot\.com\b
-\bbariloche\.esp\.br\b
-\bbarilocheargentina\.blogspot\.com\b
+\bbariloche(?:argentina\.blogspot\.com|\.esp\.br)\b
 \bbombinhas\.org\b
 \bhomero-simpson\.com\b
-\bkillersites\.com\.ar\b
-\bkillersitesdesign\.com\b
+\bkillersites(?:design\.com|\.com\.ar)\b
 \bonline-hoteles\.com\.ar\b
 \bonlinehoteles\.com\b 
 \bsimpsonstrivia\.com\.ar\b
@@ -6321,14 +6316,10 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bjacksonstreet\.nl\b
 \bfirenzebb\.net\b
 \bisoladiburano\.it\b
-\bmembers\.home\.nl\/robtenberge\b
+\bmembers\.home\.nl/robtenberge\b
 \brobtenberge\.nl\b
 \bartstamps\.dk\b
-\bflickr.com\/1282\/1344096823_c25a593078_b\.jpg\b
-\bflickr.com\/88\/243534260_bf5d79f1f7_o\.jpg\b
-\bflickr.com\/1315\/1332889069_b98e8bffea_o\.jpg\b
-\bflickr.com\/120\/250582489_502d133364_o\.jpg\b
-\bflickr.com\/79\/250582482_305b4c1817_b\.jpg\b
+\bflickr.com/(?:79/250582482_305b4c1817_b|88/243534260_bf5d79f1f7_o|120/250582489_502d133364_o|1282/1344096823_c25a593078_b|1315/1332889069_b98e8bffea_o)\.jpg\b
 \bvallenajerilla\.com\b
 \bpowerleveling2000\.com\b
 \bwhypeoplesnore\.com\b
