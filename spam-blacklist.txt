@@ -5943,6 +5943,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \btwisturl\.com\b
 \bwikijava\.org\b
 \bayfer\.org\b
+\bayakizi\.com\.tr\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
