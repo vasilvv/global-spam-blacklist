@@ -5956,6 +5956,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bboatcruiseturkey\.com\b
 \banzacdaytoursturkey\.co\.(?:uk|nz)\b
 \bmarmaris\.kalemguzeli\.net\b
+\bdtools\.net\b
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
