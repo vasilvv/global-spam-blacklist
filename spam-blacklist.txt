@@ -6330,5 +6330,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bdailydiablo\.com\b
 \bvqte\.com\b
 \bxporntubex\.com\b
+\bexetuning\.com\b
+
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
