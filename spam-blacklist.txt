@@ -5970,6 +5970,15 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bmagnitiendum\.com\.mx\b
 \btrademark-1\.com\b
 \bmegarotic\.com\b
+\brankingoogle\.com\b
+\bwebseos\.5gigs\.com\b
+\bgeocities\.com/search_engine_ranker\b
+\bwebseos\.com\b
+\bnew-york-divorce-attorney\.com\b
+\bpharmacareerguide\.com\b
+\btheactivechild\.com\b
+
+
 ##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
