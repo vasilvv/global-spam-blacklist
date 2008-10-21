@@ -6346,6 +6346,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bexetuning\.com\b
 \basianmediawiki\.com\b
 \btuttofassa\.stepdev\.org\b
+\bconsultant-legros\.fr\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
