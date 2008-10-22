@@ -6342,6 +6342,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bsantapost\.fi\b
 \bakenna\.net\b
 \bcuri222\.blogspot\.com\b
+\btrainpetdog\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
