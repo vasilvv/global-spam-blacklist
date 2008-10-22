@@ -6362,6 +6362,10 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bgermanshephardinstitute\.com\b
 \b0rg\.fr\b
 \bpodhuri-sumavy\.cz\b
+\balojamientosrurales(?:decantabria)?\.(?:com|net)\b
+\bcuevamuseoaltamira\.com\b
+\bsantillana-del-mar\.(?:com|es)\b
+\bhellwars\.com\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
