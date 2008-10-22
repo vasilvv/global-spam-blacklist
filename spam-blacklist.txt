@@ -294,8 +294,6 @@ adult-area\.info
 \.girls\.info #disabled by Naconkantari - re-instated with dot in front by Andre Engels
 sprot2\.com
 efl-law\.com
-
-#eslcafe\.com  #disabled by Naconkantari
 myflooring\.org
 scmantraffic\.com
 efl-law\.org
@@ -360,8 +358,6 @@ websamba\.com
 \.luckysportsmanagement\.com
 \.steveyzerman\.com
 levitra\.webzdarma\.cz
-
-#\.wz\.cz
 jarmyl\.tripod\.com
 lunesta\.tripod\.com
 xanax-pills\.tripod\.com
@@ -1652,7 +1648,6 @@ erisfree\.com
 \.j-mayer\.org
 jouvence\.com
 
-#kutdiak\.hu # disabled082106
 rockthedesert\.com
 soargbsc\.com
 somber-resplendence\.net
@@ -1957,10 +1952,6 @@ kelly-hosting\.com
 cvh100\.com
 onix1000\.com
 \.k6je\.info
-
-# thepiratebay\.org
-
-# piratebay\.org #test/temp
 \.w0qb\.info
 drugs\.(?:mooo|ignorelist|chickenkiller)\.com
 drugs\.strangled\.net
@@ -3621,8 +3612,6 @@ republika\.pl/stranasmer
 \btexaspoker\.tk
 \bcosplayx\.com
 \bkatardat\.org
-
-#\banarkismo\.net #taking this off hopefully spam won't return, as it seems to have some legit uses on some wikis.
 \bnefac\.net
 \bnapolinelmondo\.org
 \bpetrophoto\.net
@@ -3668,8 +3657,6 @@ republika\.pl/stranasmer
 \bfffans-fr\.com
 \bmoviesbuzz\.com
 \bpornoass\.iespana\.es
-
-# \bpages\.citebite\.com # url redirect service (There appears to be legit uses of this...)
 \btvsylt\.com
 \b321books\.co\.uk
 \bhaber80\.net
@@ -5700,7 +5687,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \byatuc\.com\b
 \byep\.it\b
 #end of url shorteners
-##################Mike.lifeguard's additions
 \bkalev\.ee\b
 \binnojairja\.blogspot\.com\b
 \btiibet\.org\b
@@ -5923,7 +5909,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \binfoom\.se\b
 \bclumber-spaniel\.(?:eu|nl)\b
 \btourmycountry\.com\b
-\bmaps\.google\.com/maps/user\?uid=114217009802191006570\b #temp to stop UNIVERSALKYNGE
 \bmonetpainting\.net\b
 \bzeta\.torrent\.googlepages\.com\b
 \bpitbuehler\.ch\b
@@ -5978,7 +5963,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bpharmacareerguide\.com\b
 \btheactivechild\.com\b
 \badriaticglobal\.net\b
-##################end Mike.lifeguard's additions
 \berosramazzotti\.biz\b
 \burbanlive\.org\b
 \balcoholaddiction\.org\b
