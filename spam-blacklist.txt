@@ -6343,6 +6343,23 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bakenna\.net\b
 \bcuri222\.blogspot\.com\b
 \btrainpetdog\.com\b
+\bdogtraininginstitute\.org\b
+\bdogtraininginstitute\.com\b
+\bdogpottytrain\.com\b
+\bparrotsecrets\.com\b
+\bpuginstitute\.com\b
+\bakitainstitute\.com\b
+\bcorgiinstitute\.com\b
+\bpoodleinstitute\.com\b
+\bshihtzuinstitute\.com\b
+\bpapilloninstitute\.com\b
+\bchihuahuainstitute\.com\b
+\bdachshundinstitute\.com\b
+\bbordercollieinstitute\.com\b
+\bpomeranianinstitute\.com\b
+\bsiberianhuskyinstitute\.com\b
+\bgoldenretrieverinstitute\.com\b
+\bgermanshephardinstitute\.com\b
 
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
