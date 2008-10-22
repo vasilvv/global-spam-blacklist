@@ -6360,8 +6360,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bsiberianhuskyinstitute\.com\b
 \bgoldenretrieverinstitute\.com\b
 \bgermanshephardinstitute\.com\b
-
+\b0rg\.fr\b
 ## end of [[Spam blacklist/Log]] section\
  #</pre> <!-- leave this line exactly as it is -->
-
-\b0rg\.fr\b
