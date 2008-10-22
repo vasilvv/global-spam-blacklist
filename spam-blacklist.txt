@@ -6361,5 +6361,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bgoldenretrieverinstitute\.com\b
 \bgermanshephardinstitute\.com\b
 \b0rg\.fr\b
-## end of [[Spam blacklist/Log]] section\
+\bpodhuri-sumavy\.cz\b
+## end of [[Spam blacklist/Log]] section
+##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
