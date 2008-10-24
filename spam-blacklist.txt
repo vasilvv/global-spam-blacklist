@@ -6369,6 +6369,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bceo-europe\.com\b
 \bmykonostour\.com\b
 \bavsasitesi\.com\b
+\bayurvedasite\.it\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
