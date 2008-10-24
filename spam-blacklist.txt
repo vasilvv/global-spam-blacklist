@@ -6367,7 +6367,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bsantillana-del-mar\.(?:com|es)\b
 \bhellwars\.com\b
 \bceo-europe\.com\b
-
+\bmykonostour\.com\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
