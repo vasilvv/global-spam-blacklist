@@ -6343,10 +6343,9 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bakenna\.net\b
 \bcuri222\.blogspot\.com\b
 \btrainpetdog\.com\b
-\bdogtraininginstitute\.(?:org|com)\b
 \bdogpottytrain\.com\b
 \bparrotsecrets\.com\b
-\b(?:pug|akita|corgi|poodle|shihtzu|papillon|chihuahua|bordercollie|pomeranian|siberianhuskey|goldenretriever|germanshepard)institute\.com\b
+\b(?:dogtraining|pug|akita|corgi|poodle|shihtzu|papillon|chihuahua|bordercollie|pomeranian|siberianhuskey|goldenretriever|germanshepard)institute\.(?:com|org)\b
 \b0rg\.fr\b
 \bpodhuri-sumavy\.cz\b
 \balojamientosrurales(?:decantabria)?\.(?:com|net)\b
