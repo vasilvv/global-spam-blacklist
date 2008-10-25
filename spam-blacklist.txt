@@ -6369,6 +6369,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bevertonfc\.ru\b
 \bfurifuri\.org\b
 \bfuroshiki\.com\b
+\bgermany\.mygreatworld\.com\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
