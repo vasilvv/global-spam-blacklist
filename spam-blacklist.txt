@@ -6361,6 +6361,8 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bhardmob\.com\.br\b
 \bfotoscantabria\.es\b
 \bmapacantabria\.es\b
+\bturismocantabria\.net\b
+
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
