@@ -6358,7 +6358,9 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bayurvedasite\.it\b
 \bberlin-stadtfuehrung\.de\b
 \bstallone-the-best\.piczo\.com\b
-\bHARDMOB\.COM\.BR\b
+\bhardmob\.com\.br\b
+\bfotoscantabria\.es\b
+\bmapacantabria\.es\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
