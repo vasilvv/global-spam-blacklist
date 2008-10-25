@@ -6372,6 +6372,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bgermany\.mygreatworld\.com\b
 \bgoisproperty\.co\.uk\b
 \balestevinos\.com\b
+\bianchel\.nhveldh\.org\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
