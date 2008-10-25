@@ -6365,7 +6365,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bclickmenorca\.com\b
 \bbarradatijuca\.com\.br\b
 \bdisfrutamallorca\.es\b
-
+\bevarkadasi\.org\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
