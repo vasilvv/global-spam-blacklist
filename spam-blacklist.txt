@@ -6359,8 +6359,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bberlin-stadtfuehrung\.de\b
 \bstallone-the-best\.piczo\.com\b
 \bhardmob\.com\.br\b
-\bfotoscantabria\.es\b
-\bmapacantabria\.es\b
+\b(?:fotos|mapa)cantabria\.es\b
 \bturismocantabria\.net\b
 \bayonix\.com\b
 \bclickmenorca\.com\b
