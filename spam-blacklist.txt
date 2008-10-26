@@ -6375,6 +6375,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bianchel\.nhveldh\.org\b
 \bthe-mafia\.de\b
 \bgreenshop\.hu\b
+\bhackersunisel\.blogspot\.com\b
 
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
