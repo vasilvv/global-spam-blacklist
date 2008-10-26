@@ -6377,6 +6377,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bgreenshop\.hu\b
 \bhackersunisel\.blogspot\.com\b
 \bpokemonyaoi\.net\b
+\btoolquarter\.com\b
 
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
