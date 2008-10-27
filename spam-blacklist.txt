@@ -6381,6 +6381,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bstudiodiruggiero\.it\b
 \bibneyiz\.biz\b
 \bst-pauli-hamburg\.de\b
+\bprincevaliant\.net\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
