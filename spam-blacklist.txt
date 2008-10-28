@@ -6403,7 +6403,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bsilivriliyiz\.com\b
 \bsodaquick\.com\b
 \bplwha\.com\b
-
+\bwebshabab\.com\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
