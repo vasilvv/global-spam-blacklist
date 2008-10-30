@@ -6407,6 +6407,22 @@ nagarjuna.*?\.goo?glepages\.com\b
 \brapedaily\.com\b
 \bhotmale\.com\b
 \bkawase-market\.com\b
+\bbaldwinchuck\.blogspot\.com\b
+\bbidenobama\.blogspot\.com\b
+\bclintonhillary\.blogspot\.com\b
+\bdavidbenariel\.blogspot\.com\b
+\bheres-your-chance-to-apologize\.blogspot\.com\b
+\bjewjewsjewish\.blogspot\.com\b
+\bjewsforjoseph\.blogspot\.com\b
+\bnationalmessenger\.blogspot\.com\b
+\bphiladelphiachurchgod\.blogspot\.com\b
+\bplaintruthmagazine\.blogspot\.com\b
+\bsorry-iam\.blogspot\.com\b
+\bthepeoplewe\.blogspot\.com\b
+\bworldwidechurchgod\.blogspot\.com\b
+\bwrightjeremiah\.blogspot\.com\b
+\bdavidbenariel\.wordpress\.com\b
+\bdavidbenariel\.org\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
