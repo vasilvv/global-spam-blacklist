@@ -6423,6 +6423,18 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bwrightjeremiah\.blogspot\.com\b
 \bdavidbenariel\.wordpress\.com\b
 \bdavidbenariel\.org\b
+\bbingifm\.com\b
+\bhindimirchi\.com\b
+\bideasnext\.com\b
+\bloksangeet\.com\b
+\bmarathifm\.com\b
+\bmarathifun\.com\b
+\bmarathispice\.com\b
+\bmarathizone\.com\b
+\bmasalaads\.com\b
+\bmazafm\.com\b
+\bmeemarathi\.tv\b
+\bteluguclick\.com\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
