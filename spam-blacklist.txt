@@ -6459,6 +6459,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bgoalmaniac\.com\b
 \bapelosurgentes\.com\.br\b
 \bipbdesign\.ru\b
+\beurodance4ever\.blogspot\.com\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
