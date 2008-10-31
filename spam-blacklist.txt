@@ -6440,6 +6440,11 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcomiris\.com\b
 \bcomiris-international\.com\b
 \bsportigg\.com\b
+\bsportig\.fr\b
+\bsportigg\.fr\b
+\bsportigg\.net\b
+\bbstat\.fr\b
+\bbstat\.org\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
