@@ -6456,6 +6456,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bhindyugm\.com\b
 \b(?:merekavimitra|niyamawamsharten|hindyugmparichay|niyamawamsharten|kaviparichay|baaludyan|kahanikalash)\.blogspot\.com\b
 \bhindyugm\.mypodcast\.com\b
+\bgoalmaniac\.com\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
