@@ -6445,6 +6445,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bsportigg\.net\b
 \bbstat\.fr\b
 \bbstat\.org\b
+\bcavenaghi\.artelista\.com\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
