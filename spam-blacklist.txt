@@ -6448,6 +6448,11 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcavenaghi\.artelista\.com\b
 \baerobaticteams\.net\b
 \bharptabs\.com\b
+\bseinfeldx\.net\b
+\bonlinerummikub\.com\b
+\brummy(?:royal|-500)\.com\b
+\bwinner-horse\.com\b
+\bremi\.co\.il\b
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
