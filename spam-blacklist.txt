@@ -6460,6 +6460,8 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bapelosurgentes\.com\.br\b
 \bipbdesign\.ru\b
 \beurodance4ever\.blogspot\.com\b
+## sbhandler_end
+## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
 ##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
