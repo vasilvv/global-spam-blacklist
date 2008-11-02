@@ -6465,6 +6465,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bmzlit\.cn\b
 \bmovv\.com\b
 \bseohu\.org\b
+\bdpbolvw\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
