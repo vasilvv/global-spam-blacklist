@@ -6463,6 +6463,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bporno\.chatlaak\.com\b
 \bwilliamlong\.info\b
 \bmzlit\.cn\b
+\bmovv\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
