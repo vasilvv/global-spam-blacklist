@@ -6468,6 +6468,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bdpbolvw\.net\b
 \bbstat\.(?:it|co\.uk)\b
 \b34rock\.com\b
+\beasyreikilearning(\.homestead)?\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
