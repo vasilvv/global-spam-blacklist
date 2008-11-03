@@ -6470,6 +6470,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \b34rock\.com\b
 \beasyreikilearning(\.homestead)?\.com\b
 \bturksevdasi\.com\b
+\bnofoiegras\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
