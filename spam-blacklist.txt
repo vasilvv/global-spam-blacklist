@@ -6471,6 +6471,16 @@ nagarjuna.*?\.goo?glepages\.com\b
 \beasyreikilearning(\.homestead)?\.com\b
 \bturksevdasi\.com\b
 \bnofoiegras\.org\b
+\b70bbs\.com\b
+\b70blog\.com\b
+\bbokee\.org\b
+\bhouhai\.com\b
+\bhouhai\.net\b
+\bi70s\.com\b
+\bi928\.net\b
+\bmzlit\.cn\b
+\bseohu\.org\b
+\bwilliamlong\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
