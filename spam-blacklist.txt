@@ -6484,7 +6484,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfotoambar\.com\b
 \brottforum\.com\b
 \brottder\.org\.tr \b
-\bmynet\.com\b
 \bokeytek\.com\b
 \bweblence\.com\b
 \beziyetsiz\.com\b
