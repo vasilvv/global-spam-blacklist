@@ -6499,6 +6499,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcamp\.wcbo\.org\b
 \bhotel-neue-post\.de\b
 \bparkguell\.net84\.net\b
+\bcyinterview\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
