@@ -6496,6 +6496,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bbranddaze\.com\b
 \bcooljordanshoes\.com\b
 \bnikejordanshoesonsale\.com\b
+\bcamp\.wcbo\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
