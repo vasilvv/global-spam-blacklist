@@ -6503,6 +6503,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bthesportsinterview\.com\b
 \bdiaday\.com\b
 \bmarrakech\.net\b
+\bteletextonline\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
