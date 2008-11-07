@@ -6512,6 +6512,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bflachlaender\.fl\.ohost\.de\b
 \bpixeljoint\.com\b
 \bwayofthepixel\.net\b
+\bbubleland\.nl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
