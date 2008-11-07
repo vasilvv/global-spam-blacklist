@@ -5660,7 +5660,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \byouporn\.com\b
 \binternet-srs\.biz\b
 \burlgen\.com\b
-\basyncop\.com\b
 \bsmalur\.com\b
 \bindirdur\.blogcu\.com\b
 \bsitetiny\.com\b
