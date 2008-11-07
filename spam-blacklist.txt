@@ -6504,6 +6504,10 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bdiaday\.com\b
 \bmarrakech\.net\b
 \bteletextonline\.de\b
+\bsoft82\.fu8\.com\b
+\bjproshin\.info\b
+\btube-dudes\.net\b
+\bcheck-antivir-tool\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
