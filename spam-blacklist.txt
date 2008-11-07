@@ -6516,6 +6516,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfrance-voyage\.com\b
 \bmentorelio\.com\b
 \babrah\.am\b #temp to stop Poseurtech
+\bicanhaz\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
