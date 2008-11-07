@@ -6514,6 +6514,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bwayofthepixel\.net\b
 \bbubleland\.nl\b
 \bfrance-voyage\.com\b
+\bmentorelio\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
