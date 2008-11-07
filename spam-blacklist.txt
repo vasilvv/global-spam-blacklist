@@ -6509,6 +6509,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcheck-antivir-tool\.net\b
 \bdavemckay\.co\.uk\b
 \bekomobiili\.fi\b
+\bflachlaender\.fl\.ohost\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
