@@ -6523,6 +6523,11 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfacebookster\.com\b
 \blogobench\.com\b
 \bsalactive\.com\b
+\b123seotalk\.com\b
+\bdigital-kaos\.co\.uk\b
+\bplanetlotto\.co\.uk\b
+\btalk-scotland\.com\b
+\buknationallottery\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
