@@ -6608,7 +6608,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bpendoz\.com\b
 \bph24\.com\b
 \bpharm-commerce\d{0,2}\.com\b
-\bzmdzubgoqyzwjjntmutrccscxgcw\.blogspot\.com\b
+\b(?:blqtoiocihyuivbjytkedpmc|zmdzubgoqyzwjjntmutrccscxgcw)\.blogspot\.com\b
 \bxykribwams\.com\b
 \bprofessionalmedicines\.com\b
 \brelaxin(?:italy|spain)\.ru\b
