@@ -6528,6 +6528,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bplanetlotto\.co\.uk\b
 \btalk-scotland\.com\b
 \buknationallottery\.net\b
+\bpiurl\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
