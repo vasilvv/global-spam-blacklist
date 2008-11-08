@@ -6520,7 +6520,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bvivaxp\.com\b
 \byoutubehostels\.com\b
 \byoutube-hostels\.com\b
-\bfacebookster.com\b
+\bfacebookster\.com\b
 \blogobench\.com\b
 \bsalactive\.com\b
 ## sbhandler_end
