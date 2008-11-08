@@ -6618,6 +6618,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bphentrimine-shop\.com\b
 \bus-ds\.com\b
 \bdeepforestmusic\.com\b
+\bcyndilauper\.com\.br\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
