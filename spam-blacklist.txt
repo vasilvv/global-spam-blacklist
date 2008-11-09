@@ -6469,7 +6469,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \b34rock\.com\b
 \beasyreikilearning(\.homestead)?\.com\b
 \bturksevdasi\.com\b
-\bnofoiegras\.org\b
 \b70bbs\.com\b
 \b70blog\.com\b
 \bbokee\.org\b
