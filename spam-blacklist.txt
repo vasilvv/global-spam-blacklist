@@ -6633,6 +6633,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bpol-and\.eu\b
 \blittlebritainfan\.com\b
 \btwilightsaga\.altervista\.org\b
+\bpirucha\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
