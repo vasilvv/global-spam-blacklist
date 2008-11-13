@@ -620,7 +620,7 @@ freewebs\.com/diet-about-diet
 all\.yard\.ru
 sleepgoodmusic\.com
 w9uh\.info
-\bnimp\.org\b
+\b(on\.)?nimp(\.org)?\b
 
 # URL shorteners
 \b0rz\.tw\b
