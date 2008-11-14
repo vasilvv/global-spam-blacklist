@@ -6607,6 +6607,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bkaixin110\.cnblogs\.com\b
 \bbit\.ly\b
 \byanjiecao\.com\b
+\bterryananny\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
