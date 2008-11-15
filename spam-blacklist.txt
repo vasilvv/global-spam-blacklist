@@ -6617,7 +6617,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bigrandiviaggidellagtf\.net\b
 \byesemm\.com\b
 \barchitectour\.net\b
-\barchitectour\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
