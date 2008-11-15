@@ -6615,6 +6615,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bimaginate1057\.com\.ar\b
 \bloiselet\.com\b
 \bigrandiviaggidellagtf\.net\b
+\byesemm\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
