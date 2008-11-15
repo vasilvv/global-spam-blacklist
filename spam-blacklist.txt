@@ -6434,7 +6434,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bmzlit\.cn\b
 \bmovv\.com\b
 \bseohu\.org\b
-\bdpbolvw\.net\b
 \bbstat\.(?:it|co\.uk)\b
 \b34rock\.com\b
 \beasyreikilearning(?:\.homestead)?\.com\b
@@ -6444,9 +6443,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bhouhai\.(?:com|net)\b
 \bi70s\.com\b
 \bi928\.net\b
-\bmzlit\.cn\b
-\bseohu\.org\b
-\bwilliamlong\.info\b
 \bfotoambar\.com\b
 \brott(forum\.com|der\.org\.tr)\b
 \bokeytek\.com\b
@@ -6506,7 +6502,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bamerican-drug-shop\.com\b
 \bbargainmedsplace\.com\b
 \bbeeimmo\.com\b
-\bbest(?:viagranow|viagracialis|viagrabuy|medsplace|drugdirect|cheapmedsworld|canadianmed|-us-drugs)\.com\b
+\bbest(?:medsplace|drugdirect|cheapmedsworld|canadianmed|-us-drugs)\.com\b
 \bbonpharm\.com\b
 \bbrandpills4u\.com\b
 \bbuy(?:valuemeds|viagra24x7|pillsstore|pharmonline|med24|bestdrug)\.com\b
@@ -6529,7 +6525,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bed-(?:megamall|medstore|medshop|meds-store)\.com\b
 \beurohealthshop\.com\b
 \bevgenycherkasovstore\.com\b
-\bevolvedproxy\.info\b
 \bexpress-health\.info\b
 \beyzempills\.com\b
 \bfastpharmacies\.com\b
@@ -6563,7 +6558,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bon1ysex\.com\b
 \bonline-drug-shop\.com\b
 \bonline-pharm(?:-?rx|-store)\d{0,2}\.com\b
-\bonline(?:ph|medstoday|medshop|medscentral)\.info\b
+\bonline(?:medstoday|medshop|medscentral)\.info\b
 \bonlinepharmacyltd\.com\b
 \bonlypharmacy\.net\b
 \bontario-drugs\.(?:com|biz)\b
@@ -6609,7 +6604,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \byanjiecao\.com\b
 \bterryananny\.com\b
 \bd-addicts\.com\b
-\bwiki\.d-addicts\.com\b
 \bolshansky\.sitecity\.ru\b
 \bamisdecolette\.fr\b
 \baspergeritjns\.suntuubi\.com\b
