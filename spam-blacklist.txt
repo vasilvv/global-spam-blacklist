@@ -6611,6 +6611,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bd-addicts\.com\b
 \bwiki\.d-addicts\.com\b
 \bolshansky\.sitecity\.ru\b
+\bamisdecolette\.fr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
