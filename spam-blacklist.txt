@@ -6476,7 +6476,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bbubleland\.nl\b
 \bfrance-voyage\.com\b
 \bmentorelio\.com\b
-\babrah\.am\b #temp to stop Poseurtech
 \bicanhaz\.com\b
 \bvivaxp\.com\b
 \byoutube-?hostels\.com\b
