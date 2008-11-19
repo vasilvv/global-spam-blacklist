@@ -6629,8 +6629,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \b91wxds\.cn\b
 \bairgreat\.com\b
 \bbeautyspacenter\.com\b
-\bbjxps\.com\b
-\bbjxytx\.com\b
+\bbjx(?:ps|ytx)\.com\b
 \bchieftech\.net\.cn\b
 \bchinakain\.com\b
 \bclamandarin\.com\b
@@ -6651,8 +6650,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bmlkq\.com\b
 \bqm8881\.com\b
 \bsako-or\.cn\b
-\bshanghaianfeng\.com\b
-\bshanghaihuayu\.cn\b
+\bshanghai(?:anfeng\.com|huayu\.cn)\b
 \btfkfw\.com\.cn\b
 \btkglc\.net\b
 \bts-ky\.com\b
@@ -6664,8 +6662,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \byyxingke\.com\b
 \bzhuoyueenglish\.com\b
 \bbaili-rollforming\.com\b
-\bbeijing808\.com\b
-\bbeijingtour\.cc\b
+\bbeijing(?:808\.com|tour\.cc)\b
 \bchuangliandsj\.com\b
 \bchun-dance\.cn\b
 \bdragonorient\.com\b
