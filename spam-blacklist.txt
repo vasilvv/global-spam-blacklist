@@ -6677,6 +6677,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \byanzifei\.cn\b
 \bzhefiry\.com\b
 \bzibohengtai\.com\.cn\b
+\b31kv\.cn\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
