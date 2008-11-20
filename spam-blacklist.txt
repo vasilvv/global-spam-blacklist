@@ -6678,7 +6678,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \blinkbee\.com\b
 \bdwz\.tw\b
 \bppt\.cc\b
-# null edit
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
