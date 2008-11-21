@@ -6686,6 +6686,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bboxersrosadelosvientos\.com\b
 \bjdv-trc\.blogspot\.com\b
 \bmarquesdetamaron\.blogspot\.com\b
+\bneta\.ge\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
