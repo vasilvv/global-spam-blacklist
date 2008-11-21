@@ -6683,6 +6683,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bpornomotore\.it\b
 \beroticbeauties\.cnet\b
 \btrunc\.me\b
+\bboxersrosadelosvientos\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
