@@ -6693,6 +6693,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bnhal\.net\b
 \bvitamincesitleri\.blogspot\.com\b
 \bfrancescogeminiani\.com\b
+\bsilviofioravanti\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
