@@ -6699,6 +6699,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \biles-de-lerins\.info\b
 \binfoslash\.net\b
 \bevancamp\.com\b
+\bcevennes-tourisme\.fr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
