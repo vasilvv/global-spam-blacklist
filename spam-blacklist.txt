@@ -6700,6 +6700,10 @@ nagarjuna.*?\.goo?glepages\.com\b
 \binfoslash\.net\b
 \bevancamp\.com\b
 \bcevennes-tourisme\.fr\b
+\bgaowhen\.com\b
+\bbokee\.org\b
+\bseohu\.org\b
+\bwilliamlong\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
