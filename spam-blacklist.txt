@@ -6695,6 +6695,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfrancescogeminiani\.com\b
 \bsilviofioravanti\.it\b
 \bchildren-behavior\.com\b
+\bhedel\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
