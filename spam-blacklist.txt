@@ -6700,10 +6700,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \binfoslash\.net\b
 \bevancamp\.com\b
 \bcevennes-tourisme\.fr\b
-\bgaowhen\.com\b
-\bbokee\.org\b
-\bseohu\.org\b
-\bwilliamlong\.info\b
+function/c_urlredirect\.asp\?url=
 \brover\.ebay\.com\b
 ## sbhandler_end
 ## leave the above line as is
