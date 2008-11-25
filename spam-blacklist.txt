@@ -6703,6 +6703,9 @@ nagarjuna.*?\.goo?glepages\.com\b
 function/c_urlredirect\.asp\?url=
 \brover\.ebay\.com\b
 \bqlbi\.com\b
+\bynrc\.net\b
+\bkmhr\.net\b
+\bchenghai\.com\.cn\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
