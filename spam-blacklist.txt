@@ -6433,13 +6433,11 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bwilliamlong\.info\b
 \bmzlit\.cn\b
 \bmovv\.com\b
-\bseohu\.org\b
 \bbstat\.(?:it|co\.uk)\b
 \b34rock\.com\b
 \beasyreikilearning(?:\.homestead)?\.com\b
 \bturksevdasi\.com\b
 \b70b(?:bs|log)\.com\b
-\bbokee\.org\b
 \bhouhai\.(?:com|net)\b
 \bi70s\.com\b
 \bi928\.net\b
