@@ -6706,6 +6706,15 @@ function/c_urlredirect\.asp\?url=
 \bchenghai\.com\.cn\b
 \bbansko\.org\b
 \bamericageo\.com\b
+\bzalimcafe\.com\b
+\bmesajlarsozler\.com\b
+\bislamisohbetciler\.com\b
+\bmotokolik\.com\b
+\bgizliarkadas\.com\b
+\bfikraz\.com\b
+\bsohbetozel\.org\b
+\bmotorlive\.org\b
+\bogameilk\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
