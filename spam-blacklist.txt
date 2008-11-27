@@ -6716,6 +6716,7 @@ function/c_urlredirect\.asp\?url=
 \bmotorlive\.org\b
 \bogameilk\.com\b
 \bsohbet15\.com\b
+\bulix\.ucoz\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
