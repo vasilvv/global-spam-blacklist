@@ -6721,6 +6721,7 @@ function/c_urlredirect\.asp\?url=
 \bapoke\.com\b
 \bprojeksiyon\.com\.tr\b
 \bcentralbohemia\.cz\b
+\bnatal-live\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
