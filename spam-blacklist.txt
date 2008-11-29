@@ -6719,6 +6719,7 @@ function/c_urlredirect\.asp\?url=
 \bulix\.ucoz\.ru\b
 \btolong\.in\b
 \bapoke\.com\b
+\bprojeksiyon\.com\.tr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
