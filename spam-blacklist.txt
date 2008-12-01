@@ -6727,6 +6727,7 @@ function/c_urlredirect\.asp\?url=
 \bhalf-lifebrasil\.com\b
 \bblog\.fuku-heiwa\.main\.jp\b
 \bredtube\.com\b
+\bwebcam\.cap-d-agde\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
