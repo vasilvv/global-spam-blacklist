@@ -6728,6 +6728,7 @@ function/c_urlredirect\.asp\?url=
 \bblog\.fuku-heiwa\.main\.jp\b
 \bredtube\.com\b
 \bwebcam\.cap-d-agde\.com\b
+\bhotelen\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
