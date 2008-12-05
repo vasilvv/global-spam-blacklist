@@ -6732,7 +6732,6 @@ function/c_urlredirect\.asp\?url=
 \bporno\.ru\b
 \bnaturist\.de\b
 \bphoto\.sing365\.com\b
-\bfreewebtown\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
