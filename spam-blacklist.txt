@@ -6743,10 +6743,8 @@ function/c_urlredirect\.asp\?url=
 \bahluae\.net\b
 \bal1lg\.net\b
 \banalmatureorgies\.net\b
-\banti-virus-live-scanner\.com\b
-\bantivirus-protectionscan\.com\b
-\bar-tra\.com\b
-\bar-travian\.com\b
+\banti(?:-virus-live-scanner|virus-protectionscan)\.com\b
+\bar-tra(?:vian)?\.com\b
 \bartcateringbyjenn\.com\b
 \bavxp-2008\.us\b
 \bayda\.ru\b
@@ -6824,8 +6822,7 @@ function/c_urlredirect\.asp\?url=
 \btxdnl\.com\b
 \bunetworks\.biz\b
 \bviacodecright---\d\.com\b
-\bvidzdaily\.com\b
-\bvidzdevice\.com\b
+\bvidzd(?:aily|evice)\.com\b
 \bvsatforums\.com\b
 \bwackystone\.com\b
 \bwar3z\.to\b
