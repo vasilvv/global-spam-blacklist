@@ -6846,6 +6846,7 @@ function/c_urlredirect\.asp\?url=
 \bsmileycentral\.com\b
 \bwest-alliierte-in-berlin\.de\b
 \buser-guides\.co\.uk\b
+\bspritzlandia\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
