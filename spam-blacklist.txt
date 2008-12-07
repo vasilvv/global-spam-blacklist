@@ -6841,6 +6841,7 @@ function/c_urlredirect\.asp\?url=
 \bzzw\.pl\b
 \be-zgierz\.eu\b
 \bdifferentangle\.info\b
+\bfarmersdaughterhotel\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
