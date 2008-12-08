@@ -6849,6 +6849,7 @@ function/c_urlredirect\.asp\?url=
 \bspritzlandia\.it\b
 \bsintanna\.eu\b
 \balkhabar\.tv\b
+\bwww\.pinspenyes\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
