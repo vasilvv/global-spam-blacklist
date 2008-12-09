@@ -6852,6 +6852,7 @@ function/c_urlredirect\.asp\?url=
 \bwww\.pinspenyes\.com\b
 \btrampero\.com\b
 \barab-sex\.org\b
+\baskell\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
