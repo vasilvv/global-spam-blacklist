@@ -6851,6 +6851,7 @@ function/c_urlredirect\.asp\?url=
 \balkhabar\.tv\b
 \bwww\.pinspenyes\.com\b
 \btrampero\.com\b
+\barab-sex\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
