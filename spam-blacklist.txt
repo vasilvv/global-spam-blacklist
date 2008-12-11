@@ -6853,10 +6853,9 @@ function/c_urlredirect\.asp\?url=
 \btrampero\.com\b
 \barab-sex\.org\b
 \baskell\.com\b
-\bpatagoniaexpeditionrace\.com\b
 \bmarinedataservice\.com\b
-\bpatagoniaexpeditionrace\.com\b
-\bpatagoniaadventurerace\.com\b
+\bpatagonia(?:adventure|expedition)race\.com\b
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
