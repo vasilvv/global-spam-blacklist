@@ -6856,6 +6856,7 @@ function/c_urlredirect\.asp\?url=
 \bmarinedataservice\.com\b
 \bpatagonia(?:adventure|expedition)race\.com\b
 
+\bpatagoniaadventureracing\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
