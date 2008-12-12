@@ -6862,6 +6862,7 @@ function/c_urlredirect\.asp\?url=
 \bluigitenco60s\.it\b
 \bushebtisegipcios\.blogia\.com\b
 \bgirlswallpaper\.net\b
+\bturkgayclub\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
