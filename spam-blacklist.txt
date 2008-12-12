@@ -5856,7 +5856,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bvideocix\.com\b
 \bkikindai\.hu\b
 \bdiegovelazquez\.(?:110mb\.com|webcindario\.com|about\.vg)\b
-\bnacho\.miarroba\.com\b
 \bnachobenjumea\.atspace\.org\b
 \bcosmoetica\.com\b
 \bswinoujscie\.travel\.pl\b
@@ -6855,7 +6854,6 @@ function/c_urlredirect\.asp\?url=
 \baskell\.com\b
 \bmarinedataservice\.com\b
 \bpatagonia(?:adventure|expedition)race\.com\b
-
 \bpatagoniaadventureracing\.com\b
 \bmysiyaset\.com\b
 \bmelitopol-realty\.com\b
@@ -6864,6 +6862,8 @@ function/c_urlredirect\.asp\?url=
 \bgirlswallpaper\.net\b
 \bturkgayclub\.com\b
 \bbabes2babes\.net\b
+\bmyweb\.io\b
+\bmiarroba\.com\b #replaces \bnacho\.miarroba\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
