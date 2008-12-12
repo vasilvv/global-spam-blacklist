@@ -6865,6 +6865,7 @@ function/c_urlredirect\.asp\?url=
 \bmyweb\.io\b
 \bmiarroba\.com\b #replaces \bnacho\.miarroba\.com\b
 \bsuche-vorwahl\.de\b
+\barcadvisor\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
