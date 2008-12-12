@@ -6864,6 +6864,7 @@ function/c_urlredirect\.asp\?url=
 \bbabes2babes\.net\b
 \bmyweb\.io\b
 \bmiarroba\.com\b #replaces \bnacho\.miarroba\.com\b
+\bsuche-vorwahl\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
