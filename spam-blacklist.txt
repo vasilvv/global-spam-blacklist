@@ -6867,6 +6867,7 @@ function/c_urlredirect\.asp\?url=
 \bsuche-vorwahl\.de\b
 \barcadvisor\.com\b
 \bbosskey\.net\b
+\bpatagoniaadventurerace\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
