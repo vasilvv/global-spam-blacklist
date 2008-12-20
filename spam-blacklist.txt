@@ -6875,6 +6875,7 @@ function/c_urlredirect\.asp\?url=
 \brickrolld\.me\b # maybe temp, malware?
 \brealgems\.org\b
 \bsixxs\.org\b
+\bibis\.experimentals\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
