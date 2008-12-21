@@ -6824,8 +6824,7 @@ function/c_urlredirect\.asp\?url=
 \barab-sex\.org\b
 \baskell\.com\b
 \bmarinedataservice\.com\b
-\bpatagonia(?:adventure|expedition)race\.com\b
-\bpatagoniaadventureracing\.com\b
+\bpatagonia(?:adventure|adventureracing|expedition)race\.com\b
 \bmysiyaset\.com\b
 \bmelitopol-realty\.com\b
 \bluigitenco60s\.it\b
@@ -6852,7 +6851,7 @@ function/c_urlredirect\.asp\?url=
 \blittl(?:ink|eurl)\.com\b
 \bskinnylink\.com\b
 \bsmallurls\.com\b
-
+clubevfrportugal(?:\.freehostia)?\.com
 
 ## sbhandler_end
 ## leave the above line as is
