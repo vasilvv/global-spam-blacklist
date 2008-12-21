@@ -6878,6 +6878,14 @@ function/c_urlredirect\.asp\?url=
 \bibis\.experimentals\.de\b
 \bsheqel\.info\b
 \blamborghiniaddicted\.fr\b
+\bshorttext\.com\b
+\bshorterlink\.com\b
+\blittlink\.com\b
+\bskinnylink\.com\b
+\bsmallurls\.com\b
+\blittleurl\.com\b
+
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
