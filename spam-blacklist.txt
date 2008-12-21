@@ -807,7 +807,7 @@ xxx-posed\.com
 \btiniuri\.com\b
 \bxn6\.net\b
 \b9ax\.ne\b
-\bshorturl\.com\b
+\b(?:hot|tiny)?short(?:enurl|url|text|erlink)\.com\b
 \bnot2long\.net\b
 \biceglow\.com\b
 \birotator\.com\b
@@ -819,12 +819,10 @@ xxx-posed\.com
 \bnet\.tf\b
 \bus\.tf\b
 \bint\.tf\b
-\bca\.tf\b
-\bch\.tf\b
+\bc[ahz]\.tf\b
 \bedu\.tf\b
 \bru\.tf\b
 \bpl\.tf\b
-\bcz\.tf\b
 \bbg\.tf\b
 \bsg\.tf\b
 \bkickme\.to\b
@@ -852,14 +850,7 @@ xxx-posed\.com
 \bsays\.it\b
 \bowns\.it\b
 \bzor\.org\b
-\b1024bit\.at\b
-\b128bit\.at\b
-\b16bit\.at\b
-\b256bit\.at\b
-\b32bit\.at\b
-\b512bit\.at\b
-\b64bit\.at\b
-\b8bit\.at\b
+\b(?:1024|128|16|256|32|512|64|8)bit\.at\b
 \bagain\.at\b
 \ballday\.at\b
 \balone\.at\b
@@ -895,26 +886,19 @@ xxx-posed\.com
 \bcolors\.at\b
 \bcommodore(?:64)?\.at\b
 \bcommunists\.at\b
-\bconservatives\.at\b
-\bconspiracy\.at\b
+\bcons(?:ervatives|piracy)\.at\b
 \bcooldude\.at\b
 \bcroatian\.at\b
 \bcuteboy\.at\b
-\bdancemix\.at\b
-\bdanceparty\.at\b
+\bdance(?:mix|party)\.at\b
 \bdanish\.at\b
 \bdealing\.at\b
 \bdeep\.at\b
 \bdemocrats\.at\b
-\bdivxlinks\.at\b
-\bdivxmovies\.at\b
-\bdivxstuff\.at\b
+\bd(?:ivx|vd)(?:links|movies|stuff)\.at\b
 \bdizzy\.at\b
 \bdork\.at\b
 \bdutch\.at\b
-\bdvdlinks\.at\b
-\bdvdmovies\.at\b
-\bdvdstuff\.at\b
 \bemulaaaaars\.at\b
 \bend\.at\b
 \benglish\.at\b
@@ -925,11 +909,9 @@ xxx-posed\.com
 \bexhibitionist\.at\b
 \bfaith\.at\b
 \bfight\.at\b
-\bfinish\.at\b
-\bfinnish\.at\b
+\bfinn?ish\.at\b
 \bforward\.at\b
-\bfreebie\.at\b
-\bfreemp3\.at\b
+\bfree(?:bie|mp3)\.at\b
 \bfrench\.at\b
 \bgraduatejobs\.at\b
 \bgreenparty\.at\b
@@ -978,17 +960,14 @@ xxx-posed\.com
 \bpopmusic\.at\b
 \bportuguese\.at\b
 \bpowermac\.at\b
-\bprocessor\.at\b
-\bprospects\.at\b
-\bprotestant\.at\b
+\bpro(?:cessor|testant|spects)\.at\b
 \brapmusic\.at\b
 \braveparty\.at\b
 \breachme\.at\b
 \breboot\.at\b
 \brelaxed\.at\b
 \brepublicans\.at\b
-\bresearcher\.at\b
-\breset\.at\b
+\brese(?:archer|t)\.at\b
 \bresolve\.at\b
 \bretrocomputers\.at\b
 \brockparty\.at\b
@@ -1039,9 +1018,7 @@ xxx-posed\.com
 \bwhisper\.at\b
 \bwhiz\.at\b
 \bwonderful\.at\b
-\bzx80\.at\b
-\bzx81\.at\b
-\bzxspectrum\.at\b
+\bzx(?:8[01]|spectrum)\.at\b
 \b15h\.com\b
 \b1dr\.biz\b
 \b2url\.org\b
@@ -1055,8 +1032,7 @@ xxx-posed\.com
 \bc-o\.in\b
 \bchopurl\.com\b
 \bko168\.com\b
-\bcool158\.com\b
-\bcool168\.com\b
+\bcool1[56]8\.com\b
 \bontheinter\.net\b
 \bcutalink\.com\b
 \bdephine\.org\b
@@ -1074,7 +1050,6 @@ xxx-posed\.com
 \bgo\.cc\b
 \bgonow\.to\b
 \bgowwwgo\.com\b
-\bhotshorturl\.com\b
 \bhere\.is\b
 \bhothere\.com\b
 \bcoolhere\.com\b
@@ -1090,9 +1065,8 @@ xxx-posed\.com
 \b9irl\.com\b
 \b9uy\.com\b
 \bjust\.as\b
-\blinkfrog\.net\b
+\blink(?:frog|zip)\.net\b
 \blispurl\.com\b
-\blinkzip\.net\b
 \bmidgeturl\.com\b
 \br8\.org\b
 \bnanoref\.com\b
@@ -1115,7 +1089,6 @@ xxx-posed\.com
 \b2cd\.net\b
 \b0kn\.com\b
 \bv9z\.com\b
-\bshortenurl\.com\b
 \bsimurl\.com\b
 \bpassingg\.as\b
 \bredirect\.hm\b
@@ -1549,7 +1522,6 @@ mp3lyrics\.org
 lyricsandsongs\.com
 bellproxy\.com
 kitzor\.com
-tinyshorturl\.com
 zluf\.com
 bettersolutions\.com
 extranomical\.com
@@ -5676,7 +5648,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmoney-making12\.blogspot\.com\b
 #url shorteners
 \bshorl\.com\b
-\bshortlinks\.co\.uk\b
+\bshort(?:er)?links?\.co\.uk\b
 \b6url\.com\b
 \bflingk\.com\b
 \bmetamark\.net\b
@@ -5695,7 +5667,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmuslims\.ws\b
 \basipak\.com\b
 \bclaasfamily\.org\b
-\bshorterlink\.co\.uk\b
 \bcocktailteam\.net\b
 \bindicatoreamaranto\.it\b
 \bthatsqingdao\.com\b
@@ -6878,12 +6849,9 @@ function/c_urlredirect\.asp\?url=
 \bibis\.experimentals\.de\b
 \bsheqel\.info\b
 \blamborghiniaddicted\.fr\b
-\bshorttext\.com\b
-\bshorterlink\.com\b
-\blittlink\.com\b
+\blittl(?:ink|eurl)\.com\b
 \bskinnylink\.com\b
 \bsmallurls\.com\b
-\blittleurl\.com\b
 
 
 ## sbhandler_end
