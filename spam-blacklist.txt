@@ -6853,6 +6853,7 @@ function/c_urlredirect\.asp\?url=
 \bsmallurls\.com\b
 clubevfrportugal(?:\.freehostia)?\.com
 
+\bannenurmi\.cl\.gd\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
