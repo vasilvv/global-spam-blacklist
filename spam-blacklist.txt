@@ -6854,6 +6854,7 @@ function/c_urlredirect\.asp\?url=
 clubevfrportugal(?:\.freehostia)?\.com
 
 \bannenurmi\.cl\.gd\b
+\bthemoviesareus\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
