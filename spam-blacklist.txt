@@ -6856,6 +6856,7 @@ clubevfrportugal(?:\.freehostia)?\.com
 \bannenurmi\.cl\.gd\b
 \bthemoviesareus\.com\b
 \bclubsimca\.fr\b
+\btorokkanizsa\.extra\.hu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
