@@ -6864,6 +6864,7 @@ clubevfrportugal(?:\.freehostia)?\.com
 \bkarakalpak\.com\b
 \bstrivinglife\.com\b
 \bsouvenir-dvd\.com\b
+\bzurl\.ws\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
