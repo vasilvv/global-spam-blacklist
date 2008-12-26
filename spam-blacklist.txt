@@ -1072,7 +1072,6 @@ xxx-posed\.com
 \bnanoref\.com\b
 \bozonez\.com\b
 \bppcredirect\.com\b
-\bpulsar\.net\b
 \bquickurl\.net\b
 \bqwer\.org\b
 \bred\.tc\b
