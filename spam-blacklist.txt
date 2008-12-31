@@ -6867,9 +6867,9 @@ clubevfrportugal(?:\.freehostia)?\.com
 \bzurl\.ws\b
 \burlpire\.com\b
 buzz\.igg\.com
-
 \bellibrodelmensajero\.blogspot\.com\b
 \bfirmypuchov\.sk\b
+\bugg4sale\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
