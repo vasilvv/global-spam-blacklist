@@ -6851,7 +6851,6 @@ function/c_urlredirect\.asp\?url=
 \bskinnylink\.com\b
 \bsmallurls\.com\b
 clubevfrportugal(?:\.freehostia)?\.com
-
 \bannenurmi\.cl\.gd\b
 \bthemoviesareus\.com\b
 \bclubsimca\.fr\b
@@ -6870,6 +6869,10 @@ buzz\.igg\.com
 \bellibrodelmensajero\.blogspot\.com\b
 \bfirmypuchov\.sk\b
 \bugg4sale\.com\b
+\bramkol\.eu\b
+\bsznt\.eu\b
+\bremeteahr\.ro\b
+\bgyergyoremete\.ro\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
