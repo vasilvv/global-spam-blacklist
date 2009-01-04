@@ -6548,7 +6548,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \boprah-fansite\.com\b
 \bgraffiti\.cx\b
 \bteknoloji\.tc\b
-\bsmileys\.smileycentral\.com\b
 \balternativemedicineseminars\.com\b
 \bdaciaclub\.eu\b
 \bteatropovero\.it\b
@@ -6746,7 +6745,6 @@ function/c_urlredirect\.asp\?url=
 \bhikayeler99\.com\b
 \bhostdandy\.info\b
 \bhotusa\.org\b
-\bibgszrg\.isuisse\.com\b
 \biblogger\.org\b
 \biconadserver\.com\b
 \bincestlessons\.net\b
@@ -6836,7 +6834,6 @@ function/c_urlredirect\.asp\?url=
 \bsuche-vorwahl\.de\b
 \barcadvisor\.com\b
 \bbosskey\.net\b
-\bpatagoniaadventurerace\.com\b
 \besyurl\.com\b
 \bnanoshop\.ir\b
 \bfestivalbeckett\.com\.ar\b
@@ -6857,7 +6854,6 @@ clubevfrportugal(?:\.freehostia)?\.com
 \btorokkanizsa\.extra\.hu\b
 \bfizy\.org\b
 \bgorodetc\.ru\b
-\bclubevfrportugal\.freehostia\.com\b
 \bnarcotics\.su\b
 \bseesplit\.com\b
 \bkarakalpak\.com\b
@@ -6881,7 +6877,6 @@ buzz\.igg\.com
 \bsurmedical\.com\b
 \byayinakisi\.com\b
 \binugg\.com\b
-\bitem4u\.com\b
 \bbyfiles\.storage\.live\.com\b
 \bashtalakshmi\.com\b
 \bte\.tl\b
