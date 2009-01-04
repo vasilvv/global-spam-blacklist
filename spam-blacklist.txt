@@ -6884,6 +6884,8 @@ buzz\.igg\.com
 \bitem4u\.com\b
 \bbyfiles\.storage\.live\.com\b
 \bashtalakshmi\.com\b
+\bte\.tl\b
+\bw3tag\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
