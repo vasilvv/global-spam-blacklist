@@ -6880,6 +6880,8 @@ buzz\.igg\.com
 \bmaselectromedicina\.com\b
 \bsurmedical\.com\b
 \byayinakisi\.com\b
+\binugg\.com\b
+\bitem4u\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
