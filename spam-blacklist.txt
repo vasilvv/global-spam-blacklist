@@ -6884,6 +6884,7 @@ buzz\.igg\.com
 \bvillemagne\.net\b
 \brosarioonline\.altervista\.org\b
 \bshotokai\.com\.br\b
+\bpuratimba\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
