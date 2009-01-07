@@ -6887,6 +6887,9 @@ buzz\.igg\.com
 ferienwohnungen-auf-sizilien\.de
 \bvova\.cz\b
 \binxs\.phpbbforum\.eu\b
+\bhotel-erb\.de\b
+\bbestwestern\.de\b
+\bhotel-am-borsigturm\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
