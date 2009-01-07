@@ -6890,6 +6890,7 @@ ferienwohnungen-auf-sizilien\.de
 \bhotel-erb\.de\b
 \bbestwestern\.de\b
 \bhotel-am-borsigturm\.de\b
+\bteosofia-liberdade\.org\.br\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
