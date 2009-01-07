@@ -4859,7 +4859,7 @@ digilander\.libero\.it/andrea\.nardo1977
 \bglowicki\.pl\b
 \bwypadki\.fotolog\.pl\b
 \bthisdaythatyear\.com\b
-\bvizaginfo\.com\b
+\bvizaginfo\.(?:com|net)\b
 \belectionsinfo\.com\b
 \bpincodesindia\.com\b
 \bastrologyforu\.com\b
@@ -4879,7 +4879,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \bvizagclassifieds\.com\b
 \bsoftwaretalk\.info\b
 \bgetpaidindia\.com\b
-\bvizaginfo\.net\b
 \basuku\.com\b
 \bbanks-atms\.com\b
 \bcollegezones\.com\b
@@ -5167,7 +5166,7 @@ boylovernet
 
 \bdotcominfoway\.com\b
 \bgalatta\.com\b
-\bshriyaonline\.info\b
+\bshriyaonline\.(?:com|info)\b
 \bmalavika\.info\b
 \bnayantaraonline\.info\b
 \bbhavanaonline\.info\b
@@ -5276,7 +5275,6 @@ boylovernet
 \brenukamenon\.com\b
 \bradikaa\.com\b
 \btrishakrishnan\.com\b
-\bshriyaonline\.com\b
 \bsangavi\.com\b
 \breggae-hiphop-radio\.we\.bs\b
 \bierasmus\.com\b
