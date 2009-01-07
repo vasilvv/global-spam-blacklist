@@ -6891,6 +6891,7 @@ ferienwohnungen-auf-sizilien\.de
 \bbestwestern\.de\b
 \bhotel-am-borsigturm\.de\b
 \bteosofia-liberdade\.org\.br\b
+\balestewines\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
