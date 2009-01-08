@@ -6895,6 +6895,7 @@ ferienwohnungen-auf-sizilien\.de
 \bthebusschedule\.com\b
 \blinksemulacao\.googlepages\.com\b
 \bferienwohnungen-auf-sizilien\.de\b
+\btsmservice\.fr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
