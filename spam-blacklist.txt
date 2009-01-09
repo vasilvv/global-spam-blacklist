@@ -6897,6 +6897,7 @@ ferienwohnungen-auf-sizilien\.de
 \bferienwohnungen-auf-sizilien\.de\b
 \btsmservice\.fr\b
 \bcamilla-belle-picture\.blogspot\.com\b
+\bgroohashpazi\.blogfa\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
