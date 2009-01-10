@@ -6901,6 +6901,7 @@ ferienwohnungen-auf-sizilien\.de
 \bmiata\.es\b
 \baccumalaga\.es\b
 \bpatagonia-web\.com\b
+\btorrevieja24\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
