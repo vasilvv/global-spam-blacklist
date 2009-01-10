@@ -6905,6 +6905,7 @@ ferienwohnungen-auf-sizilien\.de
 \bxtreme-corp\.net\b
 hitlerbunker\.com
 \bsnapmaze\.com\b
+\bdreamscreators\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
