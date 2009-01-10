@@ -6908,6 +6908,35 @@ hitlerbunker\.com
 \bdreamscreators\.com\b
 \blenr-canr\.org\b
 \bal-wlaah\.com\b
+\bborgloon\.com\b
+\bbredene\.com\b
+\bbruggebusiness\.com\b
+\bdehaanonline\.com\b
+\bdilsen-stokkem\.com\b
+\bheusden-zolder\.com\b
+\bizegem\.com\b
+\bkruibeke\.com\b
+\blanaken\.com\b
+\bmaaseik\.com\b
+\bmaasmechelen\.com\b
+\bmortsel\.com\b
+\bpoperinge\.com\b
+\bpuurs\.com\b
+\briemst\.com\b
+\brotselaar\.com\b
+\btemse\.com\b
+\btielt-winge\.com\b
+\bveurne\.com\b
+\bvlaams-brabant\.com\b
+\bflandersonline\.com\b
+\bwenduine\.com\b
+\bwervik\.com\b
+\bwetteren\.com\b
+\bzonhoven\.com\b
+\befuengirola\.com\b
+\bbenalmadenacosta\.com\b
+\bsotograndecosta\.com\b
+\bleopoldsburg\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
