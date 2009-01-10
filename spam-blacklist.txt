@@ -6906,6 +6906,7 @@ ferienwohnungen-auf-sizilien\.de
 hitlerbunker\.com
 \bsnapmaze\.com\b
 \bdreamscreators\.com\b
+\blenr-canr\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
