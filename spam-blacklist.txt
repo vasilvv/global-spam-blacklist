@@ -6936,6 +6936,7 @@ hitlerbunker\.com
 \bbenalmadenacosta\.com\b
 \bsotograndecosta\.com\b
 \bleopoldsburg\.com\b
+\bua-teens\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
