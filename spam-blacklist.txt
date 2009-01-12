@@ -6942,6 +6942,9 @@ hitlerbunker\.com
 \bberlinertageszeitung\.de\b
 \binstantocr\.com\b
 \bbrugo\.be\b
+\bsematild\.qsh\.eu\b
+\blofaako\.strefa\.pl\b
+\bgolxando\.0lx\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
