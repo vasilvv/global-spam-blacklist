@@ -6946,6 +6946,7 @@ hitlerbunker\.com
 \blofaako\.strefa\.pl\b
 \bgolxando\.0lx\.net\b
 \bmysafelink\.com\b
+\brachmaninow\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
