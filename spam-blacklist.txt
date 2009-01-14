@@ -6950,6 +6950,7 @@ hitlerbunker\.com
 setif\.forumactif\.info
 giurgiuro\.blogspot\.com
 \bnegox\.com\b
+\boomoto\.ucoz\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
