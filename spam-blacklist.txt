@@ -6948,6 +6948,7 @@ hitlerbunker\.com
 \bmysafelink\.com\b
 \brachmaninow\.narod\.ru\b
 setif\.forumactif\.info
+giurgiuro\.blogspot\.com
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
