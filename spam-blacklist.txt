@@ -6937,7 +6937,6 @@ hitlerbunker\.com
 \bportalcadista\.com\b
 \bberlinertageszeitung\.de\b
 \binstantocr\.com\b
-\bbrugo\.be\b
 \bsematild\.qsh\.eu\b
 \blofaako\.strefa\.pl\b
 \bgolxando\.0lx\.net\b
