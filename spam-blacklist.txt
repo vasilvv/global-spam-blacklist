@@ -6862,10 +6862,6 @@ buzz\.igg\.com
 \bellibrodelmensajero\.blogspot\.com\b
 \bfirmypuchov\.sk\b
 \bugg4sale\.com\b
-\bramkol\.eu\b
-\bsznt\.eu\b
-\bremeteahr\.ro\b
-\bgyergyoremete\.ro\b
 \bimagenes\.condenet\.es\b
 \bestaticos\.20minutos\.es\b
 \bfarecompare\.com\b
