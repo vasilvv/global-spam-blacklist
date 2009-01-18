@@ -6948,6 +6948,12 @@ giurgiuro\.blogspot\.com
 \boomoto\.ucoz\.ru\b
 \btalk\.to\b
 \bklimenro\.0fees\.net\b
+\bliliya\.w-ru\.com\b
+\bthe\.best\.russian\.brides-2\.w-ru\.com\b
+\bliliya-russianbrides\.w-ru\.com\b
+\brussianbrides2\.ru\b
+\brussianbrides\.ucoz\.ru\b
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
