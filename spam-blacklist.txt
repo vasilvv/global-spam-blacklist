@@ -6948,12 +6948,24 @@ giurgiuro\.blogspot\.com
 \boomoto\.ucoz\.ru\b
 \btalk\.to\b
 \bklimenro\.0fees\.net\b
-\bliliya\.w-ru\.com\b
-\bthe\.best\.russian\.brides-2\.w-ru\.com\b
-\bliliya-russianbrides\.w-ru\.com\b
+\bw-ru\.com\b
 \brussianbrides2\.ru\b
 \brussianbrides\.ucoz\.ru\b
-
+\bowndating(?:site)?\.(?:com|net)\b
+\bru-(?:wom[ae]n|wife|wives)(?:-dating)?\.(?:info|com|net|org)\b
+\b(?:wife-|real-|your-)?russian-(?:ladies|brides|wom[ae]n)(?:-online)?\.(?:com|ru|eu)\b
+\btop-1000-russian-brides\.(?:com|net)\b
+\brussian(?:ladies|brides)1\.com\b
+\bon-line-datingsite\.(?:com|net)\b
+\beroticvisits?\.com\b
+\b(?:pretty-)?russian-(?:women|bride|single)-dating\.(?:com|net)\b
+\b(?:okfree|go4)dating\.(?:org|net)\b
+\b(?:online)?dating-(?:site|search|russian)\.(?:net|info)\b
+\b(?:vipgirlie|brides(?:finder|inrussia)|com-ru-women|visa2russia|matchingsite|my-wife|uadating|all-russian-women|dating1000)\.net\b
+\b(?:russ-love|webrussianbrides|myfreecupid|princessbridesite|eliterussianbrides|asterot|mygourds|emailrussiangirls|russianladiesemail|fianceefromrussia)\.com\b
+\blove-r\.info\b
+\bwomenrussia\.eu\b
+\brussian-lady\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
