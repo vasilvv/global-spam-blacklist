@@ -6971,7 +6971,7 @@ muselius\.com
 \byandex\.ru\b
 \bexvaluere\.com\b
 \bzilnic\.net\b
-\bgreencard-vision\.com\b
+\bgreencard-vision\.
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
