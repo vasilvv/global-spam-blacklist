@@ -6967,8 +6967,8 @@ giurgiuro\.blogspot\.com
 \b(?:jorge150|jorgesoftware)\.blogspot.com\b
 \bihateliz\.com\b
 muselius\.com
-
 \bkelebeknakliyat\.com\b
+\byandex\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
