@@ -6969,6 +6969,7 @@ giurgiuro\.blogspot\.com
 muselius\.com
 \bkelebeknakliyat\.com\b
 \byandex\.ru\b
+\bexvaluere\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
