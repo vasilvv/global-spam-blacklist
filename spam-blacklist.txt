@@ -6970,6 +6970,7 @@ muselius\.com
 \bkelebeknakliyat\.com\b
 \byandex\.ru\b
 \bexvaluere\.com\b
+\bzilnic\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
