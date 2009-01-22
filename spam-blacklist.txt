@@ -6958,7 +6958,7 @@ giurgiuro\.blogspot\.com
 \bihateliz\.com\b
 muselius\.com
 \bkelebeknakliyat\.com\b
-\byandex\.ru\b
+\byandex\.ru/redir\b
 \bexvaluere\.com\b
 \bzilnic\.net\b
 \bgreencard-vision\.
