@@ -6964,6 +6964,7 @@ muselius\.com
 \bgreencard-vision\.
 \bkanqateam\.com\b
 \bcanoesport\.ru\b 
+\bglobalflight\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
