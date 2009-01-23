@@ -6968,6 +6968,7 @@ muselius\.com
 \bfajelacicevidvorizapresic\.blog\.hr\b
 \bgeckoleo\.com\b
 \byoujizz\.com\b
+\bminyurl\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
