@@ -6972,6 +6972,8 @@ muselius\.com
 \bautomania\.it\b
 \bfff\.to\b
 \blink4seo\.com\b
+zurnafinal\.net
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
