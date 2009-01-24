@@ -6973,8 +6973,8 @@ muselius\.com
 \bfff\.to\b
 \blink4seo\.com\b
 zurnafinal\.net
-
 \bski-russia\.net\b
+\bymap\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
