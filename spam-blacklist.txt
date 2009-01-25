@@ -6977,6 +6977,8 @@ zurnafinal\.net
 \bymap\.ru\b
 \bsomkutin\.fw\.hu\b
 \bnewdigitalsouth\.org\b
+\bmoggames\.net
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
