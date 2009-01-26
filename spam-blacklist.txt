@@ -749,7 +749,6 @@ skocz\.pl
 \.surf\.to
 s-url\.net
 \.switch\.to
-\.talk\.to
 thrill\.to
 tiny\.cc
 tiny(?:click|link)\.com
@@ -2076,7 +2075,6 @@ yedian\.com
 \.contake\.com
 ulcer\.by\.ru
 \.ulcer\.ws
-loverussianwife\.com
 gt-lite\.com
 flowerwish\.com
 sec-battery\.co\.uk
@@ -6767,7 +6765,6 @@ function/c_urlredirect\.asp\?url=
 \bprogramlar\.org\b
 \bproscribedsites\.info\b
 \bredir\.to\b
-\brussianbrideagency\.net\b
 \bs2a2s\.com\b
 \bsaklanbac\.net\b
 \bsalahws\.com\b
@@ -6887,7 +6884,6 @@ ferienwohnungen-auf-sizilien\.de
 \balestewines\.com\b
 \bthebusschedule\.com\b
 \blinksemulacao\.googlepages\.com\b
-\bferienwohnungen-auf-sizilien\.de\b
 \btsmservice\.fr\b
 \bcamilla-belle-picture\.blogspot\.com\b
 \bgroohashpazi\.blogfa\.com\b
