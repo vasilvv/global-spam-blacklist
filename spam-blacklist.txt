@@ -6975,6 +6975,10 @@ zurnafinal\.net
 \bnewdigitalsouth\.org\b
 \bmoggames\.net
 \bviagra-billig\.com\b
+\bearth4energy(z|-solarhome.blogspot)?\.(tk|com|net)\b
+\bhome-energy\.tk\b
+\bearth-energy4home\.tk\b
+\bfile-factory\.co\.uk/energy\.html\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
