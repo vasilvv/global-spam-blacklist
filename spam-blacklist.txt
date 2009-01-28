@@ -4575,7 +4575,7 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bideascrowd\.com\b
 \bgoogle\.com\.tr/search\?hl=tr\b
 \bkinzparty\.info\b
-\bisraloft\.com\b
+\bisra(?:loft|medicine)\.com\b
 \bwebkinz-(?:recipes|cheat)\.net\b
 \bworld-religion\.org\b
 \botazoj\.nl\b
