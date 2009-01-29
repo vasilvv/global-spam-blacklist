@@ -6981,6 +6981,9 @@ zurnafinal\.net
 \bfile-factory\.co\.uk/energy\.html\b
 \bterrastraniera\.de\b
 \bwww-2\.net\b
+\bcyborg-on-smallville\.tk\b
+\bhome-made-energy\.tk\b
+\bweight-loss-pros\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
