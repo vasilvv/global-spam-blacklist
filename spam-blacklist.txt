@@ -6992,6 +6992,7 @@ zurnafinal\.net
 \blettercredit\.com\b
 \blacrimosaforever\.com\b
 \bhotel-cezar\.com\b
+\bapartments-makarska\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
