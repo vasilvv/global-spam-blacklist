@@ -6993,6 +6993,7 @@ zurnafinal\.net
 \blacrimosaforever\.com\b
 \bhotel-cezar\.com\b
 \bapartments-makarska\.com\b
+\bexotour\.ge\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
