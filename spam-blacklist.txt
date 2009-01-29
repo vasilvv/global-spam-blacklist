@@ -6984,6 +6984,7 @@ zurnafinal\.net
 \bcyborg-on-smallville\.tk\b
 \bhome-made-energy\.tk\b
 \bweight-loss-pros\.tk\b
+\bimg\.yandex\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
