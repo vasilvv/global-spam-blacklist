@@ -6986,6 +6986,10 @@ zurnafinal\.net
 \bweight-loss-pros\.tk\b
 \bimg\.yandex\.net\b
 \bla-biznaga\.com\b
+\bannneftin\.com\b
+\bnlpls\.com\b
+\byammypix\.com\b
+\blettercredit\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
