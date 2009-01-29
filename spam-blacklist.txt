@@ -6990,10 +6990,6 @@ zurnafinal\.net
 \bnlpls\.com\b
 \byammypix\.com\b
 \blettercredit\.com\b
-\bannneftin\.com\b
-\bnlpls\.com\b
-\byammypix\.com\b
-\blettercredit\.com\b
 \blacrimosaforever\.com\b
 ## sbhandler_end
 ## leave the above line as is
