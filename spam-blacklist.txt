@@ -6980,6 +6980,7 @@ zurnafinal\.net
 \bearth-energy4home\.tk\b
 \bfile-factory\.co\.uk/energy\.html\b
 \bterrastraniera\.de\b
+\bwww-2\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
