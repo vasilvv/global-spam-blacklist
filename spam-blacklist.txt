@@ -6994,7 +6994,6 @@ zurnafinal\.net
 \bhotel-cezar\.com\b
 \bapartments-makarska\.com\b
 \bexotour\.ge\b
-\bharoldstreet\.org\.uk\b # test item
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
