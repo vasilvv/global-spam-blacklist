@@ -6995,6 +6995,38 @@ zurnafinal\.net
 \bapartments-makarska\.com\b
 \bexotour\.ge\b
 \bafricainquirer\.com\b
+\b3dmax-tutorials\.com\b
+\banatoliangifts\.com\b
+\barchicad-tutorials\.info\b
+\bautomatic-level\.com\b
+\bbatik-tulis\.com\b
+\bbloomsandbaskets\.com\b
+\bcharacter-studio\.net\b
+\bchinawholesale247\.com\b
+\bconstruction-laser\.com\b
+\bcosmeproud\.com\b
+\bdigitaltheodolite\.com\b
+\bdistanciometro\.com\b
+\beastalgarvevilla\.com\b
+\bechosounder\.org\b
+\becommerce-designer\.com\b
+\ben-ru\.org\b
+\bfreelanceprogrammers\.org\b
+\bgeminispanishproperties\.com\b
+\blalamirr\.com\b
+\bmeasuring-wheels\.com\b
+\bnxs4\.com\b
+\botakuhouse\.com\b
+\bpdesigner\.net\b
+\brtks82\.com\b
+\bsmsmp3\.co\.uk\b
+\bstonexitalia\.it\b
+\bstonexsurveying\.com\b
+\bteodolito\.org\b
+\btopografico\.net\b
+\btotalstation\.org\b
+\btotalstationshop\.com\b
+\btravelbaku\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
