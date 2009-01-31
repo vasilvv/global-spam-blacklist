@@ -7027,6 +7027,10 @@ zurnafinal\.net
 \btotalstation\.org\b
 \btotalstationshop\.com\b
 \btravelbaku\.com\b
+\bay7agh\.l9l\.org\b
+\bmobileey\.blogspot\.com\b
+\blinkat\.l9l\.org\b
+\basbestos4info\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
