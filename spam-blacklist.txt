@@ -7032,6 +7032,7 @@ zurnafinal\.net
 \blinkat\.l9l\.org\b
 \basbestos4info\.blogspot\.com\b
 \bizucardematamoros\.net\b
+example.com
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
