@@ -57,7 +57,6 @@ reuterbrook
 lazy-stars
 eblja
 liuhecai
-buy-viagra
 sexkanjer\.nl # sexspammer on nl (added by andre)
 show-your-pussy # (added by andre)
 szilva96 # (crosswiki spammer, added by Nick1915)
@@ -209,7 +208,6 @@ allgames4u\.net
 games\.az\.pl
 bestcardshop\.pushline\.com
 yourpharm\.t35\.com
-cheap-viagra\.hut1\.ru
 card1\.thor\.prohosting\.com
 1phone\.sky\.prohosting\.com
 car-insuranc\.hut1\.ru
@@ -2641,7 +2639,6 @@ teneriferesorts\.com
 torrie-wilson\.org
 ubtt\.org
 vbzx\.net
-viagra-drugs\.no-ip\.info
 villepin2007\.org
 viprape\.com
 voip-guide\.org
@@ -4242,7 +4239,6 @@ compact\.exe\.su
 \bacmeporn\.com
 \bamerican-idol-show\.info
 \banrdoezrs\.net
-cheapviagra
 \bdpbolvw\.net
 \beasymdpharm\.com
 \bfertilizer-information\.info
@@ -6464,7 +6460,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bbest(?:medsplace|drugdirect|cheapmedsworld|canadianmed|-us-drugs)\.com\b
 \bbonpharm\.com\b
 \bbrandpills4u\.com\b
-\bbuy(?:valuemeds|viagra24x7|pillsstore|pharmonline|med24|bestdrug)\.com\b
+\bbuy(?:valuemeds|pillsstore|pharmonline|med24|bestdrug)\.com\b
 \bca-(?:pharma|pills)\.com\b
 \bcad(?:pharmacy|meds|meds-support|med-support|med-support|med-support)\.(?:info|com|net)\b
 \bcanada(?:m[ea]nhealth|cheapmed|-rxpharmacy|-online-pharmacy|-best-drugs)\.com\b
@@ -6974,7 +6970,8 @@ zurnafinal\.net
 \bsomkutin\.fw\.hu\b
 \bnewdigitalsouth\.org\b
 \bmoggames\.net
-\bviagra-billig\.com\b
+(?:buy|cheap)-?viagra
+viagra-?(?:drugs|online|billig)
 \bearth4energy(z|-solarhome.blogspot)?\.(tk|com|net)\b
 \bhome-energy\.tk\b
 \bearth-energy4home\.tk\b
@@ -7020,16 +7017,13 @@ zurnafinal\.net
 \bpdesigner\.net\b
 \brtks82\.com\b
 \bsmsmp3\.co\.uk\b
-\bstonexitalia\.it\b
-\bstonexsurveying\.com\b
+\bstonex(?:italia\.it|surveying\.com)\b
 \bteodolito\.org\b
 \btopografico\.net\b
-\btotalstation\.org\b
-\btotalstationshop\.com\b
+\btotalstation(?:shop\.com|\.org)\b
 \btravelbaku\.com\b
-\bay7agh\.l9l\.org\b
+\b(?:ay7agh|linkat)\.l9l\.org\b
 \bmobileey\.blogspot\.com\b
-\blinkat\.l9l\.org\b
 \basbestos4info\.blogspot\.com\b
 \bizucardematamoros\.net\b
 ## sbhandler_end
