@@ -7026,6 +7026,7 @@ viagra-?(?:drugs|online|billig)
 \bmobileey\.blogspot\.com\b
 \basbestos4info\.blogspot\.com\b
 \bizucardematamoros\.net\b
+\b3x3\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
