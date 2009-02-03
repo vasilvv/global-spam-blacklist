@@ -7030,6 +7030,7 @@ viagra-?(?:drugs|online|billig)
 \bgeocenter\.es\b
 \bborat-bruno\.com\b
 \baviatorsale\.com\b
+\brlalique\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
