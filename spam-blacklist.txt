@@ -7034,6 +7034,9 @@ viagra-?(?:drugs|online|billig)
 \bzlatwork\.ru\b
 \bcypress\.com\b
 \bparisairportguide\.com\b
+\bexvaluere\.co\.uk\b
+\bexvaluere\.us\b
+\bexvaluere\.eu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
