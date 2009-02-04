@@ -7047,6 +7047,7 @@ viagra-?(?:drugs|online|billig)
 \bcheap-air-jordan\.cn\b
 \bdunk2u\.com\b
 \bsilver-tiffany\.com\b
+\bdiaghilev\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
