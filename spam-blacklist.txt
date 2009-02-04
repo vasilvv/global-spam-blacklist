@@ -7048,6 +7048,9 @@ viagra-?(?:drugs|online|billig)
 \bdunk2u\.com\b
 \bsilver-tiffany\.com\b
 \bdiaghilev\.org\b
+\bwellness-heaven\.net\b
+\bversicherungs-check\.info\b
+\bdax-prognose\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
