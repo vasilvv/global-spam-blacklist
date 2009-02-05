@@ -7055,6 +7055,7 @@ viagra-?(?:drugs|online|billig)
 \bihtiandr\.info\b
 \btrakomedia\.com\b 
 \bdivxsubtitles\.net\b
+\bandroid-phones\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
