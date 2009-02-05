@@ -7059,6 +7059,7 @@ viagra-?(?:drugs|online|billig)
 \bfreebiesms\.co\.uk\b
 \b301\.am\b
 \bturkishcoffeehouse\.blogspot\.com\b
+\bsystem-linux\.eu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
