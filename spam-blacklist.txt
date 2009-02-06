@@ -7060,6 +7060,7 @@ viagra-?(?:drugs|online|billig)
 \b301\.am\b
 \bturkishcoffeehouse\.blogspot\.com\b
 \bsystem-linux\.eu\b
+\bchitinshield\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
