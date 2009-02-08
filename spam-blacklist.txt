@@ -7119,6 +7119,8 @@ viagra-?(?:drugs|online|billig)
 \bpraxis-test-coaching\.com\b
 \bduparts\.com\b
 \bfarmsandvillas\.com\b
+\bhostingdnz\.com\b
+\bhenizhost\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
