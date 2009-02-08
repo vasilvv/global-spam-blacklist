@@ -7112,6 +7112,13 @@ viagra-?(?:drugs|online|billig)
 \bvcodeinfotech\.com\b
 \bvismayamax\.com\b
 \bworldwondersweb\.com\b
+\bblog-teachingsolutions\.org\b
+\btexas-teachingsolutions\.com\b
+\btest-help\.org\b
+\bcateachingsolutions\.com\b
+\bpraxis-test-coaching\.com\b
+\bduparts\.com\b
+\bfarmsandvillas\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
