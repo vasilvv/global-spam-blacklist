@@ -7123,6 +7123,8 @@ viagra-?(?:drugs|online|billig)
 \bhenizhost\.net\b
 \bdenizhost\.net\b
 \bantonioolinto\.co\.nr\b
+\bseecornwall\.eu\b
+\bcornwall\.rgds\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
