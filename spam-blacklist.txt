@@ -7064,6 +7064,7 @@ viagra-?(?:drugs|online|billig)
 \bsturly\.com\b 
 \bturkeytravelinfo\.net\b 
 \bhidro-teknik\.com\b
+\bapolitik\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
