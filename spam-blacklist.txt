@@ -7062,6 +7062,7 @@ viagra-?(?:drugs|online|billig)
 \bsystem-linux\.eu\b
 \bchitinshield\.blogspot\.com\b
 \bsturly\.com\b 
+\bturkeytravelinfo\.net\b 
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
