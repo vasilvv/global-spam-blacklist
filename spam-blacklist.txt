@@ -7121,6 +7121,7 @@ viagra-?(?:drugs|online|billig)
 \bfarmsandvillas\.com\b
 \bhostingdnz\.com\b
 \bhenizhost\.net\b
+\bdenizhost\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
