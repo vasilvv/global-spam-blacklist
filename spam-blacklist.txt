@@ -7134,6 +7134,30 @@ viagra-?(?:drugs|online|billig)
 \balanadial\.net\b
 \bbereketnikahseker(?:i|leri)\.com\b
 \bhostclub\.tk\b
+\bbagrut\.org\b
+\bchinesevoice\.com\b
+\bclassicalhebrew\.com\b
+\bclassicalhebrewblog\.com\b
+\bhebrewonline\.com\b
+\bhebrewonlineblog\.com\b
+\bjewish-greetings\.com\b
+\blearn-hebrew-names\.com\b
+\bmy-chinese-name\.com\b
+\bmy-christmas-card\.com\b 
+\bbagrut\.org\.il\b
+\bbible-name\.com\b
+\bchinese-character\.com\b
+\bchinesevoice\.co\.il\b
+\bchinesevoice\.com\b
+\be-teacher\.co\.il\b
+\benglishonline\.co\.il\b
+\beteachergroup\.com\b
+\bhebrewonline\.co\.il\b
+\bhebrewonlineshop\.com\b
+\bhomeworkhelp\.co\.il\b
+\blearn-chinese-blog\.com\b
+\blearn-hebrew-phrases\.com\b
+\blearn-hebrew\.co\.il\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
