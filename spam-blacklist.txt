@@ -7119,9 +7119,6 @@ viagra-?(?:drugs|online|billig)
 \bpraxis-test-coaching\.com\b
 \bduparts\.com\b
 \bfarmsandvillas\.com\b
-\bhostingdnz\.com\b
-\bhenizhost\.net\b
-\bdenizhost\.net\b
 \bantonioolinto\.co\.nr\b
 \bseecornwall\.eu\b
 \bcornwall\.rgds\.pl\b
@@ -7131,6 +7128,12 @@ viagra-?(?:drugs|online|billig)
 \bgenovagay\.com\b
 \bexamjunction\.blogspot\.com\b 
 \bquijuve\.com\b
+\bhostingdnz.com\b
+\b[dh]enizhost\.net\b
+\bhostingclub\.tk\b
+\balanadial\.net\b
+\bbereketnikahseker(?:i|leri)\.com\b
+\bhostclub\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
