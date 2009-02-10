@@ -5695,6 +5695,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcm-germany\.org/wordpress/2008/02/09/east-meets-west/\b
 \bnewdualism\.org/papers/C\.Kohl/Buddhism-QP-Parallel\.htm\b
 \bkohl12345\.googlepages\.com\b
+\borient\.ruf\.uni-freiburg\.de\/dotpub\/kohl\.pdf\b
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
