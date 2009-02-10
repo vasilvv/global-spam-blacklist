@@ -5696,6 +5696,8 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bnewdualism\.org/papers/C\.Kohl/Buddhism-QP-Parallel\.htm\b
 \bkohl12345\.googlepages\.com\b
 \borient\.ruf\.uni-freiburg\.de\/dotpub\/kohl\.pdf\b
+\bchina-observer\.de\/druckansicht\/entry081022-130003\.htm\b
+\bconceptsofphysics\.net\/V_3/517\.pdf\b
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
