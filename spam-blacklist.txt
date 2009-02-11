@@ -7161,6 +7161,7 @@ viagra-?(?:drugs|online|billig)
 \blearn-chinese-blog\.com\b
 \blearn-hebrew-phrases\.com\b
 \blearn-hebrew\.co\.il\b
+\bb23\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
