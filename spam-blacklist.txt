@@ -7035,7 +7035,6 @@ viagra-?(?:drugs|online|billig)
 \baviatorsale\.com\b
 \brlalique\.com\b
 \bzlatwork\.ru\b
-\bcypress\.com\b
 \bparisairportguide\.com\b
 \bexvaluere\.(?:co\.uk|eu|us)\b
 \b4uaf\.com\b
