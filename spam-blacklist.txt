@@ -7179,6 +7179,7 @@ viagra-?(?:drugs|online|billig)
 \bwow\.xtrablog\.dk\b
 \bwowaccount\d?.(?:obolog|xtrablog|indiainteracts)\.(?:com|dk)\b
 \bwowgold51\.net\b
+\bairdestroyer\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
