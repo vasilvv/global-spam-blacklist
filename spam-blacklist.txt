@@ -7163,6 +7163,9 @@ viagra-?(?:drugs|online|billig)
 \blearn-hebrew\.co\.il\b
 \bb23\.ru\b
 \bfarmcliff\.com\b
+\bzlatni-bol\.com\b
+\bzabranjenaljubavblog\.blog\.hr\b
+\bbol-croatia-apartments\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
