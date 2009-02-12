@@ -7177,7 +7177,7 @@ viagra-?(?:drugs|online|billig)
 \bthsale\.com\b
 \bwow-accounts?\.(?:net|org)\b
 \bwow\.xtrablog\.dk\b
-\bwowaccount\d?.(?:obolog|xtrablog|indiainteracts)\.(?:com|dk)\b
+\bwowaccount\d?\.(?:obolog|xtrablog|indiainteracts)\.(?:com|dk)\b
 \bwowgold51\.net\b
 \bairdestroyer\.ru\b
 ## sbhandler_end
