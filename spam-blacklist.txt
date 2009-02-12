@@ -7168,6 +7168,18 @@ viagra-?(?:drugs|online|billig)
 \bbol-croatia-apartments\.com\b
 \bdiromo\.com\b
 \bdvdkaraokejukebox\.com\b
+\baccountsbay\.com\b
+\bblog\.mook\.com\.tw/wow_account\b
+\bblogs\.albawaba\.com/wowaccount\b
+\bgamemobile\.com\b
+\bgoldups\.com\b
+\bitem4sale\.com\b
+\bsamyibiz\.com\b
+\bthsale\.com\b
+\bwow-accounts?\.(?:net|org)\b
+\bwow\.xtrablog\.dk\b
+\bwowaccount\d?.(?:obolog|xtrablog|indiainteracts)\.(?:com|dk)\b
+\bwowgold51\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
