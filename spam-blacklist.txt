@@ -3573,7 +3573,7 @@ republika\.pl/stranasmer
 \bstatisticsoftheworld\.page\.tl
 \bparkourstyle\.com
 \btexaspoker\.tk
-\bcosplayx\.com
+\bcosplayx?\.com
 \bkatardat\.org
 \bnefac\.net
 \bnapolinelmondo\.org
