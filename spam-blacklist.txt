@@ -7032,7 +7032,6 @@ viagra-?(?:drugs|online|billig)
 \bgeocenter\.es\b
 \bborat-bruno\.com\b
 \baviatorsale\.com\b
-\brlalique\.com\b
 \bzlatwork\.ru\b
 \bparisairportguide\.com\b
 \bexvaluere\.(?:co\.uk|eu|us)\b
