@@ -7188,6 +7188,7 @@ viagra-?(?:drugs|online|billig)
 \bsuper-avi-converter\.com\b
 \bauto-loan-refinance\.net\b
 \ballmyhealth\.net\b
+\bguiaderoses\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
