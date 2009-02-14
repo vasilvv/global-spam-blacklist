@@ -7182,6 +7182,12 @@ viagra-?(?:drugs|online|billig)
 \bceppaloni\.info\b
 \bforexfacile\.it\b
 \bdoramovie\.blogspot\.com\b
+\bcardollarsforall\.com\b
+\bcarmoneyrealfast\.com\b
+\bcarloan123\.net\b
+\bsuper-avi-converter\.com\b
+\bauto-loan-refinance\.net\b
+\ballmyhealth\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
