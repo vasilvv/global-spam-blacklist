@@ -7179,6 +7179,7 @@ viagra-?(?:drugs|online|billig)
 \bwowgold51\.net\b
 \bairdestroyer\.ru\b
 \bchatarkadas\.net\b
+\bceppaloni\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
