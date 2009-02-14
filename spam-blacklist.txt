@@ -7180,6 +7180,7 @@ viagra-?(?:drugs|online|billig)
 \bairdestroyer\.ru\b
 \bchatarkadas\.net\b
 \bceppaloni\.info\b
+\bforexfacile\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
