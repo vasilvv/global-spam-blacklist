@@ -7207,6 +7207,7 @@ viagra-?(?:drugs|online|billig)
 \bsecondlife\.pp\.ru\b
 \bvideogames\.net\.ru\b
 \bzkaskay\.com\b
+\balizeeclub\.ucoz\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
