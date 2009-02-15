@@ -7189,6 +7189,23 @@ viagra-?(?:drugs|online|billig)
 \bauto-loan-refinance\.net\b
 \ballmyhealth\.net\b
 \bguiaderoses\.net\b
+\b104-game\.blogspot\.com\b
+\b168games\.blogspot\.com\b
+\b8591-game\.blogspot\.com\b
+\bfree-games\.net\.ru\b
+\bfreegamesbase\.com\b
+\bfreeonlinegames\.net\.ru\b
+\bfreetitle\.net\.ru\b
+\bfun-games\.net\.ru\b
+\bgameswu\.pixnet\.net\b
+\bharry-potter\.pp\.ru\b
+\binkheart\.net\.ru\b
+\bminiclip\.net\.ru\b
+\bmlb\.net\.ru\b
+\bonlinegames\.net\.ru\b
+\bplaygames\.pp\.ru\b
+\bsecondlife\.pp\.ru\b
+\bvideogames\.net\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
