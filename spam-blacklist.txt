@@ -7209,6 +7209,7 @@ viagra-?(?:drugs|online|billig)
 \bzkaskay\.com\b
 \balizeeclub\.ucoz\.ru\b
 \bzonemediafire\.tk\b
+\bkrabi\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
