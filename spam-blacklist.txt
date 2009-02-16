@@ -7212,6 +7212,7 @@ viagra-?(?:drugs|online|billig)
 \bkrabi\.info\b
 \bzlatni-bol\.com\b
 \bbaalart\.com\b
+\bxr\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
