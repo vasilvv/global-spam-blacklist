@@ -7221,6 +7221,7 @@ viagra-?(?:drugs|online|billig)
 \bzi\.ma\b
 \bmylottoadserv\.com\b
 (?:ireland|(?:euro|mega)mil|canada|the)lotter(?:wiz)?\.com\b
+\bknightrider\.3dn\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
