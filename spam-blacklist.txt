@@ -7215,6 +7215,9 @@ viagra-?(?:drugs|online|billig)
 \bxr\.com\b
 \bgrancanarias\.wordpress\.com\b
 \bsexshopdf\.com\.mx\b
+\broyalhouseofportugal\.org\b
+\bcasarealdeportugal\.org\b
+\bcasarealportuguesa\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
