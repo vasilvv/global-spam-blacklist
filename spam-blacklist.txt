@@ -7225,6 +7225,7 @@ viagra-?(?:drugs|online|billig)
 \bvisitcapena\.com\b
 \bfunctionpointmodeller\.com\b
 \bgost-ukrsepro\.com\b
+\bpag-kolan-novalja\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
