@@ -6295,7 +6295,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bvqte\.com\b
 \bxporntubex\.com\b
 \bexetuning\.com\b
-\basianmediawiki\.com\b
 \btuttofassa\.stepdev\.org\b
 \bconsultant-legros\.fr\b
 \bsantapost\.fi\b
