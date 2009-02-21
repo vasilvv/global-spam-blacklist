@@ -7241,6 +7241,7 @@ viagra-?(?:drugs|online|billig)
 \bgame15\.tk
 
 \bbaixllobregat\.tv\b
+\bwalernov\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
