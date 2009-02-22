@@ -6131,6 +6131,16 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bezy-money\.ws\b
 # \binternationalbadminton\.org\b
 \btarkanfunclub\.com\b
+\bmeatsalad\.ru
+\bphoneall\.ru
+\breceptsous\.ru
+\bsaladmeat\.ru
+\bsaladveg\.ru
+\bsiteons\.ru
+\bsousrecept\.ru
+\bvegsalad\.ru
+\bweb-hostings\.ru
+\bweb-siteon\.ru
 
 ##Highhi spam - See every contrib @ http://toolserver.org/~vvv/sulutil.php?user=Highhi
 ##Kylu 8/12/08
@@ -7239,7 +7249,6 @@ viagra-?(?:drugs|online|billig)
 \bwowgold(?:(?:-?shopping|order|sell|service|vip\.wordpress)\.com|\.org\.cn|price\.org)\b
 \byogawww\.com\b
 \bgame15\.tk
-
 \bbaixllobregat\.tv\b
 \bwalernov\.narod\.ru\b
 \mandalaseverler\.somee\.com\b
