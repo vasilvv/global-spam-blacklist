@@ -7253,6 +7253,7 @@ viagra-?(?:drugs|online|billig)
 \bwalernov\.narod\.ru\b
 \mandalaseverler\.somee\.com\b
 \bscavidiercolanopompei\.jimdo\.com\b
+\bantitub\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
