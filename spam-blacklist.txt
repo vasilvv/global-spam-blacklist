@@ -7255,6 +7255,7 @@ viagra-?(?:drugs|online|billig)
 \bscavidiercolanopompei\.jimdo\.com\b
 \bantitub\.com\b
 \bwedmi\.ru\b
+\bgoodquotes\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
