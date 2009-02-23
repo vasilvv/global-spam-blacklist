@@ -5698,6 +5698,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bconceptsofphysics\.net\/V_3/517\.pdf\b
 \blarousse\.fr\/ref\/contrib\/Bouddhisme-et-Physique-quantique_11003609\.htm\b
 \bcientificosconscientes\.com\/cc\/articulos\/budismo_fisica\.html\b
+\blacoctelera.com\/kohl\/post\/2008\/06\/05\/budismo-y-fisica-cuantica
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
