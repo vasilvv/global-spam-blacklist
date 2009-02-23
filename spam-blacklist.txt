@@ -5697,6 +5697,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bchina-observer\.de\/druckansicht\/entry081022-130003\.htm\b
 \bconceptsofphysics\.net\/V_3/517\.pdf\b
 \blarousse\.fr\/ref\/contrib\/Bouddhisme-et-Physique-quantique_11003609\.htm\b
+\bcientificosconscientes\.com\/cc\/articulos\/budismo_fisica\.html\b
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
