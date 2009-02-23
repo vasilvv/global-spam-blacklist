@@ -7258,6 +7258,7 @@ viagra-?(?:drugs|online|billig)
 \bgoodquotes\.org\b
 \bsestosenso\.com\b
 \b888\.com\b
+\btanquesyblindados\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
