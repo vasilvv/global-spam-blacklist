@@ -7262,6 +7262,17 @@ viagra-?(?:drugs|online|billig)
 \bsestosenso\.com\b
 \b888\.com\b
 \btanquesyblindados\.tk\b
+\bcanon1000d\.ru\b
+\bcanon1000dkit\.ru\b
+\bcanon50dbody\.ru\b
+\bcanon50dkit\.ru\b
+\bcanon5d\.ru\b
+\bcanon85is\.ru\b
+\bcanoneos40d\.ru\b
+\bcanoneos450d\.ru\b
+\bcanong10\.ru\b
+\bcanonsx10\.ru\b
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
