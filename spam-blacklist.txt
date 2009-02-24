@@ -7274,6 +7274,12 @@ viagra-?(?:drugs|online|billig)
 \bcanonsx10\.ru\b
 \bgreenpower\.com\.ua\b
 \buglezhog\.ru\b
+\bthermoscan\.in\.th\b
+\bnightvision\.in\.th\b
+\bvibration\.in\.th\b
+\binfraredtraining\.in\.th\b
+\binfrared\.in\.th\b
+\bsafety\.in\.th\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
