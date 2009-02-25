@@ -7280,6 +7280,7 @@ viagra-?(?:drugs|online|billig)
 \binfraredtraining\.in\.th\b
 \binfrared\.in\.th\b
 \bsafety\.in\.th\b
+\bbit\.ly\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
