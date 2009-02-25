@@ -7283,6 +7283,7 @@ viagra-?(?:drugs|online|billig)
 \bbit\.ly\b
 \bfilipina4u\.net\b
 \bghumlo\.com\b
+\bciill\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
