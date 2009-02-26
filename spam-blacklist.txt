@@ -87,7 +87,7 @@ show-your-pussy # (added by andre)
 # Added by UninvitedCompany 8/5/05
 -handys\.de 
 handy-(?:fun|kaufhaus)\.tk 
-
+t
 # Added by brion 2005-08-08
 \.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility.
 
@@ -100,32 +100,12 @@ viagra\.newmail\.ru
 about-travels\.host\.sk
 
 # Added by Yann on 25-8-2005 (from Meta)
-smartsearch\.name
-fanny-girls\.info
 hotsex\.free-pussy\.org
 
 # Annoying user on fr:
 \.etunisie\.net
 
-# Some nl spam links
-gensei-ryu\.nl
-
-# [[User:AlisonW|Alison Wheeler]] 22:13, 31 May 2006 (UTC)
-
-# Zenno\.info spam links
-shoesbuy\.com
-shoesshop\.biz
-
-# from zh
-28k8\.com
-\.8z\.cn
-\.reeds\.com\.cn
-
-# Raul's additions
-15ern\.com
-
 # from zh 
-\.6iuhecai\.com
 \.ltdcr\.(?:com|net|org|cn)
 \.hkccr\.org
 \.hkce\.(?:org|net)
@@ -135,18 +115,8 @@ shoesshop\.biz
 \.tradeinvests\.com
 \.ovecr\.cn
 \.bjicp\.com
-cnfibernet\.com\.cn
 \.tvsou\.com
 \.54163\.com
-
-#additions by Mindspillage
-
-#4 October 05
-\.coolhost\.biz
-
-#10 Oct 05
-\.hotweb\.pp\.ru
-\.webtech\.pp\.ru
 
 # Mar 05
 \.rockphiles\.com 
@@ -1432,7 +1402,7 @@ topozo\.org
 medbucks\.info
 techblog\.net\.ru
 \.dv8\.com
-shoes(?:ebuy|order)\.(?:com|biz)
+shoes(?:ebuy|order|shop)\.(?:com|biz)  # shoesshop added in Spam blacklist cleanup
 xoomer\.virgilio\.it/insurance*
 slsae\.org
 anzwers\.org
