@@ -7284,6 +7284,47 @@ viagra-?(?:drugs|online|billig)
 \bfilipina4u\.net\b
 \bghumlo\.com\b
 \bciill\.com\b
+\bad(?:-fortune|5(.bizad-fortune)?|onlyptc|qds|sbux|smaker|sneed|vertisingcentral)?\.(?:com|biz|us|org|net)\b
+\bal(?:ertpay|lcashmail|lyousubmitters|miyachts|tsurf|wayspay)\.com\b
+\b(?:bay|beany|cashn?|clone|neo|perfect|rocash|think|arab|hard|10)bux\.(?:com|org|to|info|cc\.co|net)\b
+\b(?:buxa?|euro|galore|junction|out)?\.(?:to|com|in)\b
+\bcash(?:-kitty|4all|4hits|eden|fiesta|nclicks|origin|out|pointclicks|posse|read|sea)\.(?:com|net|co\.cc)\b
+\b(?:bluerweb|beetr|bestfly|bgpay|bgpay|bigluck|bigpay|billiondollar|boa|bobo|boffopaid|borat|boss|camel|candy|casino|cannabis|cat|charm|chobits?|classical|click|coast|coast|color|compact|cookie|cooperative|copy|cloud|cosplay|cowboy|crab|cream|cy|aaa|agloco|american|apache|appealing|apple|appolo|arcane|arctic|atoms?|auction|bank|ban|bearshare|beauty|amigoe)-?mails?\.(?:com|net)\b
+\bclicks?-?(?:monkey|wizard|2earnmoney|4coins|buxx?|cent|evolution|fantasy|ingmoney4u|oly|4-cash|topsites|)?\.(?:biz|net|com)\b
+\b(?:class-act-|closet-|clover|coin|cover|crazy|sandra|)click(?:er)?s\.(?:com|info)\b
+\b(?:roudy|crazy-4-|crash-|catch-|beta-|a-n-|bug|banboo|babylon|aha|amity-|an-|cg)cash\.(?:com|us|info)\b
+\b5centminimum\.com\b
+\bannies-biz\.com\b
+\bans-advertising\.com\b
+\barab-gpt\.com\b
+\baradiasgarden\.com\b
+\barcsurvey\.com\b
+\barrowheadptr\.com\b
+\basonewishes\.com\b
+\bawsurveys\.com\b
+\bbeeptr\.com\b
+\bbest-hyip\.be\b
+\bbettybucks\.com\b
+\bbeyondemails\.com\b
+\bbigdollar-mails\.com\b
+\bbiggestdollars\.com\b
+\bbizbizs\.com\b
+\bbizsonline\.com\b
+\bblacklistptc\.blogspot\.com\b
+\bbluemaniacs\.com\b
+\bbondjamesbond\.net\b
+\bbournemouthbreeze\.com\b
+\bbravevolitation\.com\b
+\bbusinessptr\.com\b
+\bcan-discount\.com\b
+\bcat-ptr\.com\b
+\bcherokeeptr\.com\b
+\bchicago-ptr\.(?:biz|com)\b
+\bcosmicwealth\.com\b
+\bearn3\.com\b
+\begypt(?:post|ptc)\.org\b
+\bisabelmarco\.com\b
+\bp2cdaily\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
