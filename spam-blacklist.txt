@@ -7322,6 +7322,7 @@ viagra-?(?:drugs|online|billig)
 \bisabelmarco\.com\b
 \bp2cdaily\.com\b
 \bcropcirclesdatabase\.org\b
+\bfilipina4u\.proboards83\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
