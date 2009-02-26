@@ -5621,6 +5621,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \blarousse\.fr\/ref\/contrib\/Bouddhisme-et-Physique-quantique_11003609\.htm\b
 \bcientificosconscientes\.com\/cc\/articulos\/budismo_fisica\.html\b
 \blacoctelera.com\/kohl\/post\/2008\/06\/05\/budismo-y-fisica-cuantica
+\bbuddhachannel\.tv\/portail\/spip\.php\?article907\b
 # End CTKohl section
 \bcristinascabbia\.jino-net\.ru\b
 \bgaliza\.indymedia\.org\b
