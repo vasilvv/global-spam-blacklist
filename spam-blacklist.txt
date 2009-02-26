@@ -7283,7 +7283,7 @@ viagra-?(?:drugs|online|billig)
 \bad(?:-fortune|5(.bizad-fortune)?|onlyptc|qds|sbux|smaker|sneed|vertisingcentral)?\.(?:com|biz|us|org|net)\b
 \bal(?:ertpay|lcashmail|lyousubmitters|miyachts|tsurf|wayspay)\.com\b
 \b(?:bay|beany|cashn?|clone|neo|perfect|rocash|think|arab|hard|10)bux\.(?:com|org|to|info|cc\.co|net)\b
-\b(?:buxa?|euro|galore|junction|out)?\.(?:to|com|in)\b
+\b(?:buxa?|euro|galore|junction|out)\.(?:to|com|in)\b
 \bcash(?:-kitty|4all|4hits|eden|fiesta|nclicks|origin|out|pointclicks|posse|read|sea)\.(?:com|net|co\.cc)\b
 \b(?:bluerweb|beetr|bestfly|bgpay|bgpay|bigluck|bigpay|billiondollar|boa|bobo|boffopaid|borat|boss|camel|candy|casino|cannabis|cat|charm|chobits?|classical|click|coast|coast|color|compact|cookie|cooperative|copy|cloud|cosplay|cowboy|crab|cream|cy|aaa|agloco|american|apache|appealing|apple|appolo|arcane|arctic|atoms?|auction|bank|ban|bearshare|beauty|amigoe)-?mails?\.(?:com|net)\b
 \bclicks?-?(?:monkey|wizard|2earnmoney|4coins|buxx?|cent|evolution|fantasy|ingmoney4u|oly|4-cash|topsites|)?\.(?:biz|net|com)\b
