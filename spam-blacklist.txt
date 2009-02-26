@@ -2862,7 +2862,7 @@ chocolateplanet\.org
 coffee-guide\.us
 freesex\.com
 ipfeurope\.(?:eu|com|net|org)
-\.kreuz\.net
+\bkreuz\.net\b
 lunesta\.wz\.cz
 perso\.orange\.fr/jf\.dumousseaux
 smut\.com\b
