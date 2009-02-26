@@ -87,7 +87,7 @@ show-your-pussy # (added by andre)
 # Added by UninvitedCompany 8/5/05
 -handys\.de 
 handy-(?:fun|kaufhaus)\.tk 
-t
+
 # Added by brion 2005-08-08
 \.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility.
 
