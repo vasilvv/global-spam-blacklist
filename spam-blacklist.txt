@@ -7200,7 +7200,6 @@ viagra-?(?:drugs|online|billig)
 \balizeeclub\.ucoz\.ru\b
 \bzonemediafire\.tk\b
 \bkrabi\.info\b
-\bzlatni-bol\.com\b
 \bbaalart\.com\b
 \bxr\.com\b
 \bgrancanarias\.wordpress\.com\b
@@ -7218,7 +7217,6 @@ viagra-?(?:drugs|online|billig)
 \bchinatravelvip\.com\b
 \bhowtogold\.com\b
 \bacupuncture(?:-points)?\.medicalspecialists\.info\b
-\bbrogame\.com\b
 \bbuy-mmorpg-money\.com\b
 \bbuycd-key\.com\b
 \bcheap(?:-vanguard-gold|est4ffxigil|estwowgoldworld|wow-gold-us-eu)\.com\b
@@ -7237,7 +7235,6 @@ viagra-?(?:drugs|online|billig)
 \bhaomianfei\.com\b
 \bibuymils\.com\b
 \bidspire\.com\b
-\bitem4sale\.com\b
 \bmmorpg-currency-store\.com\b
 \bmygamestock\.com\b
 \bpurchasers2money\.com\b
@@ -7280,7 +7277,6 @@ viagra-?(?:drugs|online|billig)
 \binfraredtraining\.in\.th\b
 \binfrared\.in\.th\b
 \bsafety\.in\.th\b
-\bbit\.ly\b
 \bfilipina4u\.net\b
 \bghumlo\.com\b
 \bciill\.com\b
