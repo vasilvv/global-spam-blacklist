@@ -7238,6 +7238,7 @@ viagra-?(?:drugs|online|billig)
 \bfilipina4u\.proboards83\.com\b
 \bshrinktheweb\.com\b
 \bpaiagua\.com\b
+\bw3c-at\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
