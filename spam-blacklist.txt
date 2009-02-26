@@ -1894,7 +1894,6 @@ attapulgite\.org
 international-pharma\.com
 51crab\.com
 touchcn\.net
-\.click\.com\.es
 cmd365\.com
 sensmagnets\.com
 cnliandong\.com
@@ -1986,7 +1985,6 @@ sex-fu\.com
 geneostar\.com
 a--e\.com
 card-lottery\.org
-nikeshoesshop\.com
 nikesupplier\.com
 top-point\.net
 ukex\.net
@@ -7057,13 +7055,11 @@ viagra-?(?:drugs|online|billig)
 \bbereketnikahseker(?:i|leri)\.com\b
 \bhostclub\.tk\b
 \bbagrut\.org\b
-\bchinesevoice\.com\b
 \bclassicalhebrew(?:blog)?\.com\b
 \bjewish-greetings\.com\b
 \blearn-hebrew-names\.com\b
 \bmy-chinese-name\.com\b
 \bmy-christmas-card\.com\b 
-\bbagrut\.org\.il\b
 \bbible-name\.com\b
 \bchinese-character\.com\b
 \bchinesevoice\.co(?:m|\.il)\b
@@ -7160,12 +7156,10 @@ viagra-?(?:drugs|online|billig)
 \bidspire\.com\b
 \bmmorpg-currency-store\.com\b
 \bmygamestock\.com\b
-\bpurchasers2money\.com\b
-\bpurchaserunescapemoney\.com\b
+\bpurchaser(?:s2money|unescapemoney)\.com\b
 \brs(?:2moneystore|4sale)\.com\b
 \brunescape4gold\.com\b
 \bshoppingrs2\.com\b
-\buses-of-acupuncture\.medicalspecialists\.info\b
 \bvanguard-gold-sell\.com\b
 \bwatches\.realbeauty\.info\b
 \bwow(?:-paypal\.com|suibian\.com|game\.cn|china\.us)\b
