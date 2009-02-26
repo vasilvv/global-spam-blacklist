@@ -7325,6 +7325,7 @@ viagra-?(?:drugs|online|billig)
 \begypt(?:post|ptc)\.org\b
 \bisabelmarco\.com\b
 \bp2cdaily\.com\b
+\bcropcirclesdatabase\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
