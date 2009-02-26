@@ -7251,7 +7251,7 @@ viagra-?(?:drugs|online|billig)
 \bgame15\.tk
 \bbaixllobregat\.tv\b
 \bwalernov\.narod\.ru\b
-\mandalaseverler\.somee\.com\b
+\bmandalaseverler\.somee\.com\b
 \bscavidiercolanopompei\.jimdo\.com\b
 \bantitub\.com\b
 \bwedmi\.ru\b
