@@ -57,13 +57,10 @@ reuterbrook
 lazy-stars
 eblja
 liuhecai
-sexkanjer\.nl # sexspammer on nl (added by andre)
+\bsexkanjer\.nl # sexspammer on nl (added by andre)
 show-your-pussy # (added by andre)
-szilva96 # (crosswiki spammer, added by Nick1915)
 
 # Added by shizhao 7/4/05 to 7/9/05
-\b167bt\.com
-\bbitspirit\.com\.cn
 \btencent\.cc
 \b00856\.com
 
@@ -72,77 +69,32 @@ szilva96 # (crosswiki spammer, added by Nick1915)
 
 # Added by shizhao 7/19/05
 \bzggift\.com
-\bbuy214\.com
-\blmlqzs\.com
-\b7b\.net\.cn
 \b51flower\.cn
 \b1car\.cn
-\blmzg\.cn
-\b66guilin\.com
-\bmojw\.com
-\bzzhxsb\.com
 \bbjshunsui\.com
 \bqhycchina\.com
 \b9s6\.com
 \bfullmelon\.com
 \bxuemeipaper\.com
-\bsem\.org\.cn
-\becyy\.c(?:n|om)
 
 # Added by Andre Engels 7/20/05
 \bnerdcamp\.net
-\bduplo\.dnip\.net
-\bfunnydog\.prettyfar\.com
-\bzenno\.info
-\bshemtop\.bpa\.nu
-
-# Added by Raul654 7/26/05
-\bkqueue\.dnip\.net
 
 # Added by Datrio 8/4/05
 \bnonews\.ru
-\bmixmeteo\.ru
-\bsealse\.com
-\bserjen\.com
-\bes-standart\.com
 \bstatic\.net
 
 # Added by UninvitedCompany 8/5/05
 -handys\.de 
 handy-(?:fun|kaufhaus)\.tk 
-hostfuck\.com
 
 # Added by brion 2005-08-08
 \.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility.
 
-# Replacing overly broad once above - Andre Engels, 2005-08-09
+# Replacing overly broad ones above - Andre Engels, 2005-08-09
 \b(?:heavytools|spyware|carisoprodol|sexforfree)\.webzdarma\.cz\b
 viagra\.newmail\.ru
 (?:donewhere|olonline|spyware)\.bigsitecity\.com
-
-# Added by Andre Engels, 2005-08-09
-
-# German repeated spammers
-\.modz\.de
-viagra100\.(?:tk|net)
-
-# Japanese sex spammer
-aftar\.bpa\.nu
-crionica\.bpa\.nu
-streamings\.cable\.nu
-fectr\.dundeeleagues\.ca
-sherlok\.homes\.com\.au
-perfection\.prettyfar\.com
-whoisi\.whyza\.net
-
-# Added by UninvitedCompany, 8/10/2005
-all-hotels-motels\.com
-
-# Added by James F\., 2005\.vii\.21, as requested by CraigSpurrier
-21jewelry\.com
-mrjeweller\.us
-detox-kit\.com
-tests-market\.com
 
 # added by brion
 about-travels\.host\.sk
