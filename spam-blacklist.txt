@@ -7237,6 +7237,7 @@ viagra-?(?:drugs|online|billig)
 \blofoten\.info
 \bhadiseacikgoz\.net\b
 \bingsys\.com\.ua\b
+\bnigelkennedyonline\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
