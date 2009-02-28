@@ -7241,6 +7241,7 @@ viagra-?(?:drugs|online|billig)
 \bdonada\.it\.gg\b
 \bsexyemilie\.com\b
 \bhamspirit\.org\b
+\bpostrockxchange\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
