@@ -7216,6 +7216,7 @@ viagra-?(?:drugs|online|billig)
 \bmakarskainfo\.com\b
 \bvisinfo\.org\b
 \bikorculainfo\.com\b
+\bbracinfo\.com\b
 #End of Croatian tourism spammer
 ## sbhandler_end
 ## leave the above line as is
