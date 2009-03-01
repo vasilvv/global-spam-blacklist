@@ -7213,7 +7213,7 @@ viagra-?(?:drugs|online|billig)
 \bharz-unterkunft\.eu\b
 \bhvarinfo\.com\b
 \bmakarskainfo\.com\b
-\bvisinfo\.org\b
+\bbracinfo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
