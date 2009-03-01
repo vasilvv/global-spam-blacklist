@@ -7211,10 +7211,12 @@ viagra-?(?:drugs|online|billig)
 \bno2low\.com\b
 \bfortalezaapartments\.net\b
 \bharz-unterkunft\.eu\b
+#Croatian tourism-spammer
 \bhvarinfo\.com\b
 \bmakarskainfo\.com\b
 \bvisinfo\.org\b
 \bikorculainfo\.com\b
+#End of Croatian tourism spammer
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
