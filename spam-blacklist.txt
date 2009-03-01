@@ -7212,6 +7212,7 @@ viagra-?(?:drugs|online|billig)
 \bfortalezaapartments\.net\b
 \bharz-unterkunft\.eu\b
 \bhvarinfo\.com\b
+\bmakarskainfo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
