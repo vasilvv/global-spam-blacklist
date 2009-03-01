@@ -121,62 +121,25 @@ hotsex\.free-pussy\.org
 # Mar 05
 \.rockphiles\.com 
 \.omninerd\.com  # Do not remove\. See http://meta.wikimedia.org/wiki/Spam_blacklist/recurring_requests
-\.yadoo\.cn
 detoxiy\.com
 
 # Apr 06
-rx\.auto\.pl
-allgames4u\.net
-games\.az\.pl
 bestcardshop\.pushline\.com
-yourpharm\.t35\.com
-card1\.thor\.prohosting\.com
-1phone\.sky\.prohosting\.com
-car-insuranc\.hut1\.ru
-Boris9\.wyger\.nl
-carins\.earth\.prohosting\.com
-gambling\.wyger\.nl
-healthy\.wyger\.nl
-amafan\.snow\.prohosting\.com
-buyceleb\.wyger\.nl
-newvoy\.earth\.prohosting\.com
-buyhyd\.wyger\.nl
-00[23]biz\.tripod\.com
-003biz\.5u\.com
-004biz\.i8\.com
-yourpharm\.vstore\.ca
 
 # Jun 06
-inhunt\.com
 eaeaq\.info
-mrjht\.info
 
 #11 Jul 06 - bot spamming en.wp
-gallery\.angel-btvs\.co\.uk/include/cheapvalium
 clicnetwork\.com
-yszmpfpr\.com
-beemdqay\.com
 
 #17 Jul 06 - spamming en.wp
 \.at/aaoffers
 
-#25 Aug 06 - requested by Tawker
-\.heureka\.clara\.net
-
 #7 October 05 Hashar (spam on fr:)
 fuckfactor\.com
 
-#23 oct elian (spam on de)
-\.zap3x\.com
-hosting\.q4w\.net
-green-tea[0-9a-z-]*\.co\.nr
-
-# 19 november reported by amgine
-dralex\.info
-
 # Requested by Ta bu shi da yu, added by Tim Starling
 nastydollars\.com
-4t7e\.info
 
 # elian's
 
