@@ -7220,6 +7220,7 @@ viagra-?(?:drugs|online|billig)
 #End of Croatian tourism spammer
 \btrogirinfo\.com\b
 \bomisinfo\.com\b
+\bciovoinfo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
