@@ -7237,6 +7237,7 @@ viagra-?(?:drugs|online|billig)
 #End of Croatian tourism spammer
 \bklikhierniet\.net\b
 \bscaffolddesigns\.com\b
+\bvisualtarot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
