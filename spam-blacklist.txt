@@ -7241,6 +7241,7 @@ viagra-?(?:drugs|online|billig)
 \blunapark6\.com\b
 \bcadstudio\.ru\b
 \bcarhiredubrovnik\.com\b
+\b6starescort\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
