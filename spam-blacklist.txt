@@ -6036,7 +6036,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \b16885\.com\b
 \bchaosantiques\.com\b
 \btravelchinaplanner\.com\b
-
 \bbellisimasexshop\.com\b
 \bcinselticaret\.com\b
 \bgulyeri\.com\b
@@ -7238,6 +7237,8 @@ viagra-?(?:drugs|online|billig)
 \bklikhierniet\.net\b
 \bscaffolddesigns\.com\b
 \bvisualtarot\.com\b
+\basianmediawiki\.com\b
+\blunapark6\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
