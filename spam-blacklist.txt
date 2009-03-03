@@ -7244,6 +7244,7 @@ viagra-?(?:drugs|online|billig)
 \b6starescort\.blogspot\.com\b
 \b6-star-escort\.rare-escort\.com\b
 \beberhardfritz\.de\.tl\b
+\bventspils\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
