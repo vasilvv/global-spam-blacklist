@@ -7251,6 +7251,7 @@ ayahuascadistribution\.org
 \blaslomitasvirtual\.com\b
 \btigerdogskingdom\.com\b
 \bregression\.nl\b
+\bsvetlanov\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
