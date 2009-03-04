@@ -7249,6 +7249,7 @@ viagra-?(?:drugs|online|billig)
 \bharmonicafans\.com\b
 ayahuascadistribution\.org
 \blaslomitasvirtual\.com\b
+\btigerdogskingdom\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
