@@ -7254,6 +7254,7 @@ ayahuascadistribution\.org
 \bsvetlanov\.ru\b
 \bslovenia\.mons\.hr\b
 \bcredit-calc\.com\b
+\bmichel-vaillant-fan\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
