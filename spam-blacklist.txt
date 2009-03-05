@@ -7253,6 +7253,7 @@ ayahuascadistribution\.org
 \bregression\.nl\b
 \bsvetlanov\.ru\b
 \bslovenia\.mons\.hr\b
+\bcredit-calc\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
