@@ -7255,6 +7255,8 @@ ayahuascadistribution\.org
 \bmons\.hr\b
 \bcredit-calc\.com\b
 \bmichel-vaillant-fan\.it\b
+\bgoogle\.(?:com|(?:com\.)?[a-z]{2})/.*[?&]btnl=1
+\b(?:lmgtfy|letmegooglethatforyou)\.com.*[?&]l=1
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
