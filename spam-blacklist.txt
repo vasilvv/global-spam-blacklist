@@ -7252,7 +7252,7 @@ ayahuascadistribution\.org
 \btigerdogskingdom\.com\b
 \bregression\.nl\b
 \bsvetlanov\.ru\b
-\bslovenia\.mons\.hr\b
+\bmons\.hr\b
 \bcredit-calc\.com\b
 \bmichel-vaillant-fan\.it\b
 ## sbhandler_end
