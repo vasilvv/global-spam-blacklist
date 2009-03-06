@@ -7259,6 +7259,7 @@ ayahuascadistribution\.org
 \bhacibektas\.de\b
 \bkaracaahmet\.com\b
 \balevi\.com\b
+\bgeminimanagementnv\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
