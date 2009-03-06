@@ -7263,6 +7263,7 @@ ayahuascadistribution\.org
 \b4images\.gen\.tr\b
 \bpublic-domain-image\.com\b
 \bgrantorinoteam\.blogspot\.com\b
+\balovize\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
