@@ -7256,6 +7256,9 @@ ayahuascadistribution\.org
 \bcredit-calc\.com\b
 \bgoogle\.(?:com|(?:com\.)?[a-z]{2})/.*[?&]btnl=1
 \b(?:lmgtfy|letmegooglethatforyou)\.com.*[?&]l=1
+\bhacibektas\.de\b
+\bkaracaahmet\.com\b
+\balevi\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
