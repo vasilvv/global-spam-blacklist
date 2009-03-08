@@ -145,50 +145,21 @@ nastydollars\.com
 
 # dec 05
 \.cyberthug\.de
-\.g155\.info
-
-# 10th april 06, persistent spammer on de
-dinge-ohne-namen\.de
-
-# Repeating spammer on many projects
-\.010b\.info
-
-# dec 10, spammer on en requested by\. zigger
-\.e16\.info
-
 # Amgine's
-justlovexx\.net
-4ljd\.info
-pills-pharmacy\.be
-98\.to # Hégésippe's list
-\.us\.ma\b
+\b98\.to # Hégésippe's list
 \.be\.ma\b
 1stOK\.com
 3xforum\.ro
-servik\.com
-90d7\.info
+\bservik\.com
 executiveshuttleservice\.com
-dir\.fasthoster\.de
-joke34\.info
-4wj6\.info
-\.ChezBrandon\.com
-searchyourporn\.info
-adult-area\.info
 \.girls\.info #disabled by Naconkantari - re-instated with dot in front by Andre Engels
-sprot2\.com
 efl-law\.com
 myflooring\.org
-scmantraffic\.com
 efl-law\.org
-guitar-poll\.com
-konecco\.com
-supergirls4\.tripod\.com
-English\.51hc\.com
-denwa\.omiki\.com
+\bkonecco\.com
+\b51hc\.(?:com|net)
 \.365igo\.cn
-\.51ebiz\.net
 \.8009999008\.com
-\.bamboo-veneer\.net
 \.bj-huayang\.com
 \.bjyhtf\.com
 \.cato\.co\.jp
