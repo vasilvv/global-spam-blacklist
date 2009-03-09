@@ -7240,6 +7240,7 @@ ayahuascadistribution\.org
 \bvirginiacuellar\.spaces\.live\.com\b
 \.kproxy\.com\b
 \bsilav\.net\b
+\btinyarro\.ws\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
