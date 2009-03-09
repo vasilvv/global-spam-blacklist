@@ -7241,6 +7241,7 @@ ayahuascadistribution\.org
 \.kproxy\.com\b
 \bsilav\.net\b
 \btinyarro\.ws\b
+\bkiyipansiyon\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
