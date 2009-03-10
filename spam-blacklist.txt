@@ -7246,6 +7246,8 @@ ayahuascadistribution\.org
 \brealultimatepower\.net\b
 xxxxxx\/
 \bpresaleswiki\.com\b
+\b7p-e\.com\b
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
