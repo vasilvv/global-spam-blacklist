@@ -7248,6 +7248,7 @@ xxxxxx/
 \b7p-e\.com\b
 \b(?:good|very|goin|demo|auto)\.to\b
 \b(?:hit|just|key|forever)\.as\b
+\btestmasters\.net\b
 
 ## sbhandler_end
 ## leave the above line as is
