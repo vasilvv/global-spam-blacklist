@@ -7243,6 +7243,7 @@ ayahuascadistribution\.org
 \btinyarro\.ws\b
 \bkiyipansiyon\.com\b
 \bsilvento\.kiev\.ua\b
+\brealultimatepower\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
