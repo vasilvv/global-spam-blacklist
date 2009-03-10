@@ -7258,6 +7258,37 @@ xxxxxx/
 \brossgarnaut\.com\b
 \bworldrecession\.org\b
 \blivetribun\.com\b
+\ba-to-z-artists\.blogspot\.com\b
+\baquitaine\.wikidot\.com\b
+\bartists\.wikidot\.com\b
+\bauvergne\.wikidot\.com\b
+\bbirmingham\.wikidot\.com\b
+\bbretagne\.wikidot\.com\b
+\bbristol\.wikidot\.com\b
+\bbrittany\.wikidot\.com\b
+\bburgundy\.wikidot\.com\b
+\bcentre\.wikidot\.com\b
+\bcharente\.wikidot\.com\b
+\bdevon\.wikidot\.com\b
+\bdordogne\.wikidot\.com\b
+\bdorset\.wikidot\.com\b
+\bfrench-property\.wikidot\.com\b
+\bgeoff-bunn\.wikidot\.com\b
+\bgloucestershire\.wikidot\.com\b
+\bherefordshire\.wikidot\.com\b
+\blanguedoc\.wikidot\.com\b
+\blimousin\.wikidot\.com\b
+\bloire\.wikidot\.com\b
+\bmidi-pyrenees\.wikidot\.com\b
+\bnormandy\.wikidot\.com\b
+\boxford\.wikidot\.com\b
+\bpays-de-la-loire\.wikidot\.com\b
+\bpoitou-charentes\.wikidot\.com\b
+\bshropshire\.wikidot\.com\b
+\bsomerset\.wikidot\.com\b
+\bval-de-loire\.wikidot\.com\b
+\bwiltshire\.wikidot\.com\b
+\bworcester\.wikidot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
