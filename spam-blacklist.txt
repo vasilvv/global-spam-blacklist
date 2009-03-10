@@ -7249,7 +7249,14 @@ xxxxxx/
 \b(?:good|very|goin|demo|auto)\.to\b
 \b(?:hit|just|key|forever)\.as\b
 \btestmasters\.net\b
-
+\bkerryshine\.com\b
+\bjudyspence\.com\b
+\bjuliagillard\.org\b
+\bpetergarrett\.org\b
+\bliberalnationalparty\.org\b
+\blaborparty\.info\b
+\brossgarnaut\.com\b
+\bworldrecession\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
