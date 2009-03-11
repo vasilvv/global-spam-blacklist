@@ -7289,6 +7289,30 @@ xxxxxx/
 \bval-de-loire\.wikidot\.com\b
 \bwiltshire\.wikidot\.com\b
 \bworcester\.wikidot\.com\b
+\baustralianpoliticians\.com\b
+\baustraliancorruption\.com\b
+\baustralianpolice\.net\b
+\baustraliazoo\.us\b
+\bbindiirwin\.name\b
+\bcavingaustralia\.org\b
+\bdavidtennant\.org\b
+\bdivingaustralia\.org\b
+\bhangglidingaustralia\.org\b
+\bhelenclark\.org\b
+\bjimmywales\.net\b
+\bjimmywales\.org\b
+\bjodhimeares\.com\b
+\bkevinmichaelrudd\.com\b
+\bkevinruddmyspace\.com\b
+\bkylieannminogue\.com\b
+\blegalisemarijuanaparty\.com\b
+\bliberalnationalparty\.com\b
+\bmyspace\.com/universedaily\b
+\bnataliebassingthwaighte\.org\b
+\bnewdrwho\.com\b
+\bnewgallifrey\.com\b
+\bstevenmoffat\.org\b
+\bterriirwin\.name\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
