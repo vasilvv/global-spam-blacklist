@@ -7313,6 +7313,7 @@ xxxxxx/
 \bnewgallifrey\.com\b
 \bstevenmoffat\.org\b
 \bterriirwin\.name\b
+\bprojectorlampsworld\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
