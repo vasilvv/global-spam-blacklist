@@ -7315,7 +7315,7 @@ xxxxxx/
 \bterriirwin\.name\b
 \bprojectorlampsworld\.com\b
 \bkayit\.co\.cc\b
-\bsandoftime-mv\.ucoz\.ru\b
+\b(?:sandoftime|rare)-mv\.(?:ucoz|narod)\.ru\b
 \bevrekaegitim\.com\b
 \bjaponcakonus\.com\b
 \berciyesgazetesi\.com\b
