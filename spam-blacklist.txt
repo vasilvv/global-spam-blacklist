@@ -7316,6 +7316,7 @@ xxxxxx/
 \balbelda\.info\b
 \barm\.in\b
 \broyalhouseofportugal\.org\b
+\bchat\.com\.tr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
