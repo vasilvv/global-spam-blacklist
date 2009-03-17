@@ -7318,6 +7318,46 @@ xxxxxx/
 \broyalhouseofportugal\.org\b
 \bchat\.com\.tr\b
 \botagyorukcadirlari\.com\b
+\bfinance\.asia\b
+\bag0ga\.com\b
+\barticleiq\.com\b
+\bbeijingrealestate\.eu\b
+\bcentralasianews\.eu\b
+\bdiamonds\.uz\b
+\beurasianews\.eu\b
+\bfainvestment\.com\b
+\bfinancing\.asia\b
+\bhotelnikko\.com\b
+\binsure\.asia\b
+\blonelyplanet\.org\b
+\bmytyshi\.co\b
+\boption\.us\b
+\brefinance\.mobi\b
+\bsatte\.com\b
+\btaliban\.asia\b
+\btext\.asia\b
+\btours\.asia\b
+\bunicycletrials\.com\b
+\buzairways\.eu\b
+\buzbekistanairways\.eu\b
+\bvip\.asia\b
+\bvisitbhutan\.asia\b
+\bvisitbombay\.info\b
+\bvisitcambodia\.asia\b
+\bvisitcentralasia\.eu\b
+\bvisitchina\.asia\b
+\bvisitchina\.asia\b
+\bvisitchristmasisland\.asia\b
+\bvisitcocosislands\.asia\b
+\bvisitcyprus\.asia\b
+\bvisitindia\.asia\b
+\bvisitkiev\.eu\b
+\bvisitkyrgyzstan\.eu\b
+\bvisitmalaysia\.asia\b
+\bvisitturkmenistan\.eu\b
+\bvisituzbekistan\.asia\b
+\bvisituzbekistan\.eu\b
+\bvisitworld\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
