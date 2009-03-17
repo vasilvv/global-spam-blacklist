@@ -7317,6 +7317,7 @@ xxxxxx/
 \barm\.in\b
 \broyalhouseofportugal\.org\b
 \bchat\.com\.tr\b
+\botagyorukcadirlari\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
