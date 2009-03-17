@@ -7363,6 +7363,7 @@ xxxxxx/
 \bzhoroscop\.hi5\.com\b
 \bnonameno\.com\b
 \bwissensbilanz\.ch\b
+\blarafabiannews\.kit\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
