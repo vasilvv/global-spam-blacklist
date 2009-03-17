@@ -7358,6 +7358,9 @@ xxxxxx/
 \bvisituzbekistan\.asia\b
 \bvisituzbekistan\.eu\b
 \bvisitworld\.info\b
+\bmyspace\.com/zhoroscop\b
+\besnips\.com/zhoroscop\b
+\bzhoroscop\.hi5\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
