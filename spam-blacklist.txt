@@ -7380,6 +7380,11 @@ xxxxxx/
 \bidiomfox\.com\b
 \bfrmcix\.com\b
 \bshadyrunstudios\.tripod\.com\b
+\bin-grid\.com\.pl\b 
+\bmorandi\.one.pl\b
+\bcascada\.xt\.pl\b
+\bingrid\.wot\.pl\b
+\bin-grid\.xt\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
