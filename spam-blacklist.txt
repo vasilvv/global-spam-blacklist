@@ -6119,7 +6119,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bmemurl\.com\b
 \bix\.lt\b
 \bturo\.us\b
-\bx\.se\b
 \bfreeitsolutions\.com\b
 \bnederlandnieuws\.nl\b
 \bforeignelegion\.blogspot\.com\b
@@ -7464,6 +7463,7 @@ xxxxxx/
 \bavsam\.com\.tr\b
 \bavsaadasi\.gen\.tr\b 
 \bzoodl\.com\b
+\bwww\.x\.se\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
