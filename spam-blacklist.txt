@@ -7442,6 +7442,23 @@ xxxxxx/
 \bwebsaopaulo\.com\b
 \bwebtaubate\.com\b
 \bnutshellurl\.com\b
+\bcjb\.net\b
+\buni\.cc\b
+\brg3\.net\b
+\bvai\.la\b
+\bk6\.com\.br\b
+\bs9k\.net\b
+\bv3\.com\b
+\bcab8\.net\b
+\brg9\.org\b
+\brg9\.net\b
+\brg10\.net\b
+\bbr30\.com\b
+\besmiweb\.com\b
+\bmidominiogratis\.com\b
+\b1br\.net\b
+\bsitio\.de\b
+\bclic3\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
