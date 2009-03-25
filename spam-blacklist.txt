@@ -7635,6 +7635,9 @@ xxxxxx/
 \bfilminformation\.blogspot\.com\b
 \bilook\.tw\b
 \bvisit-london\.eu\b
+\bw3t\.org\b
+\balturl\.com\b
+\shorturl\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
