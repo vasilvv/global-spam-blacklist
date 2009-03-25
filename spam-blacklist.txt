@@ -7634,6 +7634,7 @@ xxxxxx/
 \banti-virus-trojan-worm\.com\b
 \bfilminformation\.blogspot\.com\b
 \bilook\.tw\b
+\bvisit-london\.eu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
