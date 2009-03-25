@@ -7633,7 +7633,6 @@ xxxxxx/
 \beasyurl\.net\b
 \banti-virus-trojan-worm\.com\b
 \bfilminformation\.blogspot\.com\b
-\bjurassicpunk\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
