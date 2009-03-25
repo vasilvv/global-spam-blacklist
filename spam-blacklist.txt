@@ -7626,6 +7626,7 @@ xxxxxx/
 \bwikiaction\.com\b
 \bwondering\.tv\b
 \byalta\.asia\.com\b
+\bindustrialstrengthstaging\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
