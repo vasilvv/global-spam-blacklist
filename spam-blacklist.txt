@@ -7630,6 +7630,7 @@ xxxxxx/
 \bgbcattani\.com\b
 \bespadrilles\.ca\b  
 \bespadrillesdistribution\.com\b
+\beasyurl\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
