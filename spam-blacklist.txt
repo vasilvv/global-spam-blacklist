@@ -7638,6 +7638,17 @@ xxxxxx/
 \bw3t\.org\b
 \balturl\.com\b
 \shorturl\.com\b
+\brussianworld\.com\.au\b
+\bweatherpage\.co\.nz\b
+\bweatherpage\.com\.au\b
+\btripleme\.com\b
+\brussianworld\.co\.nz\b
+\bonlybest\.com\.au\b
+\bnewpeoplefinder\.com\b
+\brussiannewzealand\.com\b
+\bantratel\.com\b
+\btriplemecom\.blogspot\.com\b
+\bpeopleschocolate\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
