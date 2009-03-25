@@ -7656,6 +7656,7 @@ xxxxxx/
 \bgrey-falcon\.com\b
 \baxebet\.com\b   
 \bsanyaweb\.com\b
+\bmundo-ocio\.es\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
