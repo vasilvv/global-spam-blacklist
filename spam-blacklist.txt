@@ -7658,6 +7658,7 @@ xxxxxx/
 \bsanyaweb\.com\b
 \bmundo-ocio\.es\b
 \bputin\.ru\b
+\bxurl\.jp\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
