@@ -7661,6 +7661,7 @@ xxxxxx/
 \bxurl\.jp\b
 \bcloakedlink\.com\b
 \bmillesabords\.net\b
+\btharmada\.net\b  
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
