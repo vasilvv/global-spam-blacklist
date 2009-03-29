@@ -7664,6 +7664,7 @@ xxxxxx/
 \btharmada\.net\b
 \bmihaisora\.eu\b
 \bquran\.waraqat\.net\b
+\brs2pl\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
