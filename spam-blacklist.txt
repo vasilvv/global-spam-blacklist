@@ -7666,6 +7666,7 @@ xxxxxx/
 \bquran\.waraqat\.net\b
 \brs2pl\.com\b
 \bnelioguerson\.palcomp3\.com\.br\b
+\bmyspace\.com/fantomenk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
