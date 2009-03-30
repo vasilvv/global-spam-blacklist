@@ -7671,6 +7671,8 @@ xxxxxx/
 \barb7b\.com\b
 \bvente-privee\.com/vp4/Registration/Registration\.aspx\?
 \bmistureca\.blogspot\.com\b
+\bgivemeknol\.com\b
+\bmaxreading\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
