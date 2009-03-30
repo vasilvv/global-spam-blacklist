@@ -7669,6 +7669,7 @@ xxxxxx/
 \bmyspace\.com/fantomenk\b
 \b5alej\.com\b
 \barb7b\.com\b
+\bvente-privee\.com/vp4/Registration/Registration\.aspx\?
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
