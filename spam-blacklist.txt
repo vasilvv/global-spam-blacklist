@@ -7681,6 +7681,12 @@ xxxxxx/
 \blitlurl\.net\b
 \bbozkir\.com\b
 \b1classical\.com\b
+\bcomoj\.com\b
+\bmoushumy\.tk\b
+\bmoushumy\.co\.cc\b
+\bpsychology\.tk\b
+\bpayel\.tk\b
+\bazpayel\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
