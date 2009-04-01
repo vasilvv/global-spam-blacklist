@@ -7676,6 +7676,7 @@ xxxxxx/
 \btrucchi-e-consigli-msn\.spaces\.live\.com\b
 \bphilatino\.com\b
 \bspeechcorrector\.org\b
+\basuka-team\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
