@@ -7687,6 +7687,7 @@ xxxxxx/
 \bpsychology\.tk\b
 \bpayel\.tk\b
 \bazpayel\.blogspot\.com\b
+\bmircd\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
