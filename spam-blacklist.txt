@@ -7688,6 +7688,7 @@ xxxxxx/
 \bpayel\.tk\b
 \bazpayel\.blogspot\.com\b
 \bmircd\.org\b
+\bplagecorse\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
