@@ -7691,6 +7691,7 @@ xxxxxx/
 \bplagecorse\.com\b
 \bgamewatch\.com\.es\b
 \bmigre\.me\b
+\bcabinas\.net\b 
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
