@@ -7699,6 +7699,7 @@ xxxxxx/
 \bgoldengate\.w2c\.in\b
 \bsatelliteview\.org\b
 \bsecure-x-001\.net\b
+\bpornoxo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
