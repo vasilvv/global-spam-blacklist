@@ -7701,6 +7701,7 @@ xxxxxx/
 \bsecure-x-001\.net\b
 \bpornoxo\.com\b
 \bladonia\.net\b
+\bcyborg009\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
