@@ -7704,6 +7704,7 @@ xxxxxx/
 \babbr\.com\b
 \babe5\.com\b
 \bgospelhearts\.synthasite\.com\b
+\bbusty\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
