@@ -7724,6 +7724,7 @@ xxxxxx/
 \bpageditorpro\.com\b
 \bsiremfc\.marlito\.com\b
 \bkaspersky-key\.net\b
+\bspikey\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
