@@ -7729,6 +7729,7 @@ xxxxxx/
 \beuropeopen\.org\.uk\b
 \bgraffiti\.cs\.brown\.edu\b
 \baekition\.blogspot\.com\b
+\bsufifinder\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
