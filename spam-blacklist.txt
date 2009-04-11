@@ -7727,6 +7727,7 @@ xxxxxx/
 \bspikey\.com\b
 \blearningrussian\.net\b
 \beuropeopen\.org\.uk\b
+\bgraffiti\.cs\.brown\.edu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
