@@ -7743,6 +7743,8 @@ xxxxxx/
 \bjimmywales\.(?:info|org|net)\b
 \b(?:jimmywales|projectorion)\.proboards\.com\b
 \bbindiirwin\.com\b
+\bnataliebassingthwaighte\.(?:net|org)\b
+\b(?:vickydarling|jeffseeney|andrewcripps|john-paullangbroek|howardhobbs)\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
