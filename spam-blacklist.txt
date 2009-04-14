@@ -3859,6 +3859,7 @@ traditio[\.．]ru
 \bsigord\.blogfa\.com\b
 \bpargatravel\.eu\b
 \bdlel\.2s2s\.com
+\bwikipedia\.un\.mythe\.over-blog\.com\b
 \btourismindochina\.com\b
 \bpassioncambodia\.com\b
 \bbayontours\.com\b
