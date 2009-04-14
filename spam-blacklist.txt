@@ -7745,6 +7745,10 @@ xxxxxx/
 \bbindiirwin\.com\b
 \bnataliebassingthwaighte\.(?:net|org)\b
 \b(?:vickydarling|jeffseeney|andrewcripps|john-paullangbroek|howardhobbs)\.com\b
+\bhugeurl\.com\b
+\bfreakinghugeurl\.com\b
+\bfacebook\.com\/l\.php\b
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
