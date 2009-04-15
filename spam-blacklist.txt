@@ -7753,6 +7753,7 @@ xxxxxx/
 \bco\.cc\b
 \bmybrute\.com\b
 \bmybrutehacks\.forumotion\.com\b
+\balbumfototrenes\.idohost\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
