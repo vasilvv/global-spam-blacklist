@@ -7751,6 +7751,7 @@ xxxxxx/
 \bfacebook\.com\/l\.php\b
 
 \btangodans\.com\b
+\bco\.cc\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
