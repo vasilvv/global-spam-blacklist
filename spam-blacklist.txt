@@ -7749,9 +7749,10 @@ xxxxxx/
 \bhugeurl\.com\b
 \bfreakinghugeurl\.com\b
 \bfacebook\.com\/l\.php\b
-
 \btangodans\.com\b
 \bco\.cc\b
+\bmybrute\.com\b
+\bmybrutehacks\.forumotion\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
