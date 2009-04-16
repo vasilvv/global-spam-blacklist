@@ -7756,6 +7756,7 @@ xxxxxx/
 \balbumfototrenes\.idohost\.com\b
 \bpfx\.me\b
 \blemonparty\.org\b
+\bcasareal\.co\.pt\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
