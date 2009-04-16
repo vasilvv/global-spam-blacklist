@@ -7757,6 +7757,7 @@ xxxxxx/
 \bpfx\.me\b
 \blemonparty\.org\b
 \bcasareal\.co\.pt\b
+\bartists-home\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
