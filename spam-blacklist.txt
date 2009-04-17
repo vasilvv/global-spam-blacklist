@@ -2716,7 +2716,7 @@ ipfeurope\.(?:eu|com|net|org)
 \bkreuz\.net\b
 lunesta\.wz\.cz
 perso\.orange\.fr/jf\.dumousseaux
-smut\.com\b
+\bsmut\.com\b
 teainfo\.org
 \.to\.pl
 toporol\.be
