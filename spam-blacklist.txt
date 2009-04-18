@@ -7768,6 +7768,7 @@ xxxxxx/
 \bn-spaers\.ru\b
 \blytdybr\.com\.ua\b
 \b250\.org\.ua\b
+\bmobiletinyurl\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
