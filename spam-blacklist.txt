@@ -7774,6 +7774,7 @@ xxxxxx/
 \beczema-treatment\.biz\b
 \bslki\.ru\b
 \btopleveltour\.com\b
+\bjusticeleague\.org\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
