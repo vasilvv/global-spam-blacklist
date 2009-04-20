@@ -7775,6 +7775,7 @@ xxxxxx/
 \bslki\.ru\b
 \btopleveltour\.com\b
 \bjusticeleague\.org\.ru\b
+\bcityrock\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
