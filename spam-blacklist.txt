@@ -645,7 +645,6 @@ xxx-posed\.com
 \.zap\.to
 \.zip\.to
 \bzuso\.tw
-\bhugeurl\.com\b
 \belfurl\.com
 \bdoiop\.com
 \b301url\.com
