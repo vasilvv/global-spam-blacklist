@@ -7789,6 +7789,7 @@ xxxxxx/
 \bpamukkale\.org\.tr\b
 \bblogdealbergaria\.blogspot\.com\b
 \bcalgaryflames\.ru\b
+\bcoloradoavalanche\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
