@@ -7778,6 +7778,14 @@ xxxxxx/
 \bbonsai-search-engine\.com\b
 \bkohtao\.name\b\b(?:anaheimducks.ru|bluejackets.ru|bruins.ru|buffalosabres.ru|calgaryflames.ru|chicagoblackhawks.ru|coloradoavalanche.ru|dallasstars.ru|detroitredwings.ru|edmonton-oilers.ru|floridapanthers.ru|hurricanes.ru|mapleleafs.ru|minnesotawild.ru|montreal-canadiens.ru|newjerseydevils.ru|newyorkislanders.ru|newyorkrangers.ru|ottawasenators.ru|philadelphia-flyers.ru|pittsburghpenguins.ru|tampabay.ru|tampabaylightning.ru|thrashers.ru|vancouvercanucks.ru|washingtoncapitals.ru)\.ru\b
 \bskatel-1chezone\.blogspot\.com\b
+\bshoes007\.com\b
+\b365165\.net\b
+\btrade-leads-directory\.com\b
+\bstonec2c\.cn\b
+\bzhangxiaohe\.org\b
+\bkaoyao\.net\b
+\bforepak\.com\b
+\bzhangxiaohe\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
