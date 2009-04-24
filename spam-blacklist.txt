@@ -7797,6 +7797,7 @@ xxxxxx/
 \bliveshow-tv\.com\b
 \bpatagonianexpeditionrace\.com\b
 \blexpressio\.wordpress\.com\b
+\bnesvizh\.by\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
