@@ -7815,6 +7815,7 @@ xxxxxx/
 \bifniville\.com\b
 \bholidays-in-alicante-spain\.com\b
 \bhipalgarve\.net\b
+\bsee-business\.biz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
