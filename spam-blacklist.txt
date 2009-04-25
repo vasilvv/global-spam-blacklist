@@ -7800,6 +7800,7 @@ xxxxxx/
 \bnesvizh\.by\b
 \bmcar\.ru\b
 \bfashionistas\.me\b
+\bfashionistas\.cc\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
