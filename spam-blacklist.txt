@@ -7809,6 +7809,7 @@ xxxxxx/
 \bgolfschmooze\.com\b
 \bsanjivkhullar\.blogspot\.com\b
 \bfilmfans\.cc\b
+\bs3\.gladiatus\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
