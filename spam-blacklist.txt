@@ -7818,6 +7818,7 @@ xxxxxx/
 \bsee-business\.biz\b
 \bseemacau\.blogspot\.com\b
 \bseemacaunow\.com\b
+\bxn--spermario-q9a\.com\n
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
