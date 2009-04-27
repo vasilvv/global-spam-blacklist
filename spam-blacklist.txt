@@ -7816,6 +7816,7 @@ xxxxxx/
 \bholidays-in-alicante-spain\.com\b
 \bhipalgarve\.net\b
 \bsee-business\.biz\b
+\bseemacau\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
