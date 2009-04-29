@@ -7820,6 +7820,8 @@ xxxxxx/
 \bseemacaunow\.com\b
 \bxn--spermario-q9a\.com\b
 \bbonsaici\.com\b
+\bnodet\.us\b  
+\bgoogland\.blogsky\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
