@@ -7826,6 +7826,11 @@ xxxxxx/
 \bstoppuhr-online\.de\b
 mongolische-jurten\.de
 \baznvidz\.com\b
+\barabgfx\.com\b
+\bthe-jordan\.com\b
+\bpho2o\.net\b
+\bmanutdarb\.com\b
+\bjp4h\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
