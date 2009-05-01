@@ -7824,6 +7824,7 @@ xxxxxx/
 \bgoogland\.blogsky\.com\b
 \bdickensurl\.com\b
 \bstoppuhr-online\.de\b
+mongolische-jurten\.de
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
