@@ -7843,6 +7843,11 @@ mongolische-jurten\.de
 \bmapsofbalkan\.com\b
 \bstihi-xix-xx-vekov\.ru\b
 \biltwistacapri\.blogspot\.com\b
+\bhowtofriends\.com\b
+\bgeocities\.com\/yogafull\b
+\btiny-url\.org\b
+\bcapacitorx\.com\b
+\belectronicspal\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
