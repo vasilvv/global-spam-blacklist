@@ -7848,6 +7848,8 @@ mongolische-jurten\.de
 \btiny-url\.org\b
 \bcapacitorx\.com\b
 \belectronicspal\.com\b
+\bguide-to-slovenia\.com\b
+\bformalid\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
