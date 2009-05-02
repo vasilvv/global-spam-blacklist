@@ -7851,6 +7851,16 @@ mongolische-jurten\.de
 \bguide-to-slovenia\.com\b
 \bformalid\.com\b
 \bapartments\.com\.ua\b
+\beast-women\.com\b
+\bkiev-apartments\.com\.ua\b
+\bkiev-service\.com\.ua\b
+\bukraine-girls\.kiev\.ua\b
+\bukraine-travel\.kiev\.ua\b
+\bedem-club\.kiev\.ua\b
+\bedem-club\.net\b
+\bkiev-apartments-rent\.com\b
+\bukrainian-girl\.com\b
+\bwomen\.kiev\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
