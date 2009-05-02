@@ -7850,6 +7850,7 @@ mongolische-jurten\.de
 \belectronicspal\.com\b
 \bguide-to-slovenia\.com\b
 \bformalid\.com\b
+\bapartments\.com\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
