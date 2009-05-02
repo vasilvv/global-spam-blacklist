@@ -7837,6 +7837,7 @@ mongolische-jurten\.de
 \bkozouh\.s7\.x-beat\.com\b
 \bin-tasmania\.com\b
 \bzapadnetatry\.com\b
+\berasmusproject\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
