@@ -7841,6 +7841,7 @@ mongolische-jurten\.de
 \berasmusinfo\.net\b
 \bchaganava\.com\b  
 \bmapsofbalkan\.com\b
+\bstihi-xix-xx-vekov\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
