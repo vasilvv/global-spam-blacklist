@@ -7861,6 +7861,8 @@ mongolische-jurten\.de
 \bkiev-apartments-rent\.com\b
 \bukrainian-girl\.com\b
 \bwomen\.kiev\.ua\b
+\bfreeecardgreeting\.net\b
+\becarddesignanimation\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
