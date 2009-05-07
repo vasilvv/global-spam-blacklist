@@ -7865,6 +7865,7 @@ mongolische-jurten\.de
 \becarddesignanimation\.com\b
 \bmyfasturl\.com\b
 \bcatalogocelular\.com\b
+\badf\.ly\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
