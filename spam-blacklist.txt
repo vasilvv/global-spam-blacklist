@@ -7868,6 +7868,7 @@ mongolische-jurten\.de
 \badf\.ly\b
 \bterminatorsalvationfig\.com\b
 \bkatherinemoennigturkey\.com\b
+\belbruto\.es\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
