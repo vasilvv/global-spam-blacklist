@@ -7873,6 +7873,8 @@ mongolische-jurten\.de
 \bguerrastribales\.es\b
 \btribalwars\.com\b
 \brasora\.com\b
+\btorahforever\.net\b
+\bevileyescurses\.wordpress\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
