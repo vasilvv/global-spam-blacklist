@@ -7877,6 +7877,7 @@ mongolische-jurten\.de
 \bevileyescurses\.wordpress\.com\b
 \binugg\.co\.uk\b
 \bcomercialuruapan\.com\b
+\bbitly\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
