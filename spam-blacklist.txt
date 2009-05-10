@@ -7875,6 +7875,7 @@ mongolische-jurten\.de
 \brasora\.com\b
 \btorahforever\.net\b
 \bevileyescurses\.wordpress\.com\b
+\binugg\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
