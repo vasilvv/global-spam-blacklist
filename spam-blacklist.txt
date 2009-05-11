@@ -7881,6 +7881,46 @@ mongolische-jurten\.de
 \bdawsons\.narod\.ru\b
 \bwaynerobertsmith\.com\b
 \bparalleluniverses\.net\b
+\badventureaustralia\.org\b
+\baquaticapetheory\.com\b
+\baquaticapetheory\.info\b
+\baustralianrecession\.com\b
+\baustraliazoo\.name\b
+\bbautboard\.com\b
+\bbautforum\.info\b
+\bbautforum\.net\b
+\bclimbingaustralia\.org\b
+\bfuturestarships\.com\b
+\bgaryspence\.com\b
+\bgreaterdowns\.com\b
+\bgreaterdowns\.info\b
+\bgreaterdowns\.net\b
+\bgreaterdowns\.org\b
+\bgreaterdownsregionalcouncil\.com\b
+\bhelenclarke\.org\b
+\bkylieannminogueobe\.com\b
+\bkylieminogueobe\.com\b
+\bliberalnational\.com\b
+\bliberalnationalforum\.com\b
+\bliberalnationalparty\.info\b
+\bliberalnationalparty\.net\b
+\blnpforum\.com\b
+\bmultiverses\.info\b
+\bmurdochwire\.com\b
+\bmythbustersbusted\.com\b
+\bnationalliberalparty\.org\b
+\bparalleluniverses\.info\b
+\brobertgbarrett\.com\b
+\brobertschwarten\.com\b
+\bsailingaustralia\.org\b
+\bstarshiptechnology\.info\b
+\bstarshiptechnology\.net\b
+\bstarshiptechnology\.org\b
+\bsteveirwin\.us\b
+\buniversedaily\.net\b
+\bwesterndownsregionalcouncil\.com\b
+\bworldrecession\.net\b
+\byowiehunter\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
