@@ -7878,6 +7878,7 @@ mongolische-jurten\.de
 \binugg\.co\.uk\b
 \bcomercialuruapan\.com\b
 \bbitly\.com\b
+\bdawsons\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
