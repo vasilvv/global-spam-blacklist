@@ -1625,7 +1625,7 @@ redirectme\.com
 bounceme\.net
 \.hopto\.org
 myvnc\.com
-serve(?:beer|blog|counterstrike|ftp|game|halflife|http|mp3|pics|quake)\.com
+serve(?:beer|blog|counterstrike|ftp|game|halflife|mp3|pics|quake)\.com
 sytes\.net
 clipurl\.com
 wapurl\.co\.uk
