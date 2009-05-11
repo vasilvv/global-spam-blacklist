@@ -4991,7 +4991,7 @@ boylovernet
 \bmoneybookers\.com/app/\?rid=
 \bamazon.com/gp/redirect\.html
 \brcm\.amazon\.com/cm\?t=
-\bamazon\.com/.*&tag=
+\bamazon\.com.*(?:\?|&)tag=
 \bbastore\.amazon\.com\b
 \beclipse-china\.com\b
 \bdeath-?camps\.org\b
