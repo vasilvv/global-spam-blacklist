@@ -261,7 +261,7 @@ toutelapoesie\.com
 topsites\.blog\.expedia\.fr
 buysanfranciscotours\.com
 buyalcatraztours\.com
-\.whale\.to
+\bwhale\.to\b
 vaccination\.org\.uk
 pharma-store\.docspages\.com
 tablets\.php5\.cz
