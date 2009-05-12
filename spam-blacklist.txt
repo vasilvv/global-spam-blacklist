@@ -7924,6 +7924,9 @@ mongolische-jurten\.de
 \bforumseo\.org\b
 \b1256\.org\.ua\b
 \bbascarsija\.info\b
+\bvirl\.com\b
+\btwurl\.nl\b
+\btweetburner\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
