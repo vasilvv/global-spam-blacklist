@@ -7928,6 +7928,36 @@ mongolische-jurten\.de
 \btwurl\.nl\b
 \btweetburner\.com\b
 \btaitof3\.zobyhost\.com\b
+\balienstarships\.com\b
+\bannastaciapalaszczuk\.com\b
+\baquaticapetheory\.net\b
+\baustralianrevolution\.net\b
+\baustralianrevolution\.org\b
+\bbautforum\.org\b
+\bdalekinvasion\.com\b
+\beastwest101\.com\b
+\bganjagrower\.com\b
+\bhempembassy\.org\b
+\bjobsforaustralia\.net\b
+\bjobsforaustralia\.org\b
+\bjohnpaullangbroek\.com\b
+\blegalisecannabis\.info\b
+\blegalisecannabis\.net\b
+\blegalisecannabis\.org\b
+\blegalisecannabisparty\.com\b
+\blegalisecannabisparty\.info\b
+\blegalisecannabisparty\.net\b
+\blegalisecannabisparty\.org\b
+\blegalisemarijuana\.org\b
+\blegalisemarijuanaparty\.info\b
+\blegalisemarijuanaparty\.net\b
+\blegalisemarijuanaparty\.org\b
+\bliberalnationals\.com\b
+\bmanpoweredflight\.com\b
+\bmurdochpress\.com\b
+\bnationalforums\.org\b
+\bterriirwin\.info\b
+\bworldwarming\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
