@@ -7964,6 +7964,7 @@ mongolische-jurten\.de
 \bmini\.web\.tr\b
 \bthnlnk\.com\b
 \bsrcedalmacije\.com\b
+\bchopper-apparel\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
