@@ -7960,7 +7960,9 @@ mongolische-jurten\.de
 \bterriirwin\.info\b
 \bworldwarming\.net\b
 \bgetir\.net\b
-
+\blburl\.com\b
+\bmini\.web\.tr\b
+\bthnlnk\.com\b
 
 ## sbhandler_end
 ## leave the above line as is
