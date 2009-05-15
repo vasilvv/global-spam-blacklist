@@ -7966,6 +7966,7 @@ mongolische-jurten\.de
 \bsrcedalmacije\.com\b
 \bchopper-apparel\.de\b
 \beurox10\.com\b
+\bvjtube\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
