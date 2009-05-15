@@ -7960,6 +7960,7 @@ mongolische-jurten\.de
 \bworldwarming\.net\b
 \bgetir\.net\b
 \bbeasyurl\.jp\b
+\beasyurl\.jp\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
