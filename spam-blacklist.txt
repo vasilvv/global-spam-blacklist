@@ -7958,6 +7958,8 @@ mongolische-jurten\.de
 \bnationalforums\.org\b
 \bterriirwin\.info\b
 \bworldwarming\.net\b
+\bgetir\.net\b
+\bbeasyurl\.jp\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
