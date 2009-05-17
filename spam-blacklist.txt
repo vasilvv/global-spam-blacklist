@@ -7967,7 +7967,6 @@ mongolische-jurten\.de
 \bchopper-apparel\.de\b
 \beurox10\.com\b
 \bvjtube\.net\b
-\bliturl\.net\b
 \brickroll
 \bcescfabregas\.3dn\.ru\b
 \bzobyhost\.com\b
