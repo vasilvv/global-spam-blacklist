@@ -7967,6 +7967,8 @@ mongolische-jurten\.de
 \bchopper-apparel\.de\b
 \beurox10\.com\b
 \bvjtube\.net\b
+\bliturl\.net\b
+\brickroll
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
