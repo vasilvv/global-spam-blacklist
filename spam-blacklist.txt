@@ -7969,6 +7969,7 @@ mongolische-jurten\.de
 \bvjtube\.net\b
 \bliturl\.net\b
 \brickroll
+\bcescfabregas\.3dn\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
