@@ -7970,7 +7970,7 @@ mongolische-jurten\.de
 \brickroll
 \bcescfabregas\.3dn\.ru\b
 \bzobyhost\.com\b
-\bsyntext\.com\b
+\bsyntext\.(?:com|ru)\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
