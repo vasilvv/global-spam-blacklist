@@ -7971,6 +7971,23 @@ mongolische-jurten\.de
 \bcescfabregas\.3dn\.ru\b
 \bzobyhost\.com\b
 \bsyntext\.(?:com|ru)\b
+\bidukki\.com\b
+\bthrissur\.com\b
+\bkochi\.com\b
+\bpalakkad\.com\b
+\bkottayam\.in\b
+\bkannur\.in\b
+\bmalabar\.in\b
+\bkozhikode\.in\b
+\balappuzha\.in\b
+\bmalappuram\.in\b
+\bkochi\.(?:in|mobi)\b
+\bkeralatourism\.mobi\b
+\bkerala\.(?:in|pro)\b
+\bkeralahotels\.(?:info|asia)\b
+\bkeralarealestate\.co\.in\b
+\bkochi\.co\.in\b
+\bkeralaclassifieds\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
