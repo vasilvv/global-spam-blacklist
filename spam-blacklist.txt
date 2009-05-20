@@ -7990,6 +7990,7 @@ mongolische-jurten\.de
 \bkeralaclassifieds\.com\b
 \bxvideos\.com\b
 \bldonia\.net\b
+\barab-fex\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
