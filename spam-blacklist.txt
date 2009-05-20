@@ -7992,6 +7992,7 @@ mongolische-jurten\.de
 \bldonia\.net\b
 \barab-fex\.org\b
 \bxadonia\.net\b
+\bthatsnotsexy\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
