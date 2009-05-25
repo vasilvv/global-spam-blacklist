@@ -7997,6 +7997,11 @@ mongolische-jurten\.de
 \balias-angelus\.net\b
 \bctn-music\.info\b
 \btranslator\.vndv\.com\b
+\btrymasak\.my\b
+\bgeoflex\.com\.my\b
+\btrafficjam\.my\b
+\btrafficjam\.com\.my\b
+\bmyairvita\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
