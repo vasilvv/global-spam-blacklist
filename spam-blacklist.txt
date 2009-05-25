@@ -8002,6 +8002,7 @@ mongolische-jurten\.de
 \btrafficjam\.my\b
 \btrafficjam\.com\.my\b
 \bmyairvita\.com\b
+\bagrolink\.moa\.my\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
