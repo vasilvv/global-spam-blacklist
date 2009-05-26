@@ -8005,6 +8005,12 @@ mongolische-jurten\.de
 \bagrolink\.moa\.my\b
 \bmodernshogi\.pbworks\.com\b
 \bfluradar\.webxells\.com\b
+\btheofficialboard\.com\b
+\btheofficialboard\.fr\b
+\bthe-board\.fr\b
+\btheboard\.fr\b
+\bthe-official-board\.fr\b
+\bthe-official-board\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
