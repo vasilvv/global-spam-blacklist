@@ -8011,6 +8011,11 @@ mongolische-jurten\.de
 \btheboard\.fr\b
 \bthe-official-board\.fr\b
 \bthe-official-board\.com\b
+\bgotrekking\.cl\b
+\bgotrekking\.org\b
+\bblogemarketing\.cl\b
+\bwebandsmart\.com\b
+\bwebandsmart\.cl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
