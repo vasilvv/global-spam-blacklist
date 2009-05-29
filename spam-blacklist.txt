@@ -8017,6 +8017,7 @@ mongolische-jurten\.de
 \bwebandsmart\.com\b
 \bwebandsmart\.cl\b
 \beurovision\.gen\.tr\b
+\bcardvdsupply\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
