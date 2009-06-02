@@ -7748,7 +7748,7 @@ xxxxxx/
 \bfreakinghugeurl\.com\b
 \bfacebook\.com\/l\.php\b
 \btangodans\.com\b
-(?<!docfind\.)\bco\.cc\b
+\bco\.cc/\?id\=\d*?
 \bmybrute\.com\b
 \bmybrutehacks\.forumotion\.com\b
 \balbumfototrenes\.idohost\.com\b
