@@ -8022,6 +8022,24 @@ mongolische-jurten\.de
 \blicensedpracticalnurselpn\.tk\b
 \bpath\.to\b
 \bphuket-relax\.com\b
+\bimpotence\.at\.ua\b
+\bshortsight\.at\.ua\b
+\bbruise\.at\.ua\b
+\ballergy\.at\.ua\b
+\bglaucoma\.at\.ua\b
+\bshigella\.at\.ua\b
+\bascariasis\.at\.ua\b
+\bmononucleosis\.at\.ua\b
+\bencephalitis\.at\.ua\b
+\brotavirus\.at\.ua\b
+\bbronchiolitis\.at\.ua\b
+\bcommoncold\.at\.ua\b
+\bscarletfever\.at\.ua\b
+\bcampylobacter\.at\.ua\b
+\bconjunctivitis\.at\.ua\b
+\bdiphtheria\.at\.ua\b
+\bpertussis\.at\.ua\b
+\bsalmonella\.at\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
