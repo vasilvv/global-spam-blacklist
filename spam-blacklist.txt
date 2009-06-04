@@ -8040,6 +8040,7 @@ mongolische-jurten\.de
 \bdiphtheria\.at\.ua\b
 \bpertussis\.at\.ua\b
 \bsalmonella\.at\.ua\b
+\babueling\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
