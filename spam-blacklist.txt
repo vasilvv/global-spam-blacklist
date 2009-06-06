@@ -8044,6 +8044,7 @@ mongolische-jurten\.de
 \bhns-latest\.com\b
 \bafroradio\.it\b
 \bcar--tuning\.blogspot\.com\b
+\bpuresuperaudio\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
