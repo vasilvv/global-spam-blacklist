@@ -8042,6 +8042,7 @@ mongolische-jurten\.de
 \bsalmonella\.at\.ua\b
 \babueling\.com\b
 \bhns-latest\.com\b
+\bafroradio\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
