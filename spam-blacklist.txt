@@ -8046,6 +8046,7 @@ mongolische-jurten\.de
 \bcar--tuning\.blogspot\.com\b
 \bpuresuperaudio\.blogspot\.com\b
 \bchrisyandek\.com\b
+\bbnr\.cz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
