@@ -7775,7 +7775,8 @@ xxxxxx/
 \bjusticeleague\.org\.ru\b
 \bcityrock\.ru\b
 \bbonsai-search-engine\.com\b
-\bkohtao\.name\b(anaheimducks|bluejackets|bruins|buffalosabres|calgaryflames|chicagoblackhawks|coloradoavalanche|dallasstars|detroitredwings|edmonton-oilers|floridapanthers|hurricanes|mapleleafs|minnesotawild|montreal-canadiens|newjerseydevils|newyorkislanders|newyorkrangers|ottawasenators|philadelphia-flyers|pittsburghpenguins|tampabay|tampabaylightning|thrashers|vancouvercanucks|washingtoncapitals)\.ru\b
+\bkohtao\.name\b
+\b(anaheimducks|bluejackets|bruins|buffalosabres|calgaryflames|chicagoblackhawks|coloradoavalanche|dallasstars|detroitredwings|edmonton-oilers|floridapanthers|hurricanes|mapleleafs|minnesotawild|montreal-canadiens|newjerseydevils|newyorkislanders|newyorkrangers|ottawasenators|philadelphia-flyers|pittsburghpenguins|tampabay|tampabaylightning|thrashers|vancouvercanucks|washingtoncapitals)\.ru\b
 \bskatel-1chezone\.blogspot\.com\b
 \bshoes007\.com\b
 \b365165\.net\b
