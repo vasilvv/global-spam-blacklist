@@ -8052,6 +8052,7 @@ mongolische-jurten\.de
 \blukashenko\.eu\b
 \bucpb\.eu\b
 \bsunion\.cat\b
+\bjazz-radio\.110mb\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
