@@ -8053,6 +8053,7 @@ mongolische-jurten\.de
 \bucpb\.eu\b
 \bsunion\.cat\b
 \bjazz-radio\.110mb\.com\b
+\bpaypal.com/.*?/mrb/pal=.*?\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
