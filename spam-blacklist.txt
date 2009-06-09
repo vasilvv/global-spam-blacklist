@@ -8059,6 +8059,7 @@ mongolische-jurten\.de
 \bangelsphynx\.com\b
 \bpaypal\.com/.*mrb/pal=.*\b
 \bz\.pe\b
+\beasyurl\.jp\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
