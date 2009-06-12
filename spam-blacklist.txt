@@ -8061,6 +8061,9 @@ mongolische-jurten\.de
 \bhiphopalemi\.net\b
 \bbearing\.co\.il\b
 \bmobilya\.us\b
+\bsummercity\.ru\b
+\bbuylive\.ru\b
+\brestown\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
