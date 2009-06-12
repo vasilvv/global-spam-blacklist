@@ -8054,7 +8054,6 @@ mongolische-jurten\.de
 \bsunion\.cat\b
 \bjazz-radio\.110mb\.com\b
 \bdamascus\.par-darmstadt\.de\b
-\bsmrikve\.com\b
 \bronchamp-fr\.com\b
 \bangelsphynx\.com\b
 \bpaypal\.com/.*mrb/pal=.*\b
