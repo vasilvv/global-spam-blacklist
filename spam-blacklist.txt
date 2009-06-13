@@ -8069,6 +8069,7 @@ mongolische-jurten\.de
 \bacer7520\.ru\b
 \bhp4200\.ru\b
 \bhp530\.ru\b
+\bkleiber\.blog\.bg\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
