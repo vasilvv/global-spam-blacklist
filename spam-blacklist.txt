@@ -8070,6 +8070,7 @@ mongolische-jurten\.de
 \bhp4200\.ru\b
 \bhp530\.ru\b
 \bkleiber\.blog\.bg\b
+\bexcel4audit\.wordpress\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
