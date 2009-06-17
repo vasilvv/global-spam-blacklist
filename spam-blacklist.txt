@@ -8073,6 +8073,7 @@ mongolische-jurten\.de
 \bexcel4audit\.wordpress\.com\b
 \blogin\.livesss\.idoo\.com\b
 \bjazzgall3\.com\b
+\bnapredvosa\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
