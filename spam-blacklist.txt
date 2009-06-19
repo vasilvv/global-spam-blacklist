@@ -8074,6 +8074,7 @@ mongolische-jurten\.de
 \blogin\.livesss\.idoo\.com\b
 \bjazzgall3\.com\b
 \bnapredvosa\.com\b
+\ballparisguide\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
