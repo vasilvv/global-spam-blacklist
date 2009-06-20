@@ -8075,7 +8075,6 @@ mongolische-jurten\.de
 \bjazzgall3\.com\b
 \bnapredvosa\.com\b
 \ballparisguide\.com\b
-\brafaelgarzon\.webcindario\.com\/rg-rafael_garzon\.htm\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
