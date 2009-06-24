@@ -8080,6 +8080,8 @@ mongolische-jurten\.de
 \btifaenlared\.com\b
 \byoga\.theholisticcare\.com\b
 \bvacacionesbulgaria\.com\b
+\bhp(6102|2550|6061|6125|6127|6185|6310|6325|6349)\.ru\b
+\bacer(7320|7220|9301)\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
