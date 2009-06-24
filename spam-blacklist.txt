@@ -8063,11 +8063,6 @@ mongolische-jurten\.de
 \bsummercity\.ru\b
 \bbuylive\.ru\b
 \brestown\.ru\b
-\bacer8215\.ru\b
-\bacer9413\.ru\b
-\bacer7520\.ru\b
-\bhp4200\.ru\b
-\bhp530\.ru\b
 \bkleiber\.blog\.bg\b
 \bexcel4audit\.wordpress\.com\b
 \blogin\.livesss\.idoo\.com\b
