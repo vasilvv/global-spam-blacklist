@@ -4417,7 +4417,6 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bgoldenseconds\.com\b
 \bquotescrowd\.com\b
 \bideascrowd\.com\b
-\bgoogle\.com\.tr/search\?hl=tr\b
 \bkinzparty\.info\b
 \bisra(loft|medicine)\.com\b
 \bwebkinz-(recipes|cheat)\.net\b
