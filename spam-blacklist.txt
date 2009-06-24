@@ -8077,6 +8077,7 @@ mongolische-jurten\.de
 \ballparisguide\.com\b
 \bchinesemusic\.net\b
 \bopen-bank-account\.com\b
+\bclipmarks\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
