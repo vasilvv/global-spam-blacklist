@@ -8083,6 +8083,7 @@ mongolische-jurten\.de
 \bword\.web\.tr\b
 \breverent\.org\b
 \bdofuskamas4u\.com\b
+\blurl\.me\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
