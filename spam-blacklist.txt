@@ -8088,6 +8088,14 @@ mongolische-jurten\.de
 \bli2\.me\b
 \blynk2\.me\b
 \bpapagiovanni\.com\b
+\bly2\.us\b
+\blynk2\.us\b
+\blynk2\.net\b
+\bl2m\.us\b
+\bl2u\.me\b
+\bl2u\.us\b
+\bly2\.us\b
+\blynk2\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
