@@ -8096,6 +8096,8 @@ mongolische-jurten\.de
 \bl2u\.us\b
 \bly2\.us\b
 \blynk2\.com\b
+\bprivat-sex\.info\b
+\bfickporno\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
