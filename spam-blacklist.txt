@@ -8102,6 +8102,7 @@ mongolische-jurten\.de
 \brodbeckstrom\.net\b
 \brodbeckstrom\.org\b
 \brodbeckstrom\.info\b
+\balgravio007\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
