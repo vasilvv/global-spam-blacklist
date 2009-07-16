@@ -8099,6 +8099,9 @@ mongolische-jurten\.de
 \bprivat-sex\.info\b
 \bfickporno\.com\b
 \bto\.ly\b
+\brodbeckstrom\.net\b
+\brodbeckstrom\.org\b
+\brodbeckstrom\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
