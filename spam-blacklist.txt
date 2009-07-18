@@ -8105,6 +8105,7 @@ mongolische-jurten\.de
 \balgravio007\.blogspot\.com\b
 \bediturl\.com\b
 \byabancidilkitap\.com\b
+\bamclicks\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
