@@ -8109,6 +8109,7 @@ mongolische-jurten\.de
 \btotalreal\.com\b
 \bfstage\.com\b
 \badire\.jp\b
+\bcatwebsite\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
