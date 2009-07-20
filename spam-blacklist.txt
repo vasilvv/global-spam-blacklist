@@ -8016,7 +8016,6 @@ mongolische-jurten\.de
 \bwebandsmart\.cl\b
 \beurovision\.gen\.tr\b
 \bcardvdsupply\.com\b
-\btinypic\.com\b
 \basiaing\.com\b 
 \blicensedpracticalnurselpn\.tk\b
 \bpath\.to\b
