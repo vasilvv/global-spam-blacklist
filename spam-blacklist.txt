@@ -7869,7 +7869,6 @@ mongolische-jurten\.de
 \belbruto\.es\b
 \bmybrute\.com\b
 \bguerrastribales\.es\b
-\btribalwars\.com\b
 \brasora\.com\b
 \btorahforever\.net\b
 \bevileyescurses\.wordpress\.com\b
