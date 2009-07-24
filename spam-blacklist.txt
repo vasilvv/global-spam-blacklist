@@ -8187,6 +8187,7 @@ mongolische-jurten\.de
 \bthai\.thailandais\.free\.fr\b
 \burdu\.ourdou\.free\.fr\b
 \bzulu\.zoulou\.free\.fr\b
+\bhidanime\.comli\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
