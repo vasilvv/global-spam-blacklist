@@ -8189,6 +8189,14 @@ mongolische-jurten\.de
 \bzulu\.zoulou\.free\.fr\b
 \bhidanime\.comli\.com\b
 \bdenizmuzeleri\.tsk\.tr\b
+\bjordandi\.com\b
+\bedhardybazar\.co\.uk\b
+\btiffanyhot\.com\b
+\buggsky\.co\.uk\b
+\bnikempire\.com\b
+\bup2ugg\.com\b
+\btiffanyou\.com\b
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
