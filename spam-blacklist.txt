@@ -8066,7 +8066,6 @@ mongolische-jurten\.de
 \bjazzgall3\.com\b
 \bnapredvosa\.com\b
 \ballparisguide\.com\b
-\bchinesemusic\.net\b
 \bopen-bank-account\.com\b
 \bclipmarks\.com\b
 \btifaenlared\.com\b
