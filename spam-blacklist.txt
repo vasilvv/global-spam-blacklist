@@ -8198,6 +8198,12 @@ mongolische-jurten\.de
 \btiffanyou\.com\b
 
 \blnk\.ms\b
+\btinyurl\.ru\b
+\btiny9\.com\b
+\b1lnk\.net\b
+\bmicrourl\.ru\b
+\bf1ru\.net\b
+\bgo2cut\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
