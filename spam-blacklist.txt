@@ -8203,6 +8203,8 @@ mongolische-jurten\.de
 \bf1ru\.net\b
 \bgo2cut\.com\b
 \bbesplatne-slike\.net\b
+\bcheaped\.ru\b
+\brokutaki\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
