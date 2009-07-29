@@ -2818,7 +2818,7 @@ blackburnroversyears\.com
 woodland-bunkbeds\.com
 silent-?night\.info
 board123\.com
-holocaustresearchproject\.org
+\bholocaustresearchproject\.(net|org)\b
 hs4free\.info
 easths\.info
 judicial-inc\.biz
