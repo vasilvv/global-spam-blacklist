@@ -8206,6 +8206,8 @@ mongolische-jurten\.de
 \bcheaped\.ru\b
 \brokutaki\.ru\b
 \bchatlaak\.com\b
+\bodessahotels\.ru\b
+\bodecca\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
