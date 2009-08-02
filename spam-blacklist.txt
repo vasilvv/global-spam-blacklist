@@ -5458,7 +5458,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bhekimplastik\.com\b
 \bhekimsut\.com\b
 \bilportaleditrieste\.(com|it)\b
-\bpalaeo-bavarian-geological-survey\.de\b
 \bnakedafrica\.net\b
 \bnahaafrika\.cz\b
 \bfotoplantas\.110mb\.com\b
