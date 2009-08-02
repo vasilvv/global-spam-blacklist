@@ -8208,6 +8208,45 @@ mongolische-jurten\.de
 \bchatlaak\.com\b
 \bodessahotels\.ru\b
 \bodecca\.ru\b
+\baiongoldbuynow\.com\b
+\baionkinasale\.com\b
+\baiononline\.us\.com\b
+\barchlordgolds\.com\b
+\barchlordmoney\.com\b
+\batlanticamoeny\.com\b
+\batlanticamoney\.com\b
+\batlanticashop\.com\b
+\bbuy-runescape\.net\b
+\bbuyaion\.com\b
+\bbuyaoc\.com\b
+\bbuycabal\.com\b
+\bbuylotro\.com\b
+\bbuysro\.com\b
+\bbuyzeny\.com\b
+\bcabalgold\.com\b
+\bcabalmoney\.com\b
+\beveiskhq\.com\b
+\beveiskstore\.com\b
+\bffgil\.com\b
+\bgoldwarhammer\.com\b
+\bgwgolds\.com\b
+\blotromoney\.com\b
+\blotroshop\.com\b
+\bmesosmaple\.com\b
+\bmmobread\.com\b
+\bmmofisher\.com\b
+\bmyaionkina\.com\b
+\bmyffxigil\.com\b
+\bmymaplemesos\.com\b
+\bmyrosezuly\.com\b
+\bmywowgoldshop\.com\b
+\bromgold\.com\b
+\brozenyshop\.com\b
+\brs007\.com\b
+\bsilkroadgolds\.com\b
+\bsilkroadmoney\.com\b
+\bwarhammer007\.com\b
+\bwowgoldbuynow\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
