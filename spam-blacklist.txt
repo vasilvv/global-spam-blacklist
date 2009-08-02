@@ -633,7 +633,6 @@ veryweird\.com
 videopage\.de
 virtualpage\.de
 \.w3\.to
-\.w3t\.org
 \.walk\.to
 \.warp9\.to
 web-freebies\.com
@@ -1533,7 +1532,7 @@ space4peace\.com
 \.spaceforums\.(info|org)
 stephenhawkingsuniverse\.com
 \.terrorismnews\.info
-universedaily\.(com|info|org)
+universedaily\.(com|info|net|org)
 universetoday\.(info|net)
 wendideng\.(net|org)
 wendimurdoch\.com
@@ -1544,7 +1543,7 @@ yalesimkin\.com
 yowiehunter\.com
 \bganjagrower\.com\b
 \balienstarships\.com\b
-\bterriirwin\.info\b
+\bterriirwin\.(?:info|name)\b
 \bmasterwho\.com\b
 \bdalekinvasion\.com\b
 
@@ -2394,7 +2393,6 @@ www1\.com\.cn
 \.to8\.com
 
 ## sometime 2005 ([[Spam blacklist/Log]])
-(duranduran|limahlmania)\.cjb\.net
 (duranmania|kajagoogoomania)\.proboards[0-9][0-9]\.com
 \.0302\.net
 51dragon\.com
@@ -3647,7 +3645,6 @@ ultime-notizie\.eu
 \barchive\.org/details/Bharatanatyam-Bharathanatyam
 \bbharatanatyam-bharathanatyam\.blogspot\.com
 \bhtmlgear\.tripod\.com/event/control\.event\?a=render&style=event&u=promiserani&i=1&rec=349 #Note I think I have this regex right
-\btoronto1\.cjb\.net
 \bpwp\.netcabo\.pt/jmmg\b
 \blionfree\.altervista\.org\b
 \bartericerca\.com\b
@@ -3665,7 +3662,7 @@ ultime-notizie\.eu
 \bmercedesbenzcarinsurance\.com
 \bduvetland\.com
 \blacieg2s\.ca
-\bw3terra\.ca
+\bw3terra\.(?:ca|net)
 \baina-model\.net
 \balfd\.net
 \bchranenka\.net
@@ -3684,7 +3681,6 @@ ultime-notizie\.eu
 \bmary-model\.net
 \bophelia-model\.net
 \bveronica-model\.net
-\bw3terra\.net
 \beasylnk\.com
 \bus-banks\.info
 \bquickbabysite\.com
@@ -3795,12 +3791,9 @@ traditio[\.．]ru
 \bwowomg\.com\b
 \bwatchbritneyspears\.com\b
 \bclokwise\.com\b
-\bhl2tweaks\.cjb\.net\b
-\bcod-online\.cjb\.net\b
 \bredknob\.teamdot\.com\.au\b
 \bterminalvelocityparkour\.tk\b
 \beq2nation\.tk\b
-\bgamearena-status\.cjb\.net\b
 \bffconsultancy\.com\b
 \blg-sl\.net\b
 \banti2ch\.blog61\.fc2\.com\b
@@ -4108,7 +4101,6 @@ powerleveling-wow\.com
 \bsino-jipiao\.com\.cn
 \bchinalipin\.com\.cn
 \bcnvacation\.com
-\blang\.arabe\.free\.fr
 \bllegalemapas\.com
 \bgeocities\.com/celebrityspaghetti
 \bulink\.co\.nr/
@@ -4328,7 +4320,7 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bnetforu\.org\b
 \busome\.com\b
 \bbiblewalks\.com\b
-\bmyspace.com/universedaily\b
+\bmyspace\.com/universedaily\b
 \bericapacker\.com\b
 \bstickycarpet\.com\b
 \bvolvosellsdamagedcars\.com\b
@@ -5245,7 +5237,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bvision\.chobirich\.com\b
 \bpuroibiza\.com\b
 \bhuntforantiques\.com\b
-\bsaopaulochannel\.com\b
 \bmother-surrogate\.(com|net)\b
 \bsurrogate-mother-cost\.com\b
 \bsurrogate-mother(hood|s)\.net\b
@@ -5279,7 +5270,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \biasa\.ir\b
 \baluminiumleader\.com\b
 \bmiysvit\.info\b
-\brickrolling\.com\b
 \bmetallian\.com\b
 \bhotel-5\.net\b
 \binca-cola\.com\b
@@ -5409,11 +5399,9 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bbonjovideos\.com\b
 \bic1\.it\b
 \binformagiovani\.vi\.it\b
-\barabic\.images\.free\.fr\b
 \bbreton\.brezhoneg\.free\.fr\b
 \bfr\.youtube\.com/(profile\?user=|user/)Languages1001\b
-\bhebrew\.images\.free\.fr\b
-\blang\.(deutsch|esperanto|farsi|gaeilge|hebraic|neerlandais|occitan|polski|russe|shqip|svenska|swahili|turk)\.free\.fr\b
+\blang\.(?:arabe|deutsch|esperanto|farsi|gaeilge|hebraic|italiano|neerlandais|neerlandais|occitan|polski|russe|shqip|svenska|swahili|turk|yiddish)\.free\.fr\b
 \bmacedonian\.free\.fr\b
 \bpince31\.free\.fr\b
 \bportuguesa\.lingua\.free\.fr\b
@@ -5612,7 +5600,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bcontroversi\.org\b
 \bstadtfuehrung-magdeburg\.de\b
 \bmyoyvey\.com\b
-\bbasketter1991(\.co\.cc|\.wsnw\.net)\b
+\bbasketter1991\.wsnw\.net\b
 \bcgi\.sfu\.ca/~gpeters\b
 \babsolutregis\.com\b
 \bdebruk\.pl\b
@@ -6244,7 +6232,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bapelosurgentes\.com\.br\b
 \bipbdesign\.ru\b
 \beurodance4ever\.blogspot\.com\b
-\bporno\.chatlaak\.com\b
 \bwilliamlong\.info\b
 \bmzlit\.cn\b
 \bmovv\.com\b
@@ -6408,7 +6395,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bvoler\.com\.tr\b
 \bdekortas\.com\.tr\b
 \bplwha\.org\b
-\bvisitchn\.com\b
 \bhandandaily\.com\b
 \bkaixin110\.cnblogs\.com\b
 \bbit\.ly\b
@@ -6574,9 +6560,7 @@ function/c_urlredirect\.asp\?url=
 \bdajjh\.com\b
 \bdarkstarhosting\.net\b
 \bdefence-live-scan\.com\b
-\bdlfilm\.co\.cc\b
 \be4e\.pl\b
-\beg-pro\.co\.cc\b
 \bext1\.pl\b
 \bfoneplanet\.com\b
 \bfreephpnuke\.org\b
@@ -6683,7 +6667,6 @@ function/c_urlredirect\.asp\?url=
 \bnanoshop\.ir\b
 \bfestivalbeckett\.com\.ar\b
 \bbitgle\.com\b
-\brickrolld\.me\b # maybe temp, malware?
 \brealgems\.org\b
 \bsixxs\.org\b
 \bibis\.experimentals\.de\b
@@ -7052,7 +7035,6 @@ viagra-?(drugs|online|billig)
 \bmylottoadserv\.com\b
 (ireland|(euro|mega)mil|canada|the)lotter(wiz)?\.com\b
 \bknightrider\.3dn\.ru\b
-\bvisitcapena\.com\b
 \bfunctionpointmodeller\.com\b
 \bgost-ukrsepro\.com\b
 \bpag-kolan-novalja\.com\b
@@ -7142,7 +7124,7 @@ viagra-?(drugs|online|billig)
 \bbux(\.to|a\.in|euro\.com|galore\.com|junction\.com|out\.com)
 \bcamel-mails\.com
 \bca(n-discount|ndy-mail|nnabismails|t-mails|t-ptr|tch-cash)\.com
-\bcash(-kitty|4(all|hits)|n?bux|eden|fiesta|nclicks|origin|out|pointclicks|posse|read|sea)\.(com|co\.cc|org|net)
+\bcash(-kitty|4(all|hits)|n?bux|eden|fiesta|nclicks|origin|out|pointclicks|posse|read|sea)\.(com|org|net)
 \bcasino-mails\.com
 \bcgcash\.info
 \bch(arm-mail|erokeeptr|icago-ptr)\.(biz|com)
@@ -7156,7 +7138,6 @@ viagra-?(drugs|online|billig)
 \bcy-mails\.com
 \bearn3\.com
 \begyptp(ost\.org|tc\.com)
-\bhardbuxs\.co\.cc
 \bisabelmarco\.com
 \bneobux\.to
 \bp2cdaily\.com
@@ -7272,11 +7253,9 @@ xxxxxx/
 \bmidi-pyrenees\.wikidot\.com\b
 \bnormandy\.wikidot\.com\b
 \boxford\.wikidot\.com\b
-\bpays-de-la-loire\.wikidot\.com\b
 \bpoitou-charentes\.wikidot\.com\b
 \bshropshire\.wikidot\.com\b
 \bsomerset\.wikidot\.com\b
-\bval-de-loire\.wikidot\.com\b
 \bwiltshire\.wikidot\.com\b
 \bworcester\.wikidot\.com\b
 \baustralia(npoliticians\.com|ncorruption\.com|npolice\.net|zoo\.us)\b
@@ -7286,27 +7265,20 @@ xxxxxx/
 \bdivingaustralia\.org\b
 \bhangglidingaustralia\.org\b
 \bhelenclark\.org\b
-\bjimmywales\.(net|org)\b
-\bjodhimeares\.com\b
 \bkevin(michaelrudd|ruddmyspace)\.com\b
 \bkylieannminogue\.com\b
 \blegalisemarijuanaparty\.com\b
 \bliberalnationalparty\.com\b
-\bmyspace\.com/universedaily\b
-\bnataliebassingthwaighte\.org\b
 \bnewdrwho\.com\b
 \bnewgallifrey\.com\b
 \bstevenmoffat\.org\b
-\bterriirwin\.name\b
 \bprojectorlampsworld\.com\b
-\bkayit\.co\.cc\b
 \b(sandoftime|rare)-mv\.(ucoz|narod)\.ru\b
 \bevrekaegitim\.com\b
 \bjaponcakonus\.com\b
 \berciyesgazetesi\.com\b
 \balbelda\.info\b
 \barm\.in\b
-\broyalhouseofportugal\.org\b
 \bchat\.com\.tr\b
 \botagyorukcadirlari\.com\b
 \bfinance\.asia\b
@@ -7332,23 +7304,6 @@ xxxxxx/
 \buzairways\.eu\b
 \buzbekistanairways\.eu\b
 \bvip\.asia\b
-\bvisitbhutan\.asia\b
-\bvisitbombay\.info\b
-\bvisitcambodia\.asia\b
-\bvisitcentralasia\.eu\b
-\bvisitchina\.asia\b
-\bvisitchina\.asia\b
-\bvisitchristmasisland\.asia\b
-\bvisitcocosislands\.asia\b
-\bvisitcyprus\.asia\b
-\bvisitindia\.asia\b
-\bvisitkiev\.eu\b
-\bvisitkyrgyzstan\.eu\b
-\bvisitmalaysia\.asia\b
-\bvisitturkmenistan\.eu\b
-\bvisituzbekistan\.asia\b
-\bvisituzbekistan\.eu\b
-\bvisitworld\.info\b
 \bmyspace\.com/zhoroscop\b
 \besnips\.com/zhoroscop\b
 \bzhoroscop\.hi5\.com\b
@@ -7391,7 +7346,6 @@ xxxxxx/
 \bportalsaopaulo\.com\b
 \bpremiumflats\.com\b
 \bsaopaulo(?:aero|artes|autos|bares|bus|channel|cidades|cinemas|estradas|eventos|gallery|gallery|gaytravel|invest|links|mall|mapas|market|metro|moda|museus|night|noticias|parques|photo|praias|relax|restaurantes|ruas|shuttle|sites|suites|teatros|town|work)\.com\b
-\bvisitesp\.com\b
 \bweb(?:carnaval|saopaulo|taubate)\.com\b
 \bnutshellurl\.com\b
 \bcjb\.net\b
@@ -7518,8 +7472,10 @@ xxxxxx/
 \bukraineworldcup\.com\b
 \buk(?:style|water)\.eu\b
 \bvisa-card\.asia\b
-\bvisit(?:afghanistan|armenia|azerbaijan|bahrain|bangladesh|bosnia|brunei|croatia|egypt|indonesia|iran|israel|jordan|korea|kosovo|kuwait|kyrgyzstan|laos|latvia|macedonia|maldives|mongolia|nepal|northkorea|oman|pakistan|philippines|russia|saudiarabia|southkorea|switzerland|tajikistan|uae)\.(?:asia|eu)\b
-\bvisit(?:car|solomonislands)\.com\b
+\bvisit(?:afghanistan|armenia|azerbaijan|bahrain|bangladesh|bhutan|bosnia|brunei|cambodia|china|christmasisland|centralasia|cocosislands|croatia|cyprus|egypt|india|indonesia|iran|israel|jordan|kiev|korea|kosovo|kuwait|kyrgyzstan|laos|latvia|macedonia|malaysia|maldives|mongolia|nepal|northkorea|oman|pakistan|philippines|russia|saudiarabia|southkorea|switzerland|tajikistan|turkmenistan|uae|uzbekistan)\.(?:asia|eu)\b
+\bvisit(?:chn|capena|car|esp|solomonislands)\.com\b
+\bvisit(?:bombay|world)\.info\b
+\bvisit-london\.eu\b
 \bvvjz\.com\b
 \bwhitepapers\.asia\b
 \bwikiaction\.com\b
@@ -7532,7 +7488,6 @@ xxxxxx/
 \banti-virus-trojan-worm\.com\b
 \bfilminformation\.blogspot\.com\b
 \bilook\.tw\b
-\bvisit-london\.eu\b
 \bw3t\.org\b
 \balturl\.com\b
 \shorturl\.com\b
@@ -7579,7 +7534,7 @@ xxxxxx/
 \bbozkir\.com\b
 \b1classical\.com\b
 \bcomoj\.com\b
-\bmoushumy\.(?:tk|co\.cc)\b
+\bmoushumy\.tk\b
 \bpsychology\.tk\b
 \bpayel\.tk\b
 \bazpayel\.blogspot\.com\b
@@ -7638,7 +7593,7 @@ xxxxxx/
 \btaturkey\.net\b
 \bmoya-shkola\.info\b
 \beu-football\.info\b
-\bjimmywales\.(info|org|net)\b
+\bjimmywales\.(info|net|org)\b
 \b(jimmywales|projectorion)\.proboards\.com\b
 \bbindiirwin\.com\b
 \bnataliebassingthwaighte\.(net|org)\b
@@ -7652,7 +7607,6 @@ xxxxxx/
 \bmybrutehacks\.forumotion\.com\b
 \balbumfototrenes\.idohost\.com\b
 \bpfx\.me\b
-\blemonparty\.org\b
 \bcasareal\.co\.pt\b
 \bartists-home\.com\b
 \barsuka\.wordpress\.com\b
@@ -7683,14 +7637,9 @@ xxxxxx/
 \bzhangxiaohe\.org\b
 \bkaoyao\.net\b
 \bforepak\.com\b
-\bzhangxiaohe\.org\b
 \bpamukkale\.org\.tr\b
 \bblogdealbergaria\.blogspot\.com\b
-\bcalgaryflames\.ru\b
-\bcoloradoavalanche\.ru\b
-\bvancouvercanucks\.ru\b
 \bkinbacon\.org\b
-\bminnesotawild\.ru\b
 \b(losangeleskings|nashvillepredators|phoenixcoyotes|sanjosesharks|stlouisblues)\.ru\b
 \bliveshow-tv\.com\b
 \bpatagonianexpeditionrace\.com\b
@@ -7728,7 +7677,6 @@ mongolische-jurten\.de
 \bpho2o\.net\b
 \bmanutdarb\.com\b
 \bjp4h\.com\b
-\bstoppuhr-online\.de\b
 \blietuviu\.ucoz\.com\b
 \bmisericords\.co\.uk\b
 \bkozouh\.s7\.x-beat\.com\b
@@ -7749,7 +7697,7 @@ mongolische-jurten\.de
 \bformalid\.com\b
 \bapartments\.com\.ua\b
 \beast-women\.com\b
-\bkiev-(?:apartments|service)\.com\.ua\b
+\bkiev-service\.com\.ua\b
 \bukraine-(?:girls|travel)\.kiev\.ua\b
 \bedem-club\.(?:kiev\.ua|net)\b
 \bkiev-apartments-rent\.com\b
@@ -7763,7 +7711,6 @@ mongolische-jurten\.de
 \bterminatorsalvationfig\.com\b
 \bkatherinemoennigturkey\.com\b
 \belbruto\.es\b
-\bmybrute\.com\b
 \bguerrastribales\.es\b
 \brasora\.com\b
 \btorahforever\.net\b
@@ -7801,25 +7748,19 @@ mongolische-jurten\.de
 \bsailingaustralia\.org\b
 \bstarshiptechnology\.(?:info|net|org)\b
 \bsteveirwin\.us\b
-\buniversedaily\.net\b
 \bwesterndownsregionalcouncil\.com\b
 \bworldrecession\.net\b
-\byowiehunter\.com\b
 \bforumseo\.org\b
 \b1256\.org\.ua\b
 \bbascarsija\.info\b
 \bvirl\.com\b
 \btwurl\.nl\b
 \btweetburner\.com\b
-\btaitof3\.zobyhost\.com\b
-\balienstarships\.com\b
 \bannastaciapalaszczuk\.com\b
 \baquaticapetheory\.net\b
 \baustralianrevolution\.(?:net|org)\b
 \bbautforum\.org\b
-\bdalekinvasion\.com\b
 \beastwest101\.com\b
-\bganjagrower\.com\b
 \bhempembassy\.org\b
 \bjobsforaustralia\.(?:net|org)\b
 \bjohnpaullangbroek\.com\b
@@ -7827,10 +7768,8 @@ mongolische-jurten\.de
 \blegalisemarijuana\.org\b
 \blegalise(?:cannabis|marijuanaparty)\.(?:info|net|org)\b
 \bliberalnationals\.com\b
-\bmanpoweredflight\.com\b
 \bmurdochpress\.com\b
 \bnationalforums\.org\b
-\bterriirwin\.info\b
 \bworldwarming\.net\b
 \bgetir\.net\b
 \blburl\.com\b
@@ -8008,8 +7947,6 @@ mongolische-jurten\.de
 \bvietnam\.viet\.free\.fr\b
 \bamharic\.ethiopien\.free\.fr\b
 \bbahasa\.indonesia\.free\.fr\b
-\bbreton\.brezhoneg\.free\.fr\b
-\bbulgare\.bulgarian\.free\.fr\b
 \bchti\.picard\.free\.fr\b
 \bcongo\.lingala\.free\.fr\b
 \bcopte\.coptic\.free\.fr\b
@@ -8022,15 +7959,12 @@ mongolische-jurten\.de
 \bindia\.hindi\.free\.fr\b
 \binuit\.inuktitut\.free\.fr\b
 \bkurde\.kurdi\.kurdish\.free\.fr\b
-\blang\.(?:deutsch|esperanto|farsi|gaeilge|hebraic|italiano|neerlandais|neerlandais|occitan|polski|russe|shqip|swahili|turk|yiddish)\.free\.fr\b
 \blao\.laotian\.free\.fr\b
 \blatvian\.letton\.free\.fr\b
 \blithuanian\.lituanien\.free\.fr\b
-\bmacedonian\.free\.fr\b
 \bmalti\.maltese\.free\.fr\b
 \bmongol\.mongolian\.free\.fr\b
 \bpashto\.pachtoun\.free\.fr\b
-\bportuguesa\.lingua\.free\.fr\b
 \bromanian\.roumain\.free\.fr\b
 \bserbian\.srpski\.serbe\.free\.fr\b
 \btamil\.tamoul\.free\.fr\b
