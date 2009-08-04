@@ -8021,6 +8021,7 @@ mongolische-jurten\.de
 \bwarhammer007\.com\b
 \bwowgoldbuynow\.com\b
 \bdownapp1\.com\b
+\btheclickbux\.exofire\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
