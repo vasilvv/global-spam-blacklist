@@ -8024,6 +8024,10 @@ mongolische-jurten\.de
 \blistenarabic\.com\b
 \bmusique-arabe\.net\b
 \bhamms9\.com\b
+\bzirzir\.net\b
+\bfilmizlefilm\.net\b
+\byerlifilmizle\.com\b
+\bvizyonfilmizle\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
