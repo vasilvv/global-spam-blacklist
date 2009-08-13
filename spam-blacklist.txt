@@ -8028,6 +8028,9 @@ mongolische-jurten\.de
 \bfilmizlefilm\.net\b
 \byerlifilmizle\.com\b
 \bvizyonfilmizle\.net\b
+\bvielfliegerforum\.de\b
+\bvornesitzen\.de\b
+\bso-war-mein-flug\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
