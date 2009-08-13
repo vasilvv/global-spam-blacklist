@@ -8033,6 +8033,7 @@ mongolische-jurten\.de
 \bso-war-mein-flug\.de\b
 \bw3-translations\.de\b
 \bubema\.de\b
+\bubema\.eu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
