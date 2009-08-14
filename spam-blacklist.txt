@@ -8034,6 +8034,7 @@ mongolische-jurten\.de
 \bw3-translations\.de\b
 \bubema\.(?:de|eu)\b
 \bvornesitzen\.de\b
+\bjonsay\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
