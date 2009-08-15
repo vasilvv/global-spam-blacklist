@@ -8032,7 +8032,7 @@ mongolische-jurten\.de
 \bvornesitzen\.de\b
 \bso-war-mein-flug\.de\b
 \bw3-translations\.de\b
-\bubema\.(?:de|eu)\b
+\bubema\.(?:de|eu|com)\b
 \bvornesitzen\.de\b
 \bjonsay\.co\.uk\b
 ## sbhandler_end
