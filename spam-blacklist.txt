@@ -8037,6 +8037,7 @@ mongolische-jurten\.de
 \bjonsay\.co\.uk\b
 \bdachau\.com\b
 \bdeconet\.com\b
+\bso-war-mein-flug\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
