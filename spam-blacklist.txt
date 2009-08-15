@@ -8038,6 +8038,7 @@ mongolische-jurten\.de
 \bdachau\.com\b
 \bdeconet\.com\b
 \bbedlingtonduberry\.free\.fr\b
+\brazmavar\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
