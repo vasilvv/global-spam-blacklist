@@ -8043,6 +8043,7 @@ mongolische-jurten\.de
 \badamfakililar\.xm\.com\b
 \bstarckinblog\.blogspot\.com\b
 \bashley-greene\.ru\b
+\bdigital\.am\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
