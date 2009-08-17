@@ -88,9 +88,6 @@ show-your-pussy # (added by andre)
 -handys\.de 
 handy-(fun|kaufhaus)\.tk 
 
-# Added by brion 2005-08-08
-\.sweb\.cz # < considered too broad < restored by Amgine: dozens more\. Webhost's responsibility.
-
 # Replacing overly broad ones above - Andre Engels, 2005-08-09
 \b(heavytools|spyware|carisoprodol|sexforfree)\.webzdarma\.cz\b
 viagra\.newmail\.ru
