@@ -8044,6 +8044,7 @@ mongolische-jurten\.de
 \bcrea\.web\.tr\b
 \bjahorinalive\.net\b
 \bafricapoverty\.org\b
+\btr\.im\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
