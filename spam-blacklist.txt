@@ -8045,6 +8045,7 @@ mongolische-jurten\.de
 \bjahorinalive\.net\b
 \bafricapoverty\.org\b
 \btr\.im\b
+\berepublik\.com.*?/referrer\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
