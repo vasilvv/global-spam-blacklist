@@ -1664,7 +1664,7 @@ plone\.akl\.lt
 
 ## Oct
 the2ndmortgagehelp\.com
-encyclopediadramatica\.(com|net|org)
+encyclopediadramatica\.(?:com(?!/Main_Page)|net|org)
 
 ## Nov
 offshoreincorporation101\.com
