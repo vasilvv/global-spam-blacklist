@@ -8047,6 +8047,7 @@ mongolische-jurten\.de
 \btr\.im\b
 \berepublik\.com.*?/referrer\b
 \bcurbgames\.com\b
+\bpluscep\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
