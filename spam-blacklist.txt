@@ -8046,7 +8046,6 @@ mongolische-jurten\.de
 \bafricapoverty\.org\b
 \btr\.im\b
 \berepublik\.com.*?/referrer\b
-\bcurbgames\.com\b
 \bpluscep\.com\b
 \bzeindex\.com\b
 \bnikesoso\.com\b
