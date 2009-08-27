@@ -8056,6 +8056,19 @@ mongolische-jurten\.de
 \btozmaskesi\.com\b
 \bresidency-database\.helmsic\.gr\b
 \bexploremyasean\.com\b
+\bbuxwiz\.com\b
+\bneobux\.com\b
+\bmyfreeshares\.com\b
+\bjillsclickcorner\.com\b
+\bmilkywayclicks\.com\b
+\bowensclickplace\.com\b
+\borangebizs\.com\b
+\brosebizs\.com\b
+\bworldwide-cash\.net\b
+\b70cents\.net\b
+\bgptoffers\.com\b
+\bgptreasure\.com\b
+\blibertyreserve\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
