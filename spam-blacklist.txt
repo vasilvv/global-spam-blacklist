@@ -8069,6 +8069,7 @@ mongolische-jurten\.de
 \bgptoffers\.com\b
 \bgptreasure\.com\b
 \blibertyreserve\.com\b
+\bway\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
