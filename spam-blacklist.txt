@@ -8072,6 +8072,7 @@ mongolische-jurten\.de
 \bway\.com\b
 \b1skip\.com\b
 \bclck\.ru\b
+\bfoo9\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
