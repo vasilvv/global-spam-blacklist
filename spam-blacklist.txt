@@ -8073,6 +8073,7 @@ mongolische-jurten\.de
 \b1skip\.com\b
 \bclck\.ru\b
 \bfoo9\.net\b
+\bplaybonuscasino\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
