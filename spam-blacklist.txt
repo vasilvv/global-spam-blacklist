@@ -8077,6 +8077,7 @@ mongolische-jurten\.de
 \bproakvariumy\.ru\b
 \bponyurl\.com\b
 \b9\.gp\b
+\bpornstarglobal\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
