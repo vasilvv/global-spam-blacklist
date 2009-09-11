@@ -8081,6 +8081,7 @@ mongolische-jurten\.de
 \bdeathgleaner\.wordpress\.com\b
 \bport-arthur\.ucoz\.ru\b
 \b123ahp\.com\b
+\b3\.ly\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
