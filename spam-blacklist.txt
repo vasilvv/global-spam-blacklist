@@ -8085,6 +8085,12 @@ mongolische-jurten\.de
 \buggsme\.com\b
 \brs2box\.com\b
 \btwi\.cc\b
+\bmatrikon\.com\b
+\bmatrikonopc\.de\b
+\bmatrikonanalytics\.com\b
+\bmatrikonopc\.com\b
+\bopctraining\.com\b
+\bopcsupport\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
