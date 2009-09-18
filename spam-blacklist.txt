@@ -8091,6 +8091,19 @@ mongolische-jurten\.de
 \bmatrikonopc\.com\b
 \bopctraining\.com\b
 \bopcsupport\.com\b
+\btunisia\.com\b
+\bmoneyandmarkets\.com\b
+\buncommonwisdomdaily\.com\b
+\binvestwithanedge\.com\b
+\bdentalinsurancecare\.com\b
+\bnoclaimsdiscount\.co\.uk\b
+\bgoodtherapy\.org\b
+\bsunglassesuk\.com\b
+\bgrayboxx\.com\b
+\bsupergreenme\.com\b
+\binctime\.com\b
+\bcozycot\.com\b
+\bweb4desi\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
