@@ -8105,6 +8105,7 @@ mongolische-jurten\.de
 \bcozycot\.com\b
 \bweb4desi\.com\b
 \bcru\.ms\b
+\bhouellebecq\.webpark\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
