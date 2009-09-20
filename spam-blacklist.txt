@@ -8110,6 +8110,14 @@ mongolische-jurten\.de
 \bShorty\.im\b
 \b58msg\.cn\b
 \bmsplinks\.com\b
+\balgarvedigital\.pt\b
+\balgarve\.com\.pt\b
+\bobservatoriodoalgarve\.com\b
+\bvisitalgarve\.pt\b
+\balgarve\.fm\b
+\bcorreiodamanha\.pt\b
+\bforum\.astroempires\.com\b
+\bccr-alg\.pt\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
