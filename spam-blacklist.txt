@@ -8117,6 +8117,7 @@ mongolische-jurten\.de
 \bcorreiodamanha\.pt\b
 \bforum\.astroempires\.com\b
 \bccr-alg\.pt\b
+\bnicopon\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
