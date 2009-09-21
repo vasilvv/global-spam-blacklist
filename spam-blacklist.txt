@@ -5027,7 +5027,6 @@ boylovernet
 \bazhakiyathamizhmagan\.info\b
 \bzerust\.com\b
 \bkireedom\.info\b
-\bsulekha\.com\b
 \bmadurai4u\.com\b
 \biltsource\.com\b
 \bxyleme\.com\b
