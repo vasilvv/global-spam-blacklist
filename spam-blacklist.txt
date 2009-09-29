@@ -8120,6 +8120,7 @@ mongolische-jurten\.de
 \bnicopon\.com\b
 \b101\.gs\b
 \bcli\.gs\b
+economy-point\.org
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
