@@ -8122,6 +8122,7 @@ mongolische-jurten\.de
 \bcli\.gs\b
 economy-point\.org
 \bbankers-telenet\.com\b
+\bdr\.tl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
