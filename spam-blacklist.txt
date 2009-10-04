@@ -8127,6 +8127,7 @@ economy-point\.org
 \bdecopedia\.com\b
 \bp\.ly\b
 \btutorialspoint\.com\b
+lexikon.calsky.com
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
