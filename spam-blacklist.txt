@@ -8126,6 +8126,7 @@ economy-point\.org
 \bwikireality\.ru\b
 \bdecopedia\.com\b
 \bp\.ly\b
+\btutorialspoint\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
