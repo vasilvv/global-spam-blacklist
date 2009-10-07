@@ -8128,6 +8128,12 @@ economy-point\.org
 \bp\.ly\b
 \btutorialspoint\.com\b
 lexikon\.calsky\.com
+\bresearch-service\.com\b
+\bessaymill\.com\b
+\bbestessays\.com\.au\b
+\bcollege-paper\.org\b
+\bsuperiorpapers\.com\b
+\bbestdissertion\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
