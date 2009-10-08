@@ -8134,7 +8134,10 @@ lexikon\.calsky\.com
 \bcollege-paper\.org\b
 \bsuperiorpapers\.com\b
 \bbestdissertion\.org\b
-\btradult\.com\b 
+\btradult\.com\b
+\bj\.mp\b
+\b00r\.ru\b
+\bburnurl\.com\b 
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
