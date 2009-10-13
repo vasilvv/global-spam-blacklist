@@ -8142,6 +8142,7 @@ lexikon\.calsky\.com
 \b51jh6\.com\b
 \baskgeo\.org\b
 \bluxor-lozenets\.com\b
+\bvk\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
