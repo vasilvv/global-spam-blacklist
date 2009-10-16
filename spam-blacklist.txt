@@ -8146,6 +8146,7 @@ lexikon\.calsky\.com
 \bsantatelevision\.com\b
 \bjoulupukki\.fi\b
 \bpaintingdb\.com\b
+\bnaj-obchody\.sk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
