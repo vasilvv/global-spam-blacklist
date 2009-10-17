@@ -8149,6 +8149,7 @@ lexikon\.calsky\.com
 \bnaj-obchody\.sk\b
 \bporsemprefloripa\.com\b
 \bedicionesgondo\.com\b
+\bafghanshow\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
