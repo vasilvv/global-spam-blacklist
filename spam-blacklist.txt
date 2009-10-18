@@ -8150,6 +8150,7 @@ lexikon\.calsky\.com
 \bporsemprefloripa\.com\b
 \bedicionesgondo\.com\b
 \bafghanshow\.com\b
+\badanaotokiralama\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
