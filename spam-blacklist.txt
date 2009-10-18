@@ -8151,6 +8151,7 @@ lexikon\.calsky\.com
 \bedicionesgondo\.com\b
 \bafghanshow\.com\b
 \badanaotokiralama\.net\b
+\bparaworld\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
