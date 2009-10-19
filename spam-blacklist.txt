@@ -8156,6 +8156,7 @@ lexikon\.calsky\.com
 \bbeer-pedia\.com\b
 \bsetupmyfreeblastoffaccount\.com\b
 \bwikidirect\.freehostia\.com\b
+\bboriken\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
