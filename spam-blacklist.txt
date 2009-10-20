@@ -5952,7 +5952,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bstreamingtheolympics\.com\b
 \blluisllach\.pl\b
 \bonline-roulette-gambling\.com\b
-\babel\.arts\.kuleuven\.be\b
 \bhuguesdepayns\.fr\b
 \bfree-training-tutorial\.com\b
 \bnijmegennieuws\.nl\b
