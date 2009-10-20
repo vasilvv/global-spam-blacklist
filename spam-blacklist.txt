@@ -8160,6 +8160,9 @@ lexikon\.calsky\.com
 \bconceptcar\.ee\b
 \bhotchkiss\.eu\b
 \bmyuggsonshop\.com\b
+\bmyuggs\.org\b
+\buggsbootsshoes\.com\b
+\buggsforcheap\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
