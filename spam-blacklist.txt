@@ -7852,7 +7852,6 @@ mongolische-jurten\.de
 \bucpb\.eu\b
 \bsunion\.cat\b
 \bjazz-radio\.110mb\.com\b
-\bdamascus\.par-darmstadt\.de\b
 \bronchamp-fr\.com\b
 \bangelsphynx\.com\b
 \bpaypal\.com/.*mrb/pal=.*\b
