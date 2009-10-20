@@ -8163,6 +8163,7 @@ lexikon\.calsky\.com
 \bmyuggs\.org\b
 \buggsbootsshoes\.com\b
 \buggsforcheap\.com\b
+\bparislikeaparisian\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
