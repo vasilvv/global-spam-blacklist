@@ -8166,6 +8166,7 @@ lexikon\.calsky\.com
 \bthegazette-brasil\.webs\.com\b
 \bthewordmodules\.com\b
 \bsmsgol\.com\b
+\bmillivanilli-bio\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
