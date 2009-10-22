@@ -8169,6 +8169,7 @@ lexikon\.calsky\.com
 \bmillivanilli-bio\.narod\.ru\b
 \bsrsportinguista\.blogspot\.com\b
 \bnanoyou\.eu\b
+\bstuffbyed\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
