@@ -8170,6 +8170,15 @@ lexikon\.calsky\.com
 \bnanoyou\.eu\b
 \bstuffbyed\.com\b
 \bbyst\.ro\b
+\bservis34\.com\b
+\barizavar\.com\b
+\barizavar\.net\b
+\btravestinet\.net\b
+\bislamievlilikler\.net\b
+\barabaoyunlari60\.com\b
+\bcasusbocek\.com\b
+\btelefonkayitsistemi\.com\b
+\beniyiilaclama\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
