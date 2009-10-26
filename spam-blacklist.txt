@@ -8171,9 +8171,8 @@ lexikon\.calsky\.com
 \bstuffbyed\.com\b
 \bbyst\.ro\b
 \bservis34\.com\b
-\barizavar\.com\b
-\barizavar\.net\b
-\btravestinet\.net\b
+\barizavar\.(net|com)\b
+\btravestinet\.(net|com)\b
 \bislamievlilikler\.net\b
 \barabaoyunlari60\.com\b
 \bcasusbocek\.com\b
