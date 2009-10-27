@@ -8182,6 +8182,7 @@ lexikon\.calsky\.com
 \bopcgroup\.com\b
 \be-republik\.net\.ms\b
 \bi-q-t-e-s-t\.com\b
+\bholidaytours\.in\.th\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
