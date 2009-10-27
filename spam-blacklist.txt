@@ -8181,6 +8181,7 @@ lexikon\.calsky\.com
 \bopcti\.com\b
 \bopcgroup\.com\b
 \be-republik\.net\.ms\b
+\bi-q-t-e-s-t\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
