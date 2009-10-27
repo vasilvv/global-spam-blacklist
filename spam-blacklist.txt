@@ -8183,6 +8183,7 @@ lexikon\.calsky\.com
 \be-republik\.net\.ms\b
 \bi-q-t-e-s-t\.com\b
 \bholidaytours\.in\.th\b
+\bnytimes\.com\/2009\/10\/26\/opinion\/26iht\-edban\.html\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
