@@ -8185,6 +8185,7 @@ lexikon\.calsky\.com
 \bholidaytours\.in\.th\b
 \bnytimes\.com\/2009\/10\/26\/opinion\/26iht\-edban\.html\b
 \bcyclingforall\.net\b
+\bradiomakedonia\.ro\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
