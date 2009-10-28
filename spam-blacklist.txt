@@ -8186,6 +8186,7 @@ lexikon\.calsky\.com
 \bnytimes\.com\/2009\/10\/26\/opinion\/26iht\-edban\.html\b
 \bcyclingforall\.net\b
 \bradiomakedonia\.ro\b
+\barmanameatv\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
