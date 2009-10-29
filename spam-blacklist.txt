@@ -8187,6 +8187,7 @@ lexikon\.calsky\.com
 \bcyclingforall\.net\b
 \bradiomakedonia\.ro\b
 \barmanameatv\.com\b
+\bscriptureearth\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
