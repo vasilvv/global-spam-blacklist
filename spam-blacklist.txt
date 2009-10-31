@@ -8193,6 +8193,7 @@ lexikon\.calsky\.com
 \bmeszarosmarton\.wordpress\.com\b
 \blinkak\.com\b
 \bsportamericani\.it\b
+\bwinemaker\.com\.tw\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
