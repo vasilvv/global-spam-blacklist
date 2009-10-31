@@ -8192,6 +8192,7 @@ lexikon\.calsky\.com
 \bbiodieselplants\.com\.ar\b
 \bmeszarosmarton\.wordpress\.com\b
 \blinkak\.com\b
+\bsportamericani\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
