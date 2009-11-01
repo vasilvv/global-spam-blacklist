@@ -8194,6 +8194,7 @@ lexikon\.calsky\.com
 \blinkak\.com\b
 \bsportamericani\.it\b
 \bwinemaker\.com\.tw\b
+\bow\.ly\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
