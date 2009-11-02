@@ -3424,7 +3424,6 @@ republika\.pl/stranasmer
 \bworld-cat\.org
 \bindiabroadband\.net
 \bmake-money-online4\.tripod\.com
-\bmannbeisstfilm\.de
 \bvisitdaugavpils\.lv
 \bulkerfenerbahce\.com
 \bantu\.com
