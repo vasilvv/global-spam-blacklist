@@ -8196,6 +8196,7 @@ lexikon\.calsky\.com
 \bow\.ly\b
 \bgooglehammer\.com\b
 \bto-url\.ru\b
+\bto-url\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
