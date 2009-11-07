@@ -8198,6 +8198,7 @@ lexikon\.calsky\.com
 \bto-url\.ru\b
 \bvisitrovaniemi\.fi\b
 \bgatosphynx\.com\b
+\bsmila\.org\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
