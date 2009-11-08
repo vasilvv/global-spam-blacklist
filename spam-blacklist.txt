@@ -7144,7 +7144,6 @@ viagra-?(drugs|online|billig)
 \bpaiagua\.com\b
 \bw3c-at\.org\b
 \bkaysericity\.net\b
-\blofoten\.info
 \bhadiseacikgoz\.net\b
 \bingsys\.com\.ua\b
 \bnigelkennedyonline\.com\b
