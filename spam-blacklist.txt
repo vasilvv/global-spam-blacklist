@@ -8199,6 +8199,7 @@ lexikon\.calsky\.com
 \bvisitrovaniemi\.fi\b
 \bgatosphynx\.com\b
 \bsmila\.org\.ua\b
+\brazboifilatelic\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
