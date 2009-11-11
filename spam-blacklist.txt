@@ -8370,6 +8370,12 @@ lexikon\.calsky\.com
 \bxzb\.cc\b
 \bzi\.pe\b
 \bzz\.gd\b
+\bbestessays\.ca\b
+\bbestessays\.com(\.au|\.au\.com)?\b
+\bbesttermpaper\.com\b
+\bcustom-essaywriting\.blogspot\.com\b
+\bresearch-service\.com\b
+\bsuperiorpapers\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
