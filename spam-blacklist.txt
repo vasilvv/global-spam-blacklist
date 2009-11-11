@@ -8376,6 +8376,7 @@ lexikon\.calsky\.com
 \bcustom-essaywriting\.blogspot\.com\b
 \bresearch-service\.com\b
 \bsuperiorpapers\.com\b
+\baki-kaurismaki\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
