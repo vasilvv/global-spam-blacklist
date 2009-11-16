@@ -8390,6 +8390,33 @@ lexikon\.calsky\.com
 \bbangong-jiaju\.com\b
 \bguohaojuanlianmen\.cn\b
 \bre-shui\.cn\b
+\b021caipiao\.com\b
+\bre-shui\.cn\b
+\bbangong-jiaju\.com\b
+\bguohaojuanlianmen\.cn\b
+\bkong-tiao\.com\.cn\b
+\b021-hf\.com\.cn\b
+\bsh-jimei\.com\b
+\bshzjs56\.cn\b
+\bhywuliu56\.cn\b
+\bshanghaibaojie\.net\b
+\bjunyi56\.com\b
+\bshzhongtiekuaiyun\.cn\b
+\bshanghaizhongtie\.cn\b
+\bshcl56\.com\.cn\b
+\binmassage\.net\b
+\bshdbwlgs\.cn\b
+\bboompm\.com\b
+\bshhlkj\.com\.cn\b
+\bwei-xiu\.org\.cn\b
+\bre-shui\.cn\b
+\bweixiu818\.cn\b
+\bshhuajun\.cn\b
+\b114gf\.com\b
+\bjsjuanlianmen\.cn\b
+\bbianyaqichang\.cn\b
+\bqi-che-zu-lin\.cn\b
+\bkongtiaoweixiu6\.cn\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
