@@ -8388,6 +8388,7 @@ lexikon\.calsky\.com
 \bkob\.tj\b
 \b021caipiao\.com\b
 \bbangong-jiaju\.com\b
+\bguohaojuanlianmen\.cn\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
