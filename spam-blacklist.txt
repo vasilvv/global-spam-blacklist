@@ -8379,6 +8379,7 @@ lexikon\.calsky\.com
 \baki-kaurismaki\.ru\b
 \bmiss-cinnamon\.over-blog\.com\b
 \bsolarelectricity\.weebly\.com\b
+\btranslation-blog\.trustedtranslations\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
