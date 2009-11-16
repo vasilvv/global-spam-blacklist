@@ -8380,6 +8380,7 @@ lexikon\.calsky\.com
 \bmiss-cinnamon\.over-blog\.com\b
 \bsolarelectricity\.weebly\.com\b
 \btranslation-blog\.trustedtranslations\.com\b
+\brock-fotos\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
