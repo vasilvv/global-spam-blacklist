@@ -8382,6 +8382,7 @@ lexikon\.calsky\.com
 \btranslation-blog\.trustedtranslations\.com\b
 \brock-fotos\.de\b
 \bbluesfotos\.de\b
+\bshc\.residentevilcenter\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
