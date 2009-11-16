@@ -8387,10 +8387,6 @@ lexikon\.calsky\.com
 \blapshins\.com\b
 \bkob\.tj\b
 \b021caipiao\.com\b
-\bbangong-jiaju\.com\b
-\bguohaojuanlianmen\.cn\b
-\bre-shui\.cn\b
-\b021caipiao\.com\b
 \bre-shui\.cn\b
 \bbangong-jiaju\.com\b
 \bguohaojuanlianmen\.cn\b
