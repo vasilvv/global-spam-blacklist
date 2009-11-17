@@ -8413,6 +8413,7 @@ lexikon\.calsky\.com
 \bbianyaqichang\.cn\b
 \bqi-che-zu-lin\.cn\b
 \bkongtiaoweixiu6\.cn\b
+\bi-courses\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
