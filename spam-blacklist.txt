@@ -5315,7 +5315,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \brakastar\.com\b
 \bmarylinmonroe\.it\b
 \blogos\.com\b
-\bfanhistory\.com\b
 \bpasiontango\.net\b
 \bskyscrapervideos\.com\b
 \bthomas(carlyle)?\.eu\b
