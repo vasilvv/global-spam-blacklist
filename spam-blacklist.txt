@@ -8418,6 +8418,7 @@ lexikon\.calsky\.com
 \blomboklinks\.com\b
 \bcorallocammeitorredelgreco\.jimdo\.com\b
 \bto\b
+\bthegazette-brasil\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
