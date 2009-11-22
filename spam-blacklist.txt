@@ -8422,6 +8422,7 @@ lexikon\.calsky\.com
 \btorredelgreco\.jimdo\.com\b
 \bparconazionaledelvesuvio\.jimdo\.com\b
 \bvesuvio\.jimdo\.com\b
+\bercolano\.jimdo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
