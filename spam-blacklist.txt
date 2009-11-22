@@ -8417,6 +8417,7 @@ lexikon\.calsky\.com
 \bdarknesspirates\.es\.tl\b
 \blomboklinks\.com\b
 \bcorallocammeitorredelgreco\.jimdo\.com\b
+\bto\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
