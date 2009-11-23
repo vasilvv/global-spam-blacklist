@@ -8425,6 +8425,7 @@ lexikon\.calsky\.com
 \bercolano\.jimdo\.com\b
 \bcampania\.jimdo\.com\b
 \bportici\.jimdo\.com\b
+\bstudyguide\.com\.vn\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
