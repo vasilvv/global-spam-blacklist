@@ -8427,7 +8427,6 @@ lexikon\.calsky\.com
 \bportici\.jimdo\.com\b
 \bstudyguide\.com\.vn\b
 \boh-barcelona\.com\b
-\bveteran\.auto\.cz\b
 \bphuket\.us\.com\b
 \blandser\.org\.ua\b
 ## sbhandler_end
