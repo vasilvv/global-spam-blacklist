@@ -8428,6 +8428,7 @@ lexikon\.calsky\.com
 \bstudyguide\.com\.vn\b
 \boh-barcelona\.com\b
 \bveteran\.auto\.cz\b
+\bphuket\.us\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
