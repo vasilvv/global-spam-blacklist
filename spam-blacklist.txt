@@ -8417,7 +8417,6 @@ lexikon\.calsky\.com
 \bdarknesspirates\.es\.tl\b
 \blomboklinks\.com\b
 \bcorallocammeitorredelgreco\.jimdo\.com\b
-\bto\b
 \bthegazette-brasil\.tk\b
 \btorredelgreco\.jimdo\.com\b
 \bparconazionaledelvesuvio\.jimdo\.com\b
