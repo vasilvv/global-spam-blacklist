@@ -8429,6 +8429,8 @@ lexikon\.calsky\.com
 \blandser\.org\.ua\b
 \batasozlerianlamlari\.com\b
 \btrakyauniversitesi\.com\b
+\bkitzur\.com\b
+\bktzr\.us\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
