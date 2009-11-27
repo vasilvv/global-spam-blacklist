@@ -8433,6 +8433,7 @@ lexikon\.calsky\.com
 \bktzr\.us\b
 \bitaliaans-ijs\.com\b
 \brus-on-line\.ru\b
+\bvilshanka\.org\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
