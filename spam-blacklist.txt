@@ -8232,6 +8232,7 @@ lexikon\.calsky\.com
 \bgratisweb\.com\b
 \bxlurl\.de
 \bpromotionalmodels\.com\b
+\babqo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
