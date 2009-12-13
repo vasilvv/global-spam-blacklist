@@ -8238,6 +8238,12 @@ lexikon\.calsky\.com
 \bpd\.am\b
 \bxr\.com\b
 \blnk\.ly\b
+\bopcae\.com\b
+\bexcelreporter\.com\b
+\bopcuasupport\.com\b
+\bopcworkshops\.com\b
+\bmatrikonopc\.es\b
+\bmatrikonopc\.cn\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
