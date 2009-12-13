@@ -8244,8 +8244,13 @@ lexikon\.calsky\.com
 \bopcworkshops\.com\b
 \bmatrikonopc\.es\b
 \bmatrikonopc\.cn\b
+\bonline-betting\.me\.uk\b
+\bsoccerbetting\.info\b
+\bwettbasis\.com\b
+\bapuestas-deportivas\.es\b
+\bfussballwetten-tipps\.de\b
+\bnitelusa\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
-##asdf <-that's to find the end easily with CTRL-F
  #</pre> <!-- leave this line exactly as it is -->
