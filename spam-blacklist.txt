@@ -8237,6 +8237,7 @@ lexikon\.calsky\.com
 \bpawel72\.republika\.pl\b
 \bpd\.am\b
 \bxr\.com\b
+\blnk\.ly\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
