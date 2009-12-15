@@ -8252,6 +8252,7 @@ lexikon\.calsky\.com
 \bfussballwetten-tipps\.de\b
 \bnitelusa\.com\b
 \bindex\.com\.pe\b
+\bsocuteurl\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
