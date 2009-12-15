@@ -4859,6 +4859,7 @@ boylovernet
 \burlsmash\.com\b
 \boffto\.net\b
 \balgart\.net
+\bye-s\.com\b
 # End of URL shorteners 2
 
 \bdotcominfoway\.com\b
