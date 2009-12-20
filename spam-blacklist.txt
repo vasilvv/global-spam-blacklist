@@ -8258,6 +8258,7 @@ lexikon\.calsky\.com
 \bfunurl\.com\b
 
 \brihannanow\.fr\.cr\b
+\bairsoft-cube\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
