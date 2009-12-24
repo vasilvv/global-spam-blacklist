@@ -8260,6 +8260,8 @@ lexikon\.calsky\.com
 \brihannanow\.fr\.cr\b
 \bairsoft-cube\.com\b
 \bcasino\.ru\b
+\bcheaplvsale\.com\b
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
