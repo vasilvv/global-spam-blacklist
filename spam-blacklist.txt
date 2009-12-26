@@ -8177,7 +8177,6 @@ lexikon\.calsky\.com
 \brock-fotos\.de\b
 \bbluesfotos\.de\b
 \bshc\.residentevilcenter\.net\b
-\bopenmap\.ro\b
 \blapshins\.com\b
 \bkob\.tj\b
 \b021caipiao\.com\b
