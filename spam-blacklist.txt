@@ -8255,12 +8255,12 @@ lexikon\.calsky\.com
 \bto\.net\b
 \bgoo\.gl\b
 \bfunurl\.com\b
-
 \brihannanow\.fr\.cr\b
 \bairsoft-cube\.com\b
 \bcasino\.ru\b
 \bcheaplvsale\.com\b
-
+\b(pokerodds|slotstyle|casinotown|pokermagic|casinoroulette|roulette4you\.by)\.ru\b
+\bcasino-all\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
