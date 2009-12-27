@@ -8261,6 +8261,7 @@ lexikon\.calsky\.com
 \bcheaplvsale\.com\b
 \b(pokerodds|slotstyle|casinotown|pokermagic|casinoroulette|roulette4you\.by)\.ru\b
 \bcasino-all\.info\b
+\bpeoplesprimary\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
