@@ -6508,7 +6508,6 @@ buzz\.igg\.com
 \bfirmypuchov\.sk\b
 \bugg4sale\.com\b
 \bimagenes\.condenet\.es\b
-\bestaticos\.20minutos\.es\b
 \bfarecompare\.com\b
 \bak-kelebek\.com\b
 \bmaselectromedicina\.com\b
