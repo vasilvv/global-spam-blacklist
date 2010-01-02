@@ -8266,6 +8266,7 @@ lexikon\.calsky\.com
 \bpillandia\.blogspot\.com\b
 \bbizztripbriefing\.com\b
 \buggsbank\.com\b
+\bbizkickz\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
