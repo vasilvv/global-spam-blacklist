@@ -8270,6 +8270,7 @@ lexikon\.calsky\.com
 \baerobaticteam.blogspot.com\b
 \baerobaticteams.110mb.com\b
 \bpendek\.in\b
+\binnocentric\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
