@@ -8280,6 +8280,7 @@ lexikon\.calsky\.com
 \bsap2you\.blogspot\.com\b
 \bdarknetvpn\.com\b
 \bvpntunnel\.se\b
+\burlpass\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
