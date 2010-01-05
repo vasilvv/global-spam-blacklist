@@ -8134,7 +8134,6 @@ lexikon\.calsky\.com
 \btogoto\.us\b
 \btr\.my\b
 \btrcb\.me\b
-\btumblr\.com\b
 \btw[0125689]\.us\b
 \btwi\.gy\b
 \btwit\.ac\b
