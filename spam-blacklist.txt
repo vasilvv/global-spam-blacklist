@@ -8272,6 +8272,12 @@ lexikon\.calsky\.com
 \bpendek\.in\b
 \binnocentric\.blogspot\.com\b
 \bchicasperuanas\.com\b
+ bsap-exp\.com\b
+\barthritis-library\.com\b
+\bmesothelioma-informations\.org\b
+\bmysapsd\.com\b
+\ballsapsolution\.com\b
+\bsap2you\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
