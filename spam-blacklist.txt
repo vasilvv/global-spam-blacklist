@@ -8288,6 +8288,9 @@ lexikon\.calsky\.com
 \bmuseomagazine\.com\b
 \bamerigovespucci-theboat\.com\b
 \bshrt\.st\b
+\bredir\.ec\b
+\bmerky\.de\b
+\bomani\.ac\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
