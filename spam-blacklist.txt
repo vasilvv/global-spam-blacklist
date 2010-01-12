@@ -8293,6 +8293,7 @@ lexikon\.calsky\.com
 \bomani\.ac\b
 \bstomatology\.zp\.ua\b
 \bdartsforum\.ru\b
+\buggs4cheap\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
