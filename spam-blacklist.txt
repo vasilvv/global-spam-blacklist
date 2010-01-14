@@ -8296,6 +8296,7 @@ lexikon\.calsky\.com
 \buggs4cheap\.com\b
 \bextremesmartproducts\.com\b
 \bviviennewestwoodsale\.com\b
+\btomblands-fr\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
