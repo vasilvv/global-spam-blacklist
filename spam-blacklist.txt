@@ -8297,6 +8297,8 @@ lexikon\.calsky\.com
 \bextremesmartproducts\.com\b
 \bviviennewestwoodsale\.com\b
 \btomblands-fr\.blogspot\.com\b
+\bdiscussionshome\.com\b
+\bafricacupofnationshighlights\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
