@@ -8300,6 +8300,7 @@ lexikon\.calsky\.com
 \bdiscussionshome\.com\b
 \bafricacupofnationshighlights\.blogspot\.com\b
 \bwiki-links\.org\b
+\bwhatis\.wikidot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
