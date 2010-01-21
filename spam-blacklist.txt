@@ -8301,6 +8301,7 @@ lexikon\.calsky\.com
 \bwiki-links\.org\b
 \bwhatis\.wikidot\.com\b
 \bmoladi\.net\b
+\bbestessay\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
