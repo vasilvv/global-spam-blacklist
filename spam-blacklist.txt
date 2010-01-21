@@ -2753,7 +2753,6 @@ amantea(?:(?:online|radio|calcio)\.it|ninelmondo\.info)
 special-ringtones\.net
 \.xxell\.com
 blackcomb\.co\.uk
-centraldorap\.com
 ezpicking\.com
 song-book\.info
 anysubs\.com
