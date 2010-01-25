@@ -8304,6 +8304,15 @@ lexikon\.calsky\.com
 \bbestessay\.net\b
 \bimelda-staunton\.es\.tl\b
 \bonline\.titancasino\.com\b
+\bsltcfi\.com\b
+\brevedesign\.com\b
+\bidentitypi\.com\b
+\binstatest\.com\b
+\brapidtest\.com\b
+\bparvizshahbazi\.com\b
+\bautocondenserstore\.com\b
+\bsilverimagestudios\.com\b
+\b714dentist\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
