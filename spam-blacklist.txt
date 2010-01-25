@@ -8303,6 +8303,7 @@ lexikon\.calsky\.com
 \bmoladi\.net\b
 \bbestessay\.net\b
 \bimelda-staunton\.es\.tl\b
+\bonline\.titancasino\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
