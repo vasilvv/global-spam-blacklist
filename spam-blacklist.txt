@@ -7399,7 +7399,6 @@ xxxxxx/
 \binvx\.com\b
 \btaturkey\.net\b
 \bmoya-shkola\.info\b
-\beu-football\.info\b
 \bjimmywales\.(info|net|org)\b
 \b(jimmywales|projectorion)\.proboards\.com\b
 \bbindiirwin\.com\b
