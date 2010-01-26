@@ -8313,6 +8313,11 @@ lexikon\.calsky\.com
 \bautocondenserstore\.com\b
 \bsilverimagestudios\.com\b
 \b714dentist\.com\b
+\bkhamagmongol\.com\b
+\bhamagmongol\.narod\.ru\b
+\bbumbinorum\.ru\b
+\bbumbinorum\.com\b
+\bmandal\.ca\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
