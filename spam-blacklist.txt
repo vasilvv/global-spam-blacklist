@@ -8318,6 +8318,7 @@ lexikon\.calsky\.com
 \bbumbinorum\.com\b
 \bmandal\.ca\b
 \bantandrus\.tripod\.com\b
+\bmikemontalbanowebtv\.webs\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
