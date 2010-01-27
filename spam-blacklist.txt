@@ -8326,6 +8326,7 @@ lexikon\.calsky\.com
 \bcharmed80048436282250\.webs\.com\b
 \bangel80048436282250\.webs\.com\b
 \bbuffy80048436282250\.webs\.com\b
+\bgetlang\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
