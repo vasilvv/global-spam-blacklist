@@ -8322,6 +8322,7 @@ lexikon\.calsky\.com
 \bwebtvmikemontalbano\.webs\.com\b
 \bncis80048436282250\.webs\.com\b
 \bbones80048436282250\.webs\.com\b
+\bteennick80048436282250\.webs\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
