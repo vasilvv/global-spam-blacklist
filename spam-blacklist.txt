@@ -5607,7 +5607,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \becommerce[a-z]\.blogspot\.com\b
 \bcommerceusa\.blogspot\.com\b
 \biran(home|learn)\d?\.(blogfa|blogspot|blogtak)?\.(com|ir|net)\b
-\bcoo\.ir\b
 \bbuyuyenicerik\.com\b
 \bweb-app\.us\b
 \bmlapp\.org\b
