@@ -8335,6 +8335,7 @@ lexikon\.calsky\.com
 \bboutiqueluxuryhotelsofworld\.com\b
 \balwaystravel\.tv\b
 \bminimax\.ir\b
+\byojen\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
