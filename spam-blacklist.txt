@@ -8338,6 +8338,7 @@ lexikon\.calsky\.com
 \byojen\.com\b
 \brosecoaudit\.ru\b
 \bthewall\.de\b
+\bradiosanmiguelfm\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
