@@ -8342,6 +8342,7 @@ lexikon\.calsky\.com
 \bedithgonzalezit\.altervista\.org\b
 \bb2b-cb\.com\b
 \bb2b-club\.ru\b
+\bedithgonzalezclubinternacional\.es\.tl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
