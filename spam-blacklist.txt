@@ -8348,7 +8348,6 @@ lexikon\.calsky\.com
 \bpecunia-cash\.com\b
 \bkronikler\.com\b
 \bdadra\.ru\b
-\binfonu\.nl\b
 \blplaces\.com\b
 \bpolimore\.com\b
 ## sbhandler_end
