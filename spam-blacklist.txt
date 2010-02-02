@@ -8347,6 +8347,7 @@ lexikon\.calsky\.com
 \btranslator-club\.com\b
 \bpecunia-cash\.com\b
 \bkronikler\.com\b
+\bdadra\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
