@@ -8353,6 +8353,7 @@ lexikon\.calsky\.com
 \bproto-pic\.com\b
 \bwslibrary\.net\b
 \beng\.exchangecards\.ru\b
+\bbahchisaray\.org\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
