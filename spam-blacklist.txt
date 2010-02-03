@@ -8354,6 +8354,7 @@ lexikon\.calsky\.com
 \bwslibrary\.net\b
 \beng\.exchangecards\.ru\b
 \bbahchisaray\.org\.ua\b
+\bniggaflip\.com\b #Jamesofur 02/03/2010
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
