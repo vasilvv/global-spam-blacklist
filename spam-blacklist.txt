@@ -8151,7 +8151,6 @@ lexikon\.calsky\.com
 \bvl\.am\b
 \bwa9\.la\b
 \bwipi\.es\b
-\bwkrg\.com\b
 \bwp\.me\b
 \bx\.hypem\.com\b
 \bx\.se\b
