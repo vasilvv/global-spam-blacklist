@@ -8352,6 +8352,7 @@ lexikon\.calsky\.com
 \bpolimore\.com\b
 \bandecor\.ru\b
 \bproto-pic\.com\b
+\bwslibrary\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
