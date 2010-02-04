@@ -8346,7 +8346,6 @@ lexikon\.calsky\.com
 \bpecunia-cash\.com\b
 \bkronikler\.com\b
 \bdadra\.ru\b
-\blplaces\.com\b
 \bpolimore\.com\b
 \bandecor\.ru\b
 \bproto-pic\.com\b
