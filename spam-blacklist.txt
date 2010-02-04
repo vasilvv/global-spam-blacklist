@@ -8356,6 +8356,9 @@ lexikon\.calsky\.com
 \bbahchisaray\.org\.ua\b
 \bniggaflip\.com\b 
 \bshareflare\.net\/download\/5991\.58cef4b9f396bae48f6ff3cd5\/youtube_downloader_3\.59\.rar\.html\b
+\bjustuggboot\.com\b
+\bmyuggsale\.com\b
+\bwebuggshoes\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
