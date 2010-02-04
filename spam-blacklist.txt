@@ -1513,7 +1513,6 @@ wendideng\.(net|org)
 wendimurdoch\.com
 wikipedia[clm]\.(info|net)
 \.wikipedian\.info
-yales(?:\.info|imkin\.com)
 yowiehunter\.com
 \bganjagrower\.com\b
 \balienstarships\.com\b
