@@ -8355,6 +8355,7 @@ lexikon\.calsky\.com
 \beng\.exchangecards\.ru\b
 \bbahchisaray\.org\.ua\b
 \bniggaflip\.com\b #Jamesofur 02/03/2010
+YouTube_Downloader   #Drini ~~~~~
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
