@@ -8354,8 +8354,8 @@ lexikon\.calsky\.com
 \bwslibrary\.net\b
 \beng\.exchangecards\.ru\b
 \bbahchisaray\.org\.ua\b
-\bniggaflip\.com\b #Jamesofur 02/03/2010
-YouTube_Downloader   #Drini ~~~~~
+\bniggaflip\.com\b 
+\bshareflare\.net\/download\/5991\.58cef4b9f396bae48f6ff3cd5\/youtube_downloader_3\.59\.rar\.html\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
