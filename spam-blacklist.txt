@@ -8364,6 +8364,7 @@ lexikon\.calsky\.com
 \bweb-vector-image\.net\b
 \bdodderer\.blogspot\.com\b
 \bde-regalo\.com\b
+\bagffan\.dk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
