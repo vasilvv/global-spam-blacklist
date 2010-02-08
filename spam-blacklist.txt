@@ -8373,6 +8373,7 @@ lexikon\.calsky\.com
 \bbest-medshop\.com\b
 \byy\.vc\b
 \byy\.vc\b
+\btamazight\.forumactif\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
