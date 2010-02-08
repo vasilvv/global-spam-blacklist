@@ -8369,6 +8369,7 @@ lexikon\.calsky\.com
 \busenetforyou\.com\b
 \ballbeachtennis\.com\b
 \bmandelbrot\.sellit\.pl\b
+\bna-ozero\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
