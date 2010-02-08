@@ -8371,6 +8371,7 @@ lexikon\.calsky\.com
 \bmandelbrot\.sellit\.pl\b
 \bna-ozero\.ru\b
 \bbest-medshop\.com\b
+\byy\.vc\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
