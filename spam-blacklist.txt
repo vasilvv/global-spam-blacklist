@@ -8383,6 +8383,7 @@ lexikon\.calsky\.com
 \badultforumxtr\.com\b
 \batesburda\.com\b
 \batesbasti\.net\b
+\burloid\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
