@@ -8377,6 +8377,12 @@ lexikon\.calsky\.com
 \bsocionic\.qsh\.eu\b
 \badultwiki\.net\b
 \bfuturamahd\.ru\b
+\bcitirpartnerim\.com\b
+\bescorttr\.com\b
+\bredtubetr\.com\b
+\badultforumxtr\.com\b
+\batesburda\.com\b
+\batesbasti\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
