@@ -8388,6 +8388,7 @@ lexikon\.calsky\.com
 \bbiorhythm-calculator\.net\b
 \bamazing-cheryl\.new\.fr\b
 \baltritaliani\.net\b
+\barmavia\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
