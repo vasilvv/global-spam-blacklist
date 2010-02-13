@@ -8386,6 +8386,7 @@ lexikon\.calsky\.com
 \burloid\.com\b
 \boomphfan\.com\b
 \bbiorhythm-calculator\.net\b
+\bamazing-cheryl\.new\.fr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
