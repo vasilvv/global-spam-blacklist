@@ -8391,6 +8391,7 @@ lexikon\.calsky\.com
 \barmavia\.org\b
 \bclipproject\.info\b
 \bwikipediahatescheerleaders\.blogspot\.com\b
+\bthearcademagazine\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
