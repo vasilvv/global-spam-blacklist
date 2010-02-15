@@ -8395,6 +8395,7 @@ lexikon\.calsky\.com
 \btt-group\.net\b
 \brankingoficialuruguay\.blogspot\.com\b
 \bbuscabairro\.com\.br\b
+\bnvros\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
