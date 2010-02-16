@@ -8396,6 +8396,16 @@ lexikon\.calsky\.com
 \brankingoficialuruguay\.blogspot\.com\b
 \bbuscabairro\.com\.br\b
 \bnvros\.ru\b
+\bterm-paper-research\.com\b
+\bessayontime\.com\b
+\banypapers\.com\b
+\bessaywriters\.net\b
+\brushessay\.com\b
+\bbestdissertation\.com\b
+\bmightystudents\.com\b
+\bessaydot\.com\b
+\bonline-sport-betting\.org\b
+\bslots-machines-online\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
