@@ -8410,6 +8410,7 @@ lexikon\.calsky\.com
 \bbesttermpapers\.net\b
 \bresumesplanet\.com\b
 \bterm-paper\.biz\b
+\bimagesfreehost\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
