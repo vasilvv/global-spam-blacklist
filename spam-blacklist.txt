@@ -8417,6 +8417,7 @@ lexikon\.calsky\.com
 \balternativaproletaria\.wordpress\.com\b
 \btowerdefence\.be\b
 \basturiasenimagenes\.com\b
+\bbilet-kiev\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
