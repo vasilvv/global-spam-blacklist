@@ -8416,6 +8416,7 @@ lexikon\.calsky\.com
 \bpregnantcornbread\.com\b
 \balternativaproletaria\.wordpress\.com\b
 \btowerdefence\.be\b
+\basturiasenimagenes\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
