@@ -8414,6 +8414,7 @@ lexikon\.calsky\.com
 \bmaxiocio\.net\b
 \bcerezasladulce\.com\b
 \bpregnantcornbread\.com\b
+\balternativaproletaria\.wordpress\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
