@@ -8419,6 +8419,8 @@ lexikon\.calsky\.com
 \basturiasenimagenes\.com\b
 \bbilet-kiev\.narod\.ru\b
 \bautorepairinmesa\.com\b
+\bshadyurl\.com\b
+\b5z8\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
