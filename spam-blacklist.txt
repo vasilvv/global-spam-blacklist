@@ -8422,6 +8422,7 @@ lexikon\.calsky\.com
 \bshadyurl\.com\b
 \b5z8\.info\b
 \balice\.3dn\.ru\b
+\balbano-romina\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
