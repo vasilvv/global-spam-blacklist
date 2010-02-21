@@ -465,7 +465,7 @@ all\.yard\.ru
 sleepgoodmusic\.com
 w9uh\.info
 \bnimp\.org\b
-
+loldongs
 # URL shorteners
 \b0rz\.tw\b
 \bleenk\.org
