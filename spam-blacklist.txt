@@ -8428,6 +8428,7 @@ lexikon\.calsky\.com
 \bstresa\.com\b
 \bbaseavalancha\.mforos\.com\b
 \bmybbgrup\.com\b
+\boskemen\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
