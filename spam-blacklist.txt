@@ -8435,6 +8435,7 @@ lexikon\.calsky\.com
 \bpillmedical\.com\b
 \bcode-saturne\.blogspot\.com\b
 \bbudgetlandscapes\.co\.uk\b
+\bregim-hotelier\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
