@@ -8439,6 +8439,7 @@ lexikon\.calsky\.com
 \bbeetours\.com\b
 \bbudgetgardening\.co\.uk\b
 \bgsxr\.es\b
+\bc2kb\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
