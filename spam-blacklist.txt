@@ -8441,6 +8441,7 @@ lexikon\.calsky\.com
 \bgsxr\.es\b
 \bc2kb\.com\b
 \bhentaitoonami\.com\b
+\bpartytrip\.fr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
