@@ -8446,6 +8446,7 @@ lexikon\.calsky\.com
 \bblconsulting\.com\.hk\b
 \buigres87\.net\b
 \bbuystarcraft2today\.com\b
+\b12mesyatcev\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
