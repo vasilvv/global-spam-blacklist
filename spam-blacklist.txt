@@ -8444,6 +8444,7 @@ lexikon\.calsky\.com
 \bpartytrip\.fr\b
 \bmeigalicia\.com\b
 \bblconsulting\.com\.hk\b
+\buigres87\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
