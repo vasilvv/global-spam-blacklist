@@ -8452,6 +8452,7 @@ lexikon\.calsky\.com
 \brodreamers\.es\b
 \bkarelgott\.tv\b
 \bkomputersaya\.com\b
+\bweb20\.su\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
