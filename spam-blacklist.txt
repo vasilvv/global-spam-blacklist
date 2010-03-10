@@ -8462,6 +8462,7 @@ lexikon\.calsky\.com
 \bsiver\.org\.ua\b
 \bdragon-fruit\.biz\b
 \bliga1\.gamebookers\.com\b
+\bazov\.zp\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
