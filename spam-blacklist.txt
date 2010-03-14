@@ -8474,6 +8474,7 @@ lexikon\.calsky\.com
 \blimametro\.blogspot\.com\b
 \blimametro\.blogspot\.com\b
 \bleo-fl\.hit\.bg\b
+\bserfinaz\.com/p\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
