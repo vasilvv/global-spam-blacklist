@@ -8477,6 +8477,7 @@ lexikon\.calsky\.com
 \bserfinaz\.com/p\b
 \b7les\.com\b
 \bforum42\.ru\b
+\bhukukiktisatforumu\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
