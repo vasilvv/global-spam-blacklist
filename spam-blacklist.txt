@@ -8478,6 +8478,21 @@ lexikon\.calsky\.com
 \b7les\.com\b
 \bforum42\.ru\b
 \bhukukiktisatforumu\.net\b
+\bmksoley.com\b
+\bsoley.cn\b
+\bseawaterfarming.com\b
+\balgaecollection.com\b
+\bdeprem.tv\b
+\bmankenlik.com\b
+\balgaecenter.com\b
+\bphycocyanin.in\b
+\bmicroalgae.ca\b
+\bsoleymedikal.com.tr\b
+\bmicroalgaeoil.net\b
+\bcomapfa.com\b
+\bsoley.edu.ms\b
+\balgaeinstitute.com\b
+\bphycobilin.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
