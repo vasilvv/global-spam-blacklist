@@ -8476,6 +8476,7 @@ lexikon\.calsky\.com
 \bleo-fl\.hit\.bg\b
 \bserfinaz\.com/p\b
 \b7les\.com\b
+\bforum42\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
