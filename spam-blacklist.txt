@@ -8493,6 +8493,7 @@ lexikon\.calsky\.com
 \bsoley\.edu\.ms\b
 \balgaeinstitute\.com\b
 \bphycobilin\.net\b
+\bsoso\.bz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
