@@ -8336,8 +8336,7 @@ lexikon\.calsky\.com
 \bthewall\.de\b
 \bradiosanmiguelfm\.blogspot\.com\b
 \bedithgonzalezit\.altervista\.org\b
-\bb2b-cb\.com\b
-\bb2b-club\.ru\b
+\bb2b-c(?:b\.com|lub\.ru)\b
 \bedithgonzalezclubinternacional\.es\.tl\b
 \binfonu\.nl\b
 \btranslator-club\.com\b
@@ -8351,7 +8350,7 @@ lexikon\.calsky\.com
 \beng\.exchangecards\.ru\b
 \bbahchisaray\.org\.ua\b
 \bniggaflip\.com\b 
-\bshareflare\.net\/download\/5991\.58cef4b9f396bae48f6ff3cd5\/youtube_downloader_3\.59\.rar\.html\b
+\bshareflare\.net/download/5991\.58cef4b9f396bae48f6ff3cd5/youtube_downloader_3\.59\.rar\.html\b
 \bjustuggboot\.com\b
 \bmyuggsale\.com\b
 \bwebuggshoes\.com\b
@@ -8471,7 +8470,6 @@ lexikon\.calsky\.com
 \bixiz\.net\b
 \byrmz\.com\b
 \blimametro\.blogspot\.com\b
-\blimametro\.blogspot\.com\b
 \bleo-fl\.hit\.bg\b
 \bserfinaz\.com/p\b
 \b7les\.com\b
@@ -8493,9 +8491,10 @@ lexikon\.calsky\.com
 \balgaeinstitute\.com\b
 \bphycobilin\.net\b
 \bsoso\.bz\b
-\buggbootsuk\.org\b
-\buggsboot\.de\b
+\bugg(?:bootsuk\.org|sboot\.de)\b
 \bgouggs\.com\b
+\bgematrix\.org
+camica\.netfirms\.com/gematria/
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
