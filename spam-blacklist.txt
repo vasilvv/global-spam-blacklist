@@ -8496,6 +8496,7 @@ lexikon\.calsky\.com
 \bgematrix\.org
 camica\.netfirms\.com/gematria/
 \btrancepodium\.com\b
+\btraveltibetguide\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
