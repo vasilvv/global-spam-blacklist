@@ -8500,6 +8500,7 @@ camica\.netfirms\.com/gematria/
 \bveoseries\.tv\b
 \bawesomegrow\.org\b
 \bblcremationsystems\.com\b
+\bsuper-alizee\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
