@@ -8506,6 +8506,7 @@ camica\.netfirms\.com/gematria/
 \bmegashare\.com\b
 \bchinesepaladin3\.windy-goddess\.net\b
 \bwillysjeep\.com\b
+\bhelpjaycee\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
