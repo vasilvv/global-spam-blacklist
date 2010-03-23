@@ -8509,6 +8509,7 @@ camica\.netfirms\.com/gematria/
 \bheyrheyr\.is\b
 \binfogradina\.ro\b
 \bvivedeporte\.com\b
+\brorysfriends\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
