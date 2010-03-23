@@ -8512,6 +8512,7 @@ camica\.netfirms\.com/gematria/
 \brorysfriends\.com\b
 \bmiamipeople\.ru\b
 \bshareflare\.net\b
+\bxepnya\.org\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
