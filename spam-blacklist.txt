@@ -8459,7 +8459,6 @@ lexikon\.calsky\.com
 \bromania-vacations\.com\b
 \bsiver\.org\.ua\b
 \bdragon-fruit\.biz\b
-\bliga1\.gamebookers\.com\b
 \bazov\.zp\.ua\b
 \beldespertardelmusico\.blogspot\.com\b
 \bauditionrich\.com\b
