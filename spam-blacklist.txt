@@ -8515,6 +8515,7 @@ camica\.netfirms\.com/gematria/
 \bdeine-erfindung\.de\b
 \bhamaka\.huu\.cz\b
 \bkayzen\.az\b
+\baromats\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
