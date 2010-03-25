@@ -8518,6 +8518,7 @@ camica\.netfirms\.com/gematria/
 \baromats\.info\b
 \bmbtforcheap\.com\b
 \bletrasjohnfrusciante\.wordpress\.com\b
+\bthreelittlebirds\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
