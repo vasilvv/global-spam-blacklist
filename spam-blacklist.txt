@@ -8358,7 +8358,6 @@ lexikon\.calsky\.com
 \bbud-tech\.ru\b
 \bcarvings\.org\.ua\b
 \bweb-vector-image\.net\b
-\bdodderer\.blogspot\.com\b
 \bde-regalo\.com\b
 \bagffan\.dk\b
 \bfolkblog\.in\.ua\b
