@@ -8520,6 +8520,7 @@ camica\.netfirms\.com/gematria/
 \bletrasjohnfrusciante\.wordpress\.com\b
 \bthreelittlebirds\.pl\b
 \bfcoe\.ru\b
+\bdobrzenieccy\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
