@@ -8521,6 +8521,9 @@ camica\.netfirms\.com/gematria/
 \bfcoe\.ru\b
 \bdobrzenieccy\.pl\b
 \b69\.64\.63\.153/redirect\.php\b
+\bmedicanalife\.org\b
+\bmedicanalife\.net\b
+\bbelawela\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
