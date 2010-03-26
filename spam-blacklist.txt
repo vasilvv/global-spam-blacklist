@@ -8520,6 +8520,7 @@ camica\.netfirms\.com/gematria/
 \bthreelittlebirds\.pl\b
 \bfcoe\.ru\b
 \bdobrzenieccy\.pl\b
+\b69\.64\.63\.153/redirect\.php\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
