@@ -8524,6 +8524,7 @@ camica\.netfirms\.com/gematria/
 \bmedicanalife\.org\b
 \bmedicanalife\.net\b
 \bbelawela\.com\b
+\bnsever\.org\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
