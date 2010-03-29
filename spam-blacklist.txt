@@ -8528,6 +8528,7 @@ camica\.netfirms\.com/gematria/
 \bordago-olite\.es\b
 \bgsm-kharkov\.com\.ua\b
 \bshotgunsolutionpaytodie\.blogspot\.com\b
+\bayak\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
