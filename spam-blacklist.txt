@@ -8535,6 +8535,7 @@ camica\.netfirms\.com/gematria/
 \bseslimola\.com\b
 \b777slot\.at\.ua\b
 \belizabethselwyn\.50webs\.com\b
+\bguard-soft\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
