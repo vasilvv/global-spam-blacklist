@@ -8530,6 +8530,7 @@ camica\.netfirms\.com/gematria/
 \bshotgunsolutionpaytodie\.blogspot\.com\b
 \bayak\.org\b
 \bexpresspol\.ru\b
+\bqytetet\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
