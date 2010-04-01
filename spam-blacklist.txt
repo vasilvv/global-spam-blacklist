@@ -8532,6 +8532,7 @@ camica\.netfirms\.com/gematria/
 \bexpresspol\.ru\b
 \bqytetet\.org\b
 \bmazdafreunde\.de\b
+\bseslimola\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
