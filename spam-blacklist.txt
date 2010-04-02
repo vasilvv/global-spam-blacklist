@@ -8539,6 +8539,7 @@ camica\.netfirms\.com/gematria/
 \bbodybuildingrevealed\.com\b
 \bservicescleans\.com\b
 \bdie-bildersammlung\.de\b
+\bdezboys\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
