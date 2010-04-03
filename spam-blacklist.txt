@@ -8542,6 +8542,7 @@ camica\.netfirms\.com/gematria/
 \bdezboys\.com\b
 \btravelkefalonia\.com\b
 \bfree2g1c\.com\b
+\btelefon-numarasi\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
