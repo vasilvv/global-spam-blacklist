@@ -8545,6 +8545,7 @@ camica\.netfirms\.com/gematria/
 \btelefon-numarasi\.com\b
 \bsapaninka\.com\b
 \bpsi-test\.ru\b
+\bamberabg\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
