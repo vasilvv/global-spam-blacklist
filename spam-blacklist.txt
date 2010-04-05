@@ -1812,7 +1812,6 @@ bjicp\.net
 newboyu\.com
 digital-projector\.net
 \.ponytest\.com
-[0-9]+flower\.com
 nbflashlights\.com
 -bidet\.com
 google163\.net
