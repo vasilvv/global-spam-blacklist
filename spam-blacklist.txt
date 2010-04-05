@@ -8551,6 +8551,7 @@ camica\.netfirms\.com/gematria/
 \bprolocopasiandiprato\.org\b
 \bmicrosoftproject\.su\b
 \blagunavirtual\.com\b
+\bleblancsamedresort\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
