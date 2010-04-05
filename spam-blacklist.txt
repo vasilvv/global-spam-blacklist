@@ -8554,6 +8554,7 @@ camica\.netfirms\.com/gematria/
 \bkoninginnedagamsterdam\.nl\b
 \bprime-time\.ru\b
 \bsexinbucharest\.com\b
+\bchinarollformingmachine\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
