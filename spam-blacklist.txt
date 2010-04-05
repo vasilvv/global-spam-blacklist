@@ -8553,6 +8553,7 @@ camica\.netfirms\.com/gematria/
 \blagunavirtual\.com\b
 \bleblancsamedresort\.com\b
 \bkoninginnedagamsterdam\.nl\b
+\bprime-time\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
