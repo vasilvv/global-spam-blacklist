@@ -8561,6 +8561,7 @@ camica\.netfirms\.com/gematria/
 \bwebauditing\.org\b
 \bpokemongamesnow\.com\b
 \bstart\.com\.mt\b
+\bdniprowazirka\.com\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
