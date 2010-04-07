@@ -8569,6 +8569,15 @@ camica\.netfirms\.com/gematria/
 \borthomatic\.net\b
 \bzizum\.com\b
 \bti89\.com\b  
+\btorrentflux\.blogspot\.com\b
+\bsmoking-calculator\.com\b
+\bolympus-e420\.blogspot\.com\b
+\bfuturama-opening-gags\.blogspot\.com\b
+\bnerd-characteristics\.blogspot\.com\b
+\bchangluncity\.blogspot\.com\b
+\binternet-niche-marketing\.blogspot\.com\b
+\badsense-skyline\.blogspot\.com\b
+\bumusu\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
