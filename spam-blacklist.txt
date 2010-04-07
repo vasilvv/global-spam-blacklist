@@ -8568,6 +8568,7 @@ camica\.netfirms\.com/gematria/
 \bkitdetox\.com\b
 \borthomatic\.net\b
 \bzizum\.com\b
+\bti89\.com\b  
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
