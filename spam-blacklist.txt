@@ -8581,6 +8581,35 @@ camica\.netfirms\.com/gematria/
 \bflood\.tforums\.org\b
 \biznikgifts\.com\b
 \bsoweirdwebpageofficialsite\.blogspot\.com\b
+\bairforcefansite\.com\b
+\balabamafansite\.com\b
+\bbyufansite\.com\b
+\bboisestatefansite\.com\b
+\bbostoncollegefansite\.com\b
+\bcaliforniafansite\.com\b
+\bgeorgiafansite\.com\b
+\billinoisfansite\.com\b
+\bindianafansite\.com\b
+\biowafootballfansite\.com\b
+\bjameselle\.com\b
+\blsufansite\.com\b
+\bmiamifansite\.com\b
+\bmichiganfansite\.com\b
+\bminnesotafansite\.com\b
+\bnebraskafansite\.com\b
+\bnflfootballfansite\.com\b
+\bnotredamefansite\.com\b
+\bohiostatefansite\.net\b
+\boklahomafansite\.com\b
+\boregonfansite\.com\b
+\bpurduefansite\.com\b
+\brutgersfansite\.com\b
+\bsouthcarolinafansite\.com\b
+\bsouthfloridafansite\.com\b
+\btexasfansite\.com\b
+\buclafansite\.com\b
+\bvirginiatechfansite\.com\b
+\bwisconsinfansite\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
