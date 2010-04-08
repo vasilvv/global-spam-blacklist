@@ -8611,6 +8611,7 @@ camica\.netfirms\.com/gematria/
 \bvirginiatechfansite\.com\b
 \bwisconsinfansite\.com\b
 \bwellspringwatersystems\.com\b
+\bdespertaibereanos\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
