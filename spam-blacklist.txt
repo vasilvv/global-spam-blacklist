@@ -8700,6 +8700,7 @@ camica\.netfirms\.com/gematria/
 \bonkyapaartinyacinta\.blogspot\.com\b
 \bavenged-sevenfold\.web\.id\b
 \bmobilegamezone\.info\b
+\bnyepakbola\.info\b 
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
