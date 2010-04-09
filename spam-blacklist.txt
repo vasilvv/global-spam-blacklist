@@ -8614,6 +8614,7 @@ camica\.netfirms\.com/gematria/
 \bdespertaibereanos\.blogspot\.com\b
 \bsumasax\.es\b
 \bibuy\.co\.th\b
+\btodoliteratura\.es\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
