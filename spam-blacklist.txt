@@ -8682,6 +8682,24 @@ camica\.netfirms\.com/gematria/
 \bwashingtonfansite\.com\b
 \bwashingtonredskinsfansite\.com\b
 \bwestvirginiafansite\.com\b
+\blaptopvsgadget\.blogspot\.com\b
+\bjualbelipaypals\.blogspot\.com\b
+\bardhie\.info\b
+\bcatatansiboyiiii\.blogspot\.com\b
+\bentretenidosycontrolados\.info\b
+\bskiptest\.info\b
+\bkristalkristalcinta\.blogspot\.com\b
+\bcatatansiboy1\.blogspot\.com\b
+\bcatatansiboyii\.blogspot\.com\b
+\bpacarketinggalankereta\.blogspot\.com\b
+\bcatatansiboyonky\.blogspot\.com\b
+\btaxijuga\.blogspot\.com\b
+\bcatatansiboyiiii\.blogspot\.com\b
+\bcatatansiboyiiiii\.blogspot\.com\b
+\bnamakujoeboy\.blogspot\.com\b
+\bonkyapaartinyacinta\.blogspot\.com\b
+\bavenged-sevenfold\.web\.id\b
+\bmobilegamezone\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
