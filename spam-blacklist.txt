@@ -8612,6 +8612,7 @@ camica\.netfirms\.com/gematria/
 \bwisconsinfansite\.com\b
 \bwellspringwatersystems\.com\b
 \bdespertaibereanos\.blogspot\.com\b
+\bsumasax\.es\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
