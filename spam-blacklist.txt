@@ -8619,6 +8619,7 @@ camica\.netfirms\.com/gematria/
 \bshowbol\.eu\b
 \bmicroflex-services\.de\b
 \belectronicmusicfree\.com\b
+\bib-info\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
