@@ -8702,6 +8702,13 @@ camica\.netfirms\.com/gematria/
 \bmobilegamezone\.info\b
 \bnyepakbola\.info\b 
 \bgioieditalia\.com\b
+\bsicilia-by-divino\.com\b
+\bumbria-by-divino\.com\b
+\bpositano-by-divino\.com\b
+\btuscany-by-divino\.com\b
+\btuscany-travel\.blogspot\.com\b
+\byourtuscanvilla\.com\b
+\bholiday-apartment-tuscany\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
