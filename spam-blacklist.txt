@@ -8720,6 +8720,7 @@ camica\.netfirms\.com/gematria/
 \bnovportal\.ru\b
 \bprettylittleliarsss\.webs\.com\b
 \bplanestv\.com\b
+\bapartamentosgomera\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
