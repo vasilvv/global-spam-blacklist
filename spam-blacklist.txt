@@ -8714,6 +8714,7 @@ camica\.netfirms\.com/gematria/
 \bernodaronline\.usersboard\.net\b
 \bstarstube\.narod\.ru\b
 \binsset\.u-picardie\.fr\b
+\bfolk-craft\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
