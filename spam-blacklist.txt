@@ -8719,6 +8719,7 @@ camica\.netfirms\.com/gematria/
 \bwelovecock\.com\b
 \bnovportal\.ru\b
 \bprettylittleliarsss\.webs\.com\b
+\bplanestv\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
