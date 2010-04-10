@@ -8712,6 +8712,7 @@ camica\.netfirms\.com/gematria/
 \bturismo-toscana\.blogspot\.com\b
 \bguia-sicilia\.blogspot\.com\b
 \bernodaronline\.usersboard\.net\b
+\bstarstube\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
