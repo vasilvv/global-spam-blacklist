@@ -8716,6 +8716,7 @@ camica\.netfirms\.com/gematria/
 \binsset\.u-picardie\.fr\b
 \bfolk-craft\.com\b
 \bnasyidparadise\.blogspot\.com\b
+\bwelovecock\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
