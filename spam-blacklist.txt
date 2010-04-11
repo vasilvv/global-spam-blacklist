@@ -8724,6 +8724,10 @@ camica\.netfirms\.com/gematria/
 \bhot-map\.com\b 
 \bamarun\.org\b 
 \bpegiovanni\.com\b
+\btibiahelp\.com\b
+\baerocardio\.com\b
+\bdiabetia\.org\b
+\bbakrecepten\.se\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
