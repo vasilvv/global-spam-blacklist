@@ -8730,6 +8730,7 @@ camica\.netfirms\.com/gematria/
 \bbakrecepten\.se\b
 \bclassd\.com\.es\b
 \bclassd.co\.uk\b
+\battuariale\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
