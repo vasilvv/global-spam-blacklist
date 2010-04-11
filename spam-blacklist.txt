@@ -8735,6 +8735,18 @@ camica\.netfirms\.com/gematria/
 \belissacafe\.com\b
 \bmailwriter\.com\b
 \bnationaldebtclocks\.com\b
+\b8americain\.org\b
+\bbelote-ligne\.fr\b
+\bbouillotte\.eboaz\.com\b
+\bbrumisateurs\.eboaz\.com\b
+\bchapka\.eboaz\.com\b
+\bdamedepique\.eboaz\.com\b
+\bdamedepique\.info\b
+\bjeudebelote\.org\b
+\bjeutarot\.org\b
+\bparier-sport\.info\b
+\bscommesse-sportive\.cc\b
+\btypy-bukmacherskie\.com\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
