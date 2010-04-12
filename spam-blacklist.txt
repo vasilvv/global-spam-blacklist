@@ -8747,6 +8747,15 @@ camica\.netfirms\.com/gematria/
 \bparier-sport\.info\b
 \bscommesse-sportive\.cc\b
 \btypy-bukmacherskie\.com\.pl\b
+\barequipainfo\.com\b
+\barequipatravel\.com\b
+\bcolca\.info\b
+\bcotahuasicanyon\.com\b
+\bdirectorioarequipa\.com\b
+\bforosarequipa\.com\b
+\binfocolca\.com\b
+\bmollendo\.net\b
+\btodoarequipa\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
