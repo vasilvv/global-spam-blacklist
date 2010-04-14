@@ -8771,6 +8771,7 @@ camica\.netfirms\.com/gematria/
 \bvipskrip\.ru\b
 \bamalfitancoast\.com\b
 \bamigosdevillatuelda\.spaces\.live\.com\b
+\binkoob\.com\/cruzroja\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
