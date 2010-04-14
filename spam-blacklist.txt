@@ -8761,6 +8761,7 @@ camica\.netfirms\.com/gematria/
 \bbt\.gd\b
 \bthemysterymethod\.net\b
 \bmysterypua\.net\b
+\barea51lifestyle\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
