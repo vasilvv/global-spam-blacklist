@@ -8768,6 +8768,7 @@ camica\.netfirms\.com/gematria/
 \bgreatoceanroadtours\.com\b
 \bbluemountaintours\.com\.au\b
 \b4solarpanels\.com\b
+\bvipskrip\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
