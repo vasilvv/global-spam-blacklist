@@ -8760,6 +8760,7 @@ camica\.netfirms\.com/gematria/
 \bhuaweie220\.com\b
 \bbt\.gd\b
 \bthemysterymethod\.net\b
+\bmysterypua\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
