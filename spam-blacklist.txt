@@ -8779,6 +8779,7 @@ camica\.netfirms\.com/gematria/
 \btheaterseatstore\.com\b
 \bvipnightlifetour\.com\b
 \btripfilms\.com\b
+\bis\.gd\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
