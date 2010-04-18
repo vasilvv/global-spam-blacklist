@@ -8785,6 +8785,10 @@ camica\.netfirms\.com/gematria/
 \bwftpserver\.com\b
 \bftprush\.com\b
 \bseop\.com\b
+\bsleepapneasymptoms\.info\b 
+\bvitaminefacts\.info\b
+\bkidney-disease\.info\b
+\bacidreflux-disease\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
