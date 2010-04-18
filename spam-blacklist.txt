@@ -8789,6 +8789,9 @@ camica\.netfirms\.com/gematria/
 \bvitaminefacts\.info\b
 \bkidney-disease\.info\b
 \bacidreflux-disease\.info\b
+\bandroidlife\.net\b
+\bandroid-tr\.com\b
+\bandroiddestek\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
