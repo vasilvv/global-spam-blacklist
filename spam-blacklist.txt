@@ -8793,6 +8793,7 @@ camica\.netfirms\.com/gematria/
 \bandroid-tr\.com\b
 \bandroiddestek\.com\b
 \bmanofart\.com\b
+\bharz-ferienwohnung-ferienhaus\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
