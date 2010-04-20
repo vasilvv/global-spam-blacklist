@@ -8794,6 +8794,28 @@ camica\.netfirms\.com/gematria/
 \bandroiddestek\.com\b
 \bmanofart\.com\b
 \bharz-ferienwohnung-ferienhaus\.de\b
+\bapparelus\.com\b
+\baustralian-visa-info\.blogspot\.com\b
+\baviationmodelworks\.com\b
+\bbicolanobiron\.webs\.com\b
+\bchildrenswonderland\.com\b
+\bdiagnosticautomation\.com\b
+\belegant-fashion-4men\.blogspot\.com\b
+\bextreme-gamelist\.com\b
+\bintelifi\.com\b
+\bjustlabcoats\.com\b
+\bkstinoco\.blogsome\.com\b
+\bmens-suit\.blogspot\.com\b
+\bmountmayon\.blogspot\.com\b
+\bnationalvisas\.com\.au\b
+\bpillsless\.com\b
+\bplasticosfoundation\.org\b
+\bprevawater101\.wordpress\.com\b
+\bsupremeautoparts\.com\b
+\bsupremecondensers\.com\b
+\bsuprememirror\.com\b
+\bultimateautolights\.com\b
+\bwholesaleappareldirect\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
