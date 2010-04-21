@@ -8817,6 +8817,7 @@ camica\.netfirms\.com/gematria/
 \bultimateautolights\.com\b
 \bwholesaleappareldirect\.com\b
 \blease-a-seo\.com\b
+\bhuaweie220\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
