@@ -2561,7 +2561,6 @@ b0ne\.com
 slyip\.net
 gotgeeks\.com
 3d-game\.com
-is-a-geek\.com
 soma\.homelinux\.com
 
 ## 2005-05 ([[Spam blacklist/Log]])
