@@ -1474,7 +1474,7 @@ alien(life|news)\.info
 amateurspaceflight\.com
 \.artofwar\.name
 atomicrockets\.com
-badastronom(er|y)\.com
+\bbadastronomer\.com\b
 bindiirwin\.info
 carlsagan\.info
 chloemurdoch\.com
