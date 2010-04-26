@@ -8822,6 +8822,7 @@ camica\.netfirms\.com/gematria/
 \balresim\.com\b
 \btatuturkey\.net\b
 \bmazidagim\.com\b
+\baviacioncivil\.com\.ve\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
