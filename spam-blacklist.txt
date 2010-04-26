@@ -8824,6 +8824,7 @@ camica\.netfirms\.com/gematria/
 \bmazidagim\.com\b
 \baviacioncivil\.com\.ve\b
 \bminoxidil\.gen\.tr\b
+\bchatroulet\.gen\.tr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
