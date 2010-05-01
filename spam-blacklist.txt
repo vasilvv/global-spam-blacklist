@@ -8825,7 +8825,6 @@ camica\.netfirms\.com/gematria/
 \baviacioncivil\.com\.ve\b
 \bminoxidil\.gen\.tr\b
 \bchatroulet\.gen\.tr\b
-\bhuaweie220\.org\b
 \bhuaweie220\.com\b
 \bhuaweie220\.net\b
 \bhuaweie220\.org\b
