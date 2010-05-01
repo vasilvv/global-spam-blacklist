@@ -8826,6 +8826,11 @@ camica\.netfirms\.com/gematria/
 \bminoxidil\.gen\.tr\b
 \bchatroulet\.gen\.tr\b
 \bhuaweie220\.org\b
+\bhuaweie220\.com\b
+\bhuaweie220\.net\b
+\bhuaweie220\.org\b
+\bhuaweie220\.biz\b
+\bhuaweie220\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
