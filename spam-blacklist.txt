@@ -8830,6 +8830,7 @@ camica\.netfirms\.com/gematria/
 \bhuaweie220\.org\b
 \bhuaweie220\.biz\b
 \bhuaweie220\.info\b
+\bobouka\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
