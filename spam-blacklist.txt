@@ -8854,6 +8854,7 @@ camica\.netfirms\.com/gematria/
 \bozelbayrak\.gen\.tr\b
 \bturkbayragi\.gen\.tr\b
 \bucuzbayrak\.com\b
+\btheudaipurhotels\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
