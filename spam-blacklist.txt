@@ -8858,6 +8858,10 @@ camica\.netfirms\.com/gematria/
 \bcheappoolproducts\.com\b
 \bovernightpools\.com\b
 \bmyczechonline\.com\b    
+\bcostabrava-rentals\.co\.uk\b
+\blocations-vacances-costabrava\.com\b
+\bfinquesfrigola\.com\b
+\bryanair-girona\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
