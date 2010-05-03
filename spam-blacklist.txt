@@ -8831,6 +8831,29 @@ camica\.netfirms\.com/gematria/
 \bhuaweie220\.biz\b
 \bhuaweie220\.info\b
 \bobouka\.ru\b
+\bavrupabayrak\.com\b
+\baybayrak-tr\.com\b
+\baybayrak\.com\b
+\bbayrak\.gen\.tr\b
+\bbayrakajans\.com\b
+\bbayrakci\.biz\.tr\b
+\bbayrakevim\.com\b
+\bbayrakimalatcilari\.com\b
+\bbayrakimalati\.gen\.tr\b
+\bbayrakline\.com\b
+\bbayraknedir\.com\b
+\bbayrakresimleri\.gen\.tr\b
+\bbayraksatinal\.com\b
+\bbayraksatisi\.gen\.tr\b
+\bbayrakturk\.com\b
+\bdigitaltekstil\.com\b
+\bdijitalbaski\.gen\.tr\b
+\bizzetadar\.com\.tr\b
+\bkibrisbayrak\.com\b
+\bmarmarabayrak\.com\b
+\bozelbayrak\.gen\.tr\b
+\bturkbayragi\.gen\.tr\b
+\bucuzbayrak\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
