@@ -8868,6 +8868,19 @@ camica\.netfirms\.com/gematria/
 \btibbisuluk\.com\b
 \bdoktorsuluk\.com\b
 \bleechesturkey\.com\b
+\basytekstil\.com\b
+\bbayrak\.tv \b
+\bbayraksatis\.com\b
+\bbayraksatisi\.com\b
+\besarpim\.com\.tr\b
+\beskidjinakliyat\.com\b
+\bfulminaksesuar\.com\b
+\bmadalyacilar\.com\b
+\bmadalyam\.com\b
+\bmasabayragi\.com\b
+\bomergida\.com\b
+\bsancakbayrak\.com\b
+\bturkiyebayragi\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
