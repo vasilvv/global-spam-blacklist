@@ -8867,6 +8867,7 @@ camica\.netfirms\.com/gematria/
 \blindaolsson\.com\b
 \btibbisuluk\.com\b
 \bdoktorsuluk\.com\b
+\bleechesturkey\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
