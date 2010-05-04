@@ -8863,6 +8863,8 @@ camica\.netfirms\.com/gematria/
 \bfinquesfrigola\.com\b
 \bryanair-girona\.com\b
 \bfilmfarsi\.blogfa\.com\b
+\bkellyvogel\.com\b
+\blindaolsson\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
