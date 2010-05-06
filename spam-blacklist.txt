@@ -8935,6 +8935,7 @@ camica\.netfirms\.com/gematria/
 \bfreewebs\.com/greatnutri\b
 \bsauditrades\.com\b
 \bsaudicommerce\.com\b
+\bsuperiorthesis\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
