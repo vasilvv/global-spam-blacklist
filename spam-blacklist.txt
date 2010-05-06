@@ -8916,6 +8916,25 @@ camica\.netfirms\.com/gematria/
 \blecollagiste\.com\b
 \balbania4ever\.com\b
 \byouflorence\.it\b 
+\bdissertationwritinghelp\.co\.uk\b
+\bthewholesaleforums\.co\.uk\b
+\balibabascam\.com\b
+\bb2bfreezone\.com\b
+\bcable-glossary\.blogspot\.com\b
+\btradekey\.com\b
+\brawalpindi\.city\.blogspot\.com\b
+\bhatedenmark\.blogspot\.com\b
+\beyecatchypics\.com\b
+\bgreatnutri\.blogspot\.com\b
+\brawalpindi-islamabad\.blogspot\.com\b
+\brawalpindicity\.wordpress\.com\b
+\bstarherb\.com\b
+\bdoors-decorations\.blogspot\.com\b
+\bequipment-machinery-information\.blogspot\.com\b
+\brawalpindi-city\.blogspot\.com\b
+\bfreewebs\.com/greatnutri\b
+\bsauditrades\.com\b
+\bsaudicommerce\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
