@@ -8914,6 +8914,7 @@ camica\.netfirms\.com/gematria/
 \bmorrodesaopaulohotelpde\.com\.br\b
 \bhoteles-en-cancun\.com\.mx\b
 \blecollagiste\.com\b
+\balbania4ever\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
