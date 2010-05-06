@@ -8897,6 +8897,7 @@ camica\.netfirms\.com/gematria/
 \bpalaceonwheels-train\.com\b
 \broyaltrainsindia\.com\b
 \btajmahaltours-india\.com\b
+\breal-estate-ixtapa-zihuatanejo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
