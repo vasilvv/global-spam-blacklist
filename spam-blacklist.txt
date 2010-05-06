@@ -8899,6 +8899,7 @@ camica\.netfirms\.com/gematria/
 \btajmahaltours-india\.com\b
 \breal-estate-ixtapa-zihuatanejo\.com\b
 \bstarstube\.ru\b
+\btheforceofreason\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
