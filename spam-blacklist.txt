@@ -8882,6 +8882,21 @@ camica\.netfirms\.com/gematria/
 \bsancakbayrak\.com\b
 \bturkiyebayragi\.com\b
 \bcountryguidebook\.com\b
+\bluxury-delhi-hotels\.com\b
+\bdeccanodysseytrain\.com\b
+\bgoheritageindiajourneys\.com\b
+\bgoldenchariot-train\.com\b
+\bheritageindiajourneys\.com\b
+\bindia-buddhisttours\.com\b
+\bindia-delhihotels\.com\b
+\bindia-goldentriangletours\.com\b
+\bindia-mumbaihotels\.com\b
+\bindia-royalrajasthanonwheels\.com\b
+\bindianmaharaja-train\.com\b
+\bmaharajaexpresstrain\.com\b
+\bpalaceonwheels-train\.com\b
+\broyaltrainsindia\.com\b
+\btajmahaltours-india\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
