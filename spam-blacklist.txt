@@ -8936,6 +8936,14 @@ camica\.netfirms\.com/gematria/
 \bsauditrades\.com\b
 \bsaudicommerce\.com\b
 \bsuperiorthesis\.com\b
+\bnaughtybunny\.co\.uk\b
+\blotter\.pl\b
+\b206\.225\.22\.48\b
+\bbigbras-club\.com\b
+\bkingoflotto\.com\b
+\bciszewski\.com\b
+\bbig-hooters\.net\b
+\bhardcorecash\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
