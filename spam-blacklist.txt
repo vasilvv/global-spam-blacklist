@@ -8945,6 +8945,15 @@ camica\.netfirms\.com/gematria/
 \bbig-hooters\.net\b
 \bhardcorecash\.net\b
 \bannuaire-neuchatel\.ch\b
+\bannuaire-lausanne.ch\b
+\bbbwebmaster.com\b
+\bfribourgnet.ch\b
+\bgeneve-annuaire.ch\b
+\bjurassiens.ch\b
+\bsuisse-internet.com\b
+\bvalaisannet.ch\b
+\bweb-expert.ch\b
+\bzurich-info.ch\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
