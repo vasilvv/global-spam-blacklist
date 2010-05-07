@@ -8944,6 +8944,7 @@ camica\.netfirms\.com/gematria/
 \bciszewski\.com\b
 \bbig-hooters\.net\b
 \bhardcorecash\.net\b
+\bannuaire-neuchatel\.ch\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
