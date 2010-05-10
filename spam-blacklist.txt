@@ -8906,6 +8906,7 @@ camica\.netfirms\.com/gematria/
 \bchicagohajj\.com\b
 \bdragonage-fan\.ru\b
 \bwebhostingservices\.us\b
+\baavsa\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
