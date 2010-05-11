@@ -8907,6 +8907,7 @@ camica\.netfirms\.com/gematria/
 \bdragonage-fan\.ru\b
 \bwebhostingservices\.us\b
 \baavsa\.com\b
+\bmojeszamotuly\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
