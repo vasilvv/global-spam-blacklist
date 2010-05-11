@@ -8909,6 +8909,7 @@ camica\.netfirms\.com/gematria/
 \baavsa\.com\b
 \bmojeszamotuly\.com\b
 \btotentanz\.nl\b
+\bsalouholiday\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
