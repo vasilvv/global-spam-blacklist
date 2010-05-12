@@ -8927,6 +8927,13 @@ camica\.netfirms\.com/gematria/
 \breceptssous\.ru\b
 \btelefon-nokia\.ru\b
 \bweb-hosings\.ru\b
+\bmajesticthailand\.com\b
+\bhard-wood\.net\b
+\bhardwoodflooringinstallation\.net\b
+\bfriendlybags\.com\b
+\bbiodegradableplasticbags\.org\b
+\broykellner\.com\b
+\blandmarkgroup\.us\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
