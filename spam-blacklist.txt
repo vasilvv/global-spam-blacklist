@@ -8919,6 +8919,7 @@ camica\.netfirms\.com/gematria/
 \bserydarth\.wordpress\.com\b
 \beugeneportfolio\.com\b
 \bskepter\.com\b 
+\bpro-mesh\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
