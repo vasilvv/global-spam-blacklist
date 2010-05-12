@@ -8920,6 +8920,13 @@ camica\.netfirms\.com/gematria/
 \beugeneportfolio\.com\b
 \bskepter\.com\b 
 \bpro-mesh\.net\b
+\bnokia-articles\.ru\b
+\bnokia-company\.ru\b
+\bnokia-event\.ru\b
+\bnokianews\.ru\b
+\breceptssous\.ru\b
+\btelefon-nokia\.ru\b
+\bweb-hosings\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
