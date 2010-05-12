@@ -8917,6 +8917,7 @@ camica\.netfirms\.com/gematria/
 \bgenerico-del-viagra\.com\b
 \bcasalemonferrato\.blogolandia\.it\b
 \bserydarth\.wordpress\.com\b
+\beugeneportfolio\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
