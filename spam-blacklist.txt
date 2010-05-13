@@ -8936,6 +8936,8 @@ camica\.netfirms\.com/gematria/
 \blandmarkgroup\.us\b
 \beventplannerspain\.com\b
 \bglamylooks\.com\b
+\bccf-technologies\.com\b
+\bftm-technologies\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
