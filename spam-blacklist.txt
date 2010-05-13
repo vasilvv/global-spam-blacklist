@@ -8947,6 +8947,7 @@ camica\.netfirms\.com/gematria/
 \binfoeconomistas\.com\b
 \binfodentistas\.com\b
 \binfoinformaticos\.com\b
+\bdzone\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
