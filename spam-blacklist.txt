@@ -8994,6 +8994,7 @@ camica\.netfirms\.com/gematria/
 \bsuperiorpapers\.org\b
 \btermpaperscorner\.com\b
 \btopwriter\.info\b
+\bmargherita-caminita\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
