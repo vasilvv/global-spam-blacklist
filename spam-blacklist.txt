@@ -9065,6 +9065,19 @@ camica\.netfirms\.com/gematria/
 \bthequarry\.net\b
 \bwbbhost4u\.com\b
 \bwebsitecopywriting\.wordpress\.com\b
+\binfiniteseo\.co\.uk\b
+\b123articledirectory\.com\b
+\bajelv\.com\b
+\barticlecabinet\.info\b
+\bcomlabsoft\.com\b
+\bgetmoretwitterfollowers\.info\b
+\bglastonbury2009\.info\b
+\blatestramblings\.com\b
+\blinkwheel\.biz\b
+\bonebillionpageviews\.org\b
+\bre-tweet\.me\b
+\btheoriginalarticle\.com\b
+\bwikislam\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
