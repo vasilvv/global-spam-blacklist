@@ -8995,6 +8995,32 @@ camica\.netfirms\.com/gematria/
 \btermpaperscorner\.com\b
 \btopwriter\.info\b
 \bmargherita-caminita\.com\b
+\b8bit-game\.ru\b
+\babsurdko\.ru\b
+\bbatfun\.ru\b
+\bcomix-live\.ru\b
+\bdn-fun\.ru\b
+\bdoctoprav\.ru\b
+\bgoretur\.ru\b
+\bhotturism\.ru\b
+\biscrubs\.ru\b
+\bjapanese-girls\.ru\b
+\bjourneyboy\.ru\b
+\bmedelita\.ru\b
+\bmedevil\.ru\b
+\bmedobot\.ru\b
+\bnedoleteli\.ru\b
+\bonly-suicide-girls\.ru\b
+\bpolsezann\.ru\b
+\bprogylka\.ru\b
+\brock-slovo\.ru\b
+\bsh-ost\.ru\b
+\bsweet-news\.ru\b
+\bsweet-photo\.ru\b
+\btarantino-ost\.ru\b
+\btriton-tribe\.ru\b
+\btrupoezdka\.ru\b
+\bturzalet\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
