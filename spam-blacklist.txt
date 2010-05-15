@@ -9049,6 +9049,22 @@ camica\.netfirms\.com/gematria/
 \bcelebrityrush\.com\b
 \btvdrawing\.com\b
 \btylervo\.com\b
+\bcityofgoldenfriendship\.com\b
+\bfonejacker\.eu\b
+\bglastonbury2010\.info\b
+\bgohaveaniceday\.com\b
+\bkiller-content\.com\b
+\bmayonvolcano\.net\b
+\bmyspace\.com/markcalfe\b
+\bmyspace\.com/realfonejacker\b
+\bnurseshelp\.blogspot\.com\b
+\bprofessional-essay-writer\.blogspot\.com\b
+\bseopinay\.com\b
+\bsmart-it-consulting\.com\b
+\bsuperiorpapers\.co\.cc\b
+\bthequarry\.net\b
+\bwbbhost4u\.com\b
+\bwebsitecopywriting\.wordpress\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
