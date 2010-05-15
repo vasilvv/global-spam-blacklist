@@ -9032,6 +9032,21 @@ camica\.netfirms\.com/gematria/
 \bchesssoul\.com\b
 \bsoftwarewikipedia\.com\b
 \bgodswmobile\.com\b
+\bchatixdating\.com\b
+\bteensay\.com\b
+\bteenssite\.co\.uk\b
+\bteensay\.co\.uk\b
+\bnitronet\.co\.uk\b
+\bmsndisplaypics\.com\b
+\bchatix\.co\.uk\b
+\bfunnyden\.com\b
+\bmyspace-icons\.com\b
+\bmyspace-layouts\.com\b
+\bmyspacehive\.com\b
+\bfreechatrooms\.me\b
+\bchatlinks\.co\.uk\b
+\bmyspace-generators\.com\b
+\bcelebrityrush\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
