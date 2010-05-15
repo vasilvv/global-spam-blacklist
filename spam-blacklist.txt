@@ -9078,6 +9078,15 @@ camica\.netfirms\.com/gematria/
 \bre-tweet\.me\b
 \btheoriginalarticle\.com\b
 \bwikislam\.co\.uk\b
+\bcvresumewriters\.com\b
+\bessaywritingservices\.org\b
+\bcustom-paper-writing\.com\b
+\bcustom-essay-writing-service\.org\b
+\bkitdetox\.com\b
+\btobuybattery\.com\b
+\bhardingsoft\.com\b
+\bmyrecipesfood\.com\b
+\bmy\.mail\.ru\/mail\/sexanimeshka\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
