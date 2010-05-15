@@ -9047,6 +9047,8 @@ camica\.netfirms\.com/gematria/
 \bchatlinks\.co\.uk\b
 \bmyspace-generators\.com\b
 \bcelebrityrush\.com\b
+\btvdrawing\.com\b
+\btylervo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
