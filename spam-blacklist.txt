@@ -9022,6 +9022,10 @@ camica\.netfirms\.com/gematria/
 \btrupoezdka\.ru\b
 \bturzalet\.ru\b
 \bwriters\.ph\b
+\bsheetalaproductions\.hpage\.com\b
+\bgsfinancial\.hpage\.com\b
+\bsheetalasingh\.typepad\.com\b
+\bgsfinancial\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
