@@ -9026,6 +9026,12 @@ camica\.netfirms\.com/gematria/
 \bgsfinancial\.hpage\.com\b
 \bsheetalasingh\.typepad\.com\b
 \bgsfinancial\.in\b
+\btotalscreenrecorder\.com\b
+\ballspymonitor\.com\b
+\bidevlite\.com\b
+\bchesssoul\.com\b
+\bsoftwarewikipedia\.com\b
+\bgodswmobile\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
