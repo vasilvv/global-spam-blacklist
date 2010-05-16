@@ -9087,6 +9087,13 @@ camica\.netfirms\.com/gematria/
 \bhardingsoft\.com\b
 \bmyrecipesfood\.com\b
 \bmy\.mail\.ru\/mail\/sexanimeshka\b
+\bstar-tube\.narod\.ru\b
+\bwa7\.ru\b
+\bcelebritysextape\.narod\.ru\b
+\bcelebritysextape\.narod2\.ru\b
+\bberkovasex\.ru\b
+\bsilvia-saint-club\.narod\.ru\b
+\bberkovasex\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
