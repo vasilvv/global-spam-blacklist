@@ -9098,6 +9098,9 @@ camica\.netfirms\.com/gematria/
 \breallifevampires\.info\b
 \bsameurl\.com\b
 \baustralianpolice\.org\b
+\bfamousquotesfunnyquotes\.com\b
+\b123greetings\.com\b
+\bentrainbow\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
