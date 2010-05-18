@@ -9110,6 +9110,14 @@ camica\.netfirms\.com/gematria/
 \bgokkentotaal\.nl\b
 \bonlineblackjackspelen\.nl\b
 \bvakantiehuishindeloopen\.wordpress\.com\b
+\bwebforumu\.com\b
+\bregister\.web\.tr\b
+\bmynet\.pro\b
+\bvps\.web\.tr\b
+\bkurtlarvadisi\.mobi\b
+\bosym\.web\.tr\b
+\bturkcell\.in\b
+\bwordpress\.web\.tr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
