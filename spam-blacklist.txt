@@ -9106,6 +9106,10 @@ camica\.netfirms\.com/gematria/
 \balgherovacanze\.blogspot\.com\b
 \bsom\.pt\b
 \ballruspower\.narod\.ru\b
+\bcasinotop5\.nl\b 
+\bgokkentotaal\.nl\b
+\bonlineblackjackspelen\.nl\b
+\bvakantiehuishindeloopen\.wordpress\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
