@@ -9118,6 +9118,22 @@ camica\.netfirms\.com/gematria/
 \bosym\.web\.tr\b
 \bturkcell\.in\b
 \bwordpress\.web\.tr\b
+\bankara-nakliyat\.name\.tr\b
+\bankara-nakliyeci\.net\b
+\bankaranakliyeci\.net \b
+\bankaraticaret\.org\b
+\bcicekcim\.name\.tr\b
+\bevden-eve-nakliyat\.name\.tr \b
+\bevden-eve-nakliyeciler\.name\b
+\bevdeneve\.name\.tr \b
+\bevdenevenakliyeci\.name\b
+\blazer-epilasyon\.name\.tr\b
+\blazerepilasyon\.name\b
+\bnakliyatfirmalari\.org\b
+\bnakliyeevden\.info\b
+\botoarackiralama\.com\b
+\bsacekimmerkezi\.name\.tr\b
+\btupbebegim\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
