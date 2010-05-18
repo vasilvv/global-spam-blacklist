@@ -9135,6 +9135,10 @@ camica\.netfirms\.com/gematria/
 \bsacekimmerkezi\.name\.tr\b
 \btupbebegim\.org\b
 \bmerchantos\.com\b
+\bessaywriter\.co\.uk\b
+\bukessaysadvice\.co\.uk\b
+\bkiatan\.com\b
+\bessaysource\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
