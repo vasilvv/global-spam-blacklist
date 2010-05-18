@@ -9153,6 +9153,9 @@ camica\.netfirms\.com/gematria/
 \bessayonline\.net\b
 \bbuybamboosheets\.com\b
 \bcheats\.name\b
+\bomnibet\.ro\b
+\bsteroidsbuy\.com\b
+\bfreebetsbonuscodes\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
