@@ -9139,6 +9139,8 @@ camica\.netfirms\.com/gematria/
 \bukessaysadvice\.co\.uk\b
 \bkiatan\.com\b
 \bessaysource\.net\b
+\bgexhost\.com\b
+\bgexton\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
