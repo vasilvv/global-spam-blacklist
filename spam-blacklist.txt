@@ -9149,6 +9149,7 @@ camica\.netfirms\.com/gematria/
 \brealessaywriting\.com\b
 \bmustuniversity\.com\b
 \bunitransservice\.org\b
+\bpariblog\.ro\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
