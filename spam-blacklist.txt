@@ -9158,6 +9158,17 @@ camica\.netfirms\.com/gematria/
 \bfreebetsbonuscodes\.com\b
 \bessay\.tv\b
 \bs7\.gladiatus\.net\b
+\btotalscreenrecorder\.com\b
+\ballspymonitor\.com\b
+\bidevlite\.com\b
+\bchesssoul\.com\b
+\bsoftwarewikipedia\.com\b
+\bgodswmobile\.com\b
+\bcomparemysql\.com\b
+\bdigitalempireshop\.com\b
+\brasim1\.com\b
+\btopspeedup\.com\b
+\bwingramo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
