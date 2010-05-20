@@ -9171,6 +9171,7 @@ camica\.netfirms\.com/gematria/
 \bwingramo\.com\b
 \ba1z3\.com\b
 \baat\.teldap\.tw\b
+\bcheapmarket\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
