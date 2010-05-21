@@ -9172,6 +9172,43 @@ camica\.netfirms\.com/gematria/
 \ba1z3\.com\b
 \baat\.teldap\.tw\b
 \bcheapmarket\.com\b
+\b2ued\.com\b
+\b2unfl\.com\b
+\b8mbs\.com\b
+\babcd2you\.com\b
+\badidashome\.com\b
+\badidasshoesoutlet\.com\b
+\bair-force-one\.com\b
+\bair-maxshoes\.com\b
+\bbuy-dunk\.com\b
+\bcheap-nikeshox\.com\b
+\bcheapjordansneaker\.com\b
+\bcheapmaket\.com\b
+\bcheapnikeairshoes\.com\b
+\bchristianlouboutin2sell\.com\b
+\bdiscount-air-jordan\.com\b
+\bdiscount-coach-outlet\.com\b
+\bdiscount-louis-vuitton\.com\b
+\bdvdboxset2you\.com\b
+\bedunksb\.com\b
+\beyourbiz\.com\b
+\bghd2sale\.com\b
+\bgucci-outlet-store\.com\b
+\bmbt2y\.com\b
+\bmlb\.jersey2you\.net\b
+\bmywalkingtime\.com\b
+\bnewnfljerseys\.com\b
+\bnike-air-force-one\.com\b
+\bnikemaxsale\.com\b
+\bnikesneakers4u\.com\b
+\bpiketrade\.com\b
+\bsalenewbalance\.com\b
+\bshoesook\.com\b
+\bugg-boot-shoes\.net\b
+\buggboots-shoes\.net\b
+\buggbootstribal\.com\b
+\bvibramsky\.com\b
+\bgoodgoodssell\.cn\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
