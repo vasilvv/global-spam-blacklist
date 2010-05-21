@@ -9209,6 +9209,11 @@ camica\.netfirms\.com/gematria/
 \buggbootstribal\.com\b
 \bvibramsky\.com\b
 \bgoodgoodssell\.cn\b
+\bmalappuraminfo\.com\b
+\bmalappuram\.co\.in\b
+\bsoft-techit\.com\b
+\bencodeinfotech\.com\b
+\bkerala-info\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
