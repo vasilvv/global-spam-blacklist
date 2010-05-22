@@ -9224,6 +9224,7 @@ camica\.netfirms\.com/gematria/
 \breus-airport\.com\b
 \bsevilla-airport\.com\b
 \bzaragoza-airport\.com\b
+\bessaysexperts\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
