@@ -9338,6 +9338,9 @@ camica\.netfirms\.com/gematria/
 \bvoipservicevenezuela\.com\b
 \bwholesaletermination\.com\b
 \bandronmoscow\.livejournal\.com\b
+\bukschoolsdirectory\.net\b
+\bamerican-schools\.net\b
+\bgubta\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
