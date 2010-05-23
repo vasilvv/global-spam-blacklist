@@ -9226,6 +9226,20 @@ camica\.netfirms\.com/gematria/
 \bzaragoza-airport\.com\b
 \bessaysexperts\.com\b
 \bhcc-ainshams\.com\b
+\bperuvianairlines\.com\b
+\bpezweon\.com\b
+\bperuvianfood\.com\b
+\bperujobs\.com\b
+\balquilerenlima\.com\b
+\bjuiciofujimori\.com\b
+\blatinpropaganda\.com\b
+\bsilvinadellafontana\.com\b
+\bperuviantv\.com\b
+\bpaginasweb\.com\.pe\b
+\bkarendejo\.com\b
+\bidea180\.com\b
+\binternetwarrior\.com\b
+\blatinpropaganda\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
