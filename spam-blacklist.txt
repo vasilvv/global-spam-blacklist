@@ -9240,6 +9240,11 @@ camica\.netfirms\.com/gematria/
 \bidea180\.com\b
 \binternetwarrior\.com\b
 \blatinpropaganda\.blogspot\.com\b
+\bstar-signs\.org\b
+\bdna-fingerprinting\.info\b
+\bfacebooklayouts\.us\b
+\bonlinesocialnetworkssite\.com\b
+\bjusttopasstime\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
