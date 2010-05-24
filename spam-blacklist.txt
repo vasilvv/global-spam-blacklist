@@ -9341,6 +9341,10 @@ camica\.netfirms\.com/gematria/
 \bukschoolsdirectory\.net\b
 \bamerican-schools\.net\b
 \bgubta\.com\b
+\bcommence\.com\b
+\bcommenceonline\.net\b
+\bebusinessline\.com\b
+\besupportline\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
