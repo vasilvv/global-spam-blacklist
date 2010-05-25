@@ -9345,6 +9345,12 @@ camica\.netfirms\.com/gematria/
 \bcommenceonline\.net\b
 \bebusinessline\.com\b
 \besupportline\.com\b
+\bgodiscount\.us\b
+\bmychristianheels\.com\b
+\bmbtshoesupply\.com\b
+\bjordanshoesebay\.com\b
+\bmbtforcheap\.com\b
+\b800millions\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
