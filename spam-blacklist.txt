@@ -9352,6 +9352,8 @@ camica\.netfirms\.com/gematria/
 \bmbtforcheap\.com\b
 \b800millions\.com\b
 \bcheapchloe\.com\b
+\bmbtsale\.org\b
+\bmbtshoesdiscount\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
