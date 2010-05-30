@@ -7403,7 +7403,7 @@ xxxxxx/
 \bfreakinghugeurl\.com\b
 \bfacebook\.com/l\.php\b
 \btangodans\.com\b
-\bmybrute\.com\b
+(?<!www\.)\bmybrute\.com\b
 \bmybrutehacks\.forumotion\.com\b
 \balbumfototrenes\.idohost\.com\b
 \bpfx\.me\b
