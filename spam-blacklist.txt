@@ -9810,6 +9810,7 @@ camica\.netfirms\.com/gematria/
 \bsyntheticgems\.org\b
 \bcubiczirconia-labgems\.com\b
 \bsextoyfun\.com\b 
+\badversus\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
