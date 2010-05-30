@@ -9921,6 +9921,26 @@ camica\.netfirms\.com/gematria/
 \busbootssale\.com\b
 \bboots777\.com\b
 \bbootsshop2010\.com\b
+\babercrombieandfitchuk\.com\b
+\babercrombie-usa\.com\b
+\babercrombieandfitchusa\.com\b
+\babercrombie-malls\.com\b
+\babercrombiefitchonline\.net\b
+\babercrombiefitchonlineshop\.com\b
+\bnikedunkoutlet\.com\b
+\bbuyairmax\.com\b
+\bmy-abercrombie\.com\b
+\bshoes-vip\.com\b
+\bokeyjordans\.com\b
+\babercrombieuk\.net\b
+\bedhardytshirts4u\.com\b
+\babercrombielondon\.net\b
+\babercrombiepromotions\.com\b
+\bfitchclothing-uk\.com\b
+\babercrombiestock\.com\b
+\babercrombiemart\.com\b
+\bdonedhardy\.us\b
+\bedhardyesale\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
