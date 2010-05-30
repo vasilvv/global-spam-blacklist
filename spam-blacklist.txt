@@ -9812,6 +9812,29 @@ camica\.netfirms\.com/gematria/
 \bsextoyfun\.com\b 
 \badversus\.it\b
 \breplica-watches-best\.com\b
+\bchristianlouboutinshoes\.me\b
+\bchristianlouboutinshoesdirect\.com\b
+\bchristianlouboutinshoesmart\.com\b
+\bcoolinks\.co\.uk\b
+\beuroluxury\.eu\b
+\bfootballjerseynfl\.com\b
+\bglobaltiffany\.com\b
+\blinkslondon\.terapad\.com\b
+\blinkslondonshop\.com\b
+\blinksoflondonbox\.com\b
+\blinksoflondonstore\.com\b
+\blinksoflondonuk\.com\b
+\blinksoflondonworld\.co\.uk\b
+\blouboutinshoesonline\.com\b
+\bswarovski\.uk\.com\b
+\bsydneytiffany\.com\b
+\bcartier1847\.com\b
+\blinksofengland\.com\b
+\blinksoflondonbest\.com\b
+\blinksoflondonlatest\.com\b
+\bmyjewellerystore\.com\b
+\bshoppingvans\.com\b
+\btiffanyjewelleryes\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
