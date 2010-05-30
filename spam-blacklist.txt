@@ -9887,6 +9887,40 @@ camica\.netfirms\.com/gematria/
 \blouisvuittonstock\.com\b
 \bgo-ubas\.com\b
 \bichristianlouboutinshop\.com\b
+\bniketop\.com\b
+\bnikesky888\.com\b
+\bmbttop\.com\b
+\benjoycl\.com\b
+\blikeherveleger\.com\b
+\buggtop\.com\b
+\bgo-to-be\.com\b
+\beast-nike\.com\b
+\btopviviennewestwood\.com\b
+\bchristianlouboutinshoebox\.com\b
+\bgoodu-disk\.com\b
+\bclboots\.com\b
+\bgogogoboots\.com\b
+\bcheapjuciyshop\.com\b
+\bjuicy888\.com\b
+\blikembtshoes\.com\b
+\bchristian-louboutin-heels\.com\b
+\babercrombiefitchonline\.org\b
+\buggdiscountboot\.com\b
+\bonlinebootssale\.com\b
+\bedhardywholesalers\.com\b
+\bhhtrd\.com\b
+\bchristian-shoes\.cc\b
+\bjordanshoes2\.com\b
+\bausboots2sale\.com\b
+\bbootsgogo\.com\b
+\bgenuinebootssale\.com\b
+\biwantbootscheap\.com\b
+\bhibootsshop\.com\b
+\bbootsussale\.com\b
+\b2010luxuryboots\.com\b
+\busbootssale\.com\b
+\bboots777\.com\b
+\bbootsshop2010\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
