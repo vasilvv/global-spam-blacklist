@@ -10050,6 +10050,9 @@ camica\.netfirms\.com/gematria/
 \bdesigner-inspired-handbags\.com\b
 \bsale4luxury\.com\b
 \bdesirehandbag\.com\b
+\bmakegoldonwow\.net\b
+\bhowtogetasixpackinamonth\.com\b
+\belite-martial-arts-site\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
