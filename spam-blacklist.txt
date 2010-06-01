@@ -10053,6 +10053,10 @@ camica\.netfirms\.com/gematria/
 \bmakegoldonwow\.net\b
 \bhowtogetasixpackinamonth\.com\b
 \belite-martial-arts-site\.com\b
+\bhoteldeals\.ae\b
+\bjeddah\.asia\b
+\bfreegames\.ae\b
+\bbackgammon\.ae\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
