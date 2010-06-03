@@ -10058,6 +10058,34 @@ camica\.netfirms\.com/gematria/
 \bfreegames\.ae\b
 \bbackgammon\.ae\b
 \bbybloshotelcostarica\.com\b
+\b2010-nfl\.com\b
+\bgucciboss\.com\b
+\bjerseylink\.com\b
+\bnflwholesaleusa\.com\b
+\bveryverycheap\.us\b
+\bnikeairmaxshoes88\.com\b
+\bnicefootwork\.com\b
+\bbagforu\.com\b
+\bnikelord\.com\b
+\bnfljerseysale\.com\b
+\biofferjerseys\.com\b
+\bshoppingjerseys\.com\b
+\bjerseystown\.com\b
+\bmac-makeup\.us\b
+\bjordanshoesky\.com\b
+\bacdmart\.com\b
+\bjerseyscenters\.com\b
+\bshoespuma\.us\b
+\bshoes-shoesshoe\.com\b
+\bjerseyok\.com\b
+\bsf46\.com\b
+\bhoop-jerseys\.com\b
+\bsalerolexwatches\.com\b
+\bjq11\.com\b
+\bwinnersneaker\.com\b
+\bnfldolphins\.org\b
+\bteamsjerseys\.us\b
+\bjerseyswarehouse\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
