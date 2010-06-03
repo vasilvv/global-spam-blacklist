@@ -10208,6 +10208,15 @@ camica\.netfirms\.com/gematria/
 \bonsale-usa\.com\b
 \bmediamobilespa\.com\b
 \blovethosesole\.com\b
+\bbuynflshop\.com\b
+\bnhlsky\.com\b
+\bgonflshop1\.com\b
+\bgonflshop2\.com\b
+\bsuperbowl2you\.com\b
+\b4unjshop\.com\b
+\bbowljersey4u\.com\b
+\bvoguesoccerjerseys\.com\b
+\bjeveuxque\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
