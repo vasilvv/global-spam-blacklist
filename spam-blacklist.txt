@@ -10217,6 +10217,9 @@ camica\.netfirms\.com/gematria/
 \bbowljersey4u\.com\b
 \bvoguesoccerjerseys\.com\b
 \bjeveuxque\.com\b
+\bvisaforum\.freeforums\.org\b
+\bshortmyurl\.net\b
+\btinyurls\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
