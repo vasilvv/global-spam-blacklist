@@ -10220,8 +10220,10 @@ camica\.netfirms\.com/gematria/
 \bvisaforum\.freeforums\.org\b
 \bshortmyurl\.net\b
 \btinyurls\.co\.uk\b
-\bwww\.360cities\.net\b
-\bownbrandshop\.com\b
+\bascenderfonts\.com\b
+\bascendercorp\.com\b
+\bkliddell2\.community\.officelive\.com\b
+\blmseragency\.web\.officelive\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
