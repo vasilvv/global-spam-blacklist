@@ -10296,6 +10296,7 @@ camica\.netfirms\.com/gematria/
 \b94streetcandy\.org\b
 \b96minewear\.com\b
 \b98myyshop\.com\b
+\bchatroulettecite\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
