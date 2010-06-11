@@ -10349,6 +10349,8 @@ camica\.netfirms\.com/gematria/
 \bnfl-information\.org\b
 \bsolid925silver\.com\b
 \btiffanyjewelry9\.com\b
+\burl9\.de\b
+\brocketlanguages\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
