@@ -10455,6 +10455,8 @@ camica\.netfirms\.com/gematria/
 \btobuybattery\.com\b
 \bessaywritingservice\.org\b
 \bhardingsoft\.com\b
+\bripurl\.co\.uk\b
+\bbookmarksuri\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
