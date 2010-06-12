@@ -10457,6 +10457,7 @@ camica\.netfirms\.com/gematria/
 \bhardingsoft\.com\b
 \bripurl\.co\.uk\b
 \bbookmarksuri\.com\b
+\btrimr\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
