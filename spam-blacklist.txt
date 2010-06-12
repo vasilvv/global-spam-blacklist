@@ -10445,6 +10445,16 @@ camica\.netfirms\.com/gematria/
 \bblue-pills\.info\b
 \btuckle\.net\b
 \bindian-pharmacies\.org\b
+\bovernightessay\.com\b
+\bwriting-services\.org\b
+\baplusreports\.com\b
+\byourdissertation\.com\b
+\bstandoutessay\.com\b
+\bshamany\.com\b
+\bresearchpaperz\.net\b
+\btobuybattery\.com\b
+\bessaywritingservice\.org\b
+\bhardingsoft\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
