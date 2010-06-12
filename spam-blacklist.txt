@@ -10429,6 +10429,22 @@ camica\.netfirms\.com/gematria/
 \bbatterylaptops\.co\.uk\b
 \bshopokey\.com\b
 \bcycshop\.com\b
+\bmeddrugshop\.com\b
+\bindiaformeds\.com\b
+\bonlineprescriptiondrugstore\.net\b
+\bitopmed\.net\b
+\bcanadianpharmacyi\.net\b
+\bachatacheter\.co\.cc\b
+\biagra-cool\.net\b
+\bclan-low\.com\b
+\bveloclubtamalpais\.com\b
+\bshopcheappills\.com\b
+\bcanada-pharmacy\.biz\b
+\bcanada-pharmacy-online\.info\b
+\bpharmacy-24-online\.net\b
+\bblue-pills\.info\b
+\btuckle\.net\b
+\bindian-pharmacies\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
