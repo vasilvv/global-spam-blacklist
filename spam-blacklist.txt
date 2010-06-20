@@ -10626,6 +10626,7 @@ camica\.netfirms\.com/gematria/
 \bchanel-bags8\.com\b
 \brs2-accounts\.org\b
 \brs2-accounts\.com\b
+\bwolfeye-keylogger\.de\.vu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
