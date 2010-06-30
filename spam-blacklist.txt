@@ -10740,6 +10740,7 @@ camica\.netfirms\.com/gematria/
 \blorland\.co\.uk\b
 \bgaziantepsporlular\.com\b
 \blechan\.info\b
+\bhautes-alpes\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
