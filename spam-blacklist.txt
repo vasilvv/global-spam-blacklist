@@ -10752,6 +10752,7 @@ camica\.netfirms\.com/gematria/
 \bkliddell2\.community\.officelive\.com\b
 \blmseragency\.web\.officelive\.com\b
 \bnoxedge\.com\b 
+\bhqessays\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
