@@ -10753,6 +10753,20 @@ camica\.netfirms\.com/gematria/
 \blmseragency\.web\.officelive\.com\b
 \bnoxedge\.com\b 
 \bhqessays\.com\b
+\bfifa-world-cup-brazil-2014\.com\b
+\bhigh-heels-fashionista\.com\b
+\bsalto15\.com\.br\b
+\bpagina-uno\.com\b
+\botimizacao-sites-busca\.com\.br\b
+\bcarnaval-em-salvador\.com\b
+\bfetiche-salto-alto\.com\b
+\bsalvador-bahia-brasil\.com\b
+\bempregos-em-salvador\.info\b
+\bimoveis-em-salvador-bahia\.info\b
+\bimoveis-em-sao-paulo\.info\b
+\bagencias-de-viagens-em-salvador\.info\b
+\bbahiasexy\.com\b
+\bleibnizbrasil\.pro\.br\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
