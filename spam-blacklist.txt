@@ -10219,7 +10219,6 @@ camica\.netfirms\.com/gematria/
 \bvisaforum\.freeforums\.org\b
 \bshortmyurl\.net\b
 \btinyurls\.co\.uk\b
-\bwww\.360cities\.net\b
 \bownbrandshop\.com\b
 \bnewgoing\.com\b
 \b100bhshoe\.com\b
@@ -10743,6 +10742,16 @@ camica\.netfirms\.com/gematria/
 \bhautes-alpes\.org\b
 \bsn\.im\b
 \bcl\.lk\b
+\bgobananas\.com\b
+\bkarmakerala\.com\b
+\bmedicexchange\.com\b
+\breputationmanagementfor\.com\b
+\bzco\.com\b
+\bascenderfonts\.com\b 
+\bascendercorp\.com\b
+\bkliddell2\.community\.officelive\.com\b
+\blmseragency\.web\.officelive\.com\b
+\bnoxedge\.com\b 
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
