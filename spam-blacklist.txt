@@ -10767,6 +10767,45 @@ camica\.netfirms\.com/gematria/
 \bagencias-de-viagens-em-salvador\.info\b
 \bbahiasexy\.com\b
 \bleibnizbrasil\.pro\.br\b
+\bmenstimberlandshoes\.com\b
+\ballofcoach\.com\b
+\bvibramfivefingersmall\.com\b
+\bipmart\.com\b
+\bmonopolizationshop\.com\b
+\bmobilephoneretail\.com\b
+\bfivefingerssupply\.com\b
+\bbagworlds\.com\b
+\bsellvibramfivefinger\.com\b
+\bnicevibramfivefingers\.com\b
+\bpop-sunglasses\.com\b
+\bdiscountvibramfivefingers\.com\b
+\bpickguccis\.com\b
+\bsneaker-shoes\.com\b
+\bpickyourshoes\.com\b
+\bkixgame\.com\b
+\bchristianlouboutinoutlet\.net\b
+\bjordanshoesstore\.com\b
+\bajdreams\.net\b
+\bcheap-abercrombie\.com\b
+\bfitch-abercrombie\.com\b
+\bbagitaly\.com\b
+\bsportshoestown\.com\b
+\bkixultra\.com\b
+\bdangerstyle\.com\b
+\b2cshopping\.com\b
+\bvariantkicks\.com\b
+\bsneakerbum\.com\b
+\bvoguejeans\.com\b
+\btheshoestrip\.com\b
+\blovinjordan\.com\b
+\bexclusivesole\.com\b
+\bcitysole\.com\b
+\blacelocked\.com\b
+\bsneaker\.co\.jp\b
+\bsnowuggs\.com\b
+\bmbt-style\.com\b
+\bmax9095\.com\b
+\bhey-b2b\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
