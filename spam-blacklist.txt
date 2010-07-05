@@ -10806,6 +10806,7 @@ camica\.netfirms\.com/gematria/
 \bmbt-style\.com\b
 \bmax9095\.com\b
 \bhey-b2b\.com\b
+\bshortz\.me\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
