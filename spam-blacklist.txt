@@ -10808,6 +10808,8 @@ camica\.netfirms\.com/gematria/
 \bhey-b2b\.com\b
 \bshortz\.me\b
 \btiny\.by\b
+\bwebpage\.asia\b
+\bhoteldeals\.ae\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
