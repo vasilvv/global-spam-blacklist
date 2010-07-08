@@ -10814,6 +10814,7 @@ camica\.netfirms\.com/gematria/
 \bvalesmucho\.com\b
 \burlbu\.com\b
 \bkisaurl\.com\b
+\bcvm\.biz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
