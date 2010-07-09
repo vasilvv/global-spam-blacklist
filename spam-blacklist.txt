@@ -10824,6 +10824,7 @@ camica\.netfirms\.com/gematria/
 \ben\.enardy\.com\b
 \bmicuatro\.com\b
 \blazytownpoint\.com\b
+\bkisaca\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
