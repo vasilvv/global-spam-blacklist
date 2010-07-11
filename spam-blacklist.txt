@@ -11010,6 +11010,7 @@ camica\.netfirms\.com/gematria/
 \bairnk\.com\b
 \btiffanysun\.com\b
 \b360yd\.com\b
+\bawurl\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
