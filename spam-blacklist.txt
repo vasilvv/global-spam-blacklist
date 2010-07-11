@@ -11013,6 +11013,7 @@ camica\.netfirms\.com/gematria/
 \bawurl\.com\b
 \bi\.cx\b
 \bittly\.com\b
+\bturkeystadiumsandsportarenas\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
