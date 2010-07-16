@@ -11015,6 +11015,7 @@ camica\.netfirms\.com/gematria/
 \bittly\.com\b
 \bturkeystadiumsandsportarenas\.blogspot\.com\b
 \bswurl\.cc\b
+\bkurkov\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
