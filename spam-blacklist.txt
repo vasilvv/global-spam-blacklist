@@ -11021,6 +11021,7 @@ camica\.netfirms\.com/gematria/
 \bhowdrinkwine\.com\b
 \bsamuraizen\.com\b
 \bzenhantz\.wordpress\.com\b
+\bncpdtoo\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
