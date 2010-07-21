@@ -11017,6 +11017,8 @@ camica\.netfirms\.com/gematria/
 \bswurl\.cc\b
 \bkurkov\.org\b
 \bsasgo\.info\b
+\bsolyankarecipe\.com\b
+\bhowdrinkwine\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
