@@ -5518,7 +5518,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bturkiyemirc\.org\b
 \bircsohbet\.com\b
 \bfotosalhambra\.es\b
-\bpalelive\.com\b
 \bchanneldb2\.com\b
 \bplanetdb2\.com\b
 \bmknk\.net\b
