@@ -11023,6 +11023,9 @@ camica\.netfirms\.com/gematria/
 \bncpdtoo\.info\b
 \byouareanidiot\.org\b
 \bguiadediadema\.net\b
+\bsmsgang\.com\b
+\bsmsgang\.pl\b
+\banonym\.to\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
