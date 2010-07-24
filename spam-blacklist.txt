@@ -11026,6 +11026,17 @@ camica\.netfirms\.com/gematria/
 \bsmsgang\.com\b
 \bsmsgang\.pl\b
 \banonym\.to\b
+\b56casino\.com\b
+\bcasino-spielen\.biz\b
+\bcrushingmill\.com\b
+\bcrushermobile\.com\b
+\bvipeak\.com\b
+\bvipeakgrinder\.com\b
+\bvipeakmill\.com\b
+\bvipeakgroup\.com\b
+\bgrinderpro\.com\b
+\bp90xkicks\.com\b
+\bwubags\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
