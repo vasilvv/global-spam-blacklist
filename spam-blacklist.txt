@@ -11176,6 +11176,7 @@ camica\.netfirms\.com/gematria/
 \bherveleger\.us\.com\b
 \balgbiotek\.com\b
 \bparascientifica\.com\b
+\bgulistanememon\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
