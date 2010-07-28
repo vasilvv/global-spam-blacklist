@@ -11180,6 +11180,7 @@ camica\.netfirms\.com/gematria/
 \btiket2\.com\b
 \bcnekt\.com\b
 \b4gk\.com\b
+\btli\.tl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
