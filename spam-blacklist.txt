@@ -11183,6 +11183,7 @@ camica\.netfirms\.com/gematria/
 \btli\.tl\b
 \bz8\.ro\b
 \bsaf\.li\b
+\btdb\.rs\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
