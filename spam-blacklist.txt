@@ -11266,6 +11266,7 @@ camica\.netfirms\.com/gematria/
 \bugg4shop\.co\.uk\b
 \bhealthvideo\.tk\b
 \bfavoripartner\.com\b
+\bmetin2wiki\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
