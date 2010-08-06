@@ -11269,6 +11269,7 @@ camica\.netfirms\.com/gematria/
 \bmetin2wiki\.ru\b
 \bpageranksites\.com\b
 \bht\.ly\b
+\bsms4luv\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
