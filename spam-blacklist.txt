@@ -11278,6 +11278,7 @@ camica\.netfirms\.com/gematria/
 \bhome-shoes\.com\b
 \bhome-more\.com\b
 \bshoes-from-china\.com\b
+\bwalkervillechiropractic\.com\.au\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
