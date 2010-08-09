@@ -11272,6 +11272,12 @@ camica\.netfirms\.com/gematria/
 \bsms4luv\.com\b
 \bpqr\.in\b
 \bbagsop\.com\b
+\bhome-our\.com\b
+\bgcgoods\.com\b
+\bmbtshoesaleonline\.com\b
+\bhome-shoes\.com\b
+\bhome-more\.com\b
+\bshoes-from-china\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
