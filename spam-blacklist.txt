@@ -11270,6 +11270,7 @@ camica\.netfirms\.com/gematria/
 \bpageranksites\.com\b
 \bht\.ly\b
 \bsms4luv\.com\b
+\bpqr\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
