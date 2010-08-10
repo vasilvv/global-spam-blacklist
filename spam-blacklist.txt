@@ -11392,6 +11392,17 @@ camica\.netfirms\.com/gematria/
 \b3bextra\.com\b
 \bluxurysaleplace\.com\b
 \bcoachbagschain\.com\b
+\bokaygoods\.com\b
+\boka1225\.com\b
+\bmaplestorymesos4u\.com\b
+\begsale\.com\b
+\bok1225\.com\b
+\bfcsgame\.com\b
+\bmetin2yang\.cc\b
+\bpaypalgame\.com\b
+\bfast-wowgold\.com\b
+\bsalegolds\.com\b
+\bdofus-ankama\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
