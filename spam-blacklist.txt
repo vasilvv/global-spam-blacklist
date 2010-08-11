@@ -11403,6 +11403,13 @@ camica\.netfirms\.com/gematria/
 \bfast-wowgold\.com\b
 \bsalegolds\.com\b
 \bdofus-ankama\.com\b
+\bugg-boots-online-usa\.com\b
+\bjuicy-bags-sale\.com\b
+\bjuicycoutureusa\.com\b
+\bnike-air-max-christian-louboutin\.com\b
+\bzlfurniture\.com\b
+\bjckwwholesale\.com\b
+\bdy-wholesale\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
