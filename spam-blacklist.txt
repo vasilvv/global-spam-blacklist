@@ -11459,6 +11459,7 @@ camica\.netfirms\.com/gematria/
 \bboots-outlet-stores\.co\.uk\b
 \bcheap-mbt-shop\.com\b
 \bnikeshoefr\.com\b
+\bboryokugai\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
