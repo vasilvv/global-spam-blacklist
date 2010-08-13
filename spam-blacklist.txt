@@ -11660,6 +11660,8 @@ camica\.netfirms\.com/gematria/
 \bfake-designer\.com\b
 \breplica-louisvuitton\.com\b
 \bbestchiropractoradelaide\.com\.au\b
+\bdensitygs\.info\b
+\bdensitygs\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
