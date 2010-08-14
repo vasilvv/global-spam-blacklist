@@ -11968,6 +11968,8 @@ camica\.netfirms\.com/gematria/
 \bcoolkicksonline\.com\b
 \bsaletimberlandboots\.com\b
 \btravelsitesonline\.net\b
+\bbiodiesel-processor\.biz\b
+\bspectech\.dn\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
