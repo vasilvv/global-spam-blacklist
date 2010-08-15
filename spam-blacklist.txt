@@ -11974,6 +11974,7 @@ camica\.netfirms\.com/gematria/
 \bdensitygs\.com\b
 \bhockeyfights\.com\b
 \bdutcheastindies\.webs\.com\b
+\brc-shop\.net\.ms\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
