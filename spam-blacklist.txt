@@ -7897,7 +7897,6 @@ mongolische-jurten\.de
 \bgrayboxx\.com\b
 \bsupergreenme\.com\b
 \binctime\.com\b
-\bcozycot\.com\b
 \bweb4desi\.com\b
 \bcru\.ms\b
 \bhouellebecq\.webpark\.pl\b
