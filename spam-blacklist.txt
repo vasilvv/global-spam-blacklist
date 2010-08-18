@@ -11977,6 +11977,7 @@ camica\.netfirms\.com/gematria/
 \bperfectwriting\.co\.uk\b
 \bcustomwritinghelp\.co\.uk\b
 \basianbeat\.com\b
+\bminasdirect\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
