@@ -12068,6 +12068,39 @@ christianlouboutinshoe
 \bjeanybags\.com\b
 \bmanoloblahnikonsale\.com\b
 \buggwinner\.com\b
+\blamoncler\.com\b
+\blaherveleger\.com\b
+\bmonclerjacketssite\.com\b
+\bvipshoesale\.com\b
+\begoodshoes\.com\b
+\bshoesshopnow\.com\b
+\btopshoessale\.com\b
+\bwebwholesalejordans\.com\b
+\bkisstimberland\.com\b
+\bcheapsneakerc2c\.com\b
+\bmbttraveler\.com\b
+\bskechersshoesbuy\.com\b
+\bchrishhere\.com\b
+\btrades99\.com\b
+\bsilkshopcn\.com\b
+\bmbtflying\.com\b
+\bfootballworldcupjerseys\.com\b
+\b23flying\.com\b
+\bconverseshoeshop\.com\b
+\bcheapghdsite\.com\b
+\bchristianlouboutinbay\.com\b
+\bisgoodshop\.com\b
+\bgroupshoes\.com\b
+\bmonclerspace\.com\b
+\bmymoncler\.com\b
+\bmonclerssoutlets\.com\b
+\bherveleger\.eu\b
+\bdressherveleger\.us\b
+\bgzfty\.com\b
+\bherveleger2010\.com\b
+\bonline-clothing-outlet\.com\b
+\boff-off-shoes\.com\b
+\bspecialshoes4you\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
