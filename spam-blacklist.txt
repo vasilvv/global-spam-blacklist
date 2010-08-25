@@ -12106,6 +12106,8 @@ christianlouboutinshoe
 \bone-dollar-movies\.com\b
 \bcozumelwatersports\.com\b
 \bchristianlouboutinsmall\.com\b
+\bchristianlouboutinsmall\.com\b
+\buggonlinestores\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
