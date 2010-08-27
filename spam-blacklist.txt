@@ -12108,6 +12108,7 @@ christianlouboutinshoe
 \bchristianlouboutinsmall\.com\b
 \buggonlinestores\.com\b
 \bblu\.cc\b
+\bje\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
