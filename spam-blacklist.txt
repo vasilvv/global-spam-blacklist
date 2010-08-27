@@ -12107,6 +12107,7 @@ christianlouboutinshoe
 \bcozumelwatersports\.com\b
 \bchristianlouboutinsmall\.com\b
 \buggonlinestores\.com\b
+\bblu\.cc\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
