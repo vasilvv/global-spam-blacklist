@@ -12109,6 +12109,11 @@ christianlouboutinshoe
 \buggonlinestores\.com\b
 \bblu\.cc\b
 \bje\.pl\b
+\blaptops-battery-online\.com\b
+\bbatterystores\.ca\b
+\bsuperbattery\.co\.uk\b
+\bonlybattery\.co\.uk\b
+\bitsbattery\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
