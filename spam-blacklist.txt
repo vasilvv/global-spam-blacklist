@@ -12286,6 +12286,32 @@ christianlouboutinshoe
 \bdiscountbagonsale\.com\b
 \bintshop88\.com\b
 \bshoesgreatwall\.com\b
+\bmilanmall\.com\b
+\babsoluxury\.com\b
+\bandyluxury\.com\b
+\bbbl86\.com\b
+\bwatchesyard\.com\b
+\btop20handbag\.com\b
+\bzealreplica\.com\b
+\breplicahandbagsbox\.com\b
+\bomegawatchessale\.com\b
+\bnoblehandbags\.com\b
+\bbagbinge\.com\b
+\bluxus-replica\.com\b
+\breplica2bags\.com\b
+\biofferbay\.com\b
+\b7replica\.com\b
+\bswissbrandswatches\.com\b
+\bknockoffbag\.com\b
+\bilikecopy\.com\b
+\btradeshown\.com\b
+\bviptobuy\.com\b
+\bpaypalcoachhandbag\.com\b
+\bokaysell\.com\b
+\bbaiyunbag\.com\b
+\b114wholesale\.com\b
+\bussaler\.com\b
+\bokmeex\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
