@@ -12312,6 +12312,7 @@ christianlouboutinshoe
 \b114wholesale\.com\b
 \bussaler\.com\b
 \bokmeex\.com\b
+\bchristianlouboutineshop\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
