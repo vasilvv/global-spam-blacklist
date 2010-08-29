@@ -12366,6 +12366,28 @@ christianlouboutinshoe
 \bbuyuggboot\.net\b
 \bbuyuggsboot\.net\b
 \bbestbootsshop\.com\b
+\bzolaenterprises\.com\b
+\bopps\.se\b
+\bleighgirl\.com\b
+\bblacklightbodypaint\.com\b
+\bbeheaded\.us\b
+\bweirdartists\.com\b
+\bbuyart\.ws\b
+\buvfaces\.com\b
+\blogs\.tv\b
+\bfacepaint\.ws\b
+\bzombieshows\.com\b
+\bolympic-skating\.webs\.com\b
+\bmicrosoftvideos\.com\b
+\bc-o-m\.us\b
+\bzolaenterprizes\.com\b
+\bfunslots\.us\b
+\b777gamesfree\.com\b
+\bmsns\.info\b
+\bfrekid\.com\b
+\bpagez\.org\b
+\bgoegle\.us\b
+\biraqvideos\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
