@@ -12514,6 +12514,7 @@ christianlouboutinshoe
 \becheadphones\.com\b
 \blookchem\.com\b
 \bt-ny\.eu\b
+\bhello\.to\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
