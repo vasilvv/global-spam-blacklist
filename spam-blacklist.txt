@@ -9078,7 +9078,6 @@ camica\.netfirms\.com/gematria/
 \bessaywritingservices\.org\b
 \bcustom-paper-writing\.com\b
 \bcustom-essay-writing-service\.org\b
-\bkitdetox\.com\b
 \btobuybattery\.com\b
 \bhardingsoft\.com\b
 \bmyrecipesfood\.com\b
@@ -9154,12 +9153,6 @@ camica\.netfirms\.com/gematria/
 \bfreebetsbonuscodes\.com\b
 \bessay\.tv\b
 \bs7\.gladiatus\.net\b
-\btotalscreenrecorder\.com\b
-\ballspymonitor\.com\b
-\bidevlite\.com\b
-\bchesssoul\.com\b
-\bsoftwarewikipedia\.com\b
-\bgodswmobile\.com\b
 \bcomparemysql\.com\b
 \bdigitalempireshop\.com\b
 \brasim1\.com\b
@@ -9212,7 +9205,6 @@ camica\.netfirms\.com/gematria/
 \basturias-airport\.com\b
 \bbodrum-airport\.com\b
 \bibible\.mobi\b
-\bmenorca-airport\.com\b
 \bmenorca-airport\.com\b
 \bpedrangular\.com\b
 \breus-airport\.com\b
@@ -9288,7 +9280,6 @@ camica\.netfirms\.com/gematria/
 \bcctvrepublicadominicana\.com\b
 \bcctvuruguay\.com\b
 \bcctvvenezuela\.com\b
-\bcircuitocerradotelevision\.com\b
 \bcolombiacctv\.com\b
 \bfree-voip-service\.com\b
 \binstalaciondecamarasdeseguridad\.com\b
@@ -9301,7 +9292,6 @@ camica\.netfirms\.com/gematria/
 \bsecuritycamerasmadeinchina\.com\b
 \bseguridadelectronica\.info\b
 \bsistemasdeseguridad\.tv\b
-\bsouthfloridatelecom\.com\b
 \bsouthfloridatelecom\.com\b
 \btelemedicinedirectory\.org\b
 \btelevigilancia\.org\b
@@ -9343,7 +9333,6 @@ camica\.netfirms\.com/gematria/
 \bmychristianheels\.com\b
 \bmbtshoesupply\.com\b
 \bjordanshoesebay\.com\b
-\bmbtforcheap\.com\b
 \b800millions\.com\b
 \bcheapchloe\.com\b
 \bmbtsale\.org\b
@@ -9420,9 +9409,7 @@ camica\.netfirms\.com/gematria/
 \blacosteshoesforsale\.com\b
 \bpick4shoes\.com\b
 \bpickyournikes\.com\b
-\bpiketrade\.com\b
 \brackets4uk\.com\b
-\bsupplyedhardy\.com\b
 \btennisracketsbuy\.com\b
 \bwonderfuljersey\.com\b
 \b(?:4|best)vibram\.com\b
@@ -9482,7 +9469,6 @@ camica\.netfirms\.com/gematria/
 \buggsalon\.com\b
 \b74\.86\.181\.245\b
 \bchishopping\.com\b
-\beshoppingluxury\.com\b
 \bfeet-about\.com\b
 \bmbt-shoes-(?:discount|wholesale)\.com\b
 \bmbtantishoes-u[ks]\.com\b
@@ -9497,7 +9483,6 @@ camica\.netfirms\.com/gematria/
 \b4lvbag\.com\b
 \baaa-replicas\.com\b
 \bbagstag\.com\b
-\bbalmainboots\.com\b
 \bbinocular-sk\.com\b
 \bbrandlouisvuitton\.com\b
 \bbuydesignerwomenshoes\.com\b
@@ -9529,20 +9514,16 @@ christianlouboutinshoe
 \bebagsoutlets\.com\b
 \begoluxury\.com\b
 \belebiz\.com\b
-\bemoncler\.com\b
 \beuropefashionhouse\.com\b
 \bfamouslafashion\.com\b
 \bfashionehall\.com\b
 \bguccishoesdiscount\.com\b
 \bhandbagsma(?:ma|ster)\.com\b
 \bhappy-e-shopping\.com\b
-\bhiebay\.com\b
-\bjimmychoocom\.com\b
 \bjordanfromchina\.com\b
 \bjordanscoop\.com\b
 \bkicksparty\.com\b
 \blook4wholesaler\.com\b
-\blouboutinsales\.net\b
 \blouisvuitton(?:-show|bay|stuff)\.com\b
 \bluxuryheelshop\.com\b
 \blv-gucciaaa\.com\b
@@ -9550,27 +9531,21 @@ christianlouboutinshoe
 \bmbtshoeshouse\.com\b
 \bmbtshoesselling\.com\b
 \bmoncler-mall\.com\b
-\bmonclercom\.com\b
-\bmonclerjacketstock\.com\b
 \bmonshoes\.com\b
 \bmybrandbar\.com\b
-\bmylouboutinstore\.com\b
 \bonsilkway\.com\b
 \bp90x-dvd-onsale\.com\b
 \bp90xdvdfitness\.com\b
-\bqqtwo\.com\b
 \bralphlaurenonsale\.com\b
 \breplicaestore\.us\b
 \breplicahandbagmall\.com\b
 \breplicahandbagscheap\.com\b
 \breplicalvbags\.com\b
 \breplicaslv\.com\b
-\bshoes\.vc\b
 \bshopmoncler\.hk\b
 \bshoppingogo\.com\b
 \btalktosky\.com\b
 \bugg-franchiser\.com\b
-\bvipwomenshop\.com\b
 \bwideworker\.com\b
 \bwirelessphonejammer\.com\b
 \bwomenshoesize\.com\b
@@ -9761,7 +9736,6 @@ christianlouboutinshoe
 \blinkslondon\.terapad\.com\b
 \blinkslondonshop\.com\b
 \blinksoflondonbox\.com\b
-\blinksoflondonstore\.com\b
 \blinksoflondonuk\.com\b
 \blinksoflondonworld\.co\.uk\b
 \blouboutinshoesonline\.com\b
@@ -9778,7 +9752,6 @@ christianlouboutinshoe
 \blcgyjg\.com\b
 \bhandbag(?:com|spop)\.com\b
 \bwatches-life\.com\b
-\be-lv\.net\b
 \bsunglassvip\.net\b
 \b2g-3g\.com\b
 \brolex-hot\.com\b
@@ -9801,7 +9774,6 @@ christianlouboutinshoe
 \bdesigner-replicahandbag\.com\b
 \bdesignerbagestore\.com\b
 \bsix-star-replicas\.com\b
-\breplicaestore\.us\b
 \bhandbag-bags\.com\b
 \beshop-lvhandbag\.com\b
 \bbagcrazy\.net\b
@@ -9815,7 +9787,6 @@ christianlouboutinshoe
 \bmyfashionelement\.com\b
 \btoptopbag\.com\b
 \bgrandjewelry\.net\b
-\bbuyvertureplica\.com\b
 \bshes5588\.com\b
 \blouisvuittonstock\.com\b
 \bgo-ubas\.com\b
@@ -10170,7 +10141,6 @@ christianlouboutinshoe
 \b146steezecloth\.com\b
 \b1[46]wowhotsale\.com\b
 \b18ecartshopping\.biz\b
-\b1[46]wowhotsale\.com\b
 \b20uspopularbiz\.com\b
 \b22etradinglife\.com\b
 \b24vipshops\.org\b
@@ -10267,7 +10237,6 @@ christianlouboutinshoe
 \burl9\.de\b
 \brocketlanguages\.com\b
 \bnoxedge\.com\b
-\bnewgoing\.com\b
 \bbatterylaptops\.co\.uk\b
 \bshopokey\.com\b
 \bcycshop\.com\b
@@ -10294,9 +10263,7 @@ christianlouboutinshoe
 \bstandoutessay\.com\b
 \bshamany\.com\b
 \bresearchpaperz\.net\b
-\btobuybattery\.com\b
 \bessaywritingservice\.org\b
-\bhardingsoft\.com\b
 \bripurl\.co\.uk\b
 \bbookmarksuri\.com\b
 \btrimr\.de\b
@@ -10317,7 +10284,6 @@ christianlouboutinshoe
 \btouchnike\.com\b
 \bkisstbl\.com\b
 \bslflife\.com\b
-\bgouggs\.com\b
 \bb2bsharing\.com\b
 \boursugg\.com\b
 \bhuxhbuy\.com\b
@@ -10508,7 +10474,6 @@ christianlouboutinshoe
 \bugg-timberland\.com\b
 \blouboutinsale1\.com\b
 \bhellojersey\.org\b
-\bourlouisvuitton\.com\b
 \bmy4bags\.com\b
 \bsexylouboutinshoes\.info\b
 \b2010christian\.com\b
@@ -10561,7 +10526,6 @@ christianlouboutinshoe
 \bgold4rpg\.com\b
 \bdo4bags\.com\b
 \bvt4bags\.com\b
-\btn4bags\.com\b
 \bpvpwowbgs\.com\b
 \boffgamers\.us\b
 \bguy4game\.us\b
@@ -10635,7 +10599,6 @@ christianlouboutinshoe
 \bshortz\.me\b
 \btiny\.by\b
 \bwebpage\.asia\b
-\bhoteldeals\.ae\b
 \bjouercasino\.eu\b
 \bvalesmucho\.com\b
 \burlbu\.com\b
@@ -10657,14 +10620,9 @@ christianlouboutinshoe
 \boemwatches\.com\b
 \bshopping-replica\.com\b
 \bokweddingdresses\.com\b
-\bnikempire\.com\b
-\bjordandi\.com\b
-\bup2ugg\.com\b
 \bair32\.com\b
 \bar32\.com\b
 \bnk4u\.com\b
-\buggsky\.co\.uk\b
-\bedhardybazar\.co\.uk\b
 \bsight-focus\.com\b
 \bglobalreplica\.com\b
 \bwell-replica\.com\b
@@ -10748,7 +10706,6 @@ christianlouboutinshoe
 \bwatcheshot\.com\b
 \btopwatchbrand\.com\b
 \bgarbhandbags\.com\b
-\bbestsales4u\.com\b
 \bwholesale-order\.com\b
 \b24designerreplica\.com\b
 \bbockwatches\.com\b
@@ -10798,8 +10755,6 @@ christianlouboutinshoe
 \btiffanyouth\.co\.uk\b
 \bomega-watches-replica\.com\b
 \bedhardygoodss\.com\b
-\btiffanyhot\.com\b
-\btiffanyou\.com\b
 \bprovideuggboots\.com\b
 \blinksmvp\.com\b
 \bfinetiffany\.com\b
@@ -10858,10 +10813,7 @@ christianlouboutinshoe
 \bwubags\.com\b
 \buggpark\.com\b
 \bchristian4sale\.com\b
-\bnike-star-shoes\.com\b
 \bair-max-shoes\.com\b
-\baj2u\.com\b
-\bchristian4sale\.com\b
 \buggoutletstores\.com\b
 \bchristianonlineshop\.com\b
 \bdesignerhandbagscom\.com\b
@@ -10906,10 +10858,8 @@ christianlouboutinshoe
 \bmoncler-jackets-outlet\.com\b
 \bjeans-for-sale\.com\b
 \busa-basketball-shoes\.com\b
-\b4uaf\.com\b
 \bdiscount-bape-shoes\.com\b
 \bsuprasema\.com\b
-\bdunk2u\.com\b
 \bdiscount-nike-dunk-shoes\.com\b
 \bchaneloutletstores\.com\b
 \bkickssalon\.com\b
@@ -11199,15 +11149,10 @@ christianlouboutinshoe
 \bjckwwholesale\.com\b
 \bdy-wholesale\.com\b
 \bsalembtshoes\.net\b
-\bsilver-tiffany\.com\b
 \bsaleairmaxshoes\.com\b
 \bnflfansjersey\.com\b
 \bnewaj\.com\b
 \bgucci-shoes\.cc\b
-\bugg2u\.net\b
-\bphoneworth\.com\b
-\bnbajs\.com\b
-\bmax-sky\.com\b
 \bcheap-mbt-shoes\.net\b
 \bmonclerjacketsstore\.com\b
 \bjordan2u\.com\b
@@ -11223,7 +11168,6 @@ christianlouboutinshoe
 \bmoncleroutlet\.net\b
 \bbackpackswholesaler\.com\b
 \bnorthfacefans\.com\b
-\bcheap-air-jordan\.cn\b
 \bshoes-mbt\.net\b
 \bfivefingerssale\.com\b
 \bsellnfljersey\.com\b
@@ -11498,7 +11442,6 @@ christianlouboutinshoe
 \buggschuhe\.com\b
 \baustraliauggboot\.net\b
 \bboonoutlet\.com\b
-\bbootsshop2010\.com\b
 \bfashionuggsboot\.com\b
 \blastestuggboots\.info\b
 \bugg4ladies\.com\b
@@ -11570,7 +11513,6 @@ christianlouboutinshoe
 \bladiesugg\.com\b
 \bformyboot\.com\b
 \bwholesalechinaboots\.com\b
-\bgetsnet\.com\b
 \buggstyles\.com\b
 \buggs4sale\.co\.uk\b
 \bmimiugg\.com\b
@@ -11593,7 +11535,6 @@ christianlouboutinshoe
 \bcheapuggbootsdiscount\.com\b
 \bgodugg\.com\b
 \bselluggsboots\.com\b
-\bkissuggboots\.com\b
 \bcome2ugg\.com\b
 \buggbootsforsale\.com\b
 \buggbootsaleuk\.com\b
@@ -11661,7 +11602,6 @@ christianlouboutinshoe
 \bsaleugggoods\.com\b
 \bsell-boots\.info\b
 \bsnowbootsshop\.com\b
-\bsweatboots\.com\b
 \btheuggstyle\.com\b
 \bugg\.name\b
 \bugg1u\.com\b
@@ -11695,7 +11635,6 @@ christianlouboutinshoe
 \bgoodugg\.co\.uk\b
 \bgo4ugg\.com\b
 \bugg2you\.com\b
-\becwarmboots\.com\b
 \bsell-ugg\.com\b
 \buggbootsforsale\.us\b
 \buggboots-zone\.com\b
@@ -11750,8 +11689,6 @@ christianlouboutinshoe
 \btravelsitesonline\.net\b
 \bbiodiesel-processor\.biz\b
 \bspectech\.dn\.ua\b
-\bdensitygs\.info\b
-\bdensitygs\.com\b
 \bhockeyfights\.com\b
 \brc-shop\.net\.ms\b
 \bperfectwriting\.co\.uk\b
@@ -11785,7 +11722,6 @@ christianlouboutinshoe
 \bcharmheels\.com\b
 \breplika-watch\.com\b
 \bfashionenight\.com\b
-\bcharmheels\.com\b
 \bnflsupershop\.com\b
 \b68jewelry\.com\b
 \bfashionjewelryaccessorieswholesale\.com\b
@@ -12113,7 +12049,6 @@ christianlouboutinshoe
 \bbatterystores\.ca\b
 \bsuperbattery\.co\.uk\b
 \bonlybattery\.co\.uk\b
-\bitsbattery\.com\b
 \bnfljerseyoutlet-store\.com\b
 \b4unj\.com\b
 \bjerseys-buy\.com\b
@@ -12435,7 +12370,6 @@ christianlouboutinshoe
 \bglamorebags\.com\b
 \breplica-aaa-handbags\.com\b
 \bbuyqualitybags\.com\b
-\bdesignerbags-1\.com\b
 \breplicasaleworld\.com\b
 \b7starhandbags\.com\b
 \b7starzbag\.com\b
