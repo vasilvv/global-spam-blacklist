@@ -12516,6 +12516,7 @@ christianlouboutinshoe
 \bt-ny\.eu\b
 \bhello\.to\b
 \bcabaniascalamuchita\.com\b
+\bsierrasdecordoba\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
