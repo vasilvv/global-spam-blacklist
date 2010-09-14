@@ -12622,6 +12622,8 @@ christianlouboutinshoe
 \bokutan\.tk/arama\b
 \bchatrullet\.net\b
 \bfacebook\.ilkfrm\.com\b
+\bscientologymyths\.info\b
+\bfreedommag\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
