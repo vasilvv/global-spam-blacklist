@@ -12615,6 +12615,7 @@ christianlouboutinshoe
 \bshortenlinks\.com\b
 \bshortenlinks\.org\b
 \blawl\.us\b
+\bt\.co\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
