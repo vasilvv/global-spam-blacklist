@@ -12610,6 +12610,11 @@ christianlouboutinshoe
 \bvinofrizzante\.eu\b
 \bweather-dubai\.com\b
 \bcargames\.com\.au\b
+\bgum\.li\b
+\be43\.us\b
+\bshortenlinks\.com\b
+\bshortenlinks\.org\b
+\blawl\.us\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
