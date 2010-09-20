@@ -12628,6 +12628,7 @@ christianlouboutinshoe
 \bcopyright-free-images\.com\b
 \bpublic-domain-image\.com\b
 \bunbeatable\.co\.uk\b
+\bblinq\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
