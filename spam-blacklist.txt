@@ -12934,6 +12934,10 @@ christianlouboutinshoe
 \bchinaince\.com\b
 \binunout\.com\b
 \buggru\.com\b
+\burwij\.pl\b
+\bskroc\.pl\b
+\blatwy\.pl\b
+\bulinks\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
