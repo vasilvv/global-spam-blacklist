@@ -12940,6 +12940,7 @@ christianlouboutinshoe
 \bulinks\.net\b
 \bmcaf\.ee\b
 \bwikipeedos\.pbworks\.com\b
+\bchuta\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
