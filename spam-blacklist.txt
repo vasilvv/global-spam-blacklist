@@ -12944,6 +12944,8 @@ christianlouboutinshoe
 \bseoprofessionalsonline\.com\b
 \brealsofttech\.com\b
 \bdesignerevaluation\.com\b
+\bmartindano\b
+\bsysoon\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
