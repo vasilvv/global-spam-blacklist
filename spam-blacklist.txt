@@ -12947,6 +12947,7 @@ christianlouboutinshoe
 \bmartindano\b
 \bsysoon\b
 \bquicklink\.to\b
+\b2c\.lt\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
