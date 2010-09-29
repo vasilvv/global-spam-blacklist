@@ -13056,6 +13056,7 @@ christianlouboutinshoe
 \bqte\.me\b
 \bqu\.tc\b
 \blsw-gratis\.es\.tl\b
+\bcc\.st\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
