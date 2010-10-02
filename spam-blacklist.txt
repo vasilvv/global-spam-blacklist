@@ -5528,7 +5528,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \binfoom\.se\b
 \bclumber-spaniel\.(eu|nl)\b
 \btourmycountry\.com\b
-\bmonetpainting\.net\b
 \bzeta\.torrent\.googlepages\.com\b
 \bpitbuehler\.ch\b
 \blamazmorraabandon\.com\b
