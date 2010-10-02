@@ -13061,6 +13061,8 @@ christianlouboutinshoe
 \bashton-kutcher\.us\b
 \bmatt-lanter\.net\b
 \bcalifornia-liability-insurance\.com\b
+\bseekic\.com\b
+\bchinaicmart\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
