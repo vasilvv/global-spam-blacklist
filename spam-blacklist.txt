@@ -13308,6 +13308,7 @@ christianlouboutinshoe
 \blvlvbag\.net\b
 \bcliphunter\.com\b
 \bfb\.me\b
+\bguardamare\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
