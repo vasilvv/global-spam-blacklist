@@ -13309,6 +13309,8 @@ christianlouboutinshoe
 \bcliphunter\.com\b
 \bfb\.me\b
 \bbiology-forums\.com\b
+\belibedu\.com\b
+\binfomanagement\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
