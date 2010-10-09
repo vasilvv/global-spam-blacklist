@@ -13313,6 +13313,7 @@ christianlouboutinshoe
 \burluda\.com\b
 \btim\.pe\b
 \bkxk\.me\b
+\bjanurl\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
