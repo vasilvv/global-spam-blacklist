@@ -13314,6 +13314,7 @@ christianlouboutinshoe
 \btim\.pe\b
 \bkxk\.me\b
 \bjanurl\.com\b
+\bqwx\.si\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
