@@ -13421,6 +13421,8 @@ christianlouboutinshoe
 \bzi\.mu\b
 \bzipmyurl\.com\b
 \bzud\.me\b
+\burlabridger\.p4o\.net\b
+\bcricketwebs\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
