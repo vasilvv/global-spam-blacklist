@@ -13422,6 +13422,11 @@ christianlouboutinshoe
 \bzud\.me\b
 \burlabridger\.p4o\.net\b
 \bcricketwebs\.tk\b
+\bopposingviews\.com\b
+\braintaxi\.com\b
+\beducationupdate\.com\b
+\bprojo\.com\b
+\bthe-questionnaire\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
