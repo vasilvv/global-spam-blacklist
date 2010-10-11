@@ -4689,7 +4689,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \bsemexpertise\.com\b
 \btax-services\.ca\b
 \blocalsearchcanada\.com\b
-\blyrikline\.(com|net|org)\b
 \bmyrize\.org\b
 \brizebilisim\.com\b
 \brizeresimleri\.blogcu\.com\b
