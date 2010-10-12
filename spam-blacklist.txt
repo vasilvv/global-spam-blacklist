@@ -13425,7 +13425,6 @@ christianlouboutinshoe
 \bopposingviews\.com\b
 \braintaxi\.com\b
 \beducationupdate\.com\b
-\bprojo\.com\b
 \bthe-questionnaire\.com\b
 ## sbhandler_end
 ## leave the above line as is
