@@ -173,7 +173,7 @@ efl-law\.org
 \.jwac\.net
 \.lipin258\.com
 \.lykwell\.com
-\.replica(?:-watch-center|shopping)\.com
+\breplica(?:-watch-center|shopping)\.com
 \.shjiankong\.com
 \.shmenjin\.com
 \.stonephenix\.com
@@ -518,7 +518,6 @@ gentleurl\.net
 glinki\.com
 \bgot\.to\b
 \.hard-ware\.de
-\.hello\.to
 \.hey\.to
 \.hop\.to
 hottestpix\.com
@@ -541,7 +540,6 @@ makeashorterlink\.com
 \.megapage\.de
 \.messages\.to
 \.mine\.at
-\.minilien\.com
 \.more\.(at|by)
 \.move\.to
 moviefever\.com
@@ -588,7 +586,6 @@ skocz\.pl
 \.start\.at
 \.stick\.by
 \bstop\.to\b
-\.surf\.to
 s-url\.net
 \.switch\.to
 thrill\.to
@@ -4475,7 +4472,7 @@ digilander\.libero\.it/andrea\.nardo1977
 \bcaribbean-rental\.com\b
 \bcat-island(?:-rental\.com|\.net)\b
 \beleu\.net\b
-\beleuthera-(bahamas|bahamas-rental|rental)\.com\b
+\beleuthera-(bahamas|rental)\.com\b
 \beleuthera\.(biz|com)\b
 \bkafkas-cafe\.com\b
 \bout-island-wedding\.com\b
@@ -5855,7 +5852,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \brealdownload\.webng\.com\b
 \bresellerspanel\.com\b
 \brhapsodydownload\.webng\.com\b
-\bsystemanalysis\.(co\.nr|freehostpro\.com)\b
+\bsystemanalysis\.co\.nr\b
 \btutes\.webng\.com\b
 \btutorial(-index|ized)\.com\b
 \bvbplanet\.gigacities\.net\b
@@ -5917,7 +5914,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bonline(?:-hoteles\.com\.ar|hoteles\.com)\b
 \bsimpsonstrivia\.com\.ar\b
 \bvillalaangostura\.com\.br\b
-\bonlinehoteles\.com\.ar\b
 \bshop\.ebay\.com\b
 \bbuk\.me\b
 \bfuseurl\.com\b
@@ -6126,7 +6122,7 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bdrug(zdirect|storeforall|shopforyou|s4love|l|inshop|-x|-shop-online)\.com\b
 \be-med(ical)?support.com\b
 \beagle-pharmacy\.com\b
-\bed-(megamall|medstore|medshop|meds-store)\.com\b
+\bed-(megamall|medstore|medshop)\.com\b
 \beurohealthshop\.com\b
 \bevgenycherkasovstore\.com\b
 \bexpress-health\.info\b
@@ -6674,7 +6670,6 @@ viagra-?(drugs|online|billig)
 \bparisairportguide\.com\b
 \bexvaluere\.(co\.uk|eu|us)\b
 \b4uaf\.com\b
-\bair-(max-shoes|shox)\.com\b
 \baj2u\.com\b
 \bmax-sky\.com\b
 \bnbajs\.com\b
@@ -6926,7 +6921,7 @@ viagra-?(drugs|online|billig)
 \bcgcash\.info
 \bch(arm-mail|erokeeptr|icago-ptr)\.(biz|com)
 \bchobit[-s]?mails\.(com|net)
-\bclass(-act-clicks|ical-mail)\.com
+\bclassical-mail\.com
 \bclick(-mails|-monkey|-wizard|2earnmoney|4coins|buxx?|cent|evolution|fantasy|ingmoney4u|oly|s(-4-cash)?|topsites)\.(biz|com|net|org)
 \bclixy\.net
 \bclo(nebux|set-clickers|udmails|verclicks)\.(com|net)
@@ -7165,7 +7160,6 @@ xxxxxx/
 \bavsam\.com\.tr\b
 \bavsaadasi\.gen\.tr\b 
 \bzoodl\.com\b
-\bwww\.x\.se\b
 \babc1\.eu\b
 \baquisitions\.asia\b
 \barriba\.asia\b
@@ -7257,7 +7251,6 @@ xxxxxx/
 \bsupposed\.asia\b
 \bsurprised\.tv\b
 \bswf\.asia\.com\b
-\btaliban\.asia\.com\b
 \btaschenlampe\.net\b
 \bterminus\.asia\.com\b
 \bthinks\.tv\b
@@ -7916,11 +7909,9 @@ economy-point\.org
 \bwikireality\.ru\b
 \bdecopedia\.com\b
 \bp\.ly\b
-\btutorialspoint\.com\b
 lexikon\.calsky\.com
 \bresearch-service\.com\b
 \bessaymill\.com\b
-\bbestessays\.com\.au\b
 \bcollege-paper\.org\b
 \bsuperiorpapers\.com\b
 \bbestdissert(?:ion\.org|ation\.com)\b
@@ -8143,8 +8134,9 @@ lexikon\.calsky\.com
 \bxzb\.cc\b
 \bzi\.pe\b
 \bzz\.gd\b
-\bbestessays\.ca\b
-\bbestessays\.com(\.au|\.au\.com)?\b
+\bbestessays?\.(?:com|net|org)\b
+\bbestessays\.(?:ca|0catch\.com)\b
+\bbestessaytips\.com\b
 \bbesttermpaper\.com\b
 \bcustom-essaywriting\.blogspot\.com\b
 \baki-kaurismaki\.ru\b
@@ -8275,7 +8267,6 @@ lexikon\.calsky\.com
 \bwiki-links\.org\b
 \bwhatis\.wikidot\.com\b
 \bmoladi\.net\b
-\bbestessay\.net\b
 \bimelda-staunton\.es\.tl\b
 \bonline\.titancasino\.com\b
 \bsltcfi\.com\b
@@ -8329,7 +8320,6 @@ lexikon\.calsky\.com
 \beng\.exchangecards\.ru\b
 \bbahchisaray\.org\.ua\b
 \bniggaflip\.com\b 
-\bshareflare\.net/download/5991\.58cef4b9f396bae48f6ff3cd5/youtube_downloader_3\.59\.rar\.html\b
 \bjustuggboot\.com\b
 \bmyuggsale\.com\b
 \bwebuggshoes\.com\b
@@ -8379,7 +8369,6 @@ lexikon\.calsky\.com
 \bessaydot\.com\b
 \bonline-sport-betting\.org\b
 \bslots-machines-online\.net\b
-\bbestessay\.org\b
 \bbesttermpaper(?:\.org|s\.net)\b
 \bresumesplanet\.com\b
 \bterm-paper\.biz\b
@@ -8949,11 +8938,6 @@ camica\.netfirms\.com/gematria/
 \bapplicationessay\.net\b
 \bbestdissertation\.net\b
 \bbestdissertation\.org\b
-\bbestessay\.com\b
-\bbestessays\.0catch\.com\b
-\bbestessays\.net\b
-\bbestessays\.org\b
-\bbestessaytips\.com\b
 \bbesttermpaper\.net\b
 \bbesttermpapers\.org\b
 \bbraindumps\.com\.ua\b
@@ -8970,7 +8954,6 @@ camica\.netfirms\.com/gematria/
 \bj-in\.org\.ua\b
 \bkiev-home\.com\b
 \bmydeco\.com\b
-\bonline-casino-gaming\.org\b
 \bonline-poker-spielen\.biz\b
 \bpalace\.com\b
 \bplay-poker-games\.com\b
@@ -9109,7 +9092,6 @@ camica\.netfirms\.com/gematria/
 \bkurtlarvadisi\.mobi\b
 \bosym\.web\.tr\b
 \bturkcell\.in\b
-\bwordpress\.web\.tr\b
 \bankara-nakliyat\.name\.tr\b
 \bankara-nakliyeci\.net\b
 \bankaranakliyeci\.net \b
@@ -9165,7 +9147,6 @@ camica\.netfirms\.com/gematria/
 \badidashome\.com\b
 \badidasshoesoutlet\.com\b
 \bair-force-one\.com\b
-\bair-maxshoes\.com\b
 \bbuy-dunk\.com\b
 \bcheap-nikeshox\.com\b
 \bcheapjordansneaker\.com\b
@@ -9183,7 +9164,6 @@ camica\.netfirms\.com/gematria/
 \bmlb\.jersey2you\.net\b
 \bmywalkingtime\.com\b
 \bnewnfljerseys\.com\b
-\bnike-air-force-one\.com\b
 \bnikemaxsale\.com\b
 \bnikesneakers4u\.com\b
 \bpiketrade\.com\b
@@ -9435,8 +9415,6 @@ camica\.netfirms\.com/gematria/
 \bhiebay\.com\b
 \bjimmychoocom\.com\b
 \bladyitems\.com\b
-\bmanoloblahnikcom\.com\b
-\bmanoloblahnikretail\.com\b
 \bmonclercom\.com\b
 \bmonclerhome\.com\b
 \bmonclerjacketstock\.com\b
@@ -9470,7 +9448,6 @@ camica\.netfirms\.com/gematria/
 \bmbt-shoes-(?:discount|wholesale)\.com\b
 \bmbtantishoes-u[ks]\.com\b
 \bsuperbowljerseys\.com\b
-\bswiss-replicas-watch\.com\b
 \btriabuy\.com\b
 \buggboots\.jp\b
 \bed-hardy-tshirt\.com\b
@@ -9524,7 +9501,7 @@ christianlouboutinshoe
 \blouisvuitton(?:-show|bay|stuff)\.com\b
 \bluxuryheelshop\.com\b
 \blv-gucciaaa\.com\b
-\bmanoloblahnik(?:com\.com|shoes\.org)\b
+\bmanoloblahnik(?:com\.com|onsale\.com|retail\.com|usa\.com|shoes\.org)\b
 \bmbtshoeshouse\.com\b
 \bmbtshoesselling\.com\b
 \bmoncler-mall\.com\b
@@ -10532,7 +10509,6 @@ christianlouboutinshoe
 \bgaziantepsporlular\.com\b
 \blechan\.info\b
 \bhautes-alpes\.org\b
-\bsn\.im\b
 \bcl\.lk\b
 \bgobananas\.com\b
 \bkarmakerala\.com\b
@@ -10543,7 +10519,6 @@ christianlouboutinshoe
 \bascendercorp\.com\b
 \bkliddell2\.community\.officelive\.com\b
 \blmseragency\.web\.officelive\.com\b
-\bnoxedge\.com\b 
 \bhqessays\.com\b
 \bfifa-world-cup-brazil-2014\.com\b
 \bhigh-heels-fashionista\.com\b
@@ -10607,7 +10582,6 @@ christianlouboutinshoe
 \benardy\.com\b
 \bplayway\.ru\b
 \bsmariogame\.com\b
-\ben\.enardy\.com\b
 \bmicuatro\.com\b
 \blazytownpoint\.com\b
 \bkisaca\.net\b
@@ -10647,7 +10621,6 @@ christianlouboutinshoe
 \bbagsreplicashop\.com\b
 \bereplicachanel\.com\b
 \bereplicahermes\.com\b
-\busshoesshop\.com\b
 \bbagsluxury\.com\b
 \bnikewholesaleshop\.com\b
 \bsuperbaghome\.com\b
@@ -10810,7 +10783,6 @@ christianlouboutinshoe
 \bwubags\.com\b
 \buggpark\.com\b
 \bchristian4sale\.com\b
-\bair-max-shoes\.com\b
 \buggoutletstores\.com\b
 \bchristianonlineshop\.com\b
 \bdesignerhandbagscom\.com\b
@@ -10841,7 +10813,6 @@ christianlouboutinshoe
 \bxolook\.com\b
 \bairjordan-2010\.com\b
 \blebron-james-shoe\.com\b
-\bair-shox\.com\b
 \bhothotshoes\.com\b
 \bofferairjordan\.com\b
 \bugg-uk\.net\b
@@ -10864,7 +10835,9 @@ christianlouboutinshoe
 \bdior-store\.com\b
 \bsunglasshutshop\.com\b
 \buggbootspace\.com\b
-\bnike-air-max-shoes\.com\b
+\bair-shox\.com\b
+\bair-max-?shoes\.com\b
+\bnike-air(?:\.org|maxes\.com|-max-christian-louboutin\.com)\b
 \buggprovide\.com\b
 \buggsalezone\.com\b
 \b4upuma\.com\b
@@ -11141,7 +11114,6 @@ christianlouboutinshoe
 \bugg-boots-online-usa\.com\b
 \bjuicy-bags-sale\.com\b
 \bjuicycoutureusa\.com\b
-\bnike-air-max-christian-louboutin\.com\b
 \bzlfurniture\.com\b
 \bjckwwholesale\.com\b
 \bdy-wholesale\.com\b
@@ -11398,7 +11370,6 @@ christianlouboutinshoe
 \baustraliabootsforsales\.com\b
 \bbrandmartonline\.com\b
 \bbuy-bootsshoes\.com\b
-\bbuycheapuggsboots\.com\b
 \bcheapuggtop\.com\b
 \buggbootsseries\.com\b
 \bugghomelike\.com\b
@@ -11432,7 +11403,6 @@ christianlouboutinshoe
 \bbootsonsalenow\.net\b
 \buggbootsave\.com\b
 \bcheapugg-boots\.com\b
-\bbuycheapuggboots\.com\b
 \bsiteugg\.com\b
 \bdiscountuggbootstribe\.com\b
 \bsnowboots4sales\.com\b
@@ -11881,40 +11851,28 @@ christianlouboutinshoe
 \bchiirons-sale\.com\b
 \bpinkchishop-us\.net\b
 \bysl-highheel\.com\b
-\bbirkenstockmall\.com\b
-\bbirkenstockshoesshop\.net\b
 \bghd-mk4\.net\b
 \bghdhotsale-au\.net\b
 \bghdironoutlet-au\.com\b
 \bchiifactorydirect-usa\.com\b
 \bchisale\.net\b
 \bchihairshops-usa\.com\b
-\bcoolbirkenstockstore\.com\b
-\bp90xdvdstore-us\.net\b
-\bbirkenstock-cheap\.net\b
-\bp90xdvdstore-us\.com\b
-\boutlet-birkenstock\.net\b
+\bp90xdvdstore-us\.(?:net|com)\b
 \bpaulsmithfactoryoutlet\.com\b
 \bchiturboshop-us\.com\b
 \binsanitytopshop\.com\b
 \bfabulousghd\.com\b
-\bbirkenstockcheap\.com\b
 \bcheapuggbootonline\.com\b
 \bchifactorydirect\.com\b
 \bghdshopbar\.com\b
-\bbirkenstockoutlet\.info\b
-\bbirkenstock-cheap\.com\b
 \bcooleyewearonline\.com\b
 \bghdfactoryshop-au\.com\b
 \bghdoutlets-au\.com\b
 \bghdperfect-au\.net\b
-\boutletbirkenstock\.net\b
-\bcoolbirkenstock\.com\b
 \bghdcheapstore\.net\b
 \bchiiron-sale\.com\b
 \bpaulsmithoutletshop\.net\b
 \bghdoutletstores-uk\.com\b
-\bbirkenstockonline\.net\b
 \bghdcheapmallonline\.net\b
 \buk-ghdhairstores\.com\b
 \buksunglasses\.net\b
@@ -11925,17 +11883,14 @@ christianlouboutinshoe
 \bsunglasses-hotsale\.com\b
 \bsunglasses-hotsale\.net\b
 \bpurpleghd-outlet\.com\b
-\bbirkenstockshoes-outlet\.net\b
-\bbirkenstockshoes-outlet\.com\b
 \bghdfactoryshop1\.net\b
-\boutlet-birkenstock\.com\b
 \bp90xdvdshop-usa\.net\b
 \bchihairstore-usa\.com\b
 \bchionline-us\.com\b
+\bcoolbirkenstock(?:store)?\.com\b
 \bdiscountbirkenstock\.net\b
-\bbirkenstockshoesshop\.com\b
-\boutletbirkenstock\.com\b
-\bbirkenstockdiscount\.net\b
+\boutlet-?birkenstock\.(?:com|net)\b
+\bbirkenstock(?:-?cheap|discount|mall|online|outlet|shoes-outlet|shoesshop)\.(?:com|net|info)\b
 \bbestuggmall\.com\b
 \bdeltasunglasses\.com\b
 \boutlet-uggs\.com\b
@@ -11999,7 +11954,6 @@ christianlouboutinshoe
 \blouisvuittonsbag\.com\b
 \bnikedunkssb\.net\b
 \bjeanybags\.com\b
-\bmanoloblahnikonsale\.com\b
 \buggwinner\.com\b
 \blamoncler\.com\b
 \blaherveleger\.com\b
@@ -12399,8 +12353,6 @@ christianlouboutinshoe
 \bhandbag-handbags\.com\b
 \breplica-watch-shopping\.com\b
 \breplica-ebag\.com\b
-\breplicashopping\.com\b
-\breplica-watch-center\.com\b
 \bdesignershoestock\.com\b
 \betop-bags\.com\b
 \bgods-shopping\.com\b
@@ -12546,7 +12498,6 @@ christianlouboutinshoe
 \baquaparky\.com\b
 \bsaudipowernetwork\.com\b
 \bdubai-land-hotels\.com\b
-\bparis-hilton-towers\.com\b
 \bamman-metro\.com\b
 \bbaghdadmetro\.com\b
 \bthe-expendables\.com\b
@@ -12609,13 +12560,11 @@ christianlouboutinshoe
 \bcargames\.com\.au\b
 \bgum\.li\b
 \be43\.us\b
-\bshortenlinks\.com\b
-\bshortenlinks\.org\b
+\bshortenlinks\.(?:com|org)\b
 \blawl\.us\b
 \bt\.co\b
 \b123lala\.info\b
 \bchatroulettes\.us\b
-\bwikipediachatroulette\.chatroulettes\.us\b
 \bokutan\.tk/arama\b
 \bchatrullet\.net\b
 \bfacebook\.ilkfrm\.com\b
@@ -12623,7 +12572,6 @@ christianlouboutinshoe
 \bfreedommag\.org\b
 \bblog\.thomas7\.dreamhosters\.com\b
 \bcopyright-free-images\.com\b
-\bpublic-domain-image\.com\b
 \bunbeatable\.co\.uk\b
 \bblinq\.org\b
 \blinkee\.com\b
@@ -12636,7 +12584,6 @@ christianlouboutinshoe
 \brosettastonestyle\.com\b
 \bjimmychoousa\.com\b
 \bhervelegermall\.com\b
-\bmanoloblahnikusa\.com\b
 \bairmaxdiscount\.com\b
 \bbrand-watch-supplier\.com\b
 \blaptopbattery365\.com\b
@@ -12697,7 +12644,6 @@ christianlouboutinshoe
 \bshoes2your\.com\b
 \bbootsbest\.com\b
 \bmymbtshoe\.com\b
-\bnike-airmaxes\.com\b
 \buggopt\.com\b
 \bofficialbay\.com\b
 \bb2corder\.com\b
@@ -12781,7 +12727,6 @@ christianlouboutinshoe
 \bmonclerouterwear\.org\b
 \bnflnhlshop\.com\b
 \brosettastoneswedish\.net\b
-\bnike-air\.org\b
 \buggpopular\.co\.cc\b
 \bokuggboots\.org\b
 \bmsamas\.com\b
