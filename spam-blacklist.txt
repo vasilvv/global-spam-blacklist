@@ -7863,7 +7863,7 @@ mongolische-jurten\.de
 \bgptoffers\.com\b
 \bgptreasure\.com\b
 \blibertyreserve\.com\b
-\bway\.com\b
+(?<=\/\/|\.)way\.com\b
 \b1skip\.com\b
 \bclck\.ru\b
 \bfoo9\.net\b
