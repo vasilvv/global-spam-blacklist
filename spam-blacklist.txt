@@ -85,8 +85,8 @@ show-your-pussy # (added by andre)
 \bstatic\.net
 
 # Added by UninvitedCompany 8/5/05
--handys\.de 
-handy-(fun|kaufhaus)\.tk 
+-handys\.de
+handy-(fun|kaufhaus)\.tk
 
 # Replacing overly broad ones above - Andre Engels, 2005-08-09
 \b(heavytools|spyware|carisoprodol|sexforfree)\.webzdarma\.cz\b
@@ -102,7 +102,7 @@ hotsex\.free-pussy\.org
 # Annoying user on fr:
 \.etunisie\.net
 
-# from zh 
+# from zh
 \.ltdcr\.(com|net|org|cn)
 \.hkccr\.org
 \.hkce\.(org|net)
@@ -116,7 +116,7 @@ hotsex\.free-pussy\.org
 \.54163\.com
 
 # Mar 05
-\.rockphiles\.com 
+\.rockphiles\.com
 \.omninerd\.com  # Do not remove\. See http://meta.wikimedia.org/wiki/Spam_blacklist/recurring_requests
 detoxiy\.com
 
@@ -281,7 +281,7 @@ maclenet\.com
 # D\.M\.: used for shock links
 goatse\.ca
 
-# Aphaia: 
+# Aphaia:
 \.fengshui-xuankong\.com
 \.chineseart\.com/feng-shui\.htm
 \.smilingbamboo\.com
@@ -3643,7 +3643,7 @@ traditio[\.．]ru
 \bxlurl\.net
 \bamoo\.org
 \bmyfreepaysite\.com\b
-\bwikisucks\.blogspot\.com #spamming [[en:Criticism of Wikipedia]] 
+\bwikisucks\.blogspot\.com #spamming [[en:Criticism of Wikipedia]]
 \bgaypornlinx\.com\b
 \bbest-cartuning\.com
 \bfd\.tc\.co\.uk\b
@@ -5298,7 +5298,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmoney-making12\.blogspot\.com\b
 #url shorteners
 \bshorl\.com\b
-\bshort(er)?links?\.co\.uk\b
+\bshort(?:er)?links?\.co\.uk\b
 \b6url\.com\b
 \bflingk\.com\b
 \bmetamark\.net\b
@@ -6370,7 +6370,7 @@ function/c_urlredirect\.asp\?url=
 \bgoogleimproved\.com\b
 \bgreatnuke\.com\b
 \bgulfup\.com\b
-\bgwengalerevealed\.blogspot\.com\b 
+\bgwengalerevealed\.blogspot\.com\b
 \bh1\.ripway\.com\b
 \bhikayeler99\.com\b
 \bhostdandy\.info\b
@@ -6591,7 +6591,7 @@ muselius\.com
 \bzilnic\.net\b
 \bgreencard-vision\.
 \bkanqateam\.com\b
-\bcanoesport\.ru\b 
+\bcanoesport\.ru\b
 \bglobalflight\.net\b
 \bfajelacicevidvorizapresic\.blog\.hr\b
 \bgeckoleo\.com\b
@@ -6685,7 +6685,7 @@ viagra-?(drugs|online|billig)
 \bdax-prognose\.de\b
 \b3dtour\.eu\b
 \bihtiandr\.info\b
-\btrakomedia\.com\b 
+\btrakomedia\.com\b
 \bdivxsubtitles\.net\b
 \bandroid-phones\.ru\b
 \bfreebiesms\.co\.uk\b
@@ -6693,8 +6693,8 @@ viagra-?(drugs|online|billig)
 \bturkishcoffeehouse\.blogspot\.com\b
 \bsystem-linux\.eu\b
 \bchitinshield\.blogspot\.com\b
-\bsturly\.com\b 
-\bturkeytravelinfo\.net\b 
+\bsturly\.com\b
+\bturkeytravelinfo\.net\b
 \bhidro-teknik\.com\b
 \bapolitik\.org\b
 \b123(?:biotech|goa|indiaonline)\.com\b
@@ -6744,7 +6744,7 @@ viagra-?(drugs|online|billig)
 \biremetforlag\.tripod\.com\b
 \btriviabot\.galeon\.com\b
 \bgenovagay\.com\b
-\bexamjunction\.blogspot\.com\b 
+\bexamjunction\.blogspot\.com\b
 \bquijuve\.com\b
 \bhostingdnz.com\b
 \b[dh]enizhost\.net\b
@@ -6757,7 +6757,7 @@ viagra-?(drugs|online|billig)
 \bjewish-greetings\.com\b
 \blearn-hebrew-names\.com\b
 \bmy-chinese-name\.com\b
-\bmy-christmas-card\.com\b 
+\bmy-christmas-card\.com\b
 \bbible-name\.com\b
 \bchinese-character\.com\b
 \bchinesevoice\.co(m|\.il)\b
@@ -7117,7 +7117,7 @@ xxxxxx/
 \bidiomfox\.com\b
 \bfrmcix\.com\b
 \bshadyrunstudios\.tripod\.com\b
-\bin-grid\.com\.pl\b 
+\bin-grid\.com\.pl\b
 \bmorandi\.one.pl\b
 \bcascada\.xt\.pl\b
 \bingrid\.wot\.pl\b
@@ -7158,7 +7158,7 @@ xxxxxx/
 \burl\.ie\b
 \bdunesdugolf\.eu\b
 \bavsam\.com\.tr\b
-\bavsaadasi\.gen\.tr\b 
+\bavsaadasi\.gen\.tr\b
 \bzoodl\.com\b
 \babc1\.eu\b
 \baquisitions\.asia\b
@@ -7175,11 +7175,11 @@ xxxxxx/
 \bboobs\.uz\b
 \bborderline\.asia\.com\b
 \bbritish\.(?:asia|tv)\b
-\bbritneyspears\.asia\b 
+\bbritneyspears\.asia\b
 \bbrought\.tv\b
 \bbsiness\.net\b
 \bbuckhead\.asia\b
-\bburberry\.org\b 
+\bburberry\.org\b
 \bcareerbuilding\.net\b
 \bcasinowise\.net\b
 \bcentralasia\.asia\.com\b
@@ -7222,7 +7222,7 @@ xxxxxx/
 \bmoonlight\.asia\.com\b
 \bmortgages\.uz\b
 \bnamecout\.com\b
-\bnbsp\.us\b 
+\bnbsp\.us\b
 \bneither\.tv\b
 \bnewyorkrealestate\.eu\b
 \bnioc\.eu\b
@@ -7241,7 +7241,7 @@ xxxxxx/
 \bsand\.mobi\b
 \bsatte\.asia\.com\b
 \bseen\.asia\b
-\bseikh\.com\b 
+\bseikh\.com\b
 \bsenliscouncil\.eu\b
 \bsitting\.tv\b
 \bspread\.mobi\b
@@ -7295,7 +7295,7 @@ xxxxxx/
 \bjosoleil\.com\b
 \bfaucongris\.com\b
 \bgrey-falcon\.com\b
-\baxebet\.com\b   
+\baxebet\.com\b
 \bsanyaweb\.com\b
 \bmundo-ocio\.es\b
 \bputin\.ru\b
@@ -7331,7 +7331,7 @@ xxxxxx/
 \bplagecorse\.com\b
 \bgamewatch\.com\.es\b
 \bmigre\.me\b
-\bcabinas\.net\b 
+\bcabinas\.net\b
 \bseekinusa\.com\b
 \belargentino\.net\b
 \bkomik-fikralar\.net\b
@@ -7453,7 +7453,7 @@ xxxxxx/
 \bseemacaunow\.com\b
 \bxn--spermario-q9a\.com\b
 \bbonsaici\.com\b
-\bnodet\.us\b  
+\bnodet\.us\b
 \bgoogland\.blogsky\.com\b
 \bdickensurl\.com\b
 \bstoppuhr-online\.de\b
@@ -7471,7 +7471,7 @@ mongolische-jurten\.de
 \bzapadnetatry\.com\b
 \berasmusproject\.com\b
 \berasmusinfo\.net\b
-\bchaganava\.com\b  
+\bchaganava\.com\b
 \bmapsofbalkan\.com\b
 \bstihi-xix-xx-vekov\.ru\b
 \biltwistacapri\.blogspot\.com\b
@@ -7541,7 +7541,7 @@ mongolische-jurten\.de
 \b1256\.org\.ua\b
 \bbascarsija\.info\b
 \bvirl\.com\b
-\btwurl\.nl\b
+\btwurl\.(?:cc|nl)\b
 \btweetburner\.com\b
 \bannastaciapalaszczuk\.com\b
 \baquaticapetheory\.net\b
@@ -7611,7 +7611,7 @@ mongolische-jurten\.de
 \bwebandsmart\.c(?:l|om)\b
 \beurovision\.gen\.tr\b
 \bcardvdsupply\.com\b
-\basiaing\.com\b 
+\basiaing\.com\b
 \blicensedpracticalnurselpn\.tk\b
 \bpath\.to\b
 \bphuket-relax\.com\b
@@ -8252,7 +8252,7 @@ lexikon\.calsky\.com
 \burlal\.com\b
 \bmuseomagazine\.com\b
 \bamerigovespucci-theboat\.com\b
-\bshrt\.st\b
+\bshrt\.(?:fr|st)\b
 \bredir\.ec\b
 \bmerky\.de\b
 \bomani\.ac\b
@@ -8319,7 +8319,7 @@ lexikon\.calsky\.com
 \bwslibrary\.net\b
 \beng\.exchangecards\.ru\b
 \bbahchisaray\.org\.ua\b
-\bniggaflip\.com\b 
+\bniggaflip\.com\b
 \bjustuggboot\.com\b
 \bmyuggsale\.com\b
 \bwebuggshoes\.com\b
@@ -8534,7 +8534,7 @@ camica\.netfirms\.com/gematria/
 \bkitdetox\.com\b
 \borthomatic\.net\b
 \bzizum\.com\b
-\bti89\.com\b  
+\bti89\.com\b
 \btorrentflux\.blogspot\.com\b
 \bsmoking-calculator\.com\b
 \bolympus-e420\.blogspot\.com\b
@@ -8659,7 +8659,7 @@ camica\.netfirms\.com/gematria/
 \bonkyapaartinyacinta\.blogspot\.com\b
 \bavenged-sevenfold\.web\.id\b
 \bmobilegamezone\.info\b
-\bnyepakbola\.info\b 
+\bnyepakbola\.info\b
 \bgioieditalia\.com\b
 \bsicilia-by-divino\.com\b
 \bumbria-by-divino\.com\b
@@ -8680,8 +8680,8 @@ camica\.netfirms\.com/gematria/
 \bprettylittleliarsss\.webs\.com\b
 \bplanestv\.com\b
 \bapartamentosgomera\.com\b
-\bhot-map\.com\b 
-\bamarun\.org\b 
+\bhot-map\.com\b
+\bamarun\.org\b
 \bpegiovanni\.com\b
 \btibiahelp\.com\b
 \baerocardio\.com\b
@@ -8743,7 +8743,7 @@ camica\.netfirms\.com/gematria/
 \bwftpserver\.com\b
 \bftprush\.com\b
 \bseop\.com\b
-\bsleepapneasymptoms\.info\b 
+\bsleepapneasymptoms\.info\b
 \bvitaminefacts\.info\b
 \bkidney-disease\.info\b
 \bacidreflux-disease\.info\b
@@ -8799,7 +8799,7 @@ camica\.netfirms\.com/gematria/
 \btheudaipurhotels\.com\b
 \bcheappoolproducts\.com\b
 \bovernightpools\.com\b
-\bmyczechonline\.com\b    
+\bmyczechonline\.com\b
 \bcostabrava-rentals\.co\.uk\b
 \blocations-vacances-costabrava\.com\b
 \bfinquesfrigola\.com\b
@@ -8848,7 +8848,7 @@ camica\.netfirms\.com/gematria/
 \bhoteles-en-cancun\.com\.mx\b
 \blecollagiste\.com\b
 \balbania4ever\.com\b
-\byouflorence\.it\b 
+\byouflorence\.it\b
 \bdissertationwritinghelp\.co\.uk\b
 \bthewholesaleforums\.co\.uk\b
 \balibabascam\.com\b
@@ -8900,7 +8900,7 @@ camica\.netfirms\.com/gematria/
 \bcasalemonferrato\.blogolandia\.it\b
 \bserydarth\.wordpress\.com\b
 \beugeneportfolio\.com\b
-\bskepter\.com\b 
+\bskepter\.com\b
 \bpro-mesh\.net\b
 \bnokia-articles\.ru\b
 \bnokia-company\.ru\b
@@ -9081,7 +9081,7 @@ camica\.netfirms\.com/gematria/
 \balgherovacanze\.blogspot\.com\b
 \bsom\.pt\b
 \ballruspower\.narod\.ru\b
-\bcasinotop5\.nl\b 
+\bcasinotop5\.nl\b
 \bgokkentotaal\.nl\b
 \bonlineblackjackspelen\.nl\b
 \bvakantiehuishindeloopen\.wordpress\.com\b
@@ -9700,7 +9700,7 @@ christianlouboutinshoe
 \bthaisilverjewelry\.net\b
 \bsyntheticgems\.org\b
 \bcubiczirconia-labgems\.com\b
-\bsextoyfun\.com\b 
+\bsextoyfun\.com\b
 \badversus\.it\b
 \breplica-watches-best\.com\b
 \bcoolinks\.co\.uk\b
@@ -9944,7 +9944,6 @@ christianlouboutinshoe
 \bacdmart\.com\b
 \bjerseyscenters\.com\b
 \bshoespuma\.us\b
-\bshoes-shoesshoe\.com\b
 \bjerseyok\.com\b
 \bsf46\.com\b
 \bhoop-jerseys\.com\b
@@ -10515,7 +10514,7 @@ christianlouboutinshoe
 \bmedicexchange\.com\b
 \breputationmanagementfor\.com\b
 \bzco\.com\b
-\bascenderfonts\.com\b 
+\bascenderfonts\.com\b
 \bascendercorp\.com\b
 \bkliddell2\.community\.officelive\.com\b
 \blmseragency\.web\.officelive\.com\b
@@ -12890,7 +12889,7 @@ christianlouboutinshoe
 \bsysoon\b
 \bquicklink\.to\b
 \b2c\.lt\b
-\bfreehoster\.cn\b 
+\bfreehoster\.cn\b
 \b➡\.ws\b
 \b➨\.ws\b
 \b➯\.ws\b
@@ -12999,7 +12998,7 @@ christianlouboutinshoe
 \bqu\.tc\b
 \blsw-gratis\.es\.tl\b
 \bcc\.st\b
-\bpaul-wesley\.us\b 
+\bpaul-wesley\.us\b
 \bashton-kutcher\.us\b
 \bmatt-lanter\.net\b
 \bcalifornia-liability-insurance\.com\b
@@ -13283,17 +13282,12 @@ christianlouboutinshoe
 \bsexyurl\.us\b
 \bsexyvid\.me\b
 \bshink\.de\b
-\bshort\.ie\b
 \bshorten\.ws\b
-\bshortlinks\.co\.uk\b
 \bshortn\.me\b
 \bshout\.to\b
 \bshow\.my\b
 \bshrinkr\.com\b
-\bshrt\.fr\b
-\bshrt\.st\b
-\bshrten\.com\b
-\bshrten\.me\b
+\bshrten\.(?:com|me)\b
 \bshrunkin\.com\b
 \bsl\.ly\b
 \bslate\.me\b
@@ -13301,7 +13295,6 @@ christianlouboutinshoe
 \bsmurl\.name\b
 \bsrnk\.net\b
 \bsrs\.li\b
-\bstarturl\.com\b
 \bsurl\.hu\b
 \bsweeturl\.fr\b
 \bswu\.me\b
@@ -13309,7 +13302,6 @@ christianlouboutinshoe
 \bthurly\.net\b
 \btimesurl\.at\b
 \btiny\.ly\b
-\btinyarro\.ws\b
 \btinylink\.in\b
 \btllg\.net\b
 \bto\.je\b
@@ -13317,28 +13309,17 @@ christianlouboutinshoe
 \btrg\.li\b
 \btrim\.li\b
 \btrunc\.it\b
-\btw0\.us\b
-\btw1\.us\b
-\btw2\.us\b
-\btw5\.us\b
-\btw6\.us\b
-\btw8\.us\b
-\btw9\.us\b
 \btweak\.tk\b
 \btweet\.ms\b
 \btwhub\.com\b
 \btwirl\.at\b
 \btwitterurl\.net\b
 \btwitterurl\.org\b
-\btwiturl\.de\b
-\btwtr\.us\b
-\btwurl\.cc\b
 \bur\.ly\b
 \burizy\.com\b
 \burl\.ag\b
 \burl\.az\b
 \burl360\.me\b
-\burlborg\.com\b
 \burlcorta\.es\b
 \burlcover\.com\b
 \burlenco\.de\b
