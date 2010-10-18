@@ -13355,6 +13355,45 @@ christianlouboutinshoe
 \bhainanwel\.com\b
 \bacaiberryinformations\.com\b
 \bity\.im\b
+\bmonclerebay\.com\b
+\barcteryxonsale\.com\b
+\bbuyjimmychoo\.com\b
+\bshoesbuy\.biz\b
+\bfashionshoes\.biz\b
+\bmanoloblahnikebay\.com\b
+\bjimmychoos\.me\b
+\bbuymymoncler\.com\b
+\bherveleger\.bz\b
+\bmyhervelegerstore\.com\b
+\bclshoesok\.org\b
+\bbuy-christian-louboutin\.com\b
+\bchristianshoeslouboutin\.com\b
+\blouboutin\.bz\b
+\bunchristian1ouboutin\.com\b
+\bclstyles\.com\b
+\bour1ouboutin\.com\b
+\bshoesonsale\.biz\b
+\bshoesmbts\.com\b
+\bchristianlouboutincc\.com\b
+\bcanadagoose\.bz\b
+\bchristian-louboutin-discounted\.com\b
+\bourlouboutin\.com\b
+\bwebmbtshoes\.com\b
+\bhighheelsforsale\.com\b
+\buggboot-sale\.com\b
+\blouboutinhunt\.com\b
+\bclladies\.com\b
+\bpoloshirts2010\.com\b
+\bmbtwalkingshoesshopping\.com\b
+\bdress4dancing\.com\b
+\ballbazaar\.net\b
+\bnflreplicajerseys\.net\b
+\buggbaileybuttonsale\.com\b
+\bpoloralphlaurendiscount\.com\b
+\bchristianlouboutinforless\.com\b
+\bchristianlouboutin-by\.com\b
+\bchristianlouboutinsexy\.com\b
+\bwomenheelshoes\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
