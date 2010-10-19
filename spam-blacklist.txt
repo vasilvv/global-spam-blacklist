@@ -13394,6 +13394,10 @@ christianlouboutinshoe
 \bchristianlouboutin-by\.com\b
 \bchristianlouboutinsexy\.com\b
 \bwomenheelshoes\.com\b
+\bpurelyfitness\.com\b
+\bwatchfreemoviesonlinedaily\.com\b
+\bx-fat\.com\/p90x-review\b
+\bacaiberryinformations\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
