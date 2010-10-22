@@ -13398,6 +13398,8 @@ christianlouboutinshoe
 \bwatchfreemoviesonlinedaily\.com\b
 \bx-fat\.com\/p90x-review\b
 \bthecow\.me\b
+\bdsl-preistipp\.de\b
+\bsanssouci-sightseeing\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
