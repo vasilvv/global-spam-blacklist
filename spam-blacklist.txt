@@ -13400,6 +13400,9 @@ christianlouboutinshoe
 \bthecow\.me\b
 \bdsl-preistipp\.de\b
 \bsanssouci-sightseeing\.de\b
+\basiawriters\.com\b
+\bpokerenfrancais\.eu\b
+\belcasinoenlinea\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
