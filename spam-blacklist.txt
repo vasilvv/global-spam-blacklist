@@ -13403,6 +13403,16 @@ christianlouboutinshoe
 \basiawriters\.com\b
 \bpokerenfrancais\.eu\b
 \belcasinoenlinea\.org\b
+\blineupsecurity\.com\b
+\baefos\.com\b
+\bonlinetraining4u\.com\b
+\bthreesonsprinting\.com\b
+\bmanhattaninstitute\.com\b
+\bbnbmedispa\.com\b
+\bakglaw\.com\b
+\btravelclinicnyc\.com\b
+\bnymsuits\.com\b
+\baefos\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
