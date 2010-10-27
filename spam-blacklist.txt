@@ -13412,6 +13412,7 @@ christianlouboutinshoe
 \bakglaw\.com\b
 \btravelclinicnyc\.com\b
 \bnymsuits\.com\b
+\mac-how\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
