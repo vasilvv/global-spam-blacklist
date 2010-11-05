@@ -13644,6 +13644,7 @@ christianlouboutinshoe
 \boknike-shox\.com\b
 \bmynikeairmax\.com\b
 \btimberlandgogo\.com\b
+\btitaniumwf\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
