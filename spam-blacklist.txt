@@ -13708,6 +13708,8 @@ christianlouboutinshoe
 \byahaa\.info\b
 \byoutubelink\.info\b
 \bzrps\.info\b
+\bur\.id\.au\b
+\b86au\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
