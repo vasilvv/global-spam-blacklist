@@ -9458,10 +9458,10 @@ camica\.netfirms\.com/gematria/
 \bcheapcoachonsale\.com\b
 \bchinamodelwholesaler\.com\b
 louboutin[^./]
-\bchristian--louboutin\.com\b
+(?<![./]christian)louboutin\.
+[^./]christianlouboutin
 \bchristianlouboutin\.hk\b
 \bchristinlouboutian\.com\b
-\b(?:2010|bu?y|e|i|ilove|our|shoe|uk-|to|vip)christianlouboutin\.com\b
 \bcheapchristianlouboutin\.org\b
 \bcoach(?:bagsday|serise|shopping|supports)\.com\b
 \bdealugg\.com\b
