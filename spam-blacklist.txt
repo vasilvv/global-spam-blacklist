@@ -9468,20 +9468,12 @@ camica\.netfirms\.com/gematria/
 \bcheapcoachonsale\.com\b
 \bcheapguccishoesale\.com\b
 \bchinamodelwholesaler\.com\b
-christianlouboutinshoe
+louboutin[^./]
 \bchristian--louboutin\.com\b
-\bchristian-louboutin-(?:heels|ladyshoes|sandals)\.com\b
-\bchristianlouboutin(?:designer|ssale)\.co\.uk\b
-\bchristianlouboutin(?:-hot|-on-line|2sell|4girl|\d+|aaa|buy|collection|etrendy|foryou|kiss|ks|my|-?mall|okay|payless|replica|sandalssale|shop|y|zone)\.com\b
 \bchristianlouboutin\.hk\b
-\bchristianlouboutin(?:outlet|us)\.net\b
-\bchristianlouboutin(?:sale|us)\.org\b
 \bchristinlouboutian\.com\b
-\b(?:2010|bu?y|e|i|ilove|our|shoe|uk-|to|vip)christianlouboutin(?:com|shop|uk)?\.com\b
+\b(?:2010|bu?y|e|i|ilove|our|shoe|uk-|to|vip)christianlouboutin\.com\b
 \bcheapchristianlouboutin\.org\b
-\blouboutin(?:1992|selling)\.com\b
-\blouboutinsales\.net\b
-\bmylouboutinstore\.com\b
 \bcoach(?:bagsday|serise|shopping|supports)\.com\b
 \bdealugg\.com\b
 \be-lv\.net\b
@@ -9537,9 +9529,6 @@ christianlouboutinshoe
 \bjordanshoesdiscount\.com\b
 \bjordanshoesf\.com\b
 \bjordanshoesrelease\.com\b
-\blouboutin2010\.com\b
-\blouboutin2011\.com\b
-\blouboutinbrand\.net\b
 \bluxuryshoessale\.com\b
 \bmbtestore\.com\b
 \bmbtgohere\.com\b
@@ -9588,8 +9577,6 @@ christianlouboutinshoe
 \bbagsvuitton\.com\b
 \bsalelouboutin\.com\b
 \blovelouboutin\.com\b
-\blouboutinlouboutin\.com\b
-\blouboutinfans\.com\b
 \bbuylouboutin\.com\b
 \bomega-joy\.com\b
 \bchanel-tracy\.com\b
@@ -9712,7 +9699,6 @@ christianlouboutinshoe
 \blinksoflondonbox\.com\b
 \blinksoflondonuk\.com\b
 \blinksoflondonworld\.co\.uk\b
-\blouboutinshoesonline\.com\b
 \bswarovski\.uk\.com\b
 \bsydneytiffany\.com\b
 \bcartier1847\.com\b
@@ -9909,7 +9895,6 @@ christianlouboutinshoe
 \beshop-bag\.com\b
 \bebayunions\.com\b
 \bwholesaletiffany\.biz\b
-\blouboutinshoesbox\.com\b
 \b7louisvuitton\.com\b
 \bleatherbagsmanufacturer\.com\b
 \bbrandreplicashop\.com\b
@@ -9955,7 +9940,6 @@ christianlouboutinshoe
 \bjerseyswarehouse\.com\b
 \bsale-nfl-jerseys\.com\b
 \bfansshirt\.com\b
-\btolouboutinshoes\.com\b
 \bnflnhljerseyscheap\.com\b
 \b2jerseys\.com\b
 \b4jerseys\.com\b
@@ -10308,16 +10292,12 @@ christianlouboutinshoe
 \buggssnowboots\.com\b
 \bofferuggs\.com\b
 \bgetsnet\.com\b
-\blouboutinparty\.com\b
-\blouboutining\.com\b
 \bloveladyshoes\.com\b
-\blouboutinshoesforyou\.com\b
 \bueasyshop\.com\b
 \btoponlineseller\.com\b
 \b08-trade\.com\b
 \bnino-trade\.com\b
 \bjordancozy\.com\b
-\blouboutinseller\.com\b
 \bebaytrading15\.com\b
 \blady-blog\.com\b
 \bzypopular\.com\b
@@ -10330,10 +10310,8 @@ christianlouboutinshoe
 \bchaussureenligne\.net\b
 \bshoesinlove\.com\b
 \bfashiontowns\.com\b
-\blouboutinmall\.com\b
 \belegantstation\.com\b
 \bluxury-buying\.com\b
-\blouboutin4u\.com\b
 \bluxury-heels\.com\b
 \bwomensplaza\.com\b
 \barmortradingltd\.com\b
@@ -10343,7 +10321,6 @@ christianlouboutinshoe
 \bedressonline\.com\b
 \bstop4buy\.com\b
 \betopbrands\.com\b
-\blouboutincom\.com\b
 \bnewladyshoes\.com\b
 \bluxureshoes\.com\b
 \babercrombieclothing4u\.com\b
@@ -10423,7 +10400,6 @@ christianlouboutinshoe
 \borienttouch\.com\b
 \bmandarintouch\.com\b
 \boriental-cheongsam\.com\b
-\blouboutin-christian-shoes\.com\b
 \bgoodorient\.com\b
 \bfinechineseclothing\.com\b
 \bteenagelingerie\.com\b
@@ -10442,18 +10418,14 @@ christianlouboutinshoe
 \baustraliabootsale\.com\b
 \bshoestop4\.com\b
 \bboxlouboutin\.com\b
-\blouboutinbox\.com\b
 \bhandbags888\.com\b
 \bugg-timberland\.com\b
-\blouboutinsale1\.com\b
 \bhellojersey\.org\b
 \bmy4bags\.com\b
-\bsexylouboutinshoes\.info\b
 \b2010christian\.com\b
 \bbags4chanel\.com\b
 \bwe4bags\.com\b
 \bsalefivefinger\.com\b
-\blouboutinretailer\.info\b
 \b10fashionzone\.com\b
 \btakefringefashion\.info\b
 \blvbags\.info\b
@@ -10476,7 +10448,6 @@ christianlouboutinshoe
 \bbags-outlet\.net\b
 \bool4bags\.com\b
 \bwholesalejerseys999\.com\b
-\blouboutinshoponlines\.com\b
 \bwhatshelove\.com\b
 \bthenetshoponline\.com\b
 \bsvhandbags\.com\b
@@ -10841,7 +10812,6 @@ christianlouboutinshoe
 \buggsalezone\.com\b
 \b4upuma\.com\b
 \b4ugucci\.com\b
-\bcheap-louboutin-shoes\.com\b
 \boutlet-ugg-boots\.com\b
 \bairmax360\.us\b
 \bairofshoes\.com\b
@@ -10873,7 +10843,6 @@ christianlouboutinshoe
 \bshoplark\.com\b
 \bourbigtime\.com\b
 \buggbootsworlds\.com\b
-\blouboutinbestshoes\.com\b
 \bshopglad\.com\b
 \bfasiontrade\.com\b
 \btruereligionjeansstoes\.com\b
@@ -11017,7 +10986,6 @@ christianlouboutinshoe
 \blouisvuitt4u\.com\b
 \bvogueme\.com\b
 \bwatchtoyou\.com\b
-\bcheaplouboutins\.com\b
 \bloveinsport\.com\b
 \bnew-fashion\.org\b
 \ballofbags\.com\b
@@ -11095,7 +11063,6 @@ christianlouboutinshoe
 \bb2b-er\.com\b
 \bwetopbag\.com\b
 \bwangcai9527\.com\b
-\bnewlouboutins\.com\b
 \b3bextra\.com\b
 \bluxurysaleplace\.com\b
 \bcoachbagschain\.com\b
@@ -11927,7 +11894,6 @@ christianlouboutinshoe
 \bauggoutlet\.com\b
 \bluxeshoppers\.com\b
 \bchiiron\.biz\b
-\blouboutin-shoes-sale\.com\b
 \bthomassabo\.cm\b
 \btiffany-mine\.com\b
 \btiffanycosite\.com\b
@@ -11974,7 +11940,6 @@ christianlouboutinshoe
 \b23flying\.com\b
 \bconverseshoeshop\.com\b
 \bcheapghdsite\.com\b
-\bchristianlouboutinbay\.com\b
 \bisgoodshop\.com\b
 \bgroupshoes\.com\b
 \bmonclerspace\.com\b
@@ -11991,7 +11956,6 @@ christianlouboutinshoe
 \btext-image\.ru\b
 \bone-dollar-movies\.com\b
 \bcozumelwatersports\.com\b
-\bchristianlouboutinsmall\.com\b
 \buggonlinestores\.com\b
 \bblu\.cc\b
 \bje\.pl\b
@@ -12197,7 +12161,6 @@ christianlouboutinshoe
 \b114wholesale\.com\b
 \bussaler\.com\b
 \bokmeex\.com\b
-\bchristianlouboutineshop\.com\b
 \buggbootscheap\.uk\.com\b
 \buggedglobal\.com\b
 \bnewstyleuggboots\.com\b
@@ -12410,7 +12373,6 @@ christianlouboutinshoe
 \btheuggaustralias\.com\b
 \buggonlineshops\.com\b
 \bnflmall\.us\b
-\bchristianlouboutin-stores\.com\b
 \bdunksbmall\.com\b
 \bedhardy-4u\.com\b
 \bcheapclshoes\.com\b
@@ -12578,7 +12540,6 @@ christianlouboutinshoe
 \bcheapuggboots-sale\.com\b
 \brosettastonesale\.org\b
 \balexandermcqueenoutlet\.com\b
-\bchristianlouboutinnyc\.com\b
 \bvibram-five-fingers\.cc\b
 \brosettastonestyle\.com\b
 \bjimmychoousa\.com\b
@@ -12693,7 +12654,6 @@ christianlouboutinshoe
 \bdressnew\.com\b
 \bchloebest\.com\b
 \bhotsaleforlady\.com\b
-\blouboutinshoesforsale\.com\b
 \bhervelegerdresssale\.com\b
 \bchristionlouboutin\.com\b
 \baustraliauggshoes\.com\b
@@ -12701,7 +12661,6 @@ christianlouboutinshoe
 \baurautah\.com\b
 \brosetta-stone-shop\.net\b
 \brosettastone-one\.com\b
-\bchristianlouboutininuk\.com\b
 \bjuicycouture-outlet\.org\b
 \bmylouisvuitton\.com\b
 \babercrombieofficial\.com\b
@@ -12716,7 +12675,6 @@ christianlouboutinshoe
 \buggboots5815\.com\b
 \b16shoes\.com\b
 \buggbootsclassictall\.com\b
-\bchristianlouboutinlist\.com\b
 \buggbootsukcom\.com\b
 \bmbt-shoes-mbt\.com\b
 \bchristian-louboutin\.name\b
@@ -12744,7 +12702,6 @@ christianlouboutinshoe
 \b10uggstore\.com\b
 \brosettastoneportuguese\.net\b
 \brosettastoneoutlet\.com\b
-\bchristianlouboutincart\.info\b
 \bhervelegerusa\.com\b
 \b2mbtshoessale\.com\b
 \bebestshoes\.com\b
@@ -12762,7 +12719,6 @@ christianlouboutinshoe
 \bsouggs\.com\b
 \buggmall\.net\b
 \bmbtshoesbuy\.com\b
-\bhotlouboutinshoes\.com\b
 \bshowasics\.com\b
 \bdiscount-mbt-shoes\.com\b
 \bkickshoesebay\.com\b
@@ -12788,7 +12744,6 @@ christianlouboutinshoe
 \bmyelecshop\.com\b
 \bjuicycoutureoutlet\.org\b
 \bclarksshoess\.org\b
-\bthelouboutinshoes\.com\b
 \btiffanyandcoaustralia\.com\b
 \bjadejewelryonline\.com\b
 \bnorthfaceokay\.com\b
@@ -12836,7 +12791,6 @@ christianlouboutinshoe
 \bbootspopular\.com\b
 \bboseheadphonessale\.com\b
 \buggbotlar\.com\b
-\bchristianlouboutinsdance\.info\b
 \bnkones\.com\b
 \beccoshoess\.org\b
 \bmbtdeshop\.com\b
@@ -13053,14 +13007,12 @@ christianlouboutinshoe
 \bgiftsofhair\.com\b
 \bstyler4hair\.com\b
 \bstylerclip\.com\b
-\blouboutinboutique\.com\b
 \bbrandhairdoers\.com\b
 \bbrandhairdoer\.com\b
 \bshoeslord\.com\b
 \bmychanelbagstore\.com\b
 \bburberryol\.com\b
 \bbrandhairgifts\.com\b
-\bchristianlouboutinwoman\.com\b
 \bclassicchristianlouboutin\.com\b
 \bbrandnamedboots\.com\b
 \bbrandhairstylers\.com\b
@@ -13076,7 +13028,6 @@ christianlouboutinshoe
 \bdiscountpradabag\.com\b
 \bluxiburberry\.com\b
 \bgucci-shops\.com\b
-\bchristianlouboutinnames\.com\b
 \bfendioffers\.com\b
 \bmiumiuspecialzone\.com\b
 \bdiscountdesirebags\.com\b
@@ -13084,7 +13035,6 @@ christianlouboutinshoe
 \bstylishfendibag\.com\b
 \bprahandbag\.com\b
 \bburberryselection\.com\b
-\blouboutinclassics\.com\b
 \buggbootszone\.com\b
 \byeslvgift\.com\b
 \btopdesireforu\.com\b
@@ -13110,7 +13060,6 @@ christianlouboutinshoe
 \bcharmingladyitems\.com\b
 \bbrandladywallet\.com\b
 \bburberry4handbags\.com\b
-\bchristianlouboutinfashions\.com\b
 \bbrandwatch4you\.com\b
 \bmiumiuhandbag4u\.com\b
 \blightinthechina\.com\b
@@ -13123,7 +13072,6 @@ christianlouboutinshoe
 \bvoguehit\.com\b
 \bmychanelbagstores\.com\b
 \bmonclersoutlet\.com\b
-\bchristianlouboutinbox\.com\b
 \blouisvuittonbagsol\.com\b
 \blouisvuitton-vip\.com\b
 \bagotrade\.com\b
@@ -13139,7 +13087,6 @@ christianlouboutinshoe
 \bcoach4handbags\.com\b
 \bcoachbrandbag\.com\b
 \bnike37\.com\b
-\bchristianlouboutin4boots\.com\b
 \beshopgc\.com\b
 \breplicawell\.com\b
 \bladyluxuryshoes\.com\b
@@ -13166,8 +13113,6 @@ christianlouboutinshoe
 \bbagsmoon\.com\b
 \binevitablebags\.com\b
 \bnikeairmax-1\.com\b
-\bchristianlouboutins2009\.com\b
-\bchristianlouboutinheels\.org\b
 \bogmart\.com\b
 \bvvbeauty\.com\b
 \bgiftsoflady\.com\b
@@ -13186,7 +13131,6 @@ christianlouboutinshoe
 \bhigh-quality-handbags\.com\b
 \bafwholesaler\.com\b
 \bgood-pal\.com\b
-\bchristianlouboutincabinet\.com\b
 \bbrandwatchforyou\.com\b
 \bluxidea4u\.com\b
 \bczzza\.com\b
@@ -13223,7 +13167,6 @@ christianlouboutinshoe
 \bvertucopy\.com\b
 \bgoodmanbuy\.com\b
 \bmbtshoesboots\.com\b
-\bchristianlouboutinvipshop\.com\b
 \breplicabags4u\.com\b
 \bgucciusaoutlet\.com\b
 \bguccisbags\.com\b
@@ -13374,14 +13317,11 @@ christianlouboutinshoe
 \bour1ouboutin\.com\b
 \bshoesonsale\.biz\b
 \bshoesmbts\.com\b
-\bchristianlouboutincc\.com\b
 \bcanadagoose\.bz\b
-\bchristian-louboutin-discounted\.com\b
 \bourlouboutin\.com\b
 \bwebmbtshoes\.com\b
 \bhighheelsforsale\.com\b
 \buggboot-sale\.com\b
-\blouboutinhunt\.com\b
 \bclladies\.com\b
 \bpoloshirts2010\.com\b
 \bmbtwalkingshoesshopping\.com\b
@@ -13390,9 +13330,6 @@ christianlouboutinshoe
 \bnflreplicajerseys\.net\b
 \buggbaileybuttonsale\.com\b
 \bpoloralphlaurendiscount\.com\b
-\bchristianlouboutinforless\.com\b
-\bchristianlouboutin-by\.com\b
-\bchristianlouboutinsexy\.com\b
 \bwomenheelshoes\.com\b
 \bpurelyfitness\.com\b
 \bwatchfreemoviesonlinedaily\.com\b
@@ -13413,30 +13350,15 @@ christianlouboutinshoe
 \btravelclinicnyc\.com\b
 \bnymsuits\.com\b
 \bmac-how\.net\b
-\blouboutinshoe\.com\b
-\blouboutinlondon\.com\b
 \bbuyuggshoe\.com\b
 \bshoesboots\.co\.uk\b
-\bchristianlouboutinstyle\.org\b
 \bclsell\.com\b
-\bchristianlouboutinvipsales\.com\b
 \bclsells\.com\b
 \bcheaplouboutin\.com\b
-\bchristian-louboutin-net\.com\b
-\bchristianlouboutinretails\.com\b
-\bchristianlouboutin2buy\.com\b
 \bbuy-designer-boots\.com\b
-\bchristianlouboutinstyle\.com\b
 \bwomenshoesshow\.com\b
-\bchristianlouboutin2shoes\.com\b
-\blouboutincheap\.com\b
-\bchristianlouboutinonsales\.com\b
-\blouboutinshoesale\.com\b
-\bchristianlouboutin-mall\.com\b
 \bdesignerchristian\.com\b
 \balilouboutin\.com\b
-\bchristianlouboutinhighheels\.com\b
-\bchristianlouboutinguide\.com\b
 \bshopchristianlouboutin\.com\b
 \bmuksboots\.com\b
 \bparischristianlouboutin\.com\b
