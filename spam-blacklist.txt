@@ -13252,6 +13252,7 @@ plant\.dmz-karpaty\.com
 \bsamuibatik\.com\b
 \bgiochigiocando\.forumfree\.it\b
 \bafricanamericantravelagency\.com\b
+\bhotelpeniscola\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
