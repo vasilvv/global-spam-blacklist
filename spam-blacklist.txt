@@ -13258,6 +13258,7 @@ plant\.dmz-karpaty\.com
 \bdescargas-deluxe\.blogspot\.com\b
 \bkukulkan\.260mb\.com\b
 \bhula-hoop-shop\.de\b
+\baddu\.co\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
