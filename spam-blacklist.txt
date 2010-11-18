@@ -13271,6 +13271,7 @@ plant\.dmz-karpaty\.com
 \bxycol\.net\b
 \bray-ban\.cc\b
 \bhockey-review\.ru\b
+\bsalsalust\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
