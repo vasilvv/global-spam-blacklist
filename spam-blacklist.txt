@@ -13269,6 +13269,7 @@ plant\.dmz-karpaty\.com
 \bstretchmarkscare\.com\b
 \bsimalovesfun\.blogspot\.com\b
 \bxycol\.net\b
+\bray-ban\.cc\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
