@@ -13342,6 +13342,7 @@ plant\.dmz-karpaty\.com
 \bbuydesignonline\.com\b
 \breplicasl\.com\b
 \byoutu\.be\b
+\bbalkanofil\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
