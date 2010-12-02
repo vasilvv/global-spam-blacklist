@@ -13344,7 +13344,6 @@ plant\.dmz-karpaty\.com
 \byoutu\.be\b
 \bbalkanofil\.ru\b
 \bfacbook\.com\b
-\bbadoo\.gen\.tr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
