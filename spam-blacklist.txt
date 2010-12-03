@@ -13347,6 +13347,8 @@ plant\.dmz-karpaty\.com
 \bbadoo\.gen\.tr\b
 \bstanfordu\.totalh\.com\b
 \bcommoditiestips\.com\b
+\bomg\.ly\b
+\bfry\.am\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
