@@ -466,6 +466,9 @@ w9uh\.info
 \bnimp\.org\b
 loldongs
 # URL shorteners
+\bu\.bb\b
+\bgourl\.bz\b
+\ba\.ai\b
 \b0rz\.tw\b
 \bleenk\.org
 \bdwarfurl\.com
@@ -12673,6 +12676,8 @@ louboutin[^./]
 \bcc\.st\b
 \bpaul-wesley\.us\b
 \bashton-kutcher\.us\b
+\bemma-stone\.bz\b
+\bursulacorbero\.org\b
 \bmatt-lanter\.net\b
 \bcalifornia-liability-insurance\.com\b
 \bseekic\.com\b
@@ -13350,12 +13355,8 @@ plant\.dmz-karpaty\.com
 \bomg\.ly\b
 \bfry\.am\b
 \blink\.packtpub\.com\b
-\bemma-stone\.bz\b
-\bu\.bb\b
-\bgourl\.bz\b
-\ba\.ai\b
+
 \brio-de-janeiro-guide\.net\b
-\bursulacorbero\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
