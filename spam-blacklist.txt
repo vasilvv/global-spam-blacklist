@@ -13351,6 +13351,7 @@ plant\.dmz-karpaty\.com
 \bfry\.am\b
 \blink\.packtpub\.com\b
 \bemma-stone\.bz\b
+\bu\.bb\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
