@@ -13354,6 +13354,7 @@ plant\.dmz-karpaty\.com
 \bu\.bb\b
 \bgourl\.bz\b
 \ba\.ai\b
+\brio-de-janeiro-guide\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
