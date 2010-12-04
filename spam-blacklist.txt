@@ -13357,9 +13357,7 @@ plant\.dmz-karpaty\.com
 \blink\.packtpub\.com\b
 \b2travel2\.nl\b
 \brio-de-janeiro-guide\.net\b
-\braipurnews\.com\b
-\braipurnews\.in\b
-\braipurnews\.info\b
+\braipurnews\.(com|in|info)\b
 \bcrookfilm\.info\b
 ## sbhandler_end
 ## leave the above line as is
