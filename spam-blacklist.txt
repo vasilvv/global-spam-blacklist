@@ -13363,6 +13363,7 @@ plant\.dmz-karpaty\.com
 \bzoolabo\.com\b
 \bgoforthenight\.com\b
 \bfunfok\.com\b
+\bold-school-spiele\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
