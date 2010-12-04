@@ -13357,6 +13357,7 @@ plant\.dmz-karpaty\.com
 \blink\.packtpub\.com\b
 
 \brio-de-janeiro-guide\.net\b
+\braipurnews\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
