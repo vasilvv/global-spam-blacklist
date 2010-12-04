@@ -13358,6 +13358,7 @@ plant\.dmz-karpaty\.com
 
 \brio-de-janeiro-guide\.net\b
 \braipurnews\.com\b
+\b2travel2\.nl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
