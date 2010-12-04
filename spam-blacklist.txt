@@ -13355,10 +13355,9 @@ plant\.dmz-karpaty\.com
 \bomg\.ly\b
 \bfry\.am\b
 \blink\.packtpub\.com\b
-
+\b2travel2\.nl\b
 \brio-de-janeiro-guide\.net\b
 \braipurnews\.com\b
-\b2travel2\.nl\b
 \braipurnews\.in\b
 \braipurnews\.info\b
 \bcrookfilm\.info\b
