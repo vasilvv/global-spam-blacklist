@@ -13361,6 +13361,7 @@ plant\.dmz-karpaty\.com
 \b2travel2\.nl\b
 \braipurnews\.in\b
 \braipurnews\.info\b
+\bcrookfilm\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
