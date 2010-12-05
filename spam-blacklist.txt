@@ -13369,6 +13369,7 @@ plant\.dmz-karpaty\.com
 \baffiliate\.godaddy\.com\b
 \bmidyatstarradyo\.com\b
 \bgameshinbun\.it\b
+\bellightmade\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
