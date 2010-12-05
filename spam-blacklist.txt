@@ -13377,6 +13377,8 @@ plant\.dmz-karpaty\.com
 \bplacement-international\.com\b
 \bamerican-business\.org\b
 \bchristmas-celebrations\.org\b
+\ballworldsport\.org\b
+\bworld-geography\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
