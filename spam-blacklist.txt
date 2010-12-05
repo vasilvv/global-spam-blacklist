@@ -13370,6 +13370,7 @@ plant\.dmz-karpaty\.com
 \bmidyatstarradyo\.com\b
 \bgameshinbun\.it\b
 \bellightmade\.com\b
+\bpescaprofesional\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
