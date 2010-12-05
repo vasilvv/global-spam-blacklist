@@ -13372,6 +13372,7 @@ plant\.dmz-karpaty\.com
 \bellightmade\.com\b
 \bpescaprofesional\.net\b
 \bfx-photos\.com\b
+\bs-m-s\.tv\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
