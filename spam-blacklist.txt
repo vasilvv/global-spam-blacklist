@@ -13375,6 +13375,7 @@ plant\.dmz-karpaty\.com
 \bs-m-s\.tv\b
 \bguia-puntacana\.com\b
 \bplacement-international\.com\b
+\bamerican-business\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
