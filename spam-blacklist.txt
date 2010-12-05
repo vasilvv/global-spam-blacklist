@@ -13339,6 +13339,7 @@ plant\.dmz-karpaty\.com
 \bchristmas-celebrations\.org\b
 \ballworldsport\.org\b
 \bworld-geography\.org\b
+\bholgacamera\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
