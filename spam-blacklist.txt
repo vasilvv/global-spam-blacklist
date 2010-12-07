@@ -13346,6 +13346,7 @@ plant\.dmz-karpaty\.com
 \bamareway\.org\b
 \bhappier11\.org\b
 \bli\.vc\b
+\bto80\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
