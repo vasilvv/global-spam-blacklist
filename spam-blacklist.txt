@@ -13349,6 +13349,7 @@ plant\.dmz-karpaty\.com
 \bto80\.net\b
 \bviviti\.com\b
 \bonly-hit\.de\.tl\b
+\blc\.my\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
