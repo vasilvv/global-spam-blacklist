@@ -13353,6 +13353,7 @@ plant\.dmz-karpaty\.com
 \bestimarte\.com\b
 \bhumanbody\.me\b
 \bparaguaycoins\.com\b
+\bebook\.7pop\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
