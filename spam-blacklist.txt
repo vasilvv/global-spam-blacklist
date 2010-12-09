@@ -13355,6 +13355,7 @@ plant\.dmz-karpaty\.com
 \bparaguaycoins\.com\b
 \bebook\.7pop\.net\b
 \bgermangoogirls\.com\b
+\bsthlm-city\.se\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
