@@ -13358,6 +13358,7 @@ plant\.dmz-karpaty\.com
 \bsthlm-city\.se\b
 \bucuncubinyil\.com\b
 \bla-corse\.eu\b
+\bpoutrerdansguardian\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
