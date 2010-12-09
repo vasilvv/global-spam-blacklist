@@ -13373,6 +13373,7 @@ plant\.dmz-karpaty\.com
 \bwebpetitions\.com\b
 #end of petition sites
 
+\bbestworkx\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
