@@ -466,6 +466,8 @@ w9uh\.info
 \bnimp\.org\b
 loldongs
 # URL shorteners
+\blc\.my\b
+\bqu\.pe\b
 \bu\.bb\b
 \bgourl\.bz\b
 \ba\.ai\b
@@ -13349,7 +13351,6 @@ plant\.dmz-karpaty\.com
 \bto80\.net\b
 \bviviti\.com\b
 \bonly-hit\.de\.tl\b
-\blc\.my\b
 \bestimarte\.com\b
 \bhumanbody\.me\b
 \bparaguaycoins\.com\b
@@ -13357,7 +13358,6 @@ plant\.dmz-karpaty\.com
 \bgermangoogirls\.com\b
 \bsthlm-city\.se\b
 \bucuncubinyil\.com\b
-\bqu\.pe\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
