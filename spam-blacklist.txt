@@ -2913,7 +2913,6 @@ in-gridsite\.narod\.ru
 \.ogpaper\.com
 tourettesguy\.com
 bhmjikhkumhh\.blogspot\.com
-\.ipetitions\.com
 \.freevideo\.cz
 \.gamend\.net
 \.turkishweekly\.net/turkce
@@ -13360,6 +13359,20 @@ plant\.dmz-karpaty\.com
 \bla-corse\.eu\b
 \bpoutrerdansguardian\.blogspot\.com\b
 \bkpop\.fr\b
+
+#Petition sites
+\bthepetitionsite\.com\b
+\bpetitiononline\.com\b
+\bgopetition\.com\b
+\bipetition\.com\b
+\.ipetitions\.com
+\bpetitions24\.com\b
+\bpetitionsite\.com\b
+\bpetitionthem\.com\b
+\bpetition-them\.com\b
+\bwebpetitions\.com\b
+#end of petition sites
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
