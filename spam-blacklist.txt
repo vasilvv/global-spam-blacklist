@@ -13382,6 +13382,7 @@ plant\.dmz-karpaty\.com
 \banna-world\.com\b
 \bblacksquaregallery\.com\b
 \bdahabtravel\.eu\b
+\b1dekorasyon\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
