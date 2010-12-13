@@ -466,6 +466,9 @@ w9uh\.info
 \bnimp\.org\b
 loldongs
 # URL shorteners
+\bho\.pe\b
+\bno\.pe\b
+\burlac\.com\b
 \blc\.my\b
 \bqu\.pe\b
 \bu\.bb\b
@@ -13376,7 +13379,6 @@ plant\.dmz-karpaty\.com
 \bbestworkx\.com\b
 \bbeeg\.cm\b
 \bugg-boots-ugg\.ru\b
-\bho\.pe\b
 \bshlinger\.com\b
 \bladbrokes\.com\b
 \banna-world\.com\b
@@ -13385,8 +13387,6 @@ plant\.dmz-karpaty\.com
 \b1dekorasyon\.com\b
 \bsanalritim\.com\b
 \btsanoff-classic\.com\b
-\bno\.pe\b
-\burlac\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
