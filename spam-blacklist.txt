@@ -5750,7 +5750,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \btopsearch\.ws\b
 \bpicturesofaruba\.com\b
 \budinesechannel\.it\b
-\btravel2macedonia\.com\.mk\b
 \bmorrodesaopaulo(brasil)?\.com\.br\b
 \bpousadamarraro\.com\.br\b
 \b1host\.in\b
