@@ -13390,6 +13390,7 @@ plant\.dmz-karpaty\.com
 \bcoatsize\.com\b
 \bhaqeeqat\.org\.pk\b
 \bthecompany\.pl\b
+\bpalmedazur\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
