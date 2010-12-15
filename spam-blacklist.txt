@@ -13388,6 +13388,7 @@ plant\.dmz-karpaty\.com
 \bhttp-music\.org\b
 \bukshoesizeconversion\.com\b
 \bcoatsize\.com\b
+\bhaqeeqat\.org\.pk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
