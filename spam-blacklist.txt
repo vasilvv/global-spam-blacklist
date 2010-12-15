@@ -13392,6 +13392,7 @@ plant\.dmz-karpaty\.com
 \bthecompany\.pl\b
 \bpalmedazur\.com\b
 \bdvdrecordersreviews\.com\b
+\btik\.la\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
