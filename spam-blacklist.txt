@@ -13394,6 +13394,7 @@ plant\.dmz-karpaty\.com
 \bdvdrecordersreviews\.com\b
 \btik\.la\b
 \bhot-maps\.de\b
+\ban\.to\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
