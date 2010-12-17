@@ -466,6 +466,9 @@ w9uh\.info
 \bnimp\.org\b
 loldongs
 # URL shorteners
+\btik\.la\b
+\ban\.to\b
+\blistn\.to\b
 \bho\.pe\b
 \bno\.pe\b
 \burlac\.com\b
@@ -13392,11 +13395,7 @@ plant\.dmz-karpaty\.com
 \bthecompany\.pl\b
 \bpalmedazur\.com\b
 \bdvdrecordersreviews\.com\b
-\btik\.la\b
 \bhot-maps\.de\b
-\ban\.to\b
-\ban\.to\b
-\blistn\.to\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
