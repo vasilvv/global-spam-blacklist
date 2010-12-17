@@ -13396,6 +13396,7 @@ plant\.dmz-karpaty\.com
 \bhot-maps\.de\b
 \ban\.to\b
 \ban\.to\b
+\blistn\.to\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
