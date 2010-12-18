@@ -13650,6 +13650,18 @@ plant\.dmz-karpaty\.com
 \babercrombiegood\.com\b
 \btoryburch-shoes\.us\b
 \btimberboots\.org\b
+\bhervelegeroutlets\.com\b
+\boffoffsales\.com\b
+\buggperfectboots\.com\b
+\bpopnewshoes\.com\b
+\bmanoloblahnik\.ws\b
+\byvessaintlaurentoutlet\.com\b
+\bjimmy-choo-outlet\.com\b
+\bniftybirds\.com\b
+\bshoescrazydeal\.com\b
+\bmyblackberry\.us\b
+\bjimmychoooutletstore\.com\b
+\bourherveleger\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
