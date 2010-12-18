@@ -13396,6 +13396,43 @@ plant\.dmz-karpaty\.com
 \bpalmedazur\.com\b
 \bdvdrecordersreviews\.com\b
 \bhot-maps\.de\b
+\b2008jersey\.com\b
+\becsoso\.com\b
+\bnflwholesalejerseys\.com\b
+\bandjersey\.com\b
+\bshopnfljerseys\.com\b
+\bnhljerseysshop\.com\b
+\bec9i\.com\b
+\bcapskicks\.com\b
+\bvip88trade\.com\b
+\bbigbigfashion\.com\b
+\bnfljerseystrade\.com\b
+\btang-trade\.com\b
+\bsanitarycnen\.com\b
+\bctoshops\.com\b
+\bcheapjerseys20\.com\b
+\bminnesota-vikings\.us\b
+\bnflshopwholesale\.com\b
+\bnfljerseywholesaler\.com\b
+\bwholesalechinajerseys\.com\b
+\bshoesnike\.cn\b
+\bwinjerseys\.com\b
+\bnfljerseysuper\.com\b
+\bretail-nfl-jerseys\.us\b
+\bgoodjerseysupply\.com\b
+\bnfljerseytrade\.com\b
+\bsupplyjerseys\.com\b
+\bnfl-jerseys-com\.com\b
+\bteamjerseys\.us\b
+\bvip-plaza\.com\b
+\bnikeeb\.com\b
+\bkicksinfo\.com\b
+\bfeelingshoes\.com\b
+\bairgriffeymax\.com\b
+\bair-max-kicks\.com\b
+\bhimaxshoes\.com\b
+\bmymaxshoes\.com\b
+\bnikeairmall\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
