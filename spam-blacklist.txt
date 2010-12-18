@@ -13661,6 +13661,7 @@ plant\.dmz-karpaty\.com
 \bmyblackberry\.us\b
 \bjimmychoooutletstore\.com\b
 \bourherveleger\.com\b
+\bes\.maxorion\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
