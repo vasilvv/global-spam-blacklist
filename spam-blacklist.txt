@@ -13662,6 +13662,11 @@ plant\.dmz-karpaty\.com
 \bjimmychoooutletstore\.com\b
 \bourherveleger\.com\b
 \bes\.maxorion\.com\b
+\barticlesbase\.com\b
+\barticlesvana\.com\b
+\bbukisa\.com\b
+\bcheckpublicrecord\.info\b
+\bgetpeoplesearch\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
