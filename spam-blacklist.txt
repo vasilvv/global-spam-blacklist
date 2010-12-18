@@ -5236,7 +5236,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bmeikk\.com\b
 \btcfaces\.com\b
 \bmusique\.arabe\.over-blog\.com\b
-\belusiva\.com\b
 \binformacitta\.vi\.it\b
 \bbonjovideos\.com\b
 \bic1\.it\b
