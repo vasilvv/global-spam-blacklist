@@ -13669,6 +13669,9 @@ plant\.dmz-karpaty\.com
 \bgetpeoplesearch\.info\b
 \bexm\.nr\b
 \bhelpdesk\.tk\b
+\bsedo\.com\b
+\bsedoparking\.com\b
+\bel-youm\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
