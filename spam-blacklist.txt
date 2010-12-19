@@ -13668,6 +13668,7 @@ plant\.dmz-karpaty\.com
 \bcheckpublicrecord\.info\b
 \bgetpeoplesearch\.info\b
 \bexm\.nr\b
+\bhelpdesk\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
