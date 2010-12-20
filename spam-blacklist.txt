@@ -13728,6 +13728,7 @@ plant\.dmz-karpaty\.com
 \bztop\.us\b
 \bsocialsurveyportal\.com\b
 \bthebestoftheinternet\.com\b
+\bgods-country\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
