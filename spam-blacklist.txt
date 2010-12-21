@@ -13732,6 +13732,7 @@ plant\.dmz-karpaty\.com
 \bnetbulx\.com\b
 \blesberlinettes\.wordpress\.com\b
 \bd0z\.me\b
+\btopholidaydestinations\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
