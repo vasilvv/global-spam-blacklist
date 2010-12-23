@@ -13733,6 +13733,7 @@ plant\.dmz-karpaty\.com
 \blesberlinettes\.wordpress\.com\b
 \bd0z\.me\b
 \btopholidaydestinations\.net\b
+\b174\.132\.115\.162\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
