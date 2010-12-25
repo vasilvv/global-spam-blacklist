@@ -13736,6 +13736,7 @@ plant\.dmz-karpaty\.com
 174\.132\.115\.162
 74\.208\.135\.98
 \badsense-p\.blogspot\.com\b
+\bholgaonline\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
