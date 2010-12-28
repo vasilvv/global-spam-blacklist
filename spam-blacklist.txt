@@ -13896,6 +13896,9 @@ plant\.dmz-karpaty\.com
 \bfilchi\.org\b
 \bfilipinochinese\.com\b
 \bfinance\.groups\.yahoo\.com/group/Fil_Chi\b
+\bnfljersey2010\.com\b
+\blv-gucci\.us\b
+\b45usdshoes\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
