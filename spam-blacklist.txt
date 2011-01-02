@@ -13900,6 +13900,8 @@ plant\.dmz-karpaty\.com
 \blv-gucci\.us\b
 \b45usdshoes\.com\b
 \bhotellmolleberg\.com\b
+\bzkracene\.cz\b 
+\b1url\.cz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
