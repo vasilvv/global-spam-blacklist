@@ -13906,6 +13906,7 @@ plant\.dmz-karpaty\.com
 \bmoladi\.com\b
 \bplasticformwork\.co\.za\b
 \bmoladiamericas\.com\b
+\brp-city\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
