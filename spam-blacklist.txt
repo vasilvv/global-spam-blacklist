@@ -13910,9 +13910,6 @@ plant\.dmz-karpaty\.com
 \bnobleherb\.com\b
 \bvivwestwood\.com\b
 \blouisvuitton-uk\.com\b
-\bnobleherb\.com\b
-\bvivwestwood\.com\b
-\blouisvuitton-uk\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
