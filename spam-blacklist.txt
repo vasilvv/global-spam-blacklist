@@ -13914,6 +13914,7 @@ plant\.dmz-karpaty\.com
 \bglock\.gr\b
 \brisk-international\.gr\b
 \bcutehandbags\.org\b
+\berssab\.u-bordeaux3\.fr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
