@@ -13917,6 +13917,7 @@ plant\.dmz-karpaty\.com
 \berssab\.u-bordeaux3\.fr\b
 \bknol\.google\.com\/k\/cestas\/knol-000-pr%C3%A9sentation-des-trois\/39y3khftrdkhq\/62#
 \bgrammar-and-logic\.com\b
+\blyt\.sr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
