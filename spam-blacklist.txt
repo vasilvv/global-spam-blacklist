@@ -13919,6 +13919,7 @@ plant\.dmz-karpaty\.com
 \bgrammar-and-logic\.com\b
 \blyt\.sr\b
 \bcardassiaprimera\.com\.ar\b
+\bmillionid\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
