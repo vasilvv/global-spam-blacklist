@@ -13911,6 +13911,7 @@ plant\.dmz-karpaty\.com
 \bvivwestwood\.com\b
 \blouisvuitton-uk\.com\b
 \bbu\.tt\b
+\bglock\.gr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
