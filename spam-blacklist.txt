@@ -13915,6 +13915,7 @@ plant\.dmz-karpaty\.com
 \brisk-international\.gr\b
 \bcutehandbags\.org\b
 \berssab\.u-bordeaux3\.fr\b
+\bknol\.google\.com\/k\/cestas\/knol-000-pr%C3%A9sentation-des-trois\/39y3khftrdkhq\/62#
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
