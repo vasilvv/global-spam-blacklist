@@ -13921,6 +13921,7 @@ plant\.dmz-karpaty\.com
 \bcardassiaprimera\.com\.ar\b
 \bmillionid\.com\b
 \bcmindia\.blogspot\.com\b
+\bfashionlande\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
