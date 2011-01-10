@@ -13925,6 +13925,7 @@ plant\.dmz-karpaty\.com
 \bfarvardyn\.com\b
 \bdatmaychu\.net\b
 \bdiendanmaychu\.net\b
+\bironrye\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
