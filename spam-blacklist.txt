@@ -13926,6 +13926,20 @@ plant\.dmz-karpaty\.com
 \bdatmaychu\.net\b
 \bdiendanmaychu\.net\b
 \bironrye\.blogspot\.com\b
+\bnewmail\.ru\b
+\bx50\.cc\b
+\b20x\.cc\b
+\b00free\.net\b
+\bfreei\.me\b
+\bzoka\.cc\b
+\bmstsnydtjqzm\.com\b
+\bvjllqduuwpoi\.com\b
+\bbwehqdnvifpe\.com\b
+\bvldvhezsuqci\.com\b
+\bjzmbcemsykhq\.com\b
+\bsklnflznqnfm\.com\b
+\byaplkmvidiuf\.com\b
+\bsymhwxgbmqbe\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
