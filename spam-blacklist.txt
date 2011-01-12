@@ -13943,6 +13943,7 @@ plant\.dmz-karpaty\.com
 \busefulwebtool\.com\b
 \bantiques-help\.com\b
 \bmon\.st\b
+\bcaseecampi\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
