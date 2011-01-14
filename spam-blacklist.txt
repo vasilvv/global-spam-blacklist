@@ -13948,6 +13948,7 @@ plant\.dmz-karpaty\.com
 \bpornosex\.web\.tr\b
 \bfansoflaliesposito\.tk\b
 \btomyumrecipe\.com\b
+\bbachhoa24\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
