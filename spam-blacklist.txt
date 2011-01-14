@@ -13946,6 +13946,7 @@ plant\.dmz-karpaty\.com
 \bcaseecampi\.net\b
 \burl\.lotpatrol\.com\b
 \bpornosex\.web\.tr\b
+\bfansoflaliesposito\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
