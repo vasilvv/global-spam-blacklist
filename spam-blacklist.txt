@@ -13952,6 +13952,7 @@ plant\.dmz-karpaty\.com
 \bvolleyball-movies\.pl\b
 \bazerbaijanrugs\.com\b
 \bturkcecince\.com\b
+\bcuevadelviento\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
