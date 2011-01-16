@@ -14043,6 +14043,7 @@ plant\.dmz-karpaty\.com
 \bdvdsbuynow\.com\b
 \bvibramsfivefingers\.net\b
 \bgirlspict\.net\b
+\bme2dvd\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
