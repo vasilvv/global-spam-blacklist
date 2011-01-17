@@ -14046,6 +14046,7 @@ plant\.dmz-karpaty\.com
 \bme2dvd\.com\b
 \bmusicadelparaguay\.blogspot\.com\b
 \btopfoot\.ch\b
+\bsapiencebpo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
