@@ -14050,6 +14050,7 @@ plant\.dmz-karpaty\.com
 \bthesiswritingservice\.com\b
 \babandonedkansai\.wordpress\.com\b
 \bdullsheep\.com\b
+\bfaceboıok\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
