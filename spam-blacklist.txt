@@ -14051,6 +14051,7 @@ plant\.dmz-karpaty\.com
 \babandonedkansai\.wordpress\.com\b
 \bdullsheep\.com\b
 \bfaceboıok\.com\b
+\biranbattery\.ir\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
