@@ -14053,6 +14053,7 @@ plant\.dmz-karpaty\.com
 \bfaceboıok\.com\b
 \biranbattery\.ir\b
 \bfadakbattery\.com\b
+\biranbattery\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
