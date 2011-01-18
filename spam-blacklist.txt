@@ -14059,6 +14059,7 @@ plant\.dmz-karpaty\.com
 \bjhgjkgjkgkjhg\.tr\.cx\b
 \bmuzikhaberson\.tr\.cx\b
 \bdreamhaber\.tr\.cx\b
+\bsanalritim\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
