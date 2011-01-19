@@ -1073,7 +1073,6 @@ biki4\.com
 casino\.realdiscounts\.be
 sessocities\.net
 nigeria(?:one\.com|planet\.tk)
-geocities\.com/seelagos
 securefta\.com
 freewaretown\.com
 sharewareisland\.com
@@ -1307,7 +1306,6 @@ fqred\.com
 streamload\.com
 kipredinstitute\.org
 woodking24(?:\.exporterindias|india(\.b2bquote)?)\.com
-geocities\.com/woodking24
 (indoor|outdoor|rustic|indian|home)furniture\.co\.in
 20six\.co\.uk
 \.pill[0-9]\.info
@@ -2402,7 +2400,6 @@ flats\.h1\.ru
 freewebs\.com/home-business-0
 games\.net4free\.org
 ganzao\.88118888\.com
-geocities\.com/(enspaland|hungarybusiness/spaland\.htm|railwayguide|spalandhu)
 gghggh\.com
 glmf33\.fr\.fm
 globalflights\.org
@@ -2847,7 +2844,6 @@ coolwb\.com
 \.pnope\.com
 \.xort\.in
 \.url4\.net
-geocities\.com/nozomsite
 autoworldcare\.com
 sexy-chat-rooms\.org
 grotteriaonline\.com
@@ -2931,7 +2927,6 @@ probuzz\.wordpress\.com
 blueplanetsurfmaps\.com
 asphost4free\.com
 \.lame\.name
-geocities.com/stymets
 blog?\.myspace\.com
 videochat-xl\.com\.ru
 prizee-free\.narod\.ru
@@ -3337,7 +3332,6 @@ republika\.pl/stranasmer
 \binternumber\.blogspot\.com
 \bconniefrancis\.nl
 \bLost\.eu
-\bgeocities\.com/xpw5yearslater
 \bmodiarte\.it
 \bmondeducirquelausanne87\.blogspot\.com
 \bruswar\.com
@@ -3369,7 +3363,6 @@ republika\.pl/stranasmer
 \bgo-passau-land\.com
 \bbratz\.tv
 \bvoila\.fr/bharatanatyam-dance
-\bgeocities\.com/medhahari
 \bmedha\.info
 \bguatemalahist\.com
 \bnamibianhistory\.com
@@ -3449,7 +3442,6 @@ ultime-notizie\.eu
 \bvulcano(?:consult|vacanze)\.it
 \bmysergeybrin\.com
 \bmoviemirth\.com
-\bgeocities\.com/anxietydetective
 \banxietydetective\.org
 \bproducerdb\.com
 \bfreemasonwatch\.freepress-freespeech\.com
@@ -3960,7 +3952,6 @@ compact\.exe\.su
 \bstudiando\.it\b
 \bwebalice\.it/pigionantialfio\b
 \becemaml\.(blogia\.)?com
-\bgeocities\.com/(wikipedia_bibliotecarios|censura_no)
 \bspain\.info/cn/TourSpain      # spam on zh wp
 \bfredthompsonforum\.com
 \bmenwith\.blogspot\.com
@@ -4009,7 +4000,6 @@ powerleveling(?:web|-wow)\.com
 \bchinalipin\.com\.cn
 \bcnvacation\.com
 \bllegalemapas\.com
-\bgeocities\.com/celebrityspaghetti
 \bulink\.co\.nr/
 \bpropeciahelp\.com
 \bandrewjohns\.ca
@@ -5575,7 +5565,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bmegarotic\.com\b
 \brankingoogle\.com\b
 \bwebseos\.5gigs\.com\b
-\bgeocities\.com/search_engine_ranker\b
 \bwebseos\.com\b
 \bnew-york-divorce-attorney\.com\b
 \bpharmacareerguide\.com\b
@@ -5612,7 +5601,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bjennifer-pics\.com\b
 \bsharapova-pics\.com\b
 \baniston-pics\.com\b
-\bgeocities\.com/(satanismresource|spiritualsatanist)\b
 \bimmovableproperty\.com\b
 \bbanknotes\.com\b
 \bequay\.com\b
@@ -5647,7 +5635,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bminibooksworld\.com\b
 \bsatanismresource\.fortunecity\.com\b
 \bapartmani\.soko-banja\.org\b
-\bgeocities\.com/Peces20
 \bzhengyexing\.com\b
 \b1kez\.com\b
 \badslkurulum\.com\b
@@ -5847,7 +5834,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfastservers\.net\b
 \bfreetutes\.com\b
 \bfriendfinder\.com/go\b
-\bgeocities\.com/cooltutorials\b
 \bkqzyfj\.com\b
 \bmaligant-mesothelioma\.co\.nr\b
 \boxado\.com\b
@@ -7520,7 +7506,6 @@ mongolische-jurten\.de
 \bstihi-xix-xx-vekov\.ru\b
 \biltwistacapri\.blogspot\.com\b
 \bhowtofriends\.com\b
-\bgeocities\.com\/yogafull\b
 \btiny-url\.org\b
 \bcapacitorx\.com\b
 \belectronicspal\.com\b
