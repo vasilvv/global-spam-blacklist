@@ -1391,7 +1391,7 @@ usatn\.com
 australiagate\.com
 cana-da\.com
 fr-ance\.com
-turkeygate\.com
+turkeygate\.comet
 uk-time\.com
 usaak\.com
 usamn\.com
@@ -1412,7 +1412,6 @@ truehealthy\.com
 gamegoldspace\.com
 mergerinvesting\.com
 look-for-albania\.com
-alldatasheet\.com
 datasheet\.kr
 ethanol-news\.de
 unleashmypower\.com
