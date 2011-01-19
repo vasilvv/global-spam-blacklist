@@ -466,6 +466,7 @@ w9uh\.info
 \bnimp\.org\b
 loldongs
 # URL shorteners
+\btr\.cx\b
 \btik\.la\b
 \ban\.to\b
 \blistn\.to\b
@@ -14056,11 +14057,7 @@ plant\.dmz-karpaty\.com
 \biranbattery\.com\b
 \bfadakbattery\.ir\b
 \biranups\.net\b
-\bjhgjkgjkgkjhg\.tr\.cx\b
-\bmuzikhaberson\.tr\.cx\b
-\bdreamhaber\.tr\.cx\b
 \bsanalritim\.com\b
-\basdqwe\.tr\.cx\b
 \balitacomics\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
