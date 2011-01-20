@@ -14044,6 +14044,7 @@ plant\.dmz-karpaty\.com
 \bsanalritim\.com\b
 \balitacomics\.blogspot\.com\b
 \bwax-plant\.com\b
+\bstanfordu\.byethost13\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
