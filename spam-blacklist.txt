@@ -14049,6 +14049,7 @@ plant\.dmz-karpaty\.com
 \bdenguevirusnet\.com\b
 \bgenetherapynet\.com\b
 \bchikungunyavirusnet\.com\b
+\bhamsangar\.ir\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
