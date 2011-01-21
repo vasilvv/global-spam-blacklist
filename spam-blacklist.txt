@@ -14051,6 +14051,7 @@ plant\.dmz-karpaty\.com
 \bchikungunyavirusnet\.com\b
 \bhamsangar\.ir\b
 \bkiacell\.com\b
+\bvideo-search\.de\.tl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
