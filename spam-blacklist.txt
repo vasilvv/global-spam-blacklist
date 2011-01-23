@@ -14029,6 +14029,7 @@ plant\.dmz-karpaty\.com
 \bvideo-search\.de\.tl\b
 \bxav\.cc\b
 \bxa\.vc\b
+\bsorturl\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
