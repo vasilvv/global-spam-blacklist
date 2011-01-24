@@ -13937,6 +13937,12 @@ plant\.dmz-karpaty\.com
 \bxa\.vc\b
 \bsorturl\.net\b
 \bmywestpalm\.com\b
+\bclassic-replica-watches\.com\b
+\bhogan-scarpe-sale\.com\b
+\bshop-replica-watches\.com\b
+\breplicasonsale\.com\b
+\blinkoflondon-uk\.com\b
+\bwatches-replicas-sale\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
