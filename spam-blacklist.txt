@@ -13943,6 +13943,7 @@ plant\.dmz-karpaty\.com
 \breplicasonsale\.com\b
 \blinkoflondon-uk\.com\b
 \bwatches-replicas-sale\.com\b
+\bchotalink\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
