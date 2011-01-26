@@ -13944,6 +13944,16 @@ plant\.dmz-karpaty\.com
 \blinkoflondon-uk\.com\b
 \bwatches-replicas-sale\.com\b
 \bchotalink\.com\b
+\bbacklinksteam\.com\b
+\bealexistexas\.com\b
+\bebadsservice\.com\b
+\bmobile-service-providers\.com\b
+\bmotoequipment\.org\b
+\bnextiva\.com\b
+\btelemarketingbase\.com\b
+\busvoip\.com\b
+\bvoipproviderslist\.com\b
+\bwebadsservice\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
