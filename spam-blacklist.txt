@@ -13911,7 +13911,7 @@ plant\.dmz-karpaty\.com
 \bgirlspict\.net\b
 \bme2dvd\.com\b
 \bmusicadelparaguay\.blogspot\.com\b
-\btopfoot\.ch\b
+btopfoot\.ch\b
 \bsapiencebpo\.com\b
 \bthesiswritingservice\.com\b
 \babandonedkansai\.wordpress\.com\b
