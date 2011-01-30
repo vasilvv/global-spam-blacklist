@@ -90,7 +90,6 @@ handy-(fun|kaufhaus)\.tk
 
 # Replacing overly broad ones above - Andre Engels, 2005-08-09
 \b(heavytools|spyware|carisoprodol|sexforfree)\.webzdarma\.cz\b
-viagra\.newmail\.ru
 (donewhere|olonline|spyware)\.bigsitecity\.com
 
 # added by brion
@@ -6112,7 +6111,6 @@ nikesupplier\.com
 \bicanhaz\.com\b
 \bvivaxp\.com\b
 \byoutube-?hostels\.com\b
-\bfacebookster\.com\b
 \blogobench\.com\b
 \bsalactive\.com\b
 \b123seotalk\.com\b
@@ -7417,7 +7415,6 @@ xxxxxx/
 \b(vickydarling|jeffseeney|andrewcripps|john-paullangbroek|howardhobbs)\.com\b
 \bhugeurl\.com\b
 \bfreakinghugeurl\.com\b
-\bfacebook\.com/l\.php\b
 \btangodans\.com\b
 (?<!www\.)\bmybrute\.com\b
 \bmybrutehacks\.forumotion\.com\b
@@ -9224,7 +9221,6 @@ nfljerseys
 \blatinpropaganda\.blogspot\.com\b
 \bstar-signs\.org\b
 \bdna-fingerprinting\.info\b
-\bfacebooklayouts\.us\b
 \bonlinesocialnetworkssite\.com\b
 \bjusttopasstime\.net\b
 \bvoip-phone-service-solutions\.com\b
@@ -11251,7 +11247,6 @@ buy[a-z0-9-]*replica
 \buggbootsgenuine\.com\b
 \belegantugg\.com\b
 \buggcase\.com\b
-\buggg\.org\b
 \bmyhothot\.com\b
 \bgodugg\.com\b
 \bselluggsboots\.com\b
@@ -11462,7 +11457,6 @@ buy[a-z0-9-]*replica
 \btoopghd\.com\b
 \bonlineanf\.com\b
 \btribepainting\.com\b
-\b2ugg\.org\b
 \baf1myshop\.com\b
 \bshepherds-life\.com\b
 \bgowayshoe\.com\b
@@ -11902,7 +11896,9 @@ buy[a-z0-9-]*replica
 \bgoegle\.us\b
 \biraqvideos\.net\b
 \bppdictionary\.com\b
-\bfaceboook\.com\b
+\bfacebook\.com/l\.php\b
+\bfacebo(?:o[ob]|ıo)k\.com\b
+\bfacebook(?:(?:ster|\.ilkfrm)\.com|layouts\.us)\b
 \bcowurl\.com\b
 \bsocheapbag\.com\b
 \bokbootsmall\.com\b
@@ -12148,7 +12144,6 @@ buy[a-z0-9-]*replica
 \bchatroulettes\.us\b
 \bokutan\.tk/arama\b
 \bchatrullet\.net\b
-\bfacebook\.ilkfrm\.com\b
 \bscientologymyths\.info\b
 \bfreedommag\.org\b
 \bblog\.thomas7\.dreamhosters\.com\b
@@ -13116,11 +13111,10 @@ plant\.dmz-karpaty\.com
 \bhula-hoop-shop\.de\b
 \baddu\.co\b
 \bpaydayloansolutions\.net\b
-\barticlesvana\.com\b
+\barticles(?:base|vana)\.com\b
 \bbestecigarettesreview\.com\b
 \bbestelectroniccigarettereviews\.blogspot\.com\b
 \bquickpaydaycreadit\.wikidot\.com\b
-\bpaydayloansolutions\.net\b
 \bcellulitetalk\.com\b
 \bstretchmarkscare\.com\b
 \bsimalovesfun\.blogspot\.com\b
@@ -13279,13 +13273,11 @@ plant\.dmz-karpaty\.com
 \becsoso\.com\b
 \bnflwholesalejerseys\.com\b
 \bandjersey\.com\b
-\bshopnfljerseys\.com\b
 \bnhljerseysshop\.com\b
 \bec9i\.com\b
 \bcapskicks\.com\b
 \bvip88trade\.com\b
 \bbigbigfashion\.com\b
-\bnfljerseystrade\.com\b
 \btang-trade\.com\b
 \bsanitarycnen\.com\b
 \bctoshops\.com\b
@@ -13296,7 +13288,6 @@ plant\.dmz-karpaty\.com
 \bwholesalechinajerseys\.com\b
 \bshoesnike\.cn\b
 \bwinjerseys\.com\b
-\bnfljerseysuper\.com\b
 \bretail-nfl-jerseys\.us\b
 \bgoodjerseysupply\.com\b
 \bnfljerseytrade\.com\b
@@ -13534,15 +13525,12 @@ plant\.dmz-karpaty\.com
 \bjimmychoooutletstore\.com\b
 \bourherveleger\.com\b
 \bes\.maxorion\.com\b
-\barticlesbase\.com\b
-\barticlesvana\.com\b
 \bbukisa\.com\b
 \bcheckpublicrecord\.info\b
 \bgetpeoplesearch\.info\b
 \bexm\.nr\b
 \bhelpdesk\.tk\b
-\bsedo\.com\b
-\bsedoparking\.com\b
+\bsedo(?:parking)?\.com\b
 \bel-youm\.com\b
 \b1-800-memory\.com\b
 \baddsubmiturl\.com\b
@@ -13554,8 +13542,6 @@ plant\.dmz-karpaty\.com
 \bceritaindonesia\.com\b
 \bcreditscorecomparison\.com\b
 \bejdixon\.com\b
-\bfaceboobk\.com\b
-\bfaceboook\.com\b
 \bfresherworld\.com\b
 \bfrt\.org\b
 \bholdm-poker\.com\b
@@ -13596,7 +13582,6 @@ plant\.dmz-karpaty\.com
 \bphebank\.com\b
 \bwwww\.hentaitube\.com\b
 \byouyube\.com\b
-\bzshare\.com\b
 \bztop\.us\b
 \bsocialsurveyportal\.com\b
 \bthebestoftheinternet\.com\b
@@ -13711,10 +13696,8 @@ plant\.dmz-karpaty\.com
 \bgretsch\.es\b
 \baudiotherapy\.es\b
 \bchef\.ph\b
-\bchef\.com\.ph\b
-\bsedoparking\.com\b
-\bsupermodels3d\.com\b
-\bsupermodel3d\.com\b
+\bchef(?:\.com)\.ph\b
+\bsupermodels?3d\.com\b
 \bmagic\.tk\b
 \bupd\.ph\b
 \bphotoshoot3d\.com\b
@@ -13724,8 +13707,7 @@ plant\.dmz-karpaty\.com
 \bcolorfulbubbles\.com\b
 \b3dtvsupplies\.com\b
 \b3dtvcorp\.com\b
-\b3dtv\.ph\b
-\b3dtv\.com\.ph\b
+\b3dtv(?:\.com)\.ph\b
 \b3dadvertising\.com\.ph\b
 \b3dads\.com\.ph\b
 \b3-d\.ph\b
@@ -13735,39 +13717,18 @@ plant\.dmz-karpaty\.com
 \bcarabaoisland\.com\.ph\b
 \bdollar\.com\.ph\b
 \bboayan\.com\.ph\b
-\bsanvicente\.ph\b
-\bsanvicente\.com\.ph\b
+\bsanvicente(?:\.com)?\.ph\b
 \blithium-air\.com\b
 \bboracay\.tk\b
-\bdiwaran\.net\b
-\bdiwaran\.com\b
-\bdiwaran\.com\b
-\bmrgfustreatment\.com\b
-\bmrgfu\.com\b
+\bdiwaran\.(?:com|net)\b
+\bmrgfu(?:streatment)?\.com\b
 \bmrg-fus\.com\b
 \bpiratedcopy\.com\b
 \bfilchi\.org\b
 \bfilipinochinese\.com\b
 \bfinance\.groups\.yahoo\.com/group/Fil_Chi\b
-\bofw\.org\.ph\b
-\bofw\.com\.ph\b
-\bofwonline\.com\b
-\bofwonline\.ateneo\.edu\b
-\bofwonline\.net\b
-\bboracay\.tk\b
-\bdiwaran\.net\b
-\bdiwaran\.com\b
-\bsedoparking\.com\b
-\bboayan\.com\.ph\b
-\bsanvicente\.ph\b
-\bsanvicente\.com\.ph\b
-\bmrgfustreatment\.com\b
-\bmrgfu\.com\b
-\bpiratedcopy\.com\b
-\blithium-air\.com\b
-\bfilchi\.org\b
-\bfilipinochinese\.com\b
-\bfinance\.groups\.yahoo\.com/group/Fil_Chi\b
+\bofw\.(?:com|org)\.ph\b
+\bofwonline\.(?:com|ateneo\.edu|net)\b
 \bnfljersey2010\.com\b
 \blv-gucci\.us\b
 \b45usdshoes\.com\b
@@ -13916,13 +13877,11 @@ btopfoot\.ch\b
 \bthesiswritingservice\.com\b
 \babandonedkansai\.wordpress\.com\b
 \bdullsheep\.com\b
-\bfaceboıok\.com\b
 \biranbattery\.ir\b
 \bfadakbattery\.com\b
 \biranbattery\.com\b
 \bfadakbattery\.ir\b
 \biranups\.net\b
-\bsanalritim\.com\b
 \balitacomics\.blogspot\.com\b
 \bwax-plant\.com\b
 \bstanfordu\.byethost13\.com\b
@@ -13937,9 +13896,7 @@ btopfoot\.ch\b
 \bxa\.vc\b
 \bsorturl\.net\b
 \bmywestpalm\.com\b
-\bclassic-replica-watches\.com\b
 \bhogan-scarpe-sale\.com\b
-\bshop-replica-watches\.com\b
 \breplicasonsale\.com\b
 \blinkoflondon-uk\.com\b
 \bwatches-replicas-sale\.com\b
@@ -13955,7 +13912,6 @@ btopfoot\.ch\b
 \bvoipproviderslist\.com\b
 \bwebadsservice\.com\b
 \btinyfav\.com\b
-\bnobrain\.dk\b
 \bfreelancercareers\.com\b
 \bcustomcourseworks\.com\b
 \bpradeepsanyal\.com\b
