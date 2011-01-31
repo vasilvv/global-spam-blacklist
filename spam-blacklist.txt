@@ -13916,6 +13916,15 @@ btopfoot\.ch\b
 \bcustomcourseworks\.com\b
 \bpradeepsanyal\.com\b
 \bforit\.org\b
+\bcutehandbags\.org\b
+\breplicaisland\.com\b
+\btophermesbirkin\.com\b
+\bluxuryb2c\.com\b
+\bukpandorabracelets\.com\b
+\bexactbags\.com\b
+\bchanelreplica\.com\b
+\bukthomassabo\.com\b
+\btopshoesfor\.me\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
