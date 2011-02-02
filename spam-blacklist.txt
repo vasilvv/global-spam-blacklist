@@ -13928,6 +13928,7 @@ btopfoot\.ch\b
 \bdbc\.hk\b
 \bmrpinyin\.webs\.com\b
 \btugolden-retriever\.blogspot\.com\b
+\bshaderaven\.at\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
