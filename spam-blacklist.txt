@@ -13931,6 +13931,7 @@ btopfoot\.ch\b
 \bshaderaven\.at\.ua\b
 \blinq\.lk\b
 \b0z\.fr\b
+\bcharts-single\.de\.tl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
