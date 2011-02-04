@@ -13934,6 +13934,7 @@ btopfoot\.ch\b
 \bcharts-single\.de\.tl\b
 \bfacebookthe\.com\b
 \bzurl\.co\.uk\b
+\blostpedia\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
