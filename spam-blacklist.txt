@@ -13939,6 +13939,7 @@ btopfoot\.ch\b
 \btinyfav\.com\b
 \bminurl\.com\b
 \bur1\.bz\b
+\bchekushka3\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
