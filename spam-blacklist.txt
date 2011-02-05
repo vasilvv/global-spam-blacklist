@@ -13936,6 +13936,9 @@ btopfoot\.ch\b
 \bzurl\.co\.uk\b
 \blostpedia\.com\b
 \bdictionar-englez-roman\.org\b
+\btinyfav\.com\b
+\bminurl\.com\b
+\bur1\.bz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
