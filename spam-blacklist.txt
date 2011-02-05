@@ -13940,6 +13940,7 @@ btopfoot\.ch\b
 \bminurl\.com\b
 \bur1\.bz\b
 \bchekushka3\.narod\.ru\b
+\bgeocities\.yahoo\.com\.br\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
