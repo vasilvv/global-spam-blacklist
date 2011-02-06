@@ -13630,6 +13630,7 @@ btopfoot\.ch\b
 \bgeocities\.yahoo\.com\.br\b
 \btwiter\.com\b
 \bforexinsider\.co\.uk\b
+\bez\.vg\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
