@@ -13632,6 +13632,7 @@ btopfoot\.ch\b
 \bforexinsider\.co\.uk\b
 \bez\.vg\b
 \burl4t\.com\b
+\bvv\.vg\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
