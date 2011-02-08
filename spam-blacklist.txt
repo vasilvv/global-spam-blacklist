@@ -13638,6 +13638,7 @@ btopfoot\.ch\b
 \bhvacinstaller\.com\b
 \brod\.gs\b
 \bchop\.ws\b
+\bchws\.ca\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
