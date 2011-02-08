@@ -13636,6 +13636,7 @@ btopfoot\.ch\b
 \blxcurl\.com\b
 \bcyberpunkresources\.blogspot\.com\b
 \bhvacinstaller\.com\b
+\brod\.gs\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
