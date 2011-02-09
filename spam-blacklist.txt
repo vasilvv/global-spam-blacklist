@@ -13642,6 +13642,10 @@ btopfoot\.ch\b
 \bpurchasetabs\.com\b
 \bgalerie-obadia\.com\b
 \bplanet-earth\.tv\b
+\bzumlink\.com\b
+\bzumlink\.de\b
+\blinkegit\.com\b
+\bdolinku\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
