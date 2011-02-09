@@ -13648,6 +13648,7 @@ btopfoot\.ch\b
 \bdolinku\.pl\b
 \bvuethis\.com\b
 \broligames\.info\b
+\bspruethmagers\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
