@@ -13657,6 +13657,7 @@ btopfoot\.ch\b
 \bfaceboog\.com\b
 \bmyspac\.com\b
 \bwikipedi\.org\b
+\b1939\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
