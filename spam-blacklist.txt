@@ -13659,6 +13659,7 @@ btopfoot\.ch\b
 \bwikipedi\.org\b
 \b1939\.com\b
 \blivjournal\.com\b
+\bbolgspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
