@@ -13654,6 +13654,7 @@ btopfoot\.ch\b
 \byspace\.com\b
 \ben\.wilipedia\.org\b
 \bfacebppk\.com\b
+\bfaceboog\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
