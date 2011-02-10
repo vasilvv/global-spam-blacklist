@@ -13664,6 +13664,7 @@ btopfoot\.ch\b
 \bblogpspot\.com\b
 \bautomobile-insurance\.com\b
 \binstitutovagina\.com\b
+\bdental\.implantprocedure\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
