@@ -13652,6 +13652,7 @@ btopfoot\.ch\b
 \bgaytube\.com\b
 \bblogspor\.com\b
 \byspace\.com\b
+\ben\.wilipedia\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
