@@ -13650,6 +13650,7 @@ btopfoot\.ch\b
 \broligames\.info\b
 \bspruethmagers\.com\b
 \bgaytube\.com\b
+\bblogspor\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
