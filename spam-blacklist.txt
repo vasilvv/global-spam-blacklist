@@ -13672,6 +13672,7 @@ btopfoot\.ch\b
 \bsmartkpis\.com\b
 \bbalancedscorecardreview\.com\b
 \bexemys\.com\b
+\.cc\.bingj\.com.*sanalritim
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
