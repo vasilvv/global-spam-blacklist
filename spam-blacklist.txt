@@ -13667,6 +13667,7 @@ btopfoot\.ch\b
 \bdental\.implantprocedure\.com\b
 \baddressdoctor\.com\b
 \bwebcache\.googleusercontent\.com.*?sanalritim
+\bzarasoft\.yoo7\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
