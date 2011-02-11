@@ -13671,6 +13671,7 @@ btopfoot\.ch\b
 \bb4p\.nl\b
 \bsmartkpis\.com\b
 \bbalancedscorecardreview\.com\b
+\bexemys\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
