@@ -13677,6 +13677,7 @@ btopfoot\.ch\b
 \b1m4u1m4me\.com\b
 \bsalentobooking\.net\b
 \bsms-fake\.com\b
+\bbep-hiphop\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
