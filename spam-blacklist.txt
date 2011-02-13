@@ -13737,6 +13737,8 @@ btopfoot\.ch\b
 \bubb\.cc\b
 \bus\.tc\b
 \bvisit\.ws\b
+\bco\.nr\b
+\buk\.tc\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
