@@ -3395,7 +3395,7 @@ ultime-notizie\.eu
 # Smartdots.com redirect sites Nick1915
 \b(au|es|h[ku]|i[et]|kr|mx|pl|se|th|u[as]|shop)\.tc\b
 \bcom?\.at\.t[ct]\b
-\b(co|me|borg)\.uk\.tc\b
+
 \bu[ks]\.tt\b
 
 #Back to proper logging...
@@ -3998,7 +3998,6 @@ powerleveling(?:web|-wow)\.com
 \bchinalipin\.com\.cn
 \bcnvacation\.com
 \bllegalemapas\.com
-\bulink\.co\.nr/
 \bpropeciahelp\.com
 \bandrewjohns\.ca
 \bsanpedrodeatacama\.net
@@ -5818,7 +5817,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bur1\.ca\b
 \b8xhost\.com/automativerepair\b
 \bautoguide\.gigacities\.net\b
-\bautomotiverepair\.co\.nr\b
 \bautorepair\.netfast\.org\b
 \bcureacne\.koolhost\.com\b
 \bdedicatedhosting\.com\b
@@ -5827,13 +5825,11 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bfreetutes\.com\b
 \bfriendfinder\.com/go\b
 \bkqzyfj\.com\b
-\bmaligant-mesothelioma\.co\.nr\b
 \boxado\.com\b
 \bprogrammersheaven\.com\b
 \brealdownload\.webng\.com\b
 \bresellerspanel\.com\b
 \brhapsodydownload\.webng\.com\b
-\bsystemanalysis\.co\.nr\b
 \btutes\.webng\.com\b
 \btutorial(-index|ized)\.com\b
 \bvbplanet\.gigacities\.net\b
@@ -6752,7 +6748,6 @@ viagra-?(drugs|online|billig)
 \bpraxis-test-coaching\.com\b
 \bduparts\.com\b
 \bfarmsandvillas\.com\b
-\bantonioolinto\.co\.nr\b
 \bseecornwall\.eu\b
 \bcornwall\.rgds\.pl\b
 \bvkusnyblog\.ru\b
@@ -13738,7 +13733,7 @@ btopfoot\.ch\b
 \bus\.tc\b
 \bvisit\.ws\b
 \bco\.nr\b
-\buk\.tc\b
+\buk\.tc\b 
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
