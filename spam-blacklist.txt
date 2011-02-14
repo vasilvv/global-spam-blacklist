@@ -13740,6 +13740,7 @@ btopfoot\.ch\b
 \bparis-pronostics-sportifs\.com\b
 \bfrance-poker-en-ligne\.com\b
 \bguide-roulette\.net\b
+\bjeux-casino-gratuits\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
