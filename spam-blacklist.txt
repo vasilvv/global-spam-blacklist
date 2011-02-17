@@ -13746,6 +13746,8 @@ btopfoot\.ch\b
 \bsolar-energy\.co\.uk\b
 \bnolo.com/index.cfm\b.*?\bkbid=
 \bn4x\.us\b
+\burlredo\.com\b
+\blytl\.me\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
