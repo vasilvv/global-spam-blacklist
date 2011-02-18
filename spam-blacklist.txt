@@ -13756,6 +13756,7 @@ btopfoot\.ch\b
 \bhyv\.es\b
 \bhyves\.nl/api/shorturl\b
 \bcartusialover\.wordpress\.com\b
+\bcartusialover\.altervista\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
