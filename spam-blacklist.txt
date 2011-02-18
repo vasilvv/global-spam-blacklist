@@ -13752,6 +13752,7 @@ btopfoot\.ch\b
 \bbuildingexamples\.com\b
 \bmusikpedia\.net\b 
 \bwo2verzameling\.web-log\.nl\b
+\broatanwestbay\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
