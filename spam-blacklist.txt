@@ -13759,6 +13759,7 @@ btopfoot\.ch\b
 \bcartusialover\.altervista\.org\b
 \bcabinetfiscal\.com\b
 \btilpark\.com\b
+\bsudety\.veus\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
