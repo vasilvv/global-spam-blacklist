@@ -13760,6 +13760,7 @@ btopfoot\.ch\b
 \bcabinetfiscal\.com\b
 \btilpark\.com\b
 \bsudety\.veus\.pl\b
+\bbatuferinggi\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
