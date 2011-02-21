@@ -13764,6 +13764,7 @@ btopfoot\.ch\b
 \btinyden\.com\b
 \bjust9u\.com\b
 \bgo\.to\b
+\bfreud\.pribor\.cz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
