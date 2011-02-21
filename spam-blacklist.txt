@@ -13763,6 +13763,7 @@ btopfoot\.ch\b
 \bbatuferinggi\.info\b
 \btinyden\.com\b
 \bjust9u\.com\b
+\bgo\.to\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
