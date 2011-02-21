@@ -13767,6 +13767,7 @@ btopfoot\.ch\b
 \bgo\.to\b
 \bfreud\.pribor\.cz\b
 \bebookagora\.com\.br\b
+\bple-mir\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
