@@ -9486,6 +9486,7 @@ louboutin[^./]
 \bsaigontravelguides\.com\b
 \blinksoflondonstore\.com\b
 \bifrslistcom\b
+# Note re backupurl.com: [[Talk:Spam_blacklist/Archives/2011-02#backupurl.com]]
 \bbackupurl\.com\b
 \bkelkooshoes\.com\b
 \bwishesg20\.com\b
