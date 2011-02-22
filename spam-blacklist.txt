@@ -13769,6 +13769,7 @@ btopfoot\.ch\b
 \bebookagora\.com\.br\b
 \bple-mir\.com\b
 \bsaveffi\.com\b
+\boxfreudian\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
