@@ -13015,6 +13015,8 @@ plant\.dmz-karpaty\.com
 \bpetitionthem\.com\b
 \bpetition-them\.com\b
 \bwebpetitions\.com\b
+\bgopetition\.com\b
+\bpetitionspot\.com\b
 #end of petition sites
 
 \bbestworkx\.com\b
@@ -13772,8 +13774,6 @@ btopfoot\.ch\b
 \boxfreudian\.com\b
 \bstanleygentlemen\.com\b
 \bpinkushion\.com\b
-\bgopetition\.com\b
-\bpetitionspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
