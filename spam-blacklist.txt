@@ -13774,6 +13774,7 @@ btopfoot\.ch\b
 \boxfreudian\.com\b
 \bstanleygentlemen\.com\b
 \bpinkushion\.com\b
+\bsuperbestpalsclub\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
