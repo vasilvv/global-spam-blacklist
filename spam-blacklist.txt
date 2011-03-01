@@ -13777,6 +13777,7 @@ btopfoot\.ch\b
 \bsuperbestpalsclub\.tk\b
 \bva\.mu\b
 \bx\.co\b
+\bhancocksinsi\.tr\.gg\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
