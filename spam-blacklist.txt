@@ -13794,6 +13794,7 @@ btopfoot\.ch\b
 \btravestitravestiler\.net\b
 \btravestitravestiler\.com\b
 \btravestiler\.net\b
+\blovespace\.loversguide\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
