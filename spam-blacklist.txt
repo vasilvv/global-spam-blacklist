@@ -13781,6 +13781,19 @@ btopfoot\.ch\b
 \bsperco\.com\.ua\b
 \blifegid\.net\b
 \bcineastaleonardo\.blogspot\.com\b
+\bsohbetask\.net\b
+\bstartravestiler\.net\b
+\bstartravestiler\.com\b
+\btravestilerburda\.com\b
+\badultvizyon\.com\b
+\btravesti34\.net\b
+\btravestialemi\.net\b
+\btravesti35\.com\b
+\btravestiler1\.com\b
+\bstarderya\.com\b
+\btravestitravestiler\.net\b
+\btravestitravestiler\.com\b
+\btravestiler\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
