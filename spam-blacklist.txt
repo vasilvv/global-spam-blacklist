@@ -13801,6 +13801,7 @@ btopfoot\.ch\b
 \bwikipeadia\.org\b
 \bfickr\.com\b
 \bpenisland\.com\b
+\bzideo\.nl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
