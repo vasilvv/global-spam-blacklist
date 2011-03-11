@@ -13796,7 +13796,6 @@ btopfoot\.ch\b
 \blovespace\.loversguide\.com\b
 \bpanicatthedisco\.org\b
 \belectroniccigaretteburn\.com\b
-\bfr\.wikipeia\.org\b
 \becigarettereviews\.com\b
 ## sbhandler_end
 ## leave the above line as is
