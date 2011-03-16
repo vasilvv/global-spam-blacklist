@@ -13803,6 +13803,8 @@ btopfoot\.ch\b
 \bpenisland\.com\b
 \bzideo\.nl\b
 \bit2\.in\b
+\bprimewritings\.com\b
+\bessaydr\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
