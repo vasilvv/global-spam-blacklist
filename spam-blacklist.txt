@@ -13807,6 +13807,7 @@ btopfoot\.ch\b
 \bessaydr\.com\b
 \btube-silicon\.com\b
 \bbblogspot\.com\b
+\btheyellopages\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
