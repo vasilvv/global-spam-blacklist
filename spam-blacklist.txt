@@ -13810,6 +13810,27 @@ btopfoot\.ch\b
 \btheyellopages\.com\b
 \bemresaracoglu\.com\b
 \benlineateve\.com\b
+\bbagsprada\.com\b
+\bluxurydesignerbag\.com\b
+\bwholesale-gucci\.com\b
+\bguccigonow\.com\b
+\blouisvuittonretail\.com\b
+\blouisvuittonretail\.org\b
+\blouisvuittonretaill\.com\b
+\bcheapgucci\.net\b
+\bpradanow\.com\b
+\bed-hardy-online-store\.com\b
+\bgucci-wallets-outlet\.com\b
+\bcheap4gucci\.com\b
+\bpaybagsincs\.com\b
+\btesco-tesco\.com\b
+\bbagseek\.com\b
+\bebella-collections\.com\b
+\bus-abercrombie\.com\b
+\bpaybagsinc\.com\b
+\bfashionales\.com\b
+\bbagtaste\.com\b
+\bbag-mvp\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
