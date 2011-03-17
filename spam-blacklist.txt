@@ -13834,6 +13834,7 @@ btopfoot\.ch\b
 \bxsnr\.x10\.mx\b
 \bchinaballvalves\.com\b
 \bbaixarps2\.tk\b
+\bnemri\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
