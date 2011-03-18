@@ -13842,6 +13842,7 @@ btopfoot\.ch\b
 \bidxl\.net\b
 \bmuznewz\.com\b
 \bads\.betfair\.com\b
+\ballaboutmodels\.tv\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
