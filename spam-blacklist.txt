@@ -13839,6 +13839,7 @@ btopfoot\.ch\b
 \b4p5\.com\b
 \bmerapakistan\.com\.pk\b
 \besiparislerim\.com\b
+\bidxl\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
