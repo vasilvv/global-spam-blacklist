@@ -13847,6 +13847,7 @@ btopfoot\.ch\b
 \bgigandet-fan\.org\b
 \bsqueerl\.net\b
 \bskryabin\.biz\b
+\bmcflyreport\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
