@@ -13850,6 +13850,9 @@ btopfoot\.ch\b
 \bmcflyreport\.tk\b
 \bcamera-wiki\.org\b
 \bcamerapedia\.wikia\.org\b
+\bmuzland\.ru\b
+\bmuzland\.info\b
+\bmuzland\.es\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
