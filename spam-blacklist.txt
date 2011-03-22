@@ -13848,8 +13848,6 @@ btopfoot\.ch\b
 \bsqueerl\.net\b
 \bskryabin\.biz\b
 \bmcflyreport\.tk\b
-\bcamera-wiki\.org\b
-\bcamerapedia\.wikia\.org\b
 \bmuzland\.ru\b
 \bmuzland\.info\b
 \bmuzland\.es\b
