@@ -13857,6 +13857,7 @@ btopfoot\.ch\b
 \bmauritiustravelinformation\.com\b
 \btudosobremagiaeocultismo\.blogspot\.com\b
 .*sanalritim(\+|\.)com 
+\bclassroam\.multiply\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
