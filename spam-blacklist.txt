@@ -13856,6 +13856,7 @@ btopfoot\.ch\b
 \byoutuvideo\.info\b
 \bmauritiustravelinformation\.com\b
 \btudosobremagiaeocultismo\.blogspot\.com\b
+.*sanalritim\.com
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
