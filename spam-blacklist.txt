@@ -13026,6 +13026,7 @@ plant\.dmz-karpaty\.com
 \bblacksquaregallery\.com\b
 \bdahabtravel\.eu\b
 \b1dekorasyon\.com\b
+\bsanalritim\.com\b
 \btsanoff-classic\.com\b
 \bhttp-music\.org\b
 \bukshoesizeconversion\.com\b
@@ -13662,11 +13663,13 @@ btopfoot\.ch\b
 \binstitutovagina\.com\b
 \bdental\.implantprocedure\.com\b
 \baddressdoctor\.com\b
+\bwebcache\.googleusercontent\.com.*?sanalritim
 \bzarasoft\.yoo7\.com\b
 \bb4p\.nl\b
 \bsmartkpis\.com\b
 \bbalancedscorecardreview\.com\b
 \bexemys\.com\b
+\.cc\.bingj\.com.*sanalritim
 \bshrinkee\.com\b
 \b1m4u1m4me\.com\b
 \bsalentobooking\.net\b
@@ -13853,8 +13856,9 @@ btopfoot\.ch\b
 \byoutuvideo\.info\b
 \bmauritiustravelinformation\.com\b
 \btudosobremagiaeocultismo\.blogspot\.com\b
-sanalritim
+.*sanalritim(\+|\.)com 
 \bclassroam\.multiply\.com\b
+sanalritim
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
