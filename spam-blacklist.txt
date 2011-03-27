@@ -13861,6 +13861,7 @@ btopfoot\.ch\b
 sanalritim
 \bforumcorlu\.com\b
 \bbunkerpictures\.nl\b
+\bview\.my\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
