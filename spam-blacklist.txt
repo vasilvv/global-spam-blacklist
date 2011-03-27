@@ -14,7 +14,7 @@
  #    - Every non-blank line is a regex fragment which will only match hosts inside URLs
  # [[Category:Spam blacklist|{{PAGENAME}}]]
 
-<!-- leave this line exactly as it is --> <pre> 
+ #<!-- leave this line exactly as it is --> <pre>
 # Words
 s-e-x
 zoofilia
