@@ -13948,6 +13948,7 @@ sanalritim
 \bantimbt\.com\b
 \bdiscount-arena\.com\b
 \bmbtwalkingshoesdiscount\.com\b
+\bsoftnet1\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
