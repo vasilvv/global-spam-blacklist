@@ -13979,6 +13979,16 @@ sanalritim
 \byahoodetector\.name\b
 \byoutubedownloader\.org\b
 \bsavetubevideo\.com\b
+\bfreedownloadgames\.name\b
+\bbgames\.org\b
+\bvcq\.biz\b
+\bbackgroundpictures\.net\b
+\bnewdimensionsweb\.com\b
+\byoutube-downloader\.name\b
+\bi-watch-movies-online\.com\b
+\bmovietrailersonline\.net\b
+\bmoviesonline\.name\b
+\byoutubedownloader\.name\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
