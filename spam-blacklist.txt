@@ -59,6 +59,7 @@ eblja
 liuhecai
 \bsexkanjer\.nl # sexspammer on nl (added by andre)
 show-your-pussy # (added by andre)
+sanalritim   # added by drini - mass croswiki spam from multiple ips, using a combination of search engine queries
 
 # Added by shizhao 7/4/05 to 7/9/05
 \btencent\.cc
@@ -14112,7 +14113,5 @@ sanalritim
 \bdogswar\.ru\b
 ## sbhandler_end
 ## leave the above line as is
-
-sanalritim
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
