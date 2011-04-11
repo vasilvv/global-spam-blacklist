@@ -2885,7 +2885,6 @@ party-poker.*\.blogspot\.com
 casino-gam.*\.blogspot\.com
 soyde(barakaldo|portugalete|santurtzi)\.com
 \.waslan\.de
-chiquitania\.com
 \.kensavage\.com
 aminmaalouf\.ifrance\.com
 dahmaneelharrachi\.narod\.ru
