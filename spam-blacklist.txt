@@ -14113,6 +14113,6 @@ sanalritim
 ## sbhandler_end
 ## leave the above line as is
 
-cc\.bingj\.com
+sanalritim
 ## end of [[Spam blacklist/Log]] section
  #</pre> <!-- leave this line exactly as it is -->
