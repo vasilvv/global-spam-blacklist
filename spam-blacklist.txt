@@ -14112,6 +14112,7 @@ sanalritim
 \bdogswar\.ru\b
 \bpussy\.com\b
 \bhomosex\.com\b
+\b4c1e\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
