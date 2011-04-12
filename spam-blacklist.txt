@@ -14041,7 +14041,6 @@ sanalritim
 \bivove\.com\b
 \bnikesb2010\.com\b
 \bcheapestoakley\.com\b
-\bcharlierose\.com\b
 \btradehan\.com\b
 \bchinadone\.com\b
 \bzoom-lebron-james\.com\b
