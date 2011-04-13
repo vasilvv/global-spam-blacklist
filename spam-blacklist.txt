@@ -14113,6 +14113,7 @@ sanalritim
 \bpussy\.com\b
 \bhomosex\.com\b
 \b4c1e\.tk\b
+\bgroups\.to\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
