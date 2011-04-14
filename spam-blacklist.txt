@@ -14122,6 +14122,8 @@ sanalritim
 \bkhandoba-jejuri\.blogspot\.com\b
 \bkhandoba-temple\.blogspot\.com\b
 \bjejuridarshan\.com\b
+\bminoxidilforte\.com\b
+\bminoxidil\.gen\.gg\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
