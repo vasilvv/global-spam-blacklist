@@ -14137,6 +14137,7 @@ sanalritim
 \bsupraukshoes\.com\b
 \bscarpembtshoes\.com\b
 \bsupra-uk-shoes\.com\b
+\brealafrica\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
