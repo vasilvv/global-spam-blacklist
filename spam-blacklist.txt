@@ -14140,6 +14140,14 @@ sanalritim
 \brealafrica\.co\.uk\b
 \b9\.bb\b
 \biln\.co\.uk\b
+\barticle-board\.com/fat-burning-furnace-reviews\b
+\bthedietsolutionprogram-exposed\.org\b
+\bthedietsolutionreviewscam\.com\b
+\bfatburningfurnacereviewscam\.com\b
+\btruthaboutabsreviewscam\.com\b
+\bfatloss4idiotsreviewscam\.com\b
+\bdietsolutionreviewscam\.com\b
+\bfindtohealth\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
