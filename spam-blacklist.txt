@@ -12527,7 +12527,7 @@ airmax[a-z0-9-]*\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)
 \b\d*uggg?[as]?\b[a-z0-9-]*\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)
 uggaustralia[a-z0-9-]+\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)        # don't block the official site uggaustralia.com
 \bmyugg
-\buggs?\d[a-z0-9-a]*\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)          # block ugg# and uggs#
+\buggs?\d[a-z0-9-]*\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)           # block ugg# and uggs#
 ugg[a-z0-9-a]*(?:boot|shoes)[a-z0-9-a]*\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net) # block ugg*boot and ugg*shoes
 \bugg-[a-z0-9-]+\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)              # block ugg-
 ugg(?:top|online)?sell
@@ -12544,12 +12544,7 @@ ugg(?:top|online)?sell
 \beasyugg\.com\b
 \belegantugg\.com\b
 \bgbpugg\.co\.uk\b
-\bgo4ugg\.com\b
-\bgodugg\.com\b
-\bgoodugg\.co\.uk\b
-\bgougg\.net\b
-\bgouggo\.com\b
-\bgouggs\.com\b
+\bgo+[d4]?ugg[os]?\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)
 \bhaveugg\.com\b
 \bhomeugg\.com\b
 \binugg\.co(?:\.uk|m)\b
@@ -13005,17 +13000,11 @@ plant\.dmz-karpaty\.com
 
 #Petition sites
 \bthepetitionsite\.com\b
-\bpetitiononline\.com\b
-\bgopetition\.com\b
+\bgopetition\.(?:com|co\.uk|us)\b
 \bipetition\.com\b
 \.ipetitions\.com
-\bpetitions24\.com\b
-\bpetitionsite\.com\b
-\bpetitionthem\.com\b
-\bpetition-them\.com\b
+\bpetition(?:online|s24|site|spot|-?them)\.com\b
 \bwebpetitions\.com\b
-\bgopetition\.com\b
-\bpetitionspot\.com\b
 #end of petition sites
 
 \bbestworkx\.com\b
@@ -14116,11 +14105,8 @@ sanalritim
 \bgroups\.to\b
 \b4u43\.com\b
 \b2so\.be\b
-\bgopetition\.co\.uk\b
-\bgopetition\.us\b
 \bjejuri\.net\b
-\bkhandoba-jejuri\.blogspot\.com\b
-\bkhandoba-temple\.blogspot\.com\b
+\bkhandoba-(?:jejuri|temple)\.blogspot\.com\b
 \bjejuridarshan\.com\b
 \bminoxidilforte\.com\b
 \bminoxidil\.gen\.gg\b
