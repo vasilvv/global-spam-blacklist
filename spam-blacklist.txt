@@ -14150,6 +14150,7 @@ sanalritim
 \bfindtohealth\.com\b
 \bli8\.ru\b
 \bgadaf\.fi\b
+\bpbali\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
