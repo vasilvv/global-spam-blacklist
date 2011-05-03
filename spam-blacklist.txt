@@ -14139,6 +14139,7 @@ sanalritim
 \bpbali\.com\b
 \bcropcirclesandmore\.com\b
 \bcreditcardhelp\.com\.au\b
+\burlrace\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
