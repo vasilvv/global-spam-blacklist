@@ -7921,7 +7921,6 @@ lexikon\.calsky\.com
 \b51jh6\.com\b
 \baskgeo\.org\b
 \bluxor-lozenets\.com\b
-\bvk\.com\b
 \bsantatelevision\.com\b
 \bjoulupukki\.fi\b
 \bpaintingdb\.com\b
