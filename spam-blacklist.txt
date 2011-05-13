@@ -14151,6 +14151,7 @@ sanalritim
 \bohinternet\.info\b
 \bdestination4u\.net\b
 \bfacenook\.com\b
+\bbleaching-pro\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
