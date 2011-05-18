@@ -14157,6 +14157,7 @@ sanalritim
 \bpandoramallsblog\.com\b
 \blinksjewelleryseo\.com\b
 \bfootballshoesblog\.com\b
+\bwestwoodseoonline\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
