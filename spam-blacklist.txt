@@ -14161,6 +14161,19 @@ sanalritim
 \bvivienneseoblog\.com\b
 \btiffanybraceletsblog\.com\b
 \bviviennewestwoodblog\.com\b
+\b2012hermes\.com\b
+\boutlet-hermes\.com\b
+\bhermesbagskelly\.com\b
+\bushermes\.com\b
+\bhermesbirkin2011\.com\b
+\bhermes-2011\.com\b
+\bherve-leger2011\.net\b
+\bonsaletoryburch\.com\b
+\bhervelegercloset\.com\b
+\bchristian2011\.com\b
+\bhermesbirkinsky\.com\b
+\bstylestalks\.com\b
+\btopfashionsguide\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
