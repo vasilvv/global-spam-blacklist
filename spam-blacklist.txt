@@ -14179,6 +14179,14 @@ sanalritim
 \b2011handbag\.com\b
 \bfrancesacs\.com\b
 \bpolo-2011\.com\b
+\bartisans-serruriers\.fr\b
+\blocksmithmanchester\.cc\b
+\bmenuiserieparis\.net\b
+\bplombier75\.fr\b
+\bserrureporte\.com\b
+\bserrurier\.com\b
+\bserurier\.net\b
+\bsosserrurier\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
