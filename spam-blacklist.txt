@@ -14160,6 +14160,7 @@ sanalritim
 \bwestwoodseoonline\.com\b
 \bvivienneseoblog\.com\b
 \btiffanybraceletsblog\.com\b
+\bviviennewestwoodblog\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
