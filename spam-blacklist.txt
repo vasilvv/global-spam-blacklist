@@ -14207,6 +14207,7 @@ sanalritim
 \bnatascha-hilft\.com\b
 \beasymobiletagging\.at\b
 \bnewarts\.at\b
+\byoucanhelp\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
