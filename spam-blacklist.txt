@@ -14190,6 +14190,23 @@ sanalritim
 \bfurfuralprices\.info\b
 \bsanitarywaremarket\.com\b
 \blivejasmin\.com\b
+\btourattract\.com\b
+\bworld-places\.net\b
+\bplaces-data\.com\b
+\btopholidaydestinations\.net\b
+\bdiamond-age\.at\b
+\barhitel\.com\b
+\bautotrziste\.com\b
+\bdubes-electro\.com\b
+\bmotelcar\.com\b
+\bwishngive\.com\b
+\bspisakpesama\.com\b
+\bizvor-dt\.com\b
+\bstomatoloska-oprema\.com\b
+\bweeshweesh\.com\b
+\bnatascha-hilft\.com\b
+\beasymobiletagging\.at\b
+\bnewarts\.at\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
