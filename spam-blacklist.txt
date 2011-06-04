@@ -14213,6 +14213,7 @@ sanalritim
 \bwholesaleweddingsupplies\.org\b
 \bbodybuildingtips-list\.com\b
 \belectroniccigarette2k\.com\b
+\biitm\.be\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
