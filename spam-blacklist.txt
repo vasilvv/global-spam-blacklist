@@ -14216,6 +14216,7 @@ sanalritim
 \biitm\.be\b
 \bgopoco\.us\b
 \bcevatzade\.com\b
+\bxok\.mx\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
