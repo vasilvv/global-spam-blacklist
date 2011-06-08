@@ -14217,6 +14217,21 @@ sanalritim
 \bgopoco\.us\b
 \bcevatzade\.com\b
 \bxok\.mx\b
+\blinseis\.com\b
+\blinseis\.net\b
+\blinseis\.de\b
+\bthermal-analysis\.com\b
+\bdilatometer\.com\b
+\bdesignerssunglasses\.net\b
+\bkarmenshoes\.com\b
+\bmichael-jordan\.us\b
+\bplayersaid\.com\b
+\btnnoir\.com\b
+\bfemmes-cuir-bottes\.com\b
+\bhermes6\.com\b
+\bfrancelouisvuitton\.com\b
+\bdesignerbagssell\.com\b
+\bvogueshoesonline\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
