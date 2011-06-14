@@ -14234,6 +14234,16 @@ sanalritim
 \bvogueshoesonline\.org\b
 \bshfperparimi\.tk\b
 \bsymbian-kreatif\.co\.cc\b
+\bimrandijital\.com\b
+\bdijitalbaskifiyatlari\.net\b
+\btabela\.gs\b
+\bledtabela\.us\b
+\bcephegiydirmefiyatlari\.com\b
+\bimrantabela\.com\b
+\btabelafiyatlari\.biz\b
+\barackaplamafiyatlari\.com\b
+\bisiklitabelafiyatlari\.com\b
+\baracgiydirmefiyatlari\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
