@@ -14248,6 +14248,8 @@ sanalritim
 \bsinotraffic\.com\b
 \b3fw\.ru\b
 \bab\.cd\b
+\burlwing\.tk\b
+\burlwing\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
