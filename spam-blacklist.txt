@@ -14249,7 +14249,7 @@ sanalritim
 \bab\.cd\b
 \burlwing\.tk\b
 \burlwing\.com\b
-\bstdtesting\.(?:com|net|org)\b
+stdtesting\.(?:com|net|org)\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
