@@ -14254,6 +14254,8 @@ stdtesting\.(?:com|net|org)\b
 \bfinddest\.info\b
 \battractdest\.info\b
 \btopholidaydestinations\.net\b
+\bbodypaint\.ws\b
+\bzolas\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
