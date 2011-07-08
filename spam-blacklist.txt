@@ -14270,6 +14270,7 @@ stdtesting\.(?:com|net|org)\b
 \bessaymojo\.co\.uk\b
 \bmightydesigners\.com\b
 \bessayinn\.co\.uk\b
+\bmormonlar\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
