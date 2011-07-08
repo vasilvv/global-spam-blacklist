@@ -14258,6 +14258,18 @@ stdtesting\.(?:com|net|org)\b
 \bzolas\.info\b
 \bberkeley-term-papers\.com\b
 \bresumedocket\.com\b
+\bessayhelppros\.com\b
+\bcustomessayhelp\.com\b
+\blogodesignmaestro\.com\b
+\bheadlicetreatmentworld\.com\b
+\beasyessayhelp\.com\b
+\bdissertationmojo\.co\.uk\b
+\bwriters-write\.co\.uk\b
+\bdissertationinn\.co\.uk\b
+\blogodesignmaestro\.co\.uk\b
+\bessaymojo\.co\.uk\b
+\bmightydesigners\.com\b
+\bessayinn\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
