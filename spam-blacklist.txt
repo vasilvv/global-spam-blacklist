@@ -14277,6 +14277,8 @@ stdtesting\.(?:com|net|org)\b
 \bminoxidilforte\.com\b
 \bdiscreet\.gen\.tr\b
 \bbayanazdirici\.gen\.gg\b
+\bdimension\.com\b
+\bsupercars\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
