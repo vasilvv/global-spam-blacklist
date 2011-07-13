@@ -14470,6 +14470,7 @@ stdtesting\.(?:com|net|org)\b
 \bfamilias-argentinas\.com\.ar\b
 \btrituradoras-de-piedra\.com\b
 \b007\.am\b
+\bbasketballonlineshop\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
