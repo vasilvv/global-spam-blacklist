@@ -14473,6 +14473,9 @@ stdtesting\.(?:com|net|org)\b
 \bbasketballonlineshop\.com\b
 \bt\.cn\b
 \bcheckdent\.com\b
+\boosakalv\.com\b
+\bhklouis\.com\b
+\bjpgucci\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
