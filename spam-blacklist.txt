@@ -14612,6 +14612,7 @@ stdtesting\.(?:com|net|org)\b
 \bwholesale-jewelrys\.com\b
 \btiffanyhut\.com\b
 \bwatch4sale\.org\b
+\blearnitaliano\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
