@@ -5487,7 +5487,6 @@ nagarjuna.*?\.goo?glepages\.com\b
 \bbouncecup\.com\b
 \bp-navigator\.com\b
 \baudi-a1\.(org|com)\b
-\bbulgarien\.(se|nu)\b
 \b(redarmy|heavymetal|grandonline|(black|white|blue|red)devils|cska|bollywood|redarmy|holland|montecarlo|greekcasino|india|ganges|gibraltar|bangalore|greatwall|flamingo|goldenpalace|bellavista|germany|hongkong)(casino|poker(club)?)\.(com|biz|org|net|info)\b
 \bsevenluckystars\.info\b
 \b24karatgold\.org\b
