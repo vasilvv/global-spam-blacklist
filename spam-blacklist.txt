@@ -14612,6 +14612,8 @@ stdtesting\.(?:com|net|org)\b
 \btiffanyhut\.com\b
 \bwatch4sale\.org\b
 \blearnitaliano\.net\b
+\bliteraryawards\.info\b
+\bwikiandroid\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
