@@ -8209,7 +8209,7 @@ lexikon\.calsky\.com
 \bnitelusa\.com\b
 \bindex\.com\.pe\b
 \bsocuteurl\.com\b
-\bto\.net\b
+(?<=//|\.)to\.net\b
 \bgoo\.gl\b
 \bfunurl\.com\b
 \brihannanow\.fr\.cr\b
