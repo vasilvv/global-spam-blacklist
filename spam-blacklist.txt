@@ -1700,7 +1700,6 @@ daimonds\.php5\.cz
 # 1/29/07 -- Dmcdevit
 jeder-tag\.de
 gooya\.co\.uk
-freemasonrywatch\.org
 old-classics\.info
 dsbworldwide\.com
 LasVegasBaby\.net
