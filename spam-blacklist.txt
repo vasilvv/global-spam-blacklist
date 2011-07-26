@@ -14937,6 +14937,7 @@ stdtesting\.(?:com|net|org)\b
 \bafootwear\.com\b
 \bfuckwikipedia\.com\b
 \bwikipediasuckscock\.com\b
+\bamzn\.to\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
