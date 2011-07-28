@@ -14939,6 +14939,7 @@ stdtesting\.(?:com|net|org)\b
 \bwikipediasuckscock\.com\b
 \bamzn\.to\b
 \bturl\.no\b
+\bwikicities\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
