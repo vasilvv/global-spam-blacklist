@@ -14942,6 +14942,7 @@ stdtesting\.(?:com|net|org)\b
 \bwikicities\.com\b
 \bmangotreevilla\.com\b
 \bnitrotek\.co\.uk\b
+\bwebdest\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
