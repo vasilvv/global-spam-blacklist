@@ -14948,6 +14948,7 @@ stdtesting\.(?:com|net|org)\b
 \be-spirulina\.com\b
 \begert\.com\.tr\b
 \bspirulina\.com\.tr\b
+\bdhtblockerdanger\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
