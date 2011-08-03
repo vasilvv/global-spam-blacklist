@@ -14946,6 +14946,7 @@ stdtesting\.(?:com|net|org)\b
 \bwhdo\.ru\b
 \bwelcomeurope\.com\b
 \be-spirulina\.com\b
+\begert\.com\.tr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
