@@ -14951,6 +14951,24 @@ stdtesting\.(?:com|net|org)\b
 \bdhtblockerdanger\.com\b
 \bsifaalg\.com\b
 \b2girls1cup\.nl\b
+\bdextertravels\.com\b
+\bshimlatourpackages\.net\b
+\btamilnadutourpackages\.com\b
+\bdubaitourismpackages\.co\.in\b
+\bkodaikanaltourpackages\.com\b
+\bgoatourpackages\.net\b
+\buttaranchaltourpackages\.com\b
+\bjaipurtourpackages\.net\b
+\bmumbaitourpackages\.net\b
+\beuropetourpackages\.co\.in\b
+\blakshadweeptourpackages\.net\b
+\bnepaltourpackages\.net\b
+\budaipurtourpackages\.net\b
+\bsrilankatourpackages\.co\.in\b
+\bsingaporetourpackages\.co\.in\b
+\bsrilankatourismpackages\.co\.in\b
+\bthailandtourpackages\.co\.in\b
+\bmalaysiatourpackages\.co\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
