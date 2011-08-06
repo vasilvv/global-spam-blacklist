@@ -14971,6 +14971,7 @@ stdtesting\.(?:com|net|org)\b
 \bmalaysiatourpackages\.co\.in\b
 \brovinj\.aventin\.hr\b 
 \b12by\.com\b
+\bslnks\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
