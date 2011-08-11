@@ -15041,6 +15041,7 @@ stdtesting\.(?:com|net|org)\b
 \btoryburchflatsheel\.com\b
 \bcnreplicas\.net\b
 \bmultiurl\.com\b
+\bvuitton-n\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
