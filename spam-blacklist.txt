@@ -15045,6 +15045,7 @@ stdtesting\.(?:com|net|org)\b
 \bxuta\.me\b
 \bbarcosbarcelona\.com\b
 \bholocausto-doc\.blogspot\.com\b
+\binspiratorsukses\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
