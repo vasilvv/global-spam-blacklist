@@ -15049,6 +15049,7 @@ stdtesting\.(?:com|net|org)\b
 \bbacau\.net\b
 \b5ws\.us\b
 \bflashpapers\.com\b
+\bloanspaydayloans\.com\.au\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
