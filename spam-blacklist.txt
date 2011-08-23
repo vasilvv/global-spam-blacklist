@@ -12526,7 +12526,7 @@ uggaustralia[a-z0-9-]+\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)        # don't bl
 \buggs?\d[a-z0-9-]*\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)           # block ugg# and uggs#
 #ugg[a-z0-9-a]*(?:boot|shoes)[a-z0-9-a]*\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net) # block ugg*boot and ugg*shoes
 # I replaced the regex by the following one, to whitelist buggyboot.com (that should not be blacklisted)
-\b(?!(?:buggyboot)\b)ugg[a-z0-9-a]*(?:boot|shoes)[a-z0-9-a]*\b\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)
+\b(?!(?:buggyboot)\b)[a-z0-9-a]*ugg[a-z0-9-a]*(?:boot|shoes)[a-z0-9-a]*\b\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)
 # per SB request http://meta.wikimedia.org/w/index.php?diff=2834376&oldid=2834371 -- Quentinv57 (2011-08-23)
 \bugg-[a-z0-9-]+\.(?:biz|c[no]|info|u[ks]|hk|jp|org|net)              # block ugg-
 ugg(?:top|online)?sell
