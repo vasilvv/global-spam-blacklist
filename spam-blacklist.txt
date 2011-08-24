@@ -15053,6 +15053,10 @@ stdtesting\.(?:com|net|org)\b
 \b5ws\.us\b
 \bflashpapers\.com\b
 \bloanspaydayloans\.com\.au\b
+sanalritim\.net
+mycaal\.com
+diamondlinks\.net
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
