@@ -15056,7 +15056,7 @@ stdtesting\.(?:com|net|org)\b
 sanalritim\.net
 mycaal\.com
 diamondlinks\.net
-
+\bmotobiznes\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
