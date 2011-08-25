@@ -15059,6 +15059,7 @@ diamondlinks\.net
 \bmotobiznes\.net\b
 \bq\.gs\b
 \bherbaldb\.com\b
+\bll\.my\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
