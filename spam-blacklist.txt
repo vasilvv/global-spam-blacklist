@@ -15062,6 +15062,7 @@ diamondlinks\.net
 \bll\.my\b
 \bnowtweet\.it\b
 \bshadr\.me\b
+\bbc\.vc\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
