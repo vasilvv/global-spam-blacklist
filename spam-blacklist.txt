@@ -15070,6 +15070,7 @@ diamondlinks\.net
 \byourkefirsource\.com\b
 \balimezdegi\.com\b
 \bpriceangels\.com\b
+\bmyowninformations\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
