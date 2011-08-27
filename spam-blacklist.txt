@@ -15064,6 +15064,10 @@ diamondlinks\.net
 \bshadr\.me\b
 \bbc\.vc\b
 \belholo\.tk\b
+\bpalawanhotels\.org\b
+\bherbaldb\.com\b
+\bhotfemaletennisplayers\.blogspot\.com\b
+\byourkefirsource\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
