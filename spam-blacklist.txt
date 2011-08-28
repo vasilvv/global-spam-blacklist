@@ -15074,6 +15074,10 @@ diamondlinks\.net
 \belholo2\.tk\b
 \bbootslikeugg\.com\b
 \bmbtshoes2012\.net\b
+\bpureberrymax\.net\b
+\bgeniebrafacts\.com\b
+\bbrafacts\.net\b
+\bluxury-pajamas\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
