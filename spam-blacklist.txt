@@ -15078,6 +15078,7 @@ diamondlinks\.net
 \bgeniebrafacts\.com\b
 \bbrafacts\.net\b
 \bluxury-pajamas\.com\b
+\bpalawanhotels\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
