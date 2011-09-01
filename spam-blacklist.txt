@@ -15083,6 +15083,7 @@ diamondlinks\.net
 \btotallympics\.com\b
 \bmaketodaypayday\.co\.uk\b
 \bbadcreditloansofamerica\.org\b
+\bfleshlightnet\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
