@@ -15085,6 +15085,7 @@ diamondlinks\.net
 \bbadcreditloansofamerica\.org\b
 \bfleshlightnet\.com\b
 \bdorebibletarot\.net\b
+\bwow-signal\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
