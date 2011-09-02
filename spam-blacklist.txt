@@ -8461,7 +8461,6 @@ camica\.netfirms\.com/gematria/
 \bxepnya\.org\.ru\b
 \bdeine-erfindung\.de\b
 \bhamaka\.huu\.cz\b
-\bkayzen\.az\b
 \baromats\.info\b
 \bmbtforcheap\.com\b
 \bletrasjohnfrusciante\.wordpress\.com\b
