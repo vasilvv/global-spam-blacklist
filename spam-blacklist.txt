@@ -15096,6 +15096,14 @@ diamondlinks\.net
 \bphlpn\.es\b
 \burlao\.com\b
 \byourl\.nu\b
+\bsouthpacific\.org\b
+\bpacific-pictures\.com\b
+\bcuba-pictures\.com\b
+\bmapsouthpacific\.com\b
+\bgonanaimo\.com\b
+\btonganholiday\.com\b
+\bsamoaholiday\.com\b
+\bFijiguide\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
