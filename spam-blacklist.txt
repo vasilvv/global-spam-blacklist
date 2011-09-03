@@ -13697,7 +13697,6 @@ btopfoot\.ch\b
 \bint\.tc\b
 \bint\.tf\b
 \bit\.tc\b
-\bjust\.as\b
 \bkr\.tc\b
 \bmx\.tc\b
 \bmypiece\.com\b
