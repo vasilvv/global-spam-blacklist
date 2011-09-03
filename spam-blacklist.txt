@@ -15086,6 +15086,7 @@ diamondlinks\.net
 \bdorebibletarot\.net\b
 \bwow-signal\.com\b
 \borlando-villa-guide\.com\b
+\bovariancyst-treatment\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
