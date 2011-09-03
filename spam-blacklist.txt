@@ -15088,6 +15088,14 @@ diamondlinks\.net
 \bovariancyst-treatment\.com\b
 \b2vancouver\.com\b
 \b2vancouverbc\.com\b
+\b9nl\.com\b
+\bcomyonet\.com\b
+\bget-shorty\.com\b
+\bkindurl\.com\b
+\blnks\.it\b
+\bphlpn\.es\b
+\burlao\.com\b
+\byourl\.nu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
