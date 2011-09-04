@@ -15154,6 +15154,7 @@ diamondlinks\.net
 \brobert-lindsay\.blogspot\.com\b
 \bsorprendere\.com\b
 \bjordanevents\.net\b
+\bhuseyin\.gen\.tr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
