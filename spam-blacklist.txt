@@ -15150,6 +15150,7 @@ diamondlinks\.net
 \ballhotelsbooking\.com\b
 \balleurohotels\.com\b
 \bfujiken\.mo-blog\.jp\b
+\bmahjongonline\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
