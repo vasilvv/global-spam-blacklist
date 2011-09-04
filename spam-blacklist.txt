@@ -15107,7 +15107,6 @@ diamondlinks\.net
 \bpetitionvoice\.com\b
 \bspanishfauna\.blogspot\.com\b
 \bprivateistanbultours\.com\b
-\bgallipoli-tours\.com\b
 \bshrunklink\.com\b
 \bistanbuldaycruises\.com\b
 \bnewdealtravel\.net\b
