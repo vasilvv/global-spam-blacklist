@@ -15110,6 +15110,46 @@ diamondlinks\.net
 \bgallipoli-tours\.com\b
 \bshrunklink\.com\b
 \bistanbuldaycruises\.com\b
+\bnewdealtravel\.net\b
+\bnewyearistanbul\.com\b
+\bistanbultours\.org\b
+\bistanbultour\.biz\b
+\bistanbuldaytours\.com\b
+\btoursistanbul\.org\b
+\btripsistanbul\.com\b
+\bcruiseistanbul\.com\b
+\bistanbultripadvisor\.com\b
+\btripadvisoristanbul\.com\b
+\bonlinetripadvisorturkey\.com\b
+\bturkeytripadvisor\.com\b
+\bgeziistanbul\.net\b
+\bistanbulprivatetour\.org\b
+\btoursturkeytravel\.com\b
+\bturkeybustravel\.com\b
+\bantalyaotelleri\.net\b
+\bbodrumotelleri\.net\b
+\bedirneotelleri\.com\b
+\bfethiyeotelleri\.net\b
+\bkusadasiotelleri\.com\b
+\banzacdaytour\.net\b
+\ballcappadociatours\.com\b
+\ballcappadociaballoontours\.com\b
+\bturkeygallipoli\.com\b
+\btravelgallipoli\.com\b
+\bgallipolidaytours\.com\b
+\bgallipoli-tours\.com\b
+\bturkeyvacationpackage\.com\b
+\btourpackagesturkey\.com\b
+\bturkey-tours\.org\b
+\btourstoturkey\.org\b
+\bcheaptraveltoturkey\.com\b
+\btravelguidesturkey\.com\b
+\btravelturkey\.biz\b
+\bvisitinturkey\.com\b
+\bboutiquehotelturkey\.com\b
+\btroublefreeholiday\.com\b
+\ballhotelsbooking\.com\b
+\balleurohotels\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
