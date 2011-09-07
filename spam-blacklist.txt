@@ -15161,6 +15161,7 @@ diamondlinks\.net
 \bpillsm\.com\b
 \bdigitalbach\.com\b
 \bkonyaliyiz\.net\b
+\bcasinostopnews\.fr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
