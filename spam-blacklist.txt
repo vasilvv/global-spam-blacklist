@@ -15180,6 +15180,29 @@ diamondlinks\.net
 \bloltrain\.com\b
 \bjoomlaline\.ru\b
 \biansomerhalder\.us\b
+\biansomerhalder\.us\b
+\bpaul-wesley\.us\b
+\bmatt-lanter\.net\b
+\bursulacorbero\.org\b
+\bemma-stone\.bz\b
+\bmichael-trevino\.net\b
+\bjoshduhamel\.es\b
+\bjensenackles\.es\b
+\bemma-roberts\.us\b
+\bangelinaweb\.org\b
+\bdrewbarrymoreweb\.com\b
+\bjoseph-morgan\.net\b
+\bw-smith\.org\b
+\bliamhemsworth\.bz\b
+\bashton-kutcher\.us\b
+\bkeegan-allen\.com\b
+\bliam-mcintyre\.com\b
+\bamandabynes\.bz\b
+\bbrant-daugherty\.com\b
+\b2dr3ams\.com\b
+\bbradley-cooper\.es\b
+\bsarapaxton\.us\b
+\brodolfo-sancho\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
