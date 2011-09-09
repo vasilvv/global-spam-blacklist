@@ -15174,6 +15174,7 @@ diamondlinks\.net
 \bterme-selce\.hr\b
 \bgoodstuff\.ro\b
 \bjason-wiles\.blogspot\.com\b
+\bjamonarium\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
