@@ -15178,6 +15178,7 @@ diamondlinks\.net
 \ballworldguides\.com\b
 \bapnihindi\.com\b
 \bloltrain\.com\b
+\bjoomlaline\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
