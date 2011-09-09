@@ -15180,11 +15180,6 @@ diamondlinks\.net
 \bloltrain\.com\b
 \bjoomlaline\.ru\b
 \biansomerhalder\.us\b
-\biansomerhalder\.us\b
-\bpaul-wesley\.us\b
-\bmatt-lanter\.net\b
-\bursulacorbero\.org\b
-\bemma-stone\.bz\b
 \bmichael-trevino\.net\b
 \bjoshduhamel\.es\b
 \bjensenackles\.es\b
