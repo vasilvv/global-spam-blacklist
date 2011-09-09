@@ -15198,6 +15198,7 @@ diamondlinks\.net
 \bbradley-cooper\.es\b
 \bsarapaxton\.us\b
 \brodolfo-sancho\.com\b
+\bryansalazar\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
