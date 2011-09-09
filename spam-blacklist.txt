@@ -15172,6 +15172,7 @@ diamondlinks\.net
 \btravel\.md\b
 \bmarketresearchagencies\.eu\b
 \bterme-selce\.hr\b
+\bgoodstuff\.ro\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
