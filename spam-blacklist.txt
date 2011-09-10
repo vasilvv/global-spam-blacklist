@@ -15199,6 +15199,14 @@ diamondlinks\.net
 \bsarapaxton\.us\b
 \brodolfo-sancho\.com\b
 \bryansalazar\.net\b
+\bgolekduit\.net\b
+\bzonaaggregator\.blogspot\.com\b
+\bzonamode\.blogspot\.com\b
+\bkep-box\.blogspot\.com\b
+\bbo-kep\.blogspot\.com\b
+\bkep-katro\.blogspot\.com\b
+\bipad2sale\.net\b
+\bacericoniaprice\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
