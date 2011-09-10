@@ -15212,6 +15212,21 @@ diamondlinks\.net
 \bfreedownloadmp3\.co\.za\b
 \balkalife\.nl\b
 \bact-online\.de\b
+\bdesignershoeshandbags\.com\b
+\bsportauthoritystores\.com\b
+\bonlinestorehere\.net\b
+\bhealthstoresproducts\.com\b
+\belectronicstoresonlines\.com\b
+\bhomegardenstore\.org\b
+\bauthenticlouisvuittonhandbags\.net\b
+\bretailelectronicsstores\.com\b
+\bonlinetutorialsfree\.com\b
+\bonlinestoysstores\.com\b
+\bautomotivesupplystores\.com\b
+\bbuybooksonlines\.com\b
+\bbuyelectronicsonlines\.com\b
+\bwirelesslaserprinterreviews\.net\b
+\bwesterndigitalreviews\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
