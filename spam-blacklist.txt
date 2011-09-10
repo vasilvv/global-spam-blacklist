@@ -15210,6 +15210,7 @@ diamondlinks\.net
 \bfotolenticular\.webs\.com\b
 \blagrandedunedupilat\.com\b
 \bfreedownloadmp3\.co\.za\b
+\balkalife\.nl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
