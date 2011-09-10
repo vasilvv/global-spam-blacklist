@@ -15207,6 +15207,7 @@ diamondlinks\.net
 \bkep-katro\.blogspot\.com\b
 \bipad2sale\.net\b
 \bacericoniaprice\.com\b
+\bfotolenticular\.webs\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
