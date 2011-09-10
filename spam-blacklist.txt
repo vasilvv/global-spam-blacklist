@@ -15047,7 +15047,7 @@ stdtesting\.(?:com|net|org)\b
 \bbarcosbarcelona\.com\b
 \bholocausto-doc\.blogspot\.com\b
 \binspiratorsukses\.com\b
-\bbacau\.net\b
+\bbacau\.(?:net|org)\b
 \b5ws\.us\b
 \bflashpapers\.com\b
 \bloanspaydayloans\.com\.au\b
