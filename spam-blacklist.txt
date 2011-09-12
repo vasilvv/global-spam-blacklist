@@ -15287,6 +15287,7 @@ diamondlinks\.net
 \bearthstadiums\.com\b
 \bymaa\.be\b
 \byoutube\.com/watch\?v=khM48EQyVdc\b
+\bmultiupload\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
