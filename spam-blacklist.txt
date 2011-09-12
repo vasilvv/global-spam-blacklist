@@ -15288,6 +15288,7 @@ diamondlinks\.net
 \bymaa\.be\b
 \byoutube\.com/watch\?v=khM48EQyVdc\b
 \bmultiupload\.com\b
+\bwn.com\/2011_Hunter_Mariner\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
