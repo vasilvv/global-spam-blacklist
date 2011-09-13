@@ -15208,7 +15208,6 @@ diamondlinks\.net
 \bipad2sale\.net\b
 \bacericoniaprice\.com\b
 \bfotolenticular\.webs\.com\b
-\blagrandedunedupilat\.com\b
 \bfreedownloadmp3\.co\.za\b
 \balkalife\.nl\b
 \bact-online\.de\b
