@@ -15290,6 +15290,7 @@ diamondlinks\.net
 \bwn.com\/2011_Hunter_Mariner\b
 \bsantamartacity\.com\b
 \bp\.tl\b
+\btheatreticketscheap\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
