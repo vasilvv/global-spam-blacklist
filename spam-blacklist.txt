@@ -13596,7 +13596,6 @@ btopfoot\.ch\b
 \bchanelreplica\.com\b
 \bukthomassabo\.com\b
 \btopshoesfor\.me\b
-\bdbc\.hk\b
 \bmrpinyin\.webs\.com\b
 \btugolden-retriever\.blogspot\.com\b
 \bshaderaven\.at\.ua\b
