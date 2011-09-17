@@ -15292,6 +15292,11 @@ diamondlinks\.net
 \bp\.tl\b
 \btheatreticketscheap\.com\b
 \bmeat-abolition\.org\b
+\bwhatisencyclopedia\.com\b
+\bdevicegadget\.com\b
+\bforexoval\.com\b
+\boyot\.org\b
+\bcarbrands\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
