@@ -15301,6 +15301,14 @@ diamondlinks\.net
 \bcapoeira-music\.webnode\.com\b
 \bflamencoweb\.fr\b
 \bfacebookmallonline\.com\b
+\bswimwearforwomen\.me\.uk\b
+\bbedcomfortersets\.me\.uk\b
+\bswimwearforwomen\.me\.uk\b
+\bmensbathingsuits\.co\.uk\b
+\bladiespyjamas\.me\.uk\b
+\bladiesgolfclothes\.org\.uk\b
+\bdesignerbabyclothes\.me\.uk\b
+\bwashablenappies\.me\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
