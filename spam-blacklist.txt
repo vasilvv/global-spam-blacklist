@@ -15303,7 +15303,6 @@ diamondlinks\.net
 \bfacebookmallonline\.com\b
 \bswimwearforwomen\.me\.uk\b
 \bbedcomfortersets\.me\.uk\b
-\bswimwearforwomen\.me\.uk\b
 \bmensbathingsuits\.co\.uk\b
 \bladiespyjamas\.me\.uk\b
 \bladiesgolfclothes\.org\.uk\b
