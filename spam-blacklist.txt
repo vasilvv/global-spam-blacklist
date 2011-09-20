@@ -15319,6 +15319,7 @@ diamondlinks\.net
 \bbaseter\.com\b
 \bacvila\.net\b
 \bipgp\.net\b
+\bprojectoverdose\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
