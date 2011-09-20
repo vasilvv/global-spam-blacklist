@@ -15308,6 +15308,17 @@ diamondlinks\.net
 \bladiesgolfclothes\.org\.uk\b
 \bdesignerbabyclothes\.me\.uk\b
 \bwashablenappies\.me\.uk\b
+\bsandybridgelaptop\.info\b
+\bAndroidiZed\.com\b
+\bcalotor\.com\b
+\bflamescorpion\.com\b
+\bbelieve3d\.com\b
+\baiononline\.info\b
+\bzipry\.com\b
+\bipv6locator\.net\b
+\bbaseter\.com\b
+\bacvila\.net\b
+\bipgp\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
