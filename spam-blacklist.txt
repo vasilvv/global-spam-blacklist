@@ -15322,6 +15322,7 @@ diamondlinks\.net
 \bprojectoverdose\.com\b
 \bessayhelppros\.co\.uk\b
 \btest-pattern\.com\b
+\bsapporo-now\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
