@@ -15320,6 +15320,7 @@ diamondlinks\.net
 \bacvila\.net\b
 \bipgp\.net\b
 \bprojectoverdose\.com\b
+\bessayhelppros\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
