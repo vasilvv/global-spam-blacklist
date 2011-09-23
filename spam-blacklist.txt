@@ -15325,6 +15325,7 @@ diamondlinks\.net
 \bsapporo-now\.com\b
 \bshrvl\.com\b
 \bwizardistanbul\.com\b
+\bfreedatingsites\.us\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
