@@ -15327,6 +15327,7 @@ diamondlinks\.net
 \bwizardistanbul\.com\b
 \bfreedatingsites\.us\.com\b
 \bhitlerberghof\.com\b
+\bmcn\.me\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
