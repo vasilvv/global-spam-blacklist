@@ -15332,6 +15332,8 @@ diamondlinks\.net
 \bglutenfreehotelsguide\.com\b
 \blnfaw\.blogspot\.com\b
 \bvietnamitasenmadrid\.com\b
+\breurl\.org\b
+\bxink\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
