@@ -15340,6 +15340,18 @@ diamondlinks\.net
 \betnaescursioni\.net\b
 \bsitoweb\.mobi\b
 \bdanzecaraibiche\.com\b
+\bdigiseo\.com\b
+\bvietnamairlinesticket\.com\b
+\bcuudulieu24h\.com\b
+\bnoithathoangduy\.com\.vn\b
+\bbaovevn\.vn\b
+\bthanglonghousing\.com\b
+\bsms4smile\.org\b
+\bbanbuon24h\.com\b
+\bthutucthanhlapcongty\.net\b
+\bnamthaibinhduong\.edu\.vn\b
+\bnhakhoavietgiao\.com\.vn\b
+\buvc-thanhlapcongty\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
