@@ -15334,6 +15334,12 @@ diamondlinks\.net
 \bvietnamitasenmadrid\.com\b
 \breurl\.org\b
 \bxink\.ru\b
+\balfiopulvirenti\.com\b
+\bcittadicatania\.com\b
+\bescursionietna\.com\b
+\betnaescursioni\.net\b
+\bsitoweb\.mobi\b
+\bdanzecaraibiche\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
