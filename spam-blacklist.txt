@@ -15352,6 +15352,7 @@ diamondlinks\.net
 \bnamthaibinhduong\.edu\.vn\b
 \bnhakhoavietgiao\.com\.vn\b
 \buvc-thanhlapcongty\.com\b
+\bchocolatepoker\.hu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
