@@ -15354,6 +15354,7 @@ diamondlinks\.net
 \buvc-thanhlapcongty\.com\b
 \bchocolatepoker\.hu\b
 \bshow-ip\.org\b
+\bsourceforge\.net/projects/code2000\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
