@@ -15357,6 +15357,7 @@ diamondlinks\.net
 \bsourceforge\.net/projects/code2000\b
 \btitleexpertsatlanta\.com\b
 \bdearflight\.co\.uk\b
+\breddotnet\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
