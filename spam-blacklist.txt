@@ -15362,6 +15362,7 @@ diamondlinks\.net
 \b2spetses\.gr\b
 \bsoloiphone5\.com\b
 \bmadthumbs\.com\b
+\bbarcafan\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
