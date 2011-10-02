@@ -15364,6 +15364,7 @@ diamondlinks\.net
 \bmadthumbs\.com\b
 \bbarcafan\.net\b
 \bmeingames\.de\b
+\broxy-music\.fr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
