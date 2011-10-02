@@ -15359,6 +15359,7 @@ diamondlinks\.net
 \bdearflight\.co\.uk\b
 \breddotnet\.com\b
 \bfreeminecraftacc\.tk\b
+\b2spetses\.gr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
