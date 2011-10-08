@@ -15370,6 +15370,7 @@ diamondlinks\.net
 \blove-astrakhan\.ru\b
 \bzoe32\.com\b
 \bstewartcopeland\.free\.fr\b
+\buefa-coefficients\.com
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
