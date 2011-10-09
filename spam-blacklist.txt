@@ -15372,6 +15372,7 @@ diamondlinks\.net
 \bstewartcopeland\.free\.fr\b
 \buefa-coefficients\.com
 \bholidayholiday\.info\b
+\beblogz\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
