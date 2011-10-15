@@ -15375,6 +15375,7 @@ diamondlinks\.net
 \beblogz\.net\b
 \bmedical-helpful-info\.blogspot\.com\b
 \brp9\.it\b
+\bmacindir\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
