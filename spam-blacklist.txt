@@ -15380,6 +15380,7 @@ diamondlinks\.net
 \blouisnvuitton\.com\b
 \bweddingdresses111\.com\b
 \bfor-click\.info\b
+\bcrash-bandicoot\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
