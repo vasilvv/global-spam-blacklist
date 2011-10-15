@@ -15377,6 +15377,7 @@ diamondlinks\.net
 \brp9\.it\b
 \bmacindir\.net\b
 \be-bandung\.com\b
+\blouisnvuitton\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
