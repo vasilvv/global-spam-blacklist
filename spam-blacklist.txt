@@ -15383,6 +15383,12 @@ diamondlinks\.net
 \bcrash-bandicoot\.ru\b
 \bflintdiao\.tk\b
 \bm1p\.fr\b
+\bweathersafewa\.com\.au\b
+\binternetmarketingdirect\.com\.au\b
+\brelaxocity\.com\b
+\btotalrecords\.com\.au\b
+\btheprintingwell\.com\.au\b
+\bosbornes\.net\.au\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
