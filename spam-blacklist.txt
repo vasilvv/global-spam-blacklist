@@ -15390,6 +15390,7 @@ diamondlinks\.net
 \btheprintingwell\.com\.au\b
 \bosbornes\.net\.au\b
 \brummigame\.com\b
+\bprintprodukce\.cz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
