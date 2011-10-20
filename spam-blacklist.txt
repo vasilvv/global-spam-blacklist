@@ -15392,6 +15392,16 @@ diamondlinks\.net
 \brummigame\.com\b
 \bprintprodukce\.cz\b
 \bdiga\.se\b
+\bandrewflusche\.com\b
+\bghengisfireworks\.co\.uk\b
+\bdiamondlinks\.net\b
+\bafterhimmedia\.com\b
+\bganarplataporinternet\.com\b
+\blightsensor\.net\b
+\bwirelesspromocode\.org\b
+\boutdoorfountains\.com\b
+\bcongregationbuilder\.com\b
+\bthebeginnerslens\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
