@@ -15403,6 +15403,7 @@ diamondlinks\.net
 \bcongregationbuilder\.com\b
 \bthebeginnerslens\.com\b
 \bcrusherplants\.com\b
+\b7osilayers\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
