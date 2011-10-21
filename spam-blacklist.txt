@@ -15407,6 +15407,7 @@ diamondlinks\.net
 \balinetayar\.com\b
 \bart-cadre\.com\b
 \bxyzbc\.com\b
+\bfatlife\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
