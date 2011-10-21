@@ -15410,6 +15410,13 @@ diamondlinks\.net
 \bfatlife\.ru\b
 \bwkipedia\.org\b
 \bgoogle\.com\/url\?
+\bde\.wkipedia\.org\b
+\ben\.wkipedia\.org\b
+\bes\.wkipedia\.org\b
+\bfr\.wkipedia\.org\b
+\bit\.wkipedia\.org\b
+\bpl\.wkipedia\.org\b
+\bru\.wkipedia\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
