@@ -15405,6 +15405,7 @@ diamondlinks\.net
 \bcrusherplants\.com\b
 \b7osilayers\.com\b
 \balinetayar\.com\b
+\bart-cadre\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
