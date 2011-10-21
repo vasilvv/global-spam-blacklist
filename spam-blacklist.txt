@@ -15409,6 +15409,7 @@ diamondlinks\.net
 \bxyzbc\.com\b
 \bfatlife\.ru\b
 \bwkipedia\.org\b
+\bgoogle\.com\/url\?
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
