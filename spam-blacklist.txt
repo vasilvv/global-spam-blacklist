@@ -15418,6 +15418,7 @@ diamondlinks\.net
 \bpl\.wkipedia\.org\b
 \bru\.wkipedia\.org\b
 \b2012euro\.fr\b
+\bxairforces\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
