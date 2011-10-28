@@ -15422,6 +15422,7 @@ diamondlinks\.net
 \bacademyrank\.com\b
 \bgzg\.in\b
 \boutlandishtr\.com\b
+\bfutbolistasconhistoria\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
