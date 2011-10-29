@@ -15425,6 +15425,7 @@ diamondlinks\.net
 \bfutbolistasconhistoria\.blogspot\.com\b
 \bfreeonlinegames\.eu\b
 \bfreesamplesource\.com\b
+\bsixflagsfreetickets\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
