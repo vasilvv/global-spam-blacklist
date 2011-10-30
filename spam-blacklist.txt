@@ -15431,6 +15431,7 @@ diamondlinks\.net
 \buniversalmarkets\.com\b
 \bnetscape-navigator\.info\b
 \bcpanelweb\.com\b
+\btheync\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
