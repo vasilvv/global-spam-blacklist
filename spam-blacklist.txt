@@ -5148,7 +5148,7 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \bsolobale\.com\b
 \brakastar\.com\b
 \bmarylinmonroe\.it\b
-\blogos\.com\b
+(?<=//|\.)logos\.com\b
 \bpasiontango\.net\b
 \bskyscrapervideos\.com\b
 \bthomas(carlyle)?\.eu\b
@@ -7850,7 +7850,7 @@ mongolische-jurten\.de
 \bgptoffers\.com\b
 \bgptreasure\.com\b
 \blibertyreserve\.com\b
-(?<=\/\/|\.)way\.com\b
+(?<=//|\.)way\.com\b
 \b1skip\.com\b
 \bclck\.ru\b
 \bfoo9\.net\b
@@ -15410,13 +15410,6 @@ diamondlinks\.net
 \bfatlife\.ru\b
 \bwkipedia\.org\b
 \bgoogle\..*?\/url\?
-\bde\.wkipedia\.org\b
-\ben\.wkipedia\.org\b
-\bes\.wkipedia\.org\b
-\bfr\.wkipedia\.org\b
-\bit\.wkipedia\.org\b
-\bpl\.wkipedia\.org\b
-\bru\.wkipedia\.org\b
 \b2012euro\.fr\b
 \bxairforces\.(com|net)\b
 \bacademyrank\.com\b
