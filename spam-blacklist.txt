@@ -15409,7 +15409,7 @@ diamondlinks\.net
 \bxyzbc\.com\b
 \bfatlife\.ru\b
 \bwkipedia\.org\b
-\bgoogle\.com\/url\?
+\bgoogle\..*?\/url\?
 \bde\.wkipedia\.org\b
 \ben\.wkipedia\.org\b
 \bes\.wkipedia\.org\b
