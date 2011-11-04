@@ -15437,6 +15437,7 @@ diamondlinks\.net
 \binformationen-reise\.de\b
 \bvenezuela\.ru\b
 \bmargarita-online\.ru\b
+\bvenezuelaonline\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
