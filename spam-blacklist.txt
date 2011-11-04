@@ -15427,6 +15427,7 @@ diamondlinks\.net
 \btheync\.com\b
 \byoutube-nocookie\.com\b
 \bweddingdresses111\.com\b
+\binterject\.me\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
