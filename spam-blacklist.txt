@@ -6,8 +6,8 @@
  # Guidelines:
  #    - Only blacklist for widespread, unmanageable spam.
  #    - To disable an entry, *remove* it, don't comment it out. Please log removals.
- #    - Add entries or their removal to the <span class="plainlinks">[http://meta.wikimedia.org/wiki/Spam_blacklist/Log log]</span>.
- #    - <small style="color:gray;" id="oldid" class="plainlinks">Snippet for [http://meta.wikimedia.org/wiki/Spam_blacklist/Log/{{CURRENTYEAR}}/{{CURRENTMONTH}}?action=edit&editintro=Template:Spam_blacklist_log_instructions logging]: <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}}}</small>
+ #    - Add entries or their removal to the <span class="plainlinks">[//meta.wikimedia.org/wiki/Spam_blacklist/Log log]</span>.
+ #    - <small style="color:gray;" id="oldid" class="plainlinks">Snippet for [//meta.wikimedia.org/wiki/Spam_blacklist/Log/{{CURRENTYEAR}}/{{CURRENTMONTH}}?action=edit&editintro=Template:Spam_blacklist_log_instructions logging]: <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}}}</small>
  # 
  # Syntax:
  #    - Everything from a "#" character to the end of the line is a comment
