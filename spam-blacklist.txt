@@ -15445,6 +15445,7 @@ diamondlinks\.net
 \brdd\.me\b
 \bhea\.pe\b
 \bmin\.bz\b
+\bcanto-photographer\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
