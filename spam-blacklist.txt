@@ -479,7 +479,6 @@ loldongs
 \ba\.ai\b
 \b0rz\.tw\b
 \bleenk\.org
-\bdwarfurl\.com
 \.1tiny\.com
 \.all\.at
 andmuchmore\.com
