@@ -15443,6 +15443,9 @@ diamondlinks\.net
 \bworldskyscraper\.com\b
 \be-earphone\.jp
 \blnk\.co\b
+\brdd\.me\b
+\bhea\.pe\b
+\bmin\.bz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
