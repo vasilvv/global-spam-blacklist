@@ -13208,7 +13208,7 @@ plant\.dmz-karpaty\.com
 \b1-800-memory\.com\b
 \baddsubmiturl\.com\b
 \bamateurpicgallery\.com\b
-\baries\.com\b
+\baries\.com\b(?!\.)
 \bbigdady\.com\b
 \bbuckethead\.com\b
 \bcarinsurancecredit\.com\b
