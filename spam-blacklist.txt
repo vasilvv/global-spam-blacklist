@@ -15447,6 +15447,7 @@ diamondlinks\.net
 \bmin\.bz\b
 \bcanto-photographer\.com\b
 \bfatmasnow\.com\b
+\bthedietsolutionprogramreviewed\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
