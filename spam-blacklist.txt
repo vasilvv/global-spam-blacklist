@@ -15460,6 +15460,8 @@ diamondlinks\.net
 \bessayshelp\.org\b
 \bwriting-help\.org\b
 \bcustomessays\.ws\b
+\bcvresumewritingservices\.org\b
+\beditingwritingservices\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
