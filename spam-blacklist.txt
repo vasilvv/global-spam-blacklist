@@ -15457,6 +15457,9 @@ diamondlinks\.net
 \bessay-writer\.org\b
 \bperfectresume\.org\b
 \biresearchpapers\.com\b
+\bessayshelp\.org\b
+\bwriting-help\.org\b
+\bcustomessays\.ws\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
