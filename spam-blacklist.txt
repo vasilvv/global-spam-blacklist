@@ -15451,6 +15451,12 @@ diamondlinks\.net
 \bessay-writer\.org\b
 \bcustom-essay\.ws\b
 \bcustomcollegeessays\.com\b
+\bessay-for\.me\b
+\bediting-services\.org\b
+\bcustomwritingservices\.org\b
+\bessay-writer\.org\b
+\bperfectresume\.org\b
+\biresearchpapers\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
