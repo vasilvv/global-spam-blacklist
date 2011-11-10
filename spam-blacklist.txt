@@ -15449,6 +15449,8 @@ diamondlinks\.net
 \bfatmasnow\.com\b
 \bthedietsolutionprogramreviewed\.org\b
 \bessay-writer\.org\b
+\bcustom-essay\.ws\b
+\bcustomcollegeessays\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
