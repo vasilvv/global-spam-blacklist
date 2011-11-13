@@ -15467,6 +15467,7 @@ diamondlinks\.net
 \bshorthaircutsv\.com\b
 \bitinerarisicilia\.it\b
 \bgallbladderdetox\.com\b
+\bpricense.com
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
