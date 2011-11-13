@@ -15464,6 +15464,7 @@ diamondlinks\.net
 \beditingwritingservices\.org\b
 \bytb\.cm\b
 \biraclub\.org\b
+\bshorthaircutsv\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
