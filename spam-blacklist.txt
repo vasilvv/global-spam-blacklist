@@ -15469,6 +15469,7 @@ diamondlinks\.net
 \bgallbladderdetox\.com\b
 \bpricense.com
 \bxtreme-kamchatka\.com\b
+\btopbestgadget\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
