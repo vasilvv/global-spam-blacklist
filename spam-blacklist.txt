@@ -4365,7 +4365,6 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bmypharma(?:(?:1|cyworld)\.net|n(?:ow)?\.com|(?:stop|usa)\.(?:biz|net))\b
 \bmyrxunited\.com\b
 \bpharma1\.net\b
-\bhibiny\.ru\b
 \bgervaisworld\.com\b
 \bjimmycarr\.net\b
 \bdbtalk\.co\.uk\b
