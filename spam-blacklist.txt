@@ -15470,6 +15470,9 @@ diamondlinks\.net
 \bxtreme-kamchatka\.com\b
 \btopbestgadget\.com\b
 \b7century\.com\b
+\bzdrowie-dieta\.com\.pl\b
+\b21stcorn\.com\b
+\bagwoodcraft\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
