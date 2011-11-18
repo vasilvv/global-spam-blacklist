@@ -15475,6 +15475,7 @@ diamondlinks\.net
 \bagwoodcraft\.com\b
 \bbookholiday\.org\b
 \bbyd-club\.org\b
+\bsafepillstock\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
