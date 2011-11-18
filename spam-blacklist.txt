@@ -15477,6 +15477,7 @@ diamondlinks\.net
 \bbyd-club\.org\b
 \bsafepillstock\.com\b
 \bhylsports\.com
+\bvoip-sip-sdk\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
