@@ -15480,6 +15480,7 @@ diamondlinks\.net
 \bvoip-sip-sdk\.com\b
 \btrakai-visit\.lt\b
 \b360cities\.net\b
+\bbet-at-home\.at\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
