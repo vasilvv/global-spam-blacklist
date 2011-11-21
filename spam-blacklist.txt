@@ -15479,6 +15479,7 @@ diamondlinks\.net
 \bhylsports\.com
 \bvoip-sip-sdk\.com\b
 \btrakai-visit\.lt\b
+\b360cities\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
