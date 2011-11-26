@@ -15483,6 +15483,7 @@ diamondlinks\.net
 \bbet-at-home\.at\b
 \bbet-at-home\.es\b
 \bvolley24\.com\b
+\bcuba-linda\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
