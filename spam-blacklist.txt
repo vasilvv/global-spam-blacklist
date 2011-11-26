@@ -15485,6 +15485,7 @@ diamondlinks\.net
 \bvolley24\.com\b
 \bcuba-linda\.com\b
 \btipbet\.vn\b
+\bwowurl\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
