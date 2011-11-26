@@ -15487,6 +15487,7 @@ diamondlinks\.net
 \btipbet\.vn\b
 \bwowurl\.com\b
 \bfeenode\.
+\bwikipaste\.eu
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
