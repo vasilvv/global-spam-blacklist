@@ -15490,6 +15490,7 @@ diamondlinks\.net
 \bwikipaste\.eu
 \btidy\.tk\b
 \bczarjoule\.blogspot\.com\b
+\bcondonesmix\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
