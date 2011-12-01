@@ -15493,6 +15493,7 @@ diamondlinks\.net
 \bcondonesmix\.com\b
 \bauthor-oekryuchkova\.narod\.ru\b
 \be-broker\.in\b
+\bdvd-ppt-slideshow\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
