@@ -15492,6 +15492,7 @@ diamondlinks\.net
 \bczarjoule\.blogspot\.com\b
 \bcondonesmix\.com\b
 \bauthor-oekryuchkova\.narod\.ru\b
+\be-broker\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
