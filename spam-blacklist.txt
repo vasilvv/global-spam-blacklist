@@ -15495,6 +15495,8 @@ diamondlinks\.net
 \be-broker\.in\b
 \bdvd-ppt-slideshow\.com\b
 \balexismf\.com\b
+\brajendragautam\.webnode\.com\b
+\bsolidarityinternational\.webnode\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
