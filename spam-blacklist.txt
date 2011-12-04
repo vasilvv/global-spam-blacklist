@@ -15390,6 +15390,47 @@ diamondlinks\.net
 \bvoyage-en-inde\.org\b
 \bvoyage-au-rajasthan\.com\b
 \bilmu-komputer23\.blogspot\.com\b
+\badelphitheatrelondon\.com\b
+\bapollovictoriatheatre\.org\b
+\bavenueqlondon\.com\b
+\bbillyelliotlondon\.org\b
+\bBloodbrothersmusical\.com\b
+\bdominiontheatre\.org\b
+\bdreamboatsandpetticoatstickets\.org\b
+\bdrurylanetheatrelondon\.com\b
+\bGhostthemusicallondon\.com\b
+\bhermajestystheatre\.org\b
+\bjerseyboyslondon\.org\b
+\blegallyblondetickets\.co\.uk\b
+\blondonpalladium\.org\b
+\bLondontheatreticketscheap\.com\b
+\bmilliondollarquartettickets\.co\.uk\b
+\bnationaltheatrelondon\.com\b
+\bnoelcowardtheatre\.org\b
+\bphantomoftheoperalondon\.com\b
+\bphoenixtheatrelondon\.co\.uk\b
+\bpiccadillytheatre\.org\b
+\bplayhousetheatrelondon\.com\b
+\bprinceedwardtheatre\.org\b
+\bprinceofwalestheatre\.org\b
+\bsavoytheatre\.org\b
+\bshrekthemusicaltickets\.org\b
+\btheatreticketscheap\.com\b
+\bthebookofmormonmusical\.co\.uk\b
+\bwewillrockyoutickets\.org\b
+\bwickedlondon\.org\b
+\bwizardofozlondon\.org\b
+\byesprimeministertickets\.com\b
+\blucidica\.com\b
+\bmoulinrougeparis\.co\.uk\b
+\btheater2k\.com\b
+\bseatplan\.co\.uk\b
+\beiffeltowertickets\.co\.uk\b
+\btubehotels\.com\b
+\bskanes\.com\b
+\bportelkantaouihotels\.co\.uk\b
+\bhammamet\.co\.uk\b
+\bmonastir\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
