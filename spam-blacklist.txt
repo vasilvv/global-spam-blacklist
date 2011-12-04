@@ -1362,7 +1362,6 @@ classic-car-insurance\.biz
 free-mortgage-calculator\.info
 christine-hanson\.com
 topjobnet\.org
-bet-at-home\.com
 bet365\.com
 10bet\.com
 israelnewsagency\.com
@@ -1560,7 +1559,7 @@ privetparis\.com
 needlustgirl\.org
 
 ##phrases
-(online|discount|best)(md|rx)
+(?:online|discount|best)(?:md|rx)
 bestviag
 buycheap
 llpharm
@@ -2777,9 +2776,8 @@ hhwtyt\.info
 recipes\.keralaz\.info
 v-tarot\.com
 lemonparty\.org
-bestpornvideosonline\.info
+best(?:pornvideosonline|winantivirus)\.info
 dreamsexy\.info
-bestwinantivirus\.info
 metalgearsolidforums\.com
 muhammaddressup\.com
 
@@ -3236,7 +3234,6 @@ firewalldown\.com
 \bschoolkorfball\.org
 \bgamesff\.com
 \bsimone-numismatica-e-storia\.blogspot\.com
-\bbestwaytoinvest\.com
 \bpussy(?:mania\.(?:com|info|net)|ass\.(?:com|info|net|org))
 \bfavorite-games\.com
 \binstant-car-insurance-quote\.net
@@ -3635,7 +3632,6 @@ traditio[\.．]ru
 \bmyfreepaysite\.com\b
 \bwikisucks\.blogspot\.com #spamming [[en:Criticism of Wikipedia]]
 \bgaypornlinx\.com\b
-\bbest-cartuning\.com
 \bfd\.tc\.co\.uk\b
 \bsurl\.co\.uk\b
 \bslingshot\.to\b
@@ -4088,7 +4084,6 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \bthyrominethyroid\.org\.ua\b
 \bcathar\.info\b
 \brenneslechateaubooks\.info\b
-\bbestfrenchfilms\.com\b
 \bst-ferriol\.com\b
 \bheretication\.info\b
 \bvotejedi\.co(\.uk|m)\b
@@ -4164,7 +4159,6 @@ www\.google\.com/search\?source=ig&hl=en&q=music\+education\+by\+color
 \barturnikitin\.com\b
 \bbargainhammocks\.com\b
 \bbenedict-xvi-pope\.com\b
-\bbest-(mortgage-quotes|sex-enhancers|sunless-tanning)\.com\b
 \bbobbleheadfinder\.com\b
 \bbreast-enhancement-help\.com\b
 \bbuy-cruise\.com\b
@@ -4519,8 +4513,7 @@ digilander\.libero\.it/andrea\.nardo1977
 \bsummerinchina\.(net|org)\b
 \bteach-and-travel\.com\b
 \bteach-in-(asia|beijing|shanghai)\.org\b
-\bteachcn\.org\b
-\bteachinasia\.org\b
+\bteach(?:cn|inasia)\.org\b
 \btesolmax\.(net|org)\b
 \btravel-insurance-quote\.org\b
 \buschina-edu\.com\b
@@ -6113,7 +6106,17 @@ nikesupplier\.com
 \bamerican-drug-shop\.com\b
 \bbargainmedsplace\.com\b
 \bbeeimmo\.com\b
-\bbest(medsplace|drugdirect|cheapmedsworld|canadianmed|-us-drugs)\.com\b
+\bbest-(cartuning|medshop|mortgage-quotes|sex-enhancers|sunless-tanning|us-drugs|wholesaler)\.com\b
+\bbestin(diancooking|diancuisines|dianfilms|tourism)\.com\b
+\bbest(?:abcd|canadianmed|cheapmedsworld|chistraighteners|drugdirect|dvdsales|ecigarettesreview|erwin|essayhelp|essaytips|frenchfilms|ghdflatiron|goodsone|handbagsshop|healthtourism|ipcameras|louisvuitton|medsplace|menwatches|ownstore|p90xshop|polotshirt|ratedcookwaresets|sale511|sales4u|seoguide|shandbags|termpaper|vibram|waytoinvest|womenshoodies|workoutexercise|workx)\.com\b
+\bbest(?:cordlessdrills|gamingkeyboards|golfgpssystems|jigsaw|universalremotes)reviews\.com\b
+\bbest(?:bikerack|gamingmousereviews)\.net\b
+\bbest(?:bmxbikes|headphonesreview|petfood)\.org\b
+\bbestlaptopbattery\.com\.au\b
+\bbestessays?\.(?:com|net|org)\b
+\bbestessays\.(?:ca|0catch\.com)\b
+\bbestdissert(?:ion\.org|ation\.com)\b
+\bbestelectroniccigarettereviews\.blogspot\.com\b
 \bbonpharm\.com\b
 \bbrandpills4u\.com\b
 \bbuy(valuemeds|pillsstore|pharmonline|med24|bestdrug)\.com\b
@@ -6144,7 +6147,7 @@ nikesupplier\.com
 \bgoodvaluemeds\.com\b
 \bhealthcare7x24\.com\b
 \bhousepills\.com\b
-\bi(am)?bestlover\.com\b
+\bi(?:am)?bestlover\.com\b
 \biii(pharmacy|drugstore)\.com\b
 \bimpotencekiller\.com\b
 \bjnouri\.com\b
@@ -6705,8 +6708,6 @@ viagra-?(drugs|online|billig)
 \basiansharemarket\.com\b
 \basianstockmarket\.ws\b
 \bawesomehomilies\.com\b
-\bbestin(diancooking|diancuisines|dianfilms|tourism)\.com\b
-\bbest(?:healthtourism|seoguide)\.com\b
 \bblackpoollive\.net\b
 \bbrainees\.com\b
 \bbuyseolinks\.com\b
@@ -7905,7 +7906,6 @@ lexikon\.calsky\.com
 \bessaymill\.com\b
 \bcollege-paper\.org\b
 \bsuperiorpapers\.com\b
-\bbestdissert(?:ion\.org|ation\.com)\b
 \btradult\.com\b
 \bj\.mp\b
 \b00r\.ru\b
@@ -8122,10 +8122,6 @@ lexikon\.calsky\.com
 \bxzb\.cc\b
 \bzi\.pe\b
 \bzz\.gd\b
-\bbestessays?\.(?:com|net|org)\b
-\bbestessays\.(?:ca|0catch\.com)\b
-\bbestessaytips\.com\b
-\bbesttermpaper\.com\b
 \bcustom-essaywriting\.blogspot\.com\b
 \baki-kaurismaki\.ru\b
 \bmiss-cinnamon\.over-blog\.com\b
@@ -8316,7 +8312,6 @@ lexikon\.calsky\.com
 \ballbeachtennis\.com\b
 \bmandelbrot\.sellit\.pl\b
 \bna-ozero\.ru\b
-\bbest-medshop\.com\b
 \byy\.vc\b
 \btamazight\.forumactif\.com\b
 \bsocionic\.qsh\.eu\b
@@ -9123,9 +9118,7 @@ camica\.netfirms\.com/gematria/
 \badidashome\.com\b
 \bair-force-one\.com\b
 \bbuy-dunk\.com\b
-\bdiscount-air-jordan\.com\b
-\bdiscount-coach-outlet\.com\b
-\bdiscount-louis-vuitton\.com\b
+\bdiscount-(?:air-jordan|coach-outlet|louis-vuitton)\.com\b
 \bdvdboxset2you\.com\b
 \bedunksb\.com\b
 \beyourbiz\.com\b
@@ -9181,7 +9174,6 @@ nfljerseys
 \blatinamericantelemedicine\.com\b
 \bmacelatinamerica\.com\b
 \baffordablesecuritycameras\.com\b
-\bbestipcameras\.com\b
 \bcamaracctv\.com\b
 \bcamaradecctv\.com\b
 \bcamarascctv\.com\b
@@ -9345,13 +9337,16 @@ nfljerseys
 \brackets4uk\.com\b
 \btennisracketsbuy\.com\b
 \bwonderfuljersey\.com\b
-\b(?:4|best)vibram\.com\b
-\b(?:ace|best|discount|nice|pick|sell|top|us-)vibramfivefingers\.com\b
+\b(?:ace|best|discount|i|nice|onsale|pick|sell|top|us[a-])vibramfivefingers\.com\b
 \bbuyvibramshose\.com\b
-\b(?:fivefinger|my|sell|usa-|top)vibram\.com\b
+\bmbtvibramshoes\.com\b
+\bonvibramfivefingersshoes\.com\b
+\b(?:4|five-fingers|fivefinger|my|sell|usa-|top)vibram\.com\b
 \bvibram-(?:five-finger|fivefingerss|retailers|store)\.com\b
-\bvibram(?:4u|5fingersshoes|eshop|fit|five-fingers|fivefingers(?:2sale|6|mall|usa|web)|fivesfingers|officialstore|s-fivefingers|salesmall|shoes(?:online|store|tores)|shoponline|sky|soutlet|store(?:online)?|web)\.com\b
-\bvibram(?:fivefingers-outlet|sales)\.net\b
+\bvibram(?:4u|5fingersshoes|51|botas|eshop|fit|five-fingers|fivefingercheap|fivefingers(?:2sale|6|cheap|hot|llc|mall|-outlet|shoesnet|-shop|usa|web)|fivesfingers|officialstore|s-fivefingerss?|salesmall|scheap|shoes(?:online|store|tores|us)|shoponline|sky|soutlet|store(?:online)?|web)\.com\b
+\bvibram(?:fivefingers-outlet|sales|sfivefingers)\.net\b
+\bvibram-five-fingers\.(?:c[ac]|info)\b
+\bvibram-fivefingers-shoes\.info\b
 \baaaeluxury\.com\b
 \baaagoods\.com\b
 \balibabox\.com\b
@@ -9409,7 +9404,6 @@ nfljerseys
 \baaa-replicas\.com\b
 \bbagstag\.com\b
 \bbinocular-sk\.com\b
-\bbrandlouisvuitton\.com\b
 \bbyreplica\.com\b
 \bcaesarol\.com\b
 \bchinamodelwholesaler\.com\b
@@ -9433,9 +9427,62 @@ louboutin[^./]
 \bjordanscoop\.com\b
 \bkicksparty\.com\b
 \blook4wholesaler\.com\b
+\b52louis-vuitton\.com\b
+\blouis-vuitton-bags\.net\b
+\blouis-vuitton-outlet-store\.com\b
+\blouis-vuitton-outlet\.org\b
+\blouis-vuitton-overstock\.com\b
+\blv-louis-vuitton\.com\b
+\b7louisvuitton\.com\b
+\bauthenticlouisvuittonhandbags\.net\b
+\bbrandlouisvuitton\.com\b
+\bfrancelouisvuitton\.com\b
+\blouisnvuitton\.com\b
+\blouisvuitt4u\.com\b
 \blouisvuitton(?:-show|bay|stuff)\.com\b
+\blouisvuitton-1\.com\b
+\blouisvuitton-it\.com\b
+\blouisvuitton-onlinesale\.com\b
+\blouisvuitton-shoes\.org\b
+\blouisvuitton-uk\.com\b
+\blouisvuitton-us\.com\b
+\blouisvuitton-vip\.com\b
+\blouisvuitton1\.com\b
+\blouisvuitton2handbags\.com\b
+\blouisvuitton4love\.com\b
+\blouisvuitton4sale\.com\b
+\blouisvuitton4shoes\.com\b
+\blouisvuittonbagmall\.com\b
+\blouisvuittonbags1\.com\b
+\blouisvuittonbags8\.com\b
+\blouisvuittonbagsol\.com\b
+\blouisvuittonbagsonline\.com\b
+\blouisvuittonbagss\.com\b
+\blouisvuittongoods\.com\b
+\blouisvuittonlouisvuitton\.com\b
+\blouisvuittonmy\.com\b
+\blouisvuittononline\.com\b
+\blouisvuittonoutlet-store\.com\b
+\blouisvuittonoutletonlinestore\.com\b
+\blouisvuittonoutletstore\.com\b
+\blouisvuittonretail\.com\b
+\blouisvuittonretail\.org\b
+\blouisvuittonretaill\.com\b
+\blouisvuittons\.cc\b
+\blouisvuittonsbag\.com\b
+\blouisvuittonstock\.com\b
+\blouisvuittonstore4\.com\b
+\blouisvuittontotebag\.com\b
+\blouisvuittontrainers\.com\b
+\blouisvuittonwalletoutlets\.com\b
+\blouisvuittonwalletoutletstore\.com\b
+\blove-louisvuitton\.com\b
+\bluxurylouisvuittonbag\.com\b
+\bmylouisvuitton\.com\b
+\bourlouisvuitton\.com\b
+\bshopping-louis-vuitton\.com\b
+\bshoppinglouisvuitton\.com\b
 \bluxuryheelshop\.com\b
-\blv-gucciaaa\.com\b
 \bmanoloblahnik(?:com\.com|onsale\.com|retail\.com|usa\.com|shoes\.org)\b
 \bmbtshoeshouse\.com\b
 \bmbtshoesselling\.com\b
@@ -9508,7 +9555,6 @@ louboutin[^./]
 \bbagsvuitton\.com\b
 \bomega-joy\.com\b
 \bchanel-tracy\.com\b
-\blv-malcolm\.com\b
 \bcorum-linda\.com\b
 \brolex-dolly\.com\b
 \balange-mala\.com\b
@@ -9517,7 +9563,6 @@ louboutin[^./]
 \bu-boat-lee\.com\b
 \biwc-beata\.com\b
 \baudemars-piguet-lily\.com\b
-\blv-linda\.com\b
 \bwatchessell\.com\b
 \btrade-database\.net\b
 \bgucci-rudy\.com\b
@@ -9539,13 +9584,12 @@ louboutin[^./]
 \bomega-melody\.com\b
 \balain-lark\.com\b
 \bfranck-ann\.com\b
-\blv-whitney\.com\b
-\blv-joan\.com\b
-\blv-niki\.com\b
+\blv-(?:9|barbara|betty|buy|elizabeth|gucciaaa|joan|lily|linda|malcolm|niki|whitney)\.com\b
+\blv-(?:bags|gucci)\.us\b
+\blv-handbag\.net\b
 \bwatchesshow\.org\b
 \bchanel-melody\.com\b
 \bhermes-nancy\.com\b
-\blv-lily\.com\b
 \bgucci-katharine\.com\b
 \bpatek-philippe-niki\.com\b
 \bgucci-diana\.com\b
@@ -9559,7 +9603,6 @@ louboutin[^./]
 \bbellross-gail\.com\b
 \bhublot-ida\.com\b
 \bprada-yvonne\.com\b
-\blv-betty\.com\b
 \bcartier-shirley\.com\b
 \bomega-lisa\.com\b
 \bwatches-bags\.com\b
@@ -9590,13 +9633,11 @@ louboutin[^./]
 \bbalenciaga-amanda\.com\b
 \b5myj\.com\b
 \bluxurywatchhome\.com\b
-\blv-barbara\.com\b
 \bprada-shelly\.com\b
 \bprada-mary\.com\b
 \bhermes-shirley\.com\b
 \bdior-sophia\.com\b
 \bdior-vivian\.com\b
-\blv-elizabeth\.com\b
 \bgucci-fiona\.com\b
 \bbalenciaga-julie\.com\b
 \bluxurywatchgift\.com\b
@@ -9629,7 +9670,6 @@ louboutin[^./]
 \bmyjewellerystore\.com\b
 \bshoppingvans\.com\b
 \btiffanyjewelleryes\.com\b
-\bbestlouisvuitton\.com\b
 \blcgyjg\.com\b
 \bhandbag(?:com|spop)\.com\b
 \bwatches-life\.com\b
@@ -9641,10 +9681,8 @@ louboutin[^./]
 \btootoocheap\.com\b
 \btungflower\.com\b
 \bamzstore\.com\b
-\blv-handbag\.net\b
 \b7zyx\.com\b
 \bmaslou\.com\b
-\blouisvuittonmy\.com\b
 \bnbcth\.com\b
 \b90920\.com\b
 \bjg02\.com\b
@@ -9665,7 +9703,6 @@ louboutin[^./]
 \btoptopbag\.com\b
 \bgrandjewelry\.net\b
 \bshes5588\.com\b
-\blouisvuittonstock\.com\b
 \bgo-ubas\.com\b
 \bmbttop\.com\b
 \benjoycl\.com\b
@@ -9719,8 +9756,6 @@ louboutin[^./]
 \bthepradabags\.com\b
 \bbags4lv\.com\b
 \bwholedesigner\.com\b
-\blove-louisvuitton\.com\b
-\blouis-vuitton-bags\.net\b
 \bhandbags-agent\.com\b
 \brosettastoneonline\.net\b
 \bpradaltd\.com\b
@@ -9746,7 +9781,6 @@ louboutin[^./]
 \bdzhfgj\.com\b
 \bone-best\.com\b
 \bshopahandbags\.com\b
-\bbesthandbagsshop\.com\b
 \bmysofiabag\.com\b
 \bpromohandbag\.com\b
 \bmy-sofiabag\.com\b
@@ -9755,7 +9789,6 @@ louboutin[^./]
 \b1837tiffany\.net\b
 \bvutrade\.com\b
 \bmyleatherbelt\.com\b
-\blv-buy\.com\b
 \byzzg\.net\b
 \bqqone\.com\b
 \bworld-importexport\.com\b
@@ -9776,7 +9809,6 @@ louboutin[^./]
 \beshop-bag\.com\b
 \bebayunions\.com\b
 \bwholesaletiffany\.biz\b
-\b7louisvuitton\.com\b
 \bleatherbagsmanufacturer\.com\b
 \b1004coco\.com\b
 \bdesigner-inspired-handbags\.com\b
@@ -9999,13 +10031,11 @@ louboutin[^./]
 \b98myyshop\.com\b
 \bchatroulettecite\.com\b
 \bgucciguccigucci\.com\b
-\blouisvuittonlouisvuitton\.com\b
 \btiffanyreplica\.info\b
 \b123rolex\.com\b
 \bgucci-shoes-bags\.com\b
 \bsupercheapgucci\.com\b
 \bguccitouch\.com\b
-\blouisvuittons\.cc\b
 \bdealsunglasses\.com\b
 \blvbagsmvp\.com\b
 \bguccibagsshop\.com\b
@@ -10027,7 +10057,6 @@ louboutin[^./]
 \bshopping-handbags\.com\b
 \bfashioncooper\.com\b
 \bpickjuicycouture\.com\b
-\blouisvuittonbagmall\.com\b
 \bbrand-wholesale\.net\b
 \blovevuitton\.org\b
 \bshopdreambag\.com\b
@@ -10213,7 +10242,6 @@ louboutin[^./]
 \bcastles\.travelinos\.com\b
 \bmilotice\.com\b
 \bmiud\.in\b
-\bourlouisvuitton\.com\b
 \bbag15\.com\b
 \bstylebagstore\.com\b
 \bshoestop10\.com\b
@@ -10264,7 +10292,6 @@ louboutin[^./]
 \boutlet-purses\.com\b
 \bmyluxbags\.com\b
 \bluxurywareroom\.com\b
-\blv-bags\.us\b
 \bpurse-agent\.com\b
 \bcool4bags\.com\b
 \bhighheelsfashion\.com\b
@@ -10407,7 +10434,6 @@ louboutin[^./]
 \b21replica\.com\b
 \behandbag-replica\.com\b
 \blvebags\.com\b
-\blv-louis-vuitton\.com\b
 \bhermes-replica\.com\b
 \blikereplica\.com\b
 \blvbagshopping\.com\b
@@ -10415,7 +10441,6 @@ louboutin[^./]
 \bdesigner-handbag-replica\.com\b
 \bnice-bags\.com\b
 \bluxuries-replicas\.com\b
-\blouisvuitton-us\.com\b
 \bwatches188\.com\b
 \bwatchescentre\.com\b
 \bvip-bags\.net\b
@@ -10438,7 +10463,6 @@ louboutin[^./]
 \bradowatcheshome\.com\b
 \bdesigner-louis\.com\b
 \bdaydaysale\.com\b
-\bbestsales4u\.com\b
 \bjusttopwatches\.com\b
 \bdearwatches\.com\b
 \bwatcheshot\.com\b
@@ -10564,7 +10588,6 @@ buy[a-z0-9-]*replica
 \bswimsuits-2010\.com\b
 \bchinawholesale2009\.com\b
 \blacostepolo-shirts\.com\b
-\blouis-vuitton-outlet-store\.com\b
 \bmoncler-jackets-outlet\.com\b
 \bjeans-for-sale\.com\b
 \busa-basketball-shoes\.com\b
@@ -10605,7 +10628,6 @@ buy[a-z0-9-]*replica
 \btruereligionjeansstoes\.com\b
 \bmobiper\.com\b
 \bjimmychoo4sale\.com\b
-\bkarenmillens\.com\b
 \bbougiehandbags\.com\b
 \bcoogiswear\.com\b
 \balgbiotek\.com\b
@@ -10634,7 +10656,6 @@ buy[a-z0-9-]*replica
 \bshopguccionline\.com\b
 \bghduksalon-sale\.com\b
 \btruereligionjeans-store\.com\b
-\blouis-vuitton-overstock\.com\b
 \bedhardyshopclothing\.com\b
 \bukhairghdsale\.com\b
 \bukghdhaironlinestore\.com\b
@@ -10708,11 +10729,9 @@ buy[a-z0-9-]*replica
 \bmbtshoesmbt\.com\b
 \bjimmychooworld\.com\b
 \bpolardiamonds\.com\b
-\blouis-vuitton-outlet\.org\b
 \bcoachbags1941\.com\b
 \bbags212\.com\b
 \btopcredittrade\.com\b
-\blouisvuitt4u\.com\b
 \bvogueme\.com\b
 \bwatchtoyou\.com\b
 \bloveinsport\.com\b
@@ -10896,7 +10915,6 @@ buy[a-z0-9-]*replica
 \bgodeen\.com\b
 \bjuleer\.com\b
 \b1688sale\.com\b
-\bbestownstore\.com\b
 \bwholesaleonepiece\.com\b
 \bdiscount-sport-jerseys\.com\b
 \bhobby-china\.com\b
@@ -11023,7 +11041,6 @@ buy[a-z0-9-]*replica
 \bbootspart\.com\b
 \bitshoesbox0\.com\b
 \bevshoes\.com\b
-\bbesterwin\.com\b
 \bbootsonway\.com\b
 \bhmazon\.com\b
 \bboonoutlet\.com\b
@@ -11059,7 +11076,6 @@ buy[a-z0-9-]*replica
 \bmysmalldeal\.com\b
 \bdgshoeshi\.com\b
 \btopmbtshop\.com\b
-\blouisvuittonbagsonline\.com\b
 \btoogle\.cc\b
 \bmyretrokicks\.com\b
 \bdearjordanstore\.com\b
@@ -11093,7 +11109,6 @@ buy[a-z0-9-]*replica
 \bshoeset\.com\b
 \bshirthotsale\.com\b
 \bmybestedhardy\.com\b
-\bbestpolotshirt\.com\b
 \bsexylingerieho(?:me|t)\.com\b
 \bpumashoeshot\.com\b
 \bfitpandora\.net\b
@@ -11196,7 +11211,6 @@ buy[a-z0-9-]*replica
 \boctopus-paul\.org\b
 \binsanitywokouts\.org\b
 \bcore-rhythms\.org\b
-\bbestabcd\.com\b
 \bcoachoutletstores\.us\b
 \byidiani\.com\b
 \bhealthymobi\.com\b
@@ -11259,7 +11273,6 @@ buy[a-z0-9-]*replica
 \bghdcheapmallonline\.net\b
 \buk-ghdhairstores\.com\b
 \buksunglasses\.net\b
-\bbestp90xshop\.com\b
 \buk-ghdhairstores\.net\b
 \bcoolghdstraighteners\.com\b
 \bghdcheapstore\.com\b
@@ -11316,10 +11329,8 @@ buy[a-z0-9-]*replica
 \btiffanycojewel\.com\b
 \blvbagdiscount\.com\b
 \bstorebop\.com\b
-\blouisvuitton4sale\.com\b
 \bclassicedhardy\.com\b
 \bguccihandbagsale\.com\b
-\blouisvuittonsbag\.com\b
 \bjeanybags\.com\b
 \blamoncler\.com\b
 \blaherveleger\.com\b
@@ -11367,7 +11378,6 @@ buy[a-z0-9-]*replica
 \bcoachpurses-outlet\.com\b
 \btimberlandshoes-discount\.com\b
 \boncoachpurses\.com\b
-\bonvibramfivefingersshoes\.com\b
 \bonmbtshoes\.com\b
 \b21nflshop\.com\b
 \bmlbjerseyswhole\.com\b
@@ -11443,7 +11453,6 @@ buy[a-z0-9-]*replica
 \bmorejerseys\.us\b
 \bnfl-jerseyswhole\.net\b
 \babusf\.com\b
-\bbestsale511\.com\b
 \btwojerseys\.com\b
 \bfujiannfl\.com\b
 \bonefansgearstop\.com\b
@@ -11537,7 +11546,6 @@ buy[a-z0-9-]*replica
 \bdesignerbagstoday\.com\b
 \b2010famousshop\.com\b
 \bcoachoutletbagsonline\.com\b
-\bvibramfivefingercheap\.com\b
 \bedhardychristianaudigiersale\.com\b
 \bbootaustraliasite\.com\b
 \bzolaenterprises\.com\b
@@ -11574,7 +11582,6 @@ buy[a-z0-9-]*replica
 \bshoeshirts\.com\b
 \byouedhardy\.com\b
 \byoujerseys\.com\b
-\bbest-wholesaler\.com\b
 \bed-hardywholesale\.com\b
 \bmbtsportsshoes\.com\b
 \bgoskynew\.com\b
@@ -11593,8 +11600,6 @@ buy[a-z0-9-]*replica
 \bdesignerbags-1\.com\b
 \bwatches8\.com\b
 \bhandbags-9\.com\b
-\blouisvuitton-1\.com\b
-\blv-9\.com\b
 \bvuitton-1\.com\b
 \brolex-1\.com\b
 \bglamorebags\.com\b
@@ -11616,7 +11621,6 @@ buy[a-z0-9-]*replica
 \bkrza\.com\b
 \bgoshopping-coach\.com\b
 \bbagrr\.com\b
-\blouisvuitton1\.com\b
 \bwwcats\.com\b
 \bjordanmass\.com\b
 \bhandbag-handbags\.com\b
@@ -11816,7 +11820,6 @@ buy[a-z0-9-]*replica
 \bbuymbtfootwear\.com\b
 \brosettastonesale\.org\b
 \balexandermcqueenoutlet\.com\b
-\bvibram-five-fingers\.cc\b
 \brosettastonestyle\.com\b
 \bjimmychoousa\.com\b
 \bhervelegermall\.com\b
@@ -11824,7 +11827,6 @@ buy[a-z0-9-]*replica
 \blaptopbattery365\.com\b
 \bshoespolar\.com\b
 \btimberlandstorm\.com\b
-\bvibram-fivefingers-shoes\.info\b
 \blimitedno\.com\b
 \bnewport-cigarettes\.us\b
 \baf1forever\.com\b
@@ -11918,7 +11920,6 @@ buy[a-z0-9-]*replica
 \brosetta-stone-shop\.net\b
 \brosettastone-one\.com\b
 \bjuicycouture-outlet\.org\b
-\bmylouisvuitton\.com\b
 \babercrombieofficial\.com\b
 \btruereligionjeans\.cc\b
 \basics2u\.com\b
@@ -11930,7 +11931,6 @@ buy[a-z0-9-]*replica
 \b16shoes\.com\b
 \bmbt-shoes-mbt\.com\b
 \brosettastonegreek\.net\b
-\blouisvuittononline\.com\b
 \bmonclerouterwear\.org\b
 \bnflnhlshop\.com\b
 \brosettastoneswedish\.net\b
@@ -11958,7 +11958,6 @@ buy[a-z0-9-]*replica
 \bkickshoesebay\.com\b
 \bpradatrainers\.com\b
 \bcooltimberland\.com\b
-\blouisvuittontrainers\.com\b
 \bheverleger0\.info\b
 \brosettastonefree\.com\b
 \bbebestmbt\.com\b
@@ -11989,11 +11988,9 @@ buy[a-z0-9-]*replica
 \b2ito\.com\b
 \brosettastoneindian\.com\b
 \blikehighheels\.com\b
-\blouisvuittontotebag\.com\b
 \bcolumbiajacketsstore\.com\b
 \bagogoshopping\.com\b
 \bjustnorthfacestore\.com\b
-\bvibram51\.com\b
 \bbrandsupplier\.biz\b
 \bclarksforsale\.com\b
 \bicoachoutlet\.net\b
@@ -12162,7 +12159,6 @@ buy[a-z0-9-]*replica
 \bseekic\.com\b
 \bchinaicmart\.com\b
 \bgucci1923\.com\b
-\blouisvuitton4love\.com\b
 \btoplvstore\.com\b
 \bt3hairdryershop\.com\b
 \bt3hairdryera\.com\b
@@ -12186,7 +12182,6 @@ buy[a-z0-9-]*replica
 \bladybrandbags\.com\b
 \bshoes-trading\.com\b
 \bgucci2handbags\.com\b
-\blouisvuitton2handbags\.com\b
 \bhairtrue\.com\b
 \bshoeslord\.org\b
 \bmiumiuonsale\.com\b
@@ -12201,7 +12196,6 @@ buy[a-z0-9-]*replica
 \bchiflatirondryer\.com\b
 \bdiscountlvstore\.com\b
 \byeslvgift4u\.com\b
-\blouisvuitton4shoes\.com\b
 \btrainbags\.com\b
 \bt3microstore\.com\b
 \bgiftsofhair\.com\b
@@ -12235,8 +12229,6 @@ buy[a-z0-9-]*replica
 \bburberryselection\.com\b
 \byeslvgift\.com\b
 \btopdesireforu\.com\b
-\blouisvuitton-shoes\.org\b
-\bluxurylouisvuittonbag\.com\b
 \bmyburberryshop\.com\b
 \bslenderbeltshop\.com\b
 \byeslvshop\.com\b
@@ -12261,15 +12253,12 @@ buy[a-z0-9-]*replica
 \bmiumiuhandbag4u\.com\b
 \blightinthechina\.com\b
 \bfendishopping\.com\b
-\bvibramfivefingers-outlet\.com\b
 \bideaghdhair\.com\b
 \bbeautyhairtools\.com\b
 \bdhlhandbags\.com\b
 \bvoguehit\.com\b
 \bmychanelbagstores\.com\b
 \bmonclersoutlet\.com\b
-\blouisvuittonbagsol\.com\b
-\blouisvuitton-vip\.com\b
 \bagotrade\.com\b
 \bemshandbags\.com\b
 \bhermes4handbags\.com\b
@@ -12277,7 +12266,6 @@ buy[a-z0-9-]*replica
 \balexander-mcqueen-clutch\.com\b
 \biclshoes\.com\b
 \bluxury-lvhandbags\.com\b
-\bshoppinglouisvuitton\.com\b
 \bshoppinghermes\.com\b
 \bcoach4handbags\.com\b
 \bcoachbrandbag\.com\b
@@ -12307,7 +12295,6 @@ buy[a-z0-9-]*replica
 \bgiftsoflady\.com\b
 \bredshoessole\.com\b
 \bk-fa\.com\b
-\blouisvuittonstore4\.com\b
 \bbuyluxurybagidea\.com\b
 \btoplvhandbags\.com\b
 \bshopt3\.com\b
@@ -12323,7 +12310,6 @@ buy[a-z0-9-]*replica
 \bbrandwatchforyou\.com\b
 \bluxidea4u\.com\b
 \bczzza\.com\b
-\blouisvuittonbagss\.com\b
 \badidasporschedesign\.com\b
 \blongtradebiz\.com\b
 \bin-gift\.com\b
@@ -12343,7 +12329,6 @@ buy[a-z0-9-]*replica
 \bdiscounttiffanyjewelry\.com\b
 \bdiscountantimbtsale\.com\b
 \bbags-love\.com\b
-\b52louis-vuitton\.com\b
 \bhcelc\.com\b
 \bchloecom\.com\b
 \bbellewedding\.com\b
@@ -12356,16 +12341,13 @@ buy[a-z0-9-]*replica
 \bguccisbags\.com\b
 \bbasketballshoesdiscount\.com\b
 \bbagsoulet\.com\b
-\bvibram-five-fingers\.info\b
 \bhandbagnest\.com\b
 \bbuybrandnamebag\.com\b
 \bhervelegerdress\.com\b
 \bhervelegersell\.com\b
 \bdownjacketonsale\.com\b
-\bbestgoodsone\.com\b
 \bewcss\.com\b
 \bjoshuatetreault\.com\b
-\busavibramfivefingers\.com\b
 \bshoesloveshoes\.com\b
 \blvlvbag\.net\b
 \bcliphunter\.com\b
@@ -12731,7 +12713,6 @@ woolskinboots\.com
 \bvipsuprashoes\.com\b
 \bleatherhandbagsclub\.com\b
 \bus-monclerjacketsoutlet\.com\b
-\bvibramshoesus\.com\b
 \bmbtshoes1998\.com\b
 \b16why\.com\b
 \bhotjeanssale\.com\b
@@ -12740,12 +12721,10 @@ woolskinboots\.com
 \bsale-gucci\.com\b
 \bbape-caps\.com\b
 \bnfl-mlbjerseys\.com\b
-\bmbtvibramshoes\.com\b
 \bair2010-jordan\.com\b
 \bjordandunksb\.com\b
 \bmbtshoesnet\.com\b
 \bcoogi-clothes\.com\b
-\bvibramfivefingersshoesnet\.com\b
 \bpradacoach\.com\b
 \bpumacool\.com\b
 \bwholesale-trainers\.com\b
@@ -12773,7 +12752,6 @@ woolskinboots\.com
 \bardike\.com\b
 \bhottimberlandsale\.com\b
 \bprashoes\.com\b
-\bbestwomenshoodies\.com\b
 \bmbtmoving\.com\b
 \btightinjeans\.com\b
 \bmydunksshop\.com\b
@@ -12868,8 +12846,6 @@ plant\.dmz-karpaty\.com
 \baddu\.co\b
 \bpaydayloansolutions\.net\b
 \barticles(?:base|vana)\.com\b
-\bbestecigarettesreview\.com\b
-\bbestelectroniccigarettereviews\.blogspot\.com\b
 \bquickpaydaycreadit\.wikidot\.com\b
 \bcellulitetalk\.com\b
 \bstretchmarkscare\.com\b
@@ -12898,7 +12874,6 @@ plant\.dmz-karpaty\.com
 \bbtobuy\.com\b
 \bbagsofashion\.com\b
 \bebagsshop\.com\b
-\bvibramfivefingerscheap\.com\b
 \bhandbags-fake\.com\b
 \bmbt2bt\.com\b
 \brealmbt\.com\b
@@ -12912,7 +12887,6 @@ plant\.dmz-karpaty\.com
 \byoursnowboots\.com\b
 \bvsbag\.com\b
 \bkoolsense\.net\b
-\blouisvuittongoods\.com\b
 \bhandbagseshop\.com\b
 \bpolostshirt\.com\b
 \bfamousbrandbag\.com\b
@@ -13002,7 +12976,6 @@ plant\.dmz-karpaty\.com
 \bwebpetitions\.com\b
 #end of petition sites
 
-\bbestworkx\.com\b
 \bbeeg\.cm\b
 \bshlinger\.com\b
 \bladbrokes\.com\b
@@ -13071,7 +13044,6 @@ plant\.dmz-karpaty\.com
 \bsell-replica\.com\b
 \bmybagsvendorvip\.com\b
 \bjerhandbags\.com\b
-\bbestshandbags\.com\b
 \bphoenix-luxuries\.com\b
 \bluxmobileshop\.com\b
 \bshopstarstyle\.com\b
@@ -13402,7 +13374,6 @@ plant\.dmz-karpaty\.com
 \bofw\.(?:com|org)\.ph\b
 \bofwonline\.(?:com|ateneo\.edu|net)\b
 \bnfljersey2010\.com\b
-\blv-gucci\.us\b
 \b45usdshoes\.com\b
 \bhotellmolleberg\.com\b
 \bzkracene\.cz\b 
@@ -13414,7 +13385,6 @@ plant\.dmz-karpaty\.com
 \brp-city\.com\b
 \bnobleherb\.com\b
 \bvivwestwood\.com\b
-\blouisvuitton-uk\.com\b
 \bbu\.tt\b
 \bglock\.gr\b
 \brisk-international\.gr\b
@@ -13464,7 +13434,6 @@ plant\.dmz-karpaty\.com
 \btoywatch-watches\.com\b
 \btoywatchesale\.com\b
 \bchoosemyhandbags\.com\b
-\bshopping-louis-vuitton\.com\b
 \bhandbagsesale\.com\b
 \btopguccistore\.com\b
 \brolex-watch-replica\.com\b
@@ -13473,7 +13442,6 @@ plant\.dmz-karpaty\.com
 \bwatchesstoreus\.com\b
 \bswisswatchesky\.com\b
 \bguccibagbuy\.com\b
-\blouisvuitton-it\.com\b
 \bbags-lvshop\.com\b
 \bscarpe-hogan-it\.com\b
 \bbreitlingwatchesale\.com\b
@@ -13517,18 +13485,13 @@ plant\.dmz-karpaty\.com
 \buk-supra\.com\b
 \binsanityworkoutsonline\.com\b
 \bp90xoutletonline\.com\b
-\blouisvuittonoutletstore\.com\b
 \bmycoachoutlets\.com\b
 \bp90xschedule\.com\b
 \bhomeworkoutsales\.com\b
-\blouisvuittonoutlet-store\.com\b
 \bbrand-store777\.com\b
 \bmyjuicycoutureoutlet\.com\b
 \bclarks-shoes-online\.com\b
 \bbag-word\.com\b
-\bbestchistraighteners\.com\b
-\bbestworkoutexercise\.com\b
-\bbestghdflatiron\.com\b
 \bchinawholesaler\.us\b
 \bnikeall\.com\b
 \bmyjuicycoutures\.com\b
@@ -13536,7 +13499,6 @@ plant\.dmz-karpaty\.com
 \bofficeworktool\.com\b
 \bandy-kate\.com\b
 \bdvdsbuynow\.com\b
-\bvibramsfivefingers\.net\b
 \bgirlspict\.net\b
 \bme2dvd\.com\b
 \bmusicadelparaguay\.blogspot\.com\b
@@ -13796,9 +13758,6 @@ btopfoot\.ch\b
 \bluxurydesignerbag\.com\b
 \bwholesale-gucci\.com\b
 \bguccigonow\.com\b
-\blouisvuittonretail\.com\b
-\blouisvuittonretail\.org\b
-\blouisvuittonretaill\.com\b
 \bcheapgucci\.net\b
 \bpradanow\.com\b
 \bed-hardy-online-store\.com\b
@@ -13872,12 +13831,10 @@ sanalritim
 \btiffanyco-outlet\.com\b
 \bnewbelstaff\.com\b
 \bcoachoutletstoresonline\.net\b
-\blouisvuittonbags1\.com\b
 \bhervelegersale-us\.com\b
 \b2011sportshoes\.com\b
 \bchanelhandbagworld\.com\b
 \boutlets-birkenstock\.com\b
-\bvibrams-fivefingerss\.com\b
 \b24hlocker\.com\b
 \binsanityworkoutdvd-outlet\.com\b
 \bcoachbagsonlinestore\.com\b
@@ -13906,15 +13863,11 @@ sanalritim
 \bmycoach-outlet\.com\b
 \btoryburchreva-outlet\.com\b
 \bchanelbagshow\.com\b
-\blouisvuitton-onlinesale\.com\b
 \bshopmanoloblahnik\.com\b
 \bguccibeltssale\.com\b
 \bmbtwalkingshoesgood\.com\b
 \bmbtsandals-us\.com\b
-\bvibram-five-fingers\.ca\b
-\bfive-fingersvibram\.com\b
 \bmbtshoesfactory\.com\b
-\bvibramfivefingers-shop\.com\b
 \bgracebag\.com\b
 \btoryburchlover\.com\b
 \bcoachoutlet-storeonline\.org\b
@@ -13979,7 +13932,6 @@ sanalritim
 \bdieselgenerators\.ru\b
 \bhuman2stay\.com\b
 \blaptopbatterywholesale\.com\b
-\bbestlaptopbattery\.com\.au\b
 \blaptopbatteryweb\.com\b
 \btoshiba-laptop-battery\.co\.uk\b
 \bbatteryfast\.com\b
@@ -14063,7 +14015,6 @@ sanalritim
 \btakeshoes\.com\b
 \boakley-sunglasses-shop\.com\b
 \bpandorabracelets\.com\.co\b
-\blouisvuittonbags8\.com\b
 \bwholesaler1000\.com\b
 \bstarweddingdresses\.com\b
 \bnbajerseystop\.com\b
@@ -14203,7 +14154,6 @@ sanalritim
 \bnewarts\.at\b
 \byoucanhelp\.tk\b
 \bprofessay\.com\b
-\bbestessayhelp\.com\b
 \bwholesaleweddingsupplies\.org\b
 \bbodybuildingtips-list\.com\b
 \belectroniccigarette2k\.com\b
@@ -14223,7 +14173,6 @@ sanalritim
 \btnnoir\.com\b
 \bfemmes-cuir-bottes\.com\b
 \bhermes6\.com\b
-\bfrancelouisvuitton\.com\b
 \bdesignerbagssell\.com\b
 \bvogueshoesonline\.org\b
 \bshfperparimi\.tk\b
@@ -14474,7 +14423,6 @@ stdtesting\.(?:com|net|org)\b
 \blinks-of-londons\.uk\.com\b
 \bjuicyuksale\.com\b
 \blinkslondonshut\.com\b
-\bonsalevibramfivefingers\.com\b
 \bmbtshoesale\.org\b
 \bhibagsmart\.com\b
 \bjuicycouture-shop\.com\b
@@ -14615,15 +14563,13 @@ stdtesting\.(?:com|net|org)\b
 \bnikesbkicks\.com\b
 \brosettastonespanishdownload\.com\b
 \brosettastonehomeschool\.com\b
-\bkarenmillenshoesaustralia\.com\b
+\bkarenmillen(?:bagsstore|blackdressstore|cataloguestore|centurycitystore|chicagostore|coatstore|collectionstore|dresses(?:online|onsale|outletonline|shop|ukonline|ukstore)|footwearstore|handbagsstore|headofficestore|jewellerystore|leatherjacketstore|onlinestore|outletonline|outletstore|s|shoes|shoes(?:australia|uk)|silkbrasstore|sohostore|spectaclesstore|ukdesigner|ukonline|ukoutlet|uksite|ukstore|usastore|websitestore)\.com\b
 \b021webseo\.com\b
 \bguccioutletusa\.com\b
 \bcoachoutletsalestore\.com\b
 \bpolo2011online\.com\b
 \btoryburchflatsclearance\.com\b
-\bkarenmillendressesukonline\.com\b
 \bguccioutletuk\.com\b
-\bkarenmillenblackdressstore\.com\b
 \bcoachoutletsaleonlinestore\.com\b
 \btoryburchflatsdiscount\.com\b
 \bdetox-body-cleanse\.com\b
@@ -14642,7 +14588,6 @@ stdtesting\.(?:com|net|org)\b
 \bburberrylondonstore\.com\b
 \buscoachoutletonlineshop\.com\b
 \btoryburchshoesus\.com\b
-\bkarenmillenshoesuk\.com\b
 \btoryburchtallboots\.com\b
 \bmysolestore\.com\b
 \brosettastonearabiclanguage\.com\b
@@ -14650,26 +14595,16 @@ stdtesting\.(?:com|net|org)\b
 \babercrombieandfitchukstore\.com\b
 \bcheapabercrombieandfitchonline\.com\b
 \bmbtprofessionalshoes\.com\b
-\bkarenmillencollectionstore\.com\b
 \bguccibagusa\.com\b
 \bguccicheapstore\.com\b
 \bedhardyhandbagsstore\.com\b
 \bedhardybackpackstore\.com\b
-\bkarenmillenhandbagsstore\.com\b
 \babercrombieoutletstoreonline\.com\b
-\bkarenmillenoutletonline\.com\b
-\bkarenmillenuksite\.com\b
 \btoryburchhandbagsonsale\.com\b
-\bkarenmillenbagsstore\.com\b
-\bkarenmillenspectaclesstore\.com\b
 \bguccicheapusa\.com\b
-\bkarenmillendressesonline\.com\b
-\bkarenmillenchicagostore\.com\b
 \bnewbalanceoutletsale\.com\b
 \btoryburchoutletstores\.com\b
-\bkarenmillensohostore\.com\b
 \bchristiantobuy\.com\b
-\bkarenmillenonlinestore\.com\b
 \bnewbalancediscountsale\.com\b
 \brosettastonedownloadsite\.com\b
 \bedhardydressesstore\.com\b
@@ -14677,10 +14612,7 @@ stdtesting\.(?:com|net|org)\b
 \bedhardyclothesoutlet\.com\b
 \bedhardypurse\.com\b
 \bguccibaguk\.com\b
-\bkarenmillenukoutlet\.com\b
-\bkarenmillenukdesigner\.com\b
 \bburberrybagsstore\.com\b
-\bkarenmillencoatstore\.com\b
 \bnewbalancefootwareshop\.com\b
 \bedhardyheels\.com\b
 \bnewbalanceminimusstore\.com\b
@@ -14691,28 +14623,19 @@ stdtesting\.(?:com|net|org)\b
 \bdiscountcoachsneakersoutlet\.com\b
 \bburberrysalestore\.com\b
 \bbcbgdressesoutlet\.com\b
-\bkarenmillendressesukstore\.com\b
 \bnewbalancereview\.com\b
 \btoryburchbagsshop\.com\b
 \btoryburchclearancestore\.com\b
-\bkarenmillenjewellerystore\.com\b
-\bkarenmillenleatherjacketstore\.com\b
 \bcoachclearenceonline\.com\b
 \bguccidiscountonsale\.com\b
 \bsneakersasics\.com\b
 \bcoachoutletsaleshop\.com\b
 \bguccicheapuk\.com\b
 \basicsgelnimbussale\.com\b
-\bkarenmillenoutletstore\.com\b
-\bkarenmillendressesonsale\.com\b
 \basicswrestlingshoes\.com\b
 \bedhardybeltsstore\.com\b
 \brosettastonefrenchused\.com\b
-\bkarenmillenusastore\.com\b
 \bby-sneakers\.com\b
-\bkarenmillendressesoutletonline\.com\b
-\bkarenmillenwebsitestore\.com\b
-\bkarenmillendressesshop\.com\b
 \bedhardysneakersstore\.com\b
 \bedhardyshoesstore\.com\b
 \btoryburchsaleoutletstore\.com\b
@@ -14722,14 +14645,12 @@ stdtesting\.(?:com|net|org)\b
 \bguccibootsuk\.com\b
 \bauthenticcoachoutletonline\.com\b
 \bguccibagonsale\.com\b
-\bkarenmillenukstore\.com\b
 \bedhardypursesstore\.com\b
 \bdiscountasicsshop\.com\b
 \bburberryscarvesstore\.com\b
 \btoryburchhandbagsstore\.com\b
 \bguccicheaponsale\.com\b
 \bguccisneakersuk\.com\b
-\bkarenmillencataloguestore\.com\b
 \bburberrybritstore\.com\b
 \bnewbalanceoutletshop\.com\b
 \brosettastonerussianlanguage\.com\b
@@ -14740,7 +14661,6 @@ stdtesting\.(?:com|net|org)\b
 \bdiscountnewbalancestore\.com\b
 \brosettastonespanishsale\.com\b
 \btoryburchrevaballerina\.com\b
-\bkarenmillenukonline\.com\b
 \btoryburchwalletshop\.com\b
 \bedhardyhatstore\.com\b
 \bedhardyhatsstore\.com\b
@@ -14754,20 +14674,16 @@ stdtesting\.(?:com|net|org)\b
 \bpolostyleshirt\.com\b
 \bguccibagsuk\.com\b
 \brosettastoneusedsale\.com\b
-\bkarenmillencenturycitystore\.com\b
 \bguccihandbagsuk\.com\b
 \bguccidiscountusa\.com\b
 \bnewbalancerunningshop\.com\b
 \bburberrypursesstore\.com\b
 \bburberrybagstore\.com\b
 \brosettastonefrenchlanguage\.com\b
-\bkarenmillenshoes\.com\b
-\blouisvuittonwalletoutletstore\.com\b
 \bburberrysunglassesstore\.com\b
 \bbcbglongdress\.com\b
 \bedhardybeddingstore\.com\b
 \bburberrythebeatstore\.com\b
-\bkarenmillensilkbrasstore\.com\b
 \btoryburchhandbagsshop\.com\b
 \bbcbgdressesdiscount\.com\b
 \bbcbgformaldress\.com\b
@@ -14787,7 +14703,6 @@ stdtesting\.(?:com|net|org)\b
 \bclearancecoachpursesshop\.com\b
 \bnewbalnceclassic\.com\b
 \bcoachclearancestores\.com\b
-\bkarenmillenfootwearstore\.com\b
 \brosettastoneitalianlevel1\.com\b
 \bguccihandbaguk\.com\b
 \bcoachoutletleather\.com\b
@@ -14796,10 +14711,7 @@ stdtesting\.(?:com|net|org)\b
 \brosettastonechinesereview\.com\b
 \brosettastoneitaliandownload\.com\b
 \bburberryperfumestore\.com\b
-\bkarenmillenheadofficestore\.com\b
 \bsneakersasicsstore\.com\b
-\blouisvuittonoutletonlinestore\.com\b
-\blouisvuittonwalletoutlets\.com\b
 \basicsgelnimbusshop\.com\b
 \bsolestop\.com\b
 \bcoachclearanceshop\.com\b
@@ -14821,7 +14733,6 @@ stdtesting\.(?:com|net|org)\b
 \basicsgelstratus\.com\b
 \bionicdetoxfootpads\.com\b
 \bmbtlami2010\.com\b
-\bvibrambotas\.com\b
 \bmens-shoes-2012\.com\b
 \bmasaiscarpe\.com\b
 \bbuymbts2010\.com\b
@@ -14970,9 +14881,6 @@ stdtesting\.(?:com|net|org)\b
 \b12by\.com\b
 \bslnks\.com\b
 \b20b\.org\b
-\bvibramfivefingershot\.com\b
-\bvibramfivefingersllc\.com\b
-\bivibramfivefingers\.com\b
 \bhikingshoes4u\.com\b
 \bfivefingershoeshot\.com\b
 \bwatchesreplicabest\.com\b
@@ -14983,8 +14891,7 @@ stdtesting\.(?:com|net|org)\b
 \bcharmspandorabracelets\.com\b
 \bcharmpandorajewelry\.com\b
 \brolexreplica\.me\b
-\btiffanyllc\.com\b
-\btiffanylot\.com\b
+\btiffanyl(?:lc|ot)\.com\b
 \babercrombiefitchsoutlet\.co\.uk\b
 \bmbt-new\.com\b
 \bmonclereshop\.com\b
@@ -15001,7 +14908,6 @@ stdtesting\.(?:com|net|org)\b
 \boakleysunglassesllc\.com\b
 \boakleysunglasses\.me\b
 \bmanoloblahnikhotsale\.com\b
-\bbestdvdsales\.com\b
 \bguccidiscounttosale\.com\b
 \biphone4key\.com\b
 \bwwwmonclerjackets\.com\b
@@ -15017,9 +14923,7 @@ stdtesting\.(?:com|net|org)\b
 \bmbthotsale\.com\b
 \bchinashopping4u\.com\b
 \bheels-sale\.com\b
-\bheelshut\.com\b
-\bheels-hut\.com\b
-\bvibramscheap\.com\b
+\bheels-?hut\.com\b
 \bnhlvipshop\.com\b
 \bmonclerhotsales\.com\b
 \bdvdhotsale\.com\b
@@ -15213,7 +15117,6 @@ diamondlinks\.net
 \bhealthstoresproducts\.com\b
 \belectronicstoresonlines\.com\b
 \bhomegardenstore\.org\b
-\bauthenticlouisvuittonhandbags\.net\b
 \bretailelectronicsstores\.com\b
 \bonlinetutorialsfree\.com\b
 \bonlinestoysstores\.com\b
@@ -15225,18 +15128,6 @@ diamondlinks\.net
 \bautomaticbloodpressuremonitors\.org\b
 \bbadcreditinformation\.info\b
 \bberitamalaysiaonline\.com\b
-\bbestbikerack\.net\b
-\bbestbmxbikes\.org\b
-\bbestcordlessdrillsreviews\.com\b
-\bbestgamingkeyboardsreviews\.com\b
-\bbestgamingmousereviews\.net\b
-\bbestgolfgpssystemsreviews\.com\b
-\bbestheadphonesreview\.org\b
-\bbestjigsawreviews\.com\b
-\bbestmenwatches\.com\b
-\bbestpetfood\.org\b
-\bbestratedcookwaresets\.com\b
-\bbestuniversalremotesreviews\.com\b
 \bbicycletrainerreviews\.org\b
 \bbuycanon7d\.com\b
 \bbuysofasonline\.net\b
@@ -15375,7 +15266,6 @@ diamondlinks\.net
 \brp9\.it\b
 \bmacindir\.net\b
 \be-bandung\.com\b
-\blouisnvuitton\.com\b
 \bweddingdresses111\.com\b
 \bfor-click\.info\b
 \bcrash-bandicoot\.ru\b
@@ -15480,8 +15370,7 @@ diamondlinks\.net
 \bvoip-sip-sdk\.com\b
 \btrakai-visit\.lt\b
 \b360cities\.net\b
-\bbet-at-home\.at\b
-\bbet-at-home\.es\b
+\bbet-at-home\.(?:at|com|es)\b
 \bvolley24\.com\b
 \bcuba-linda\.com\b
 \btipbet\.vn\b
