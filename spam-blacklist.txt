@@ -15389,6 +15389,7 @@ diamondlinks\.net
 \bbiurokonkret\.com\b
 \bvoyage-en-inde\.org\b
 \bvoyage-au-rajasthan\.com\b
+\bilmu-komputer23\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
