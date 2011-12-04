@@ -15233,7 +15233,7 @@ diamondlinks\.net
 \bwkipedia\.org\b
 \bgoogle\..*?\/url\?
 \b2012euro\.fr\b
-\bxairforce(|s)\.(com|net|org)\b
+\bxairforces?\.(?:com|net|org)\b
 \bacademyrank\.com\b
 \bgzg\.in\b
 \boutlandishtr\.com\b
