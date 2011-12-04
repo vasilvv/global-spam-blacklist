@@ -15431,6 +15431,7 @@ diamondlinks\.net
 \bportelkantaouihotels\.co\.uk\b
 \bhammamet\.co\.uk\b
 \bmonastir\.co\.uk\b
+\b1974cyprus\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
