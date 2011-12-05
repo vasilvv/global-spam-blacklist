@@ -15368,6 +15368,7 @@ diamondlinks\.net
 \b1974cyprus\.com\b
 \bcankiri\.net\b
 \bwebsitelooker\.com\b
+\buspix\.at\.ua\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
