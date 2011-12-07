@@ -15369,6 +15369,7 @@ diamondlinks\.net
 \bcankiri\.net\b
 \bwebsitelooker\.com\b
 \buspix\.at\.ua\b
+\bparson-russell-terrier\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
