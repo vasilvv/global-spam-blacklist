@@ -15374,6 +15374,7 @@ diamondlinks\.net
 \bcelebswear\.com\b
 \bfrost-minibar\.it\b
 \bspoti\.com\b
+\bpornsjapan\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
