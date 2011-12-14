@@ -15379,6 +15379,7 @@ diamondlinks\.net
 \blistadoderazasdeperrosygatos\.blogspot\.com\b
 \bimagenespreferidas\.blogspot\.com\b
 \bmultifight\.net\b
+\bkatakataku\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
