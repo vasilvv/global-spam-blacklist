@@ -15381,6 +15381,7 @@ diamondlinks\.net
 \bmultifight\.net\b
 \bkatakataku\.net\b
 \byoucopyright\.org\b
+\belectroniccigarettenow\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
