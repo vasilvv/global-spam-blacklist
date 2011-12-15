@@ -15382,6 +15382,9 @@ diamondlinks\.net
 \bkatakataku\.net\b
 \byoucopyright\.org\b
 \belectroniccigarettenow\.net\b
+\buk-dissertation\.com\b
+\bbuyanessay\.org\b
+\bgiocare-casino\.eu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
