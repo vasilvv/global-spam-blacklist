@@ -5189,7 +5189,6 @@ upload\.wikimedia\.org/.*XRumer.screenshot\.gif
 \biasa\.ir\b
 \baluminiumleader\.com\b
 \bmiysvit\.info\b
-\bmetallian\.com\b
 \bhotel-5\.net\b
 \binca-cola\.com\b
 \bhotelclick\.org\b
