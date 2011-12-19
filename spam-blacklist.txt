@@ -501,6 +501,7 @@ compactURL\.com
 \.connect\.to
 \.crash\.to
 \.cut\.by
+dente\.me
 \bdigbig\.com\b
 \.direct\.at
 \.dive\.to
