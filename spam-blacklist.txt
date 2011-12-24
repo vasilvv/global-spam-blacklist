@@ -15403,6 +15403,7 @@ diamondlinks\.net
 \bpornhub\.com\b
 \bilovemolfetta\.it\b
 \bpspstation\.org\b
+\btoubkal-trekking\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
