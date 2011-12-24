@@ -5,7 +5,7 @@
  # This is a list of domain names which are blocked - nobody can add new links to these domains
  # Guidelines:
  #    - Only blacklist for widespread, unmanageable spam.
- #    - To disable an entry, *remove* it, don't comment it out. Please log removals.
+ #    - To disable an entry, *remove* it, don't comment it out. **Please log removals**.
  #    - Add entries or their removal to the <span class="plainlinks">[//meta.wikimedia.org/wiki/Spam_blacklist/Log log]</span>.
  #    - <small style="color:gray;" id="oldid" class="plainlinks">Snippet for [//meta.wikimedia.org/wiki/Spam_blacklist/Log/{{CURRENTYEAR}}/{{CURRENTMONTH}}?action=edit&editintro=Template:Spam_blacklist_log_instructions logging]: <nowiki>{{sbl-diff|</nowiki>{{REVISIONID}}}}</small>
  # 
@@ -15404,6 +15404,7 @@ diamondlinks\.net
 \bilovemolfetta\.it\b
 \bpspstation\.org\b
 \btoubkal-trekking\.com\b
+\bfrasesparafacebook\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
