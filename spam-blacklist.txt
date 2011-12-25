@@ -15366,6 +15366,7 @@ diamondlinks\.net
 \bpspstation\.org\b
 \btoubkal-trekking\.com\b
 \bfrasesparafacebook\.com\b
+\brallytrophycars\.110mb\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
