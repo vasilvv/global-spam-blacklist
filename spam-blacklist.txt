@@ -15367,6 +15367,11 @@ diamondlinks\.net
 \btoubkal-trekking\.com\b
 \bfrasesparafacebook\.com\b
 \brallytrophycars\.110mb\.com\b
+\blifeinsurancequotes\.com\.au\b
+\bcarinsurancequotes\.com\.au\b
+\bhlrutbildning\.org\b
+\bratelines\.com\b
+\bbuysolarpanels\.com\.au\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
