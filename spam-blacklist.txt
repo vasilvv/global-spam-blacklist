@@ -15372,6 +15372,7 @@ diamondlinks\.net
 \bhlrutbildning\.org\b
 \bratelines\.com\b
 \bbuysolarpanels\.com\.au\b
+\bonbarcode\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
