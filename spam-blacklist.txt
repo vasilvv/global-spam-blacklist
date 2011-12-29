@@ -4117,7 +4117,6 @@ powerleveling(?:web|-wow)\.com
 \bhaydichat\.net
 \bsohbetsu\.com
 \bhotels99\.net
-\bindependencia\.net
 \bmqblog\.cn
 \bmendean\.net
 \bcelsnet\.cn
