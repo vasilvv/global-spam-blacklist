@@ -13527,7 +13527,6 @@ plant\.dmz-karpaty\.com
 \bmillionid\.com\b
 \bcmindia\.blogspot\.com\b
 \bfashionlande\.com\b
-\bfarvardyn\.com\b
 \bdatmaychu\.net\b
 \bdiendanmaychu\.net\b
 \bironrye\.blogspot\.com\b
