@@ -15373,6 +15373,14 @@ diamondlinks\.net
 \bonbarcode\.com\b
 \bkeepautomation\.com\b
 \bshanghairanking\b
+\bzekaoyunlari\.org\b
+\bbentenoyunlari\.org\b
+\bben-10-oyunlari\.com\b
+\bkomikoyunlar\.net\b
+\bOYUNZAMANI\.COM\b
+\bbasketboloyunlari\.com\b
+\barabayarisioyunlari\.com\b
+\barabayarislari\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
