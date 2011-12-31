@@ -15382,6 +15382,7 @@ diamondlinks\.net
 \barabayarisioyunlari\.com\b
 \barabayarislari\.com\b
 \bth-chemical\.com\b
+\bisfana\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
