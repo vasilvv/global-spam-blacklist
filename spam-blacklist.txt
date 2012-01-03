@@ -27,7 +27,8 @@ grusskarte
 geburtstagskarten
 sex(cam|chat|-with|-plugin|-zone)
 adult(chat|live|porn|web\.) # dot for adultweblaw.com
-(animal|cam|chat|dog|hardcore|live|online|voyeur)sex
+(animal|cam|chat|hardcore|live|online|voyeur)sex
+dogsex(?!posed)
 (hardcore|teen|xxx)porn
 lesbiansex\. #dot for lesbiansexmafia.org
 (live|cam)girl
