@@ -15393,7 +15393,7 @@ diamondlinks\.net
 \bviagra-cialis\.ch\b
 \bul\.to\b
 \buploaded\.to\b
-\bnewsgroups\.derkeiler\.com\b
+\bnewsgroups\.derkeiler\.com\/Archive\/Soc\/soc\.culture\.greek\/2009\-06\/msg00015\.htm
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
