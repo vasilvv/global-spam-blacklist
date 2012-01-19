@@ -15392,6 +15392,7 @@ diamondlinks\.net
 \bflexbeltwarning\.com\b
 \bviagra-cialis\.ch\b
 \bul\.to\b
+\buploaded\.to\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
