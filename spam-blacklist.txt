@@ -15394,6 +15394,8 @@ diamondlinks\.net
 \bul\.to\b
 \buploaded\.to\b
 \bnewsgroups\.derkeiler\.com\/Archive\/Soc\/soc\.culture\.greek\/2009\-06\/msg00015\.htm
+\bvancouverlookout\.wordpress\.com\b
+\bvancouverlookout\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
