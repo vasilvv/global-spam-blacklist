@@ -13823,7 +13823,7 @@ btopfoot\.ch\b
 \bpinkushion\.com\b
 \bsuperbestpalsclub\.tk\b
 \bva\.mu\b
-\bx\.co\b
+(?<=//|\.)x\.co\b
 \bhancocksinsi\.tr\.gg\b
 \bsperco\.com\.ua\b
 \blifegid\.net\b
