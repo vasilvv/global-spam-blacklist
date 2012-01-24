@@ -15396,6 +15396,7 @@ diamondlinks\.net
 \bvancouverlookout\.wordpress\.com\b
 \bvancouverlookout\.com\b
 \btostopprocrastinating\.us\b
+\bruzgarenerjisi\.gen\.tr\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
