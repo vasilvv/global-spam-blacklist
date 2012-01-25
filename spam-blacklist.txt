@@ -15399,6 +15399,7 @@ diamondlinks\.net
 \bruzgarenerjisi\.gen\.tr\b
 \bsmarturl\.it\b
 \bworldlifeexpectancy\.com\/index\.php
+\bwikipedia-spam\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
