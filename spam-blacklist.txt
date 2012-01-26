@@ -15402,6 +15402,7 @@ diamondlinks\.net
 \bwikipedia-spam\.tk\b
 \bi-doserturkiye\.com\b
 \bvur\.me\b
+\bbabies-kingdom\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
