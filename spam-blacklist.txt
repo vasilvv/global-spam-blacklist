@@ -15403,6 +15403,8 @@ diamondlinks\.net
 \bi-doserturkiye\.com\b
 \bvur\.me\b
 \bbabies-kingdom\.com\b
+\bcommissionbreakthrough\b  # part of issue with spamming urls, being managed xwiki. originally dealt with at enWP
+\b\d+\w+facts\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
