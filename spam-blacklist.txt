@@ -15415,6 +15415,7 @@ diamondlinks\.net
 \bweightloss(dietwatchtips|truth)\b
 \bworldbestdiet\b
 \yourwellnessquestions\b  #end of enWP additions
+\bcalculatormortgage\.co\.uk
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
