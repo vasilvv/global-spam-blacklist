@@ -15403,8 +15403,18 @@ diamondlinks\.net
 \bi-doserturkiye\.com\b
 \bvur\.me\b
 \bbabies-kingdom\.com\b
-\bcommissionbreakthrough\b  # part of issue with spamming urls, being managed xwiki. originally dealt with at enWP
+# part of issue with spamming urls, being managed xwiki. originally dealt with at enWP — billinghurst 20120127
+\bcommissionbreakthrough\b  
 \b\d+\w+facts\.com\b
+\bwhatisamoneytree\b
+\b(easy)?(hairgrowth|golf-|bodybuilding|weightloss?|mafiawar|sixpackabs)(secret)?\b
+\bultimatemuscletrainer\b
+\bglobalrealearning\b
+\bhowtomakemoney\b
+\bwearitandbareitlingerie\b
+\bweightloss(dietwatchtips|truth)\b
+\bworldbestdiet\b
+\yourwellnessquestions\b  #end of enWP additions
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
