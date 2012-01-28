@@ -15420,6 +15420,7 @@ diamondlinks\.net
 \bweightlosstruths\.2itb\.com\b
 \bu\.42\.pl\b
 \bcharlesgillman\.com\b
+\bslimsecrets\.2itb\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
