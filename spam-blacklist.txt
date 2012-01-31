@@ -15426,6 +15426,9 @@ secretrichesnow  #end of enWP additions
 \bcharlesgillman\.com\b
 \bslimsecrets\.2itb\.com\b
 \bbodhost\.com\b
+\bunterkunft-ferienwohnung-bamberg\.de\b
+\bappartements-vacances-bamberg\.com\b
+\bappartamento-vacanza-bamberg\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
