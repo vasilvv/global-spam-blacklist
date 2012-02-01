@@ -15433,6 +15433,7 @@ secretrichesnow  #end of enWP additions
 \bjigbo\.com\b
 \brenewyourmarriagenow\.com\b
 \bshort4u\.pl\b
+\bshort4u\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
