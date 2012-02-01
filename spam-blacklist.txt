@@ -15430,6 +15430,7 @@ secretrichesnow  #end of enWP additions
 \bappartements-vacances-bamberg\.com\b
 \bappartamento-vacanza-bamberg\.com\b
 \bcertifauto\.com
+\bjigbo\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
