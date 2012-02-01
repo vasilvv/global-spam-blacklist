@@ -15429,7 +15429,7 @@ secretrichesnow  #end of enWP additions
 \bunterkunft-ferienwohnung-bamberg\.de\b
 \bappartements-vacances-bamberg\.com\b
 \bappartamento-vacanza-bamberg\.com\b
-\bcertifauto\.com
+\bcertifauto\.
 \bjigbo\.com\b
 \brenewyourmarriagenow\.com\b
 \bshort4u\.pl\b
