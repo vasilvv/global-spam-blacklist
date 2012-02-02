@@ -15445,6 +15445,7 @@ penisenhancementpills\.  #end of enWP additions
 \bflyfishingsecrets\.webs\.com\b
 \bmydebtsolution\.webs\.com\b
 \bmanuelsanchezartist\.webs\.com\b
+\bcertificatoconformita\.com
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
