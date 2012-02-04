@@ -15458,6 +15458,7 @@ penisenhancementpills\.
 #\bcs144rankmaniac2012\.blogspot.\com\b
 #\brankmaniac2012\.webs\.com\b
 rankmaniac
+\blearnhowtoplayguitar\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
