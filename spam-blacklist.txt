@@ -15450,12 +15450,14 @@ penisenhancementpills\.
 \bvisioneyes\.info\b
 \bmagickpowers\.webs\.com\b
 \bthesimplegolfswing\.webs\.com\b
-\b4\.bp\.blogspot\.com\/-Lujq9b278Lg\/TyeYmk66isI\/AAAAAAAAAAc\/yELwrwzyVeQ\/s1600\/caltech_rankmaniac_2012\.gif\b
-\brankmaniac2012\.webs\.com\b
-\brankmaniac2012caltech\.blogspo\t.com\b
-\bmyrankmaniac2012\.blogspot\.com\b
-\brankmaniac2012caltech\.tumblr\.com\b
-\bcs144rankmaniac2012\.blogspot.\com\b
+#\b4\.bp\.blogspot\.com\/-Lujq9b278Lg\/TyeYmk66isI\/AAAAAAAAAAc\/yELwrwzyVeQ\/s1600\/caltech_rankmaniac_2012\.gif\b
+#\brankmaniac2012\.webs\.com\b
+#\brankmaniac2012caltech\.blogspo\t.com\b
+#\bmyrankmaniac2012\.blogspot\.com\b
+#\brankmaniac2012caltech\.tumblr\.com\b
+#\bcs144rankmaniac2012\.blogspot.\com\b
+#\brankmaniac2012\.webs\.com\b
+rankmaniac
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
