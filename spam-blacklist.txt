@@ -15421,7 +15421,7 @@ dailyprofitsfromhome
 informationnow\.com\b
 secretrichesnow
 penisenhancementpills\.
-\b\d+?-\w+?-\w+?-(talk|papers|article|facts).com\b  #end of enWP additions
+\b\d+?-\w+?-\w+?-(essays?|talks?|papers?|article|facts?).com\b  #end of enWP additions
 \bcalculatormortgage\.co\.uk
 \bweightlosstruths\.2itb\.com\b
 \bu\.42\.pl\b
