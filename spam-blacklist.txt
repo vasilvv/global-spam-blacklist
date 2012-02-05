@@ -15420,7 +15420,8 @@ dailyprofitsfromhome
 \bmyteabreak\.net\b
 informationnow\.com\b
 secretrichesnow
-penisenhancementpills\.
+penisenhancementpills\b
+4u\.webs\.com\b
 \b\d+?-\w+?-\w+?-(talkingpoints?|secrets?|tricks?|discussions?|memos?|essays?|talks?|papers?|article|facts?).com\b  #end of enWP additions
 \bcalculatormortgage\.co\.uk
 \bweightlosstruths\.2itb\.com\b
