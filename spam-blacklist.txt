@@ -15465,6 +15465,7 @@ rankmaniac
 \bpisco\.tk\b
 \bhopfeed\.com\b
 \ballsearch-now\.info\b
+\bnoiva\.ti-da\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
