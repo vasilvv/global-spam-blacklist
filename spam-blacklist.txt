@@ -15461,6 +15461,7 @@ rankmaniac
 \blearnhowtoplayguitar\.tk\b
 \bpcgamesandmore4u\.webs\.com\b
 \bpisco\.tk\b
+\bhopfeed\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
