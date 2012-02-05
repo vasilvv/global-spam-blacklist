@@ -15468,6 +15468,7 @@ rankmaniac
 \bnoiva\.ti-da\.net\b
 \btrustedreviewfinder\.com\b
 \bdatingwebsitesnet\.org\b
+\bsinglesharmony\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
