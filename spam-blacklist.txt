@@ -15465,7 +15465,7 @@ rankmaniac
 \bpisco\.tk\b
 \bhopfeed\.com\b
 \ballsearch-now\.info\b
-\bnoiva\.ti-da\.net\b
+\bti-da\.net\b
 \btrustedreviewfinder\.com\b
 \bdatingwebsitesnet\.org\b
 \bsinglesharmony\.com\b
