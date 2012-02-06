@@ -15472,6 +15472,7 @@ rankmaniac
 \bmedsmd\.com\b
 \bgardening-123\.com\b
 \bearnquickmoney\.net\b
+\bcocauto\.com
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
