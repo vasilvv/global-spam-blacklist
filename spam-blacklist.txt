@@ -15473,6 +15473,7 @@ rankmaniac
 \bgardening-123\.com\b
 \bearnquickmoney\.net\b
 \bcocauto\.com
+\bbingj\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
