@@ -15473,7 +15473,6 @@ rankmaniac
 \bgardening-123\.com\b
 \bearnquickmoney\.net\b
 \bcocauto\.com
-\bbingj\.com\b
 \btyphoon42\.com\b
 ## sbhandler_end
 ## leave the above line as is
