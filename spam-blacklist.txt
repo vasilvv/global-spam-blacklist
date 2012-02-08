@@ -15478,6 +15478,7 @@ rankmaniac
 \bbrokenscript\.com\b
 \barchive\.org\/details\/(?:NoReply|PleaseMisterPostman|Misery_579)\b
 \bdietsecret\.webs\.com\b
+\bwomenyeastinfection\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
