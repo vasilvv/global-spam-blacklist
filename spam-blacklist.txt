@@ -15475,6 +15475,7 @@ rankmaniac
 \bcocauto\.com
 \btyphoon42\.com\b
 \bns1\.spansearcher\.net\b
+\bbrokenscript\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
