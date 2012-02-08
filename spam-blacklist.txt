@@ -15438,6 +15438,10 @@ penisenhancementpills\b
 \bjigbo\.com\b
 \brenewyourmarriagenow\.com\b
 \bshort4u\.pl\b
+\blottonews\.webs\.com\b
+\bdogtraningandtricks\.webs\.com\b
+\beasycomputerstudio\.webs\.com\b
+\bfishingsecrets\.webs\.com\b
 \bmusicmarch\.weebly\.com\b
 \bsportfishingtricks\.com\b
 \bkapoormd\.com\b
@@ -15446,6 +15450,7 @@ penisenhancementpills\b
 \bmanuelsanchezartist\.webs\.com\b
 \bcertificatoconformita\.com
 \bvisioneyes\.info\b
+\bmagickpowers\.webs\.com\b
 \bthesimplegolfswing\.webs\.com\b
 #\b4\.bp\.blogspot\.com\/-Lujq9b278Lg\/TyeYmk66isI\/AAAAAAAAAAc\/yELwrwzyVeQ\/s1600\/caltech_rankmaniac_2012\.gif\b
 #\brankmaniac2012\.webs\.com\b
@@ -15456,6 +15461,7 @@ penisenhancementpills\b
 #\brankmaniac2012\.webs\.com\b
 rankmaniac
 \blearnhowtoplayguitar\.tk\b
+\bpcgamesandmore4u\.webs\.com\b
 \bpisco\.tk\b
 \bhopfeed\.com\b
 \ballsearch-now\.info\b
@@ -15470,10 +15476,7 @@ rankmaniac
 \btyphoon42\.com\b
 \bns1\.spansearcher\.net\b
 \bbrokenscript\.com\b
-\barchive\.org\/details\/(?:NoReply|PleaseMisterPostman|Misery_579)\b
-\bwomenyeastinfection\.com\b
-\btoincreasefertility\.com\b
-\b(fishingsecrets|dogtraningandtricks|lottonews|easycomputerstudio|magickpowers|pcgamesandmore4u|dietsecret|(real|road)cycling)\.webs\.com\b
+\barchive\.org\/details\/NoReply\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
