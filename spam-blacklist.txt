@@ -15477,6 +15477,7 @@ rankmaniac
 \bns1\.spansearcher\.net\b
 \bbrokenscript\.com\b
 \barchive\.org\/details\/NoReply\b
+\barchive\.org\/details\/PleaseMisterPostman\b
 \bsmspizza\.net\b
 \bmaxigen\.co\.il\b
 ## sbhandler_end
