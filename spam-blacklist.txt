@@ -15482,6 +15482,7 @@ rankmaniac
 \bsmspizza\.net\b
 \bmaxigen\.co\.il\b
 \bsiteseodirectory\.com\b
+\bsaintpaultarsus\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
