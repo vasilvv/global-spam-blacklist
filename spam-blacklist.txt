@@ -15490,6 +15490,7 @@ rankmaniac
 \bsaintpaultarsus\.in\b
 \bdesenredandolamarana\.blogspot\.com
 \bmy-affiliate-empire\.com\b
+\bboards\.4chan\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
