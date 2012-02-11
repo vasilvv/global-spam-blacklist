@@ -15452,6 +15452,11 @@ penisenhancementpills\b
 \bvisioneyes\.info\b
 \bmagickpowers\.webs\.com\b
 \bthesimplegolfswing\.webs\.com\b
+\bforex-sells-like-candy\.webs\.com\b
+\blinkedinstratigies\.webs\.com\b
+\bretirementwebpage\.webs\.com\b
+\bgolfingtrainer\.webs\.com\b
+\ballproductreviews\.org\b
 #\b4\.bp\.blogspot\.com\/-Lujq9b278Lg\/TyeYmk66isI\/AAAAAAAAAAc\/yELwrwzyVeQ\/s1600\/caltech_rankmaniac_2012\.gif\b
 #\brankmaniac2012\.webs\.com\b
 #\brankmaniac2012caltech\.blogspo\t.com\b
