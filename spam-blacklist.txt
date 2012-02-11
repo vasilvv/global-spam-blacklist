@@ -15489,6 +15489,7 @@ rankmaniac
 \bsiteseodirectory\.com\b
 \bsaintpaultarsus\.in\b
 \bdesenredandolamarana\.blogspot\.com
+\bmy-affiliate-empire\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
