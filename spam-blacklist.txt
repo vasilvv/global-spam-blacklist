@@ -15492,6 +15492,8 @@ rankmaniac
 \bmy-affiliate-empire\.com\b
 \bboards\.4chan\.org\b
 \bxist\.org\b
+\bnudos\.org\b
+\bdiccionariomedico\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
