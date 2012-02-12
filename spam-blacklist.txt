@@ -15392,7 +15392,7 @@ diamondlinks\.net
 \bviagra-cialis\.ch\b
 \bul\.to\b
 \buploaded\.to\b
-\bnewsgroups\.derkeiler\.com\/Archive\/Soc\/soc\.culture\.greek\/2009\-06\/msg000\d\d\.htm.
+\bnewsgroups\.derkeiler\.com\/Archive\/Soc\/soc\.culture\.greek\/2009\-06\/msg\d+\.html
 \bvancouverlookout\.wordpress\.com\b
 \bvancouverlookout\.com\b
 \btostopprocrastinating\.us\b
