@@ -15495,6 +15495,7 @@ rankmaniac
 \bnudos\.org\b
 \bdiccionariomedico\.net\b
 \bcleaning-4u\.co\.uk\b
+\bmeta\.wikimedia\.org\/\w\/index\.php\?title\=Special\:Log\/block\&page\=User\%3AFuture\+Perfect\+at\+Sunrise
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
