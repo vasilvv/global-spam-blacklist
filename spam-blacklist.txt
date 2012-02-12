@@ -15494,6 +15494,7 @@ rankmaniac
 \bxist\.org\b
 \bnudos\.org\b
 \bdiccionariomedico\.net\b
+\bcleaning-4u\.co\.uk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
