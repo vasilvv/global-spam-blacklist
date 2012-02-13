@@ -15422,7 +15422,7 @@ informationnow\.com\b
 secretrichesnow
 penisenhancementpills\b
 4u\.webs\.com\b
-\b\d+-(\w+?-)?\w+?-\w+?-(topics?|talkingpoints?|secrets?|tricks?|discussions?|memos?|essays?|talks?|papers?|article|facts?).com\b
+\b\d+-(\w+?-)?\w+?-\w+?-(topics?|talkingpoints?|secrets?|tricks?|discussions?|memos?|essays?|talks?|papers?|article|facts?|class(es)?).com\b
 \b\d+-(local-)?(informational|quick|brilliant|local|informative|helpful|specific)-(smart|daily|collegiate|clever|mindbending|special|brainy)
 \b\d+-(local-)?(academic|weekly|classic|helpful)-(daily|monthly|genius|special)  #end of enWP additions
 \bcalculatormortgage\.co\.uk
