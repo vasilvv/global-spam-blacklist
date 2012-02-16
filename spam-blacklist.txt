@@ -15503,6 +15503,7 @@ rankmaniac
 \bihrp\.fis\.com\.vn
 \bthamtuthanglong\.com
 \benjoylace\.com\b
+\btop\-ptc\-serious\-paid\-to\-clic\-websites\.blogspot\.com
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
