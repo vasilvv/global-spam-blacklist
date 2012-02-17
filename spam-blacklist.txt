@@ -15499,6 +15499,7 @@ rankmaniac
 \bdiccionariomedico\.net\b
 \bcleaning-4u\.co\.uk\b
 \bmeta\.wikimedia\.org\/\w\/index\.php\?title\=Special\:Log\/block\&page\=User\%3AFuture\+Perfect\+at\+Sunrise
+\bde\.wikipedia\.org\/w\/index\.php\?title\=Spezial\:Logbuch\/block\&page\=Benutzer\%3AMuZeMike\+\%28WMDE\%29
 \bhomedepotcoupons\.co\b
 \bihrp\.fis\.com\.vn
 \bthamtuthanglong\.com
