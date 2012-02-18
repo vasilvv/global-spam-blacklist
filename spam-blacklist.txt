@@ -15517,6 +15517,7 @@ rankmaniac
 \btinyarrows\.com\b
 \bmlp\.im\b
 \bjews\.didw\.tc\b
+\bfun\.ly
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
