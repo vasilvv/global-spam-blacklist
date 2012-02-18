@@ -15518,6 +15518,7 @@ rankmaniac
 \bmlp\.im\b
 \bjews\.didw\.tc\b
 \bfun\.ly
+\b(derpy|pp4l)\.me
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
