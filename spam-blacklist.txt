@@ -15506,6 +15506,7 @@ rankmaniac
 \benjoylace\.com\b
 \btop\-ptc\-serious\-paid\-to\-clic\-websites\.blogspot\.com
 \bhop\.clickbank\.net\b
+\bpp4l\.me\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
