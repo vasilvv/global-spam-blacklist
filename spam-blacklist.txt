@@ -15516,6 +15516,7 @@ rankmaniac
 \bxn--cwg\.ws\b
 \btinyarrows\.com\b
 \bmlp\.im\b
+\bjews\.didw\.tc\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
