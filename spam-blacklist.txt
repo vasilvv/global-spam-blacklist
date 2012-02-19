@@ -15521,6 +15521,7 @@ rankmaniac
 \b(derpy|pp4l|t9k)\.me
 \b4wrd\.us
 \bincloak\.com\b
+\b4wrd\.us\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
