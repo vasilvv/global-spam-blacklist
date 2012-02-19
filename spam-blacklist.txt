@@ -15525,6 +15525,7 @@ rankmaniac
 \baddr\.co\b
 \bfun\.ly\b
 \bt9k\.me\b
+\bsearch\.twitter\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
