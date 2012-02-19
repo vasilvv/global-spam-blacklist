@@ -15523,6 +15523,7 @@ rankmaniac
 \bincloak\.com\b
 \b4wrd\.us\b
 \baddr\.co\b
+\bfun\.ly\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
