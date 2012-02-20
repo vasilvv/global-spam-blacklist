@@ -15539,7 +15539,7 @@ rankmaniac
 \bacademic-writing\.net\b
 \bmcprovider\.gr\b
 \bjews\.deargodwhy\.me
-\bsMirt\.ch
+\bsmirt\.ch
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
