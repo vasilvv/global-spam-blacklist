@@ -15541,6 +15541,8 @@ rankmaniac
 \bjews\.deargodwhy\.me
 \bsmirt\.ch
 \bjewsdidwtc\.amirite\.biz\b
+\bjewsdidwtc\.amirite\.biz\b
+\balways\.killje\.ws\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
