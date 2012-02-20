@@ -15538,6 +15538,7 @@ rankmaniac
 \bmappamundi\.free\.fr\b
 \bacademic-writing\.net\b
 \bmcprovider\.gr\b
+\bjews\.deargodwhy\.me
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
