@@ -15540,6 +15540,7 @@ rankmaniac
 \bmcprovider\.gr\b
 \bjews\.deargodwhy\.me
 \bsmirt\.ch
+\bjewsdidwtc\.amirite\.biz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
