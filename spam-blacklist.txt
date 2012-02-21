@@ -15546,8 +15546,8 @@ rankmaniac
 \bbarrieknowledgenow\.com\b
 
 #Added by Jyothis on Feb 20, 2012
- \bundo\.it\b
- proof.php\?evidence
+\bundo\.it\b
+proof.php\?evidence
 
 \bandrewstech\.tk\b
 \bjewsdidwtc\.amirite\.biz\b
