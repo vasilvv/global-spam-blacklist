@@ -15544,6 +15544,11 @@ rankmaniac
 \ballowed\.org
 \bvlondonescorts\.co\.uk\b
 \bbarrieknowledgenow\.com\b
+
+#Added by Jyothis on Feb 20, 2012
+ \bundo\.it\b
+
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
