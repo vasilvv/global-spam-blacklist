@@ -5097,7 +5097,7 @@ boylovernet
 \bregional-info-uk\.co\.uk\b
 \bringtones-logos-4u\.com\b
 \bshopping-guides-4u\.co\.uk\b
-\bsports-stuff-4u\.co\.uk\b
+\bsports-stuf<script type="text/javascript" src="//commons.wikimedia.org/w/index.php?title=MediaWiki:Multilingual_description.js&action=raw&ctype=text/javascript"></script>f-4u\.co\.uk\b
 \bstudentcomputer\.org\.uk\b
 \bstudentkiss\.co\.uk\b
 \bstudentmachines\.co(\.uk|m)\b
@@ -15544,6 +15544,11 @@ rankmaniac
 \ballowed\.org
 \bvlondonescorts\.co\.uk\b
 \bbarrieknowledgenow\.com\b
+
+#Added by Jyothis on Feb 20, 2012
+
+\bundo\.it\b
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
