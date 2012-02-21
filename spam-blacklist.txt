@@ -15560,7 +15560,7 @@ proof.php\?evidence
 \bunsolvedmysteries\.eu\b
 \bgainmoneyfast\.com\b
 \bilike\.com\b
-d\.+e\.+a\.+t\.+h\.+t\.+o\.+j\.+e\.ws\b
+d[\.|]e[\.|]a[\.|]t[\.|]h[\.|]t[\.|]o[\.|]j[\.|]e\.ws\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
