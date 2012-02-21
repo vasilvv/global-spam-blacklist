@@ -4920,7 +4920,6 @@ boylovernet
 \bamazon\.com.*(\?|&)tag=
 \bbastore\.amazon\.com\b
 \beclipse-china\.com\b
-\bdeath-?camps\.org\b
 
 ## URL shorteners 2
 \bsmileurl\.com\b
