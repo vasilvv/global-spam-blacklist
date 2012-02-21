@@ -15547,7 +15547,7 @@ rankmaniac
 
 #Added by Jyothis on Feb 20, 2012
 \bundo\.it\b
-proof.php\?evidence
+\bamirite\.biz\b
 
 \bandrewstech\.tk\b
 \bjewsdidwtc\.amirite\.biz\b
