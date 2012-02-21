@@ -15550,6 +15550,11 @@ rankmaniac
  proof.php\?evidence
 
 \bandrewstech\.tk\b
+\bjewsdidwtc\.amirite\.biz\b
+\balways\.killje\.ws\b
+\bdickslist\.com\.au\b
+\bkunwon1\.allowed\.org\b
+\bundo\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
