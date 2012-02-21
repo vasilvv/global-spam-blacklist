@@ -1369,7 +1369,7 @@ bet365\.com
 israelnewsagency\.com
 cheridinovo\.com
 zhitomirhost\.com
-wr<script type="text/javascript" src="//commons.wikimedia.org/w/index.php?title=MediaWiki:Multilingual_description.js&action=raw&ctype=text/javascript"></script>estlingobserver\.com/wo/news/headlines/default\.asp\?aID=19419
+wrestlingobserver\.com/wo/news/headlines/default\.asp\?aID=19419
 yamour\.com
 \.hour\.ws
 wainscoting\.info
@@ -15547,7 +15547,7 @@ rankmaniac
 
 #Added by Jyothis on Feb 20, 2012
 \bundo\.it\b
-\bamirite\.biz\b
+proof.php\?evidence
 
 \bandrewstech\.tk\b
 \bjewsdidwtc\.amirite\.biz\b
