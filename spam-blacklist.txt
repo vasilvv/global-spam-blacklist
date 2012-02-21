@@ -141,7 +141,7 @@ nastydollars\.com
 
 # elian's
 
-# dec05
+# dec 05
 \.cyberthug\.de
 # Amgine's
 \b98\.to # Hégésippe's list
@@ -635,7 +635,7 @@ webdare\.com
 \.window\.to
 xrl\.us
 xxx-posed\.com
-\.y<script type="text/javascript" src="//commons.wikimedia.org/w/index.php?title=MediaWiki:Multilingual_description.js&action=raw&ctype=text/javascript"></script>ours\.at
+\.yours\.at
 \.zap\.to
 \.zip\.to
 \bzuso\.tw
@@ -15547,7 +15547,7 @@ rankmaniac
 
 #Added by Jyothis on Feb 20, 2012
 \bundo\.it\b
-\bamirite\.biz\b
+proof.php\?evidence
 
 \bandrewstech\.tk\b
 \bjewsdidwtc\.amirite\.biz\b
