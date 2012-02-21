@@ -15556,6 +15556,7 @@ rankmaniac
 \bkunwon1\.allowed\.org\b
 \bundo\.it\b
 \b79\.99\.0\.15\b
+\bbigblackarabiandicks\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
