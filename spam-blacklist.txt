@@ -15558,6 +15558,7 @@ proof.php\?evidence
 \b79\.99\.0\.15\b
 \bbigblackarabiandicks\.tk\b
 \bunsolvedmysteries\.eu\b
+\bgainmoneyfast\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
