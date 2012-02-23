@@ -15568,7 +15568,6 @@ d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
 \burls\.li\b
 \beasepregnancytips\.webs\.com\b
 \bur\.cx\b
-\bultrasmartinvesting\.co\.uk
 \bmadebymabe\.be\b
 \bu\.czo\.me\b
 \bultrasmartinvesting\.co\.uk\b
