@@ -15371,7 +15371,6 @@ diamondlinks\.net
 \bbuysolarpanels\.com\.au\b
 \bonbarcode\.com\b
 \bkeepautomation\.com\b
-\bshanghairanking\b
 \bzekaoyunlari\.org\b
 \bbentenoyunlari\.org\b
 \bben-10-oyunlari\.com\b
