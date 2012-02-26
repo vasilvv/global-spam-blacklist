@@ -12615,7 +12615,6 @@ buy[a-z0-9-]*replica
 \burlabridger\.p4o\.net\b
 \bcricketwebs\.tk\b
 \bopposingviews\.com\b
-\braintaxi\.com\b
 \beducationupdate\.com\b
 \bthe-questionnaire\.com\b
 \bhainanwel\.com\b
