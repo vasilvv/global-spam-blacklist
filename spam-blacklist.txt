@@ -15592,11 +15592,10 @@ d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
 \bpittsburgdatanow\.com\b
 \bmillion-dollars\.net\b
 \bprofitableinformation\.com\b
-\babbo\.ag\b
+\babbo\.(mobi|tv|ag)\b
 \bweightlosshypnotism\.blogspot\.com\b
 \bfrankin15\.us\b
 \bbeatbankruptcy\.webs\.com\b
-\babbo\.tv\b
 \bizmirescort(bayan|s)\.(com|biz)\b
 ## sbhandler_end
 ## leave the above line as is
