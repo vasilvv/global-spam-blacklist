@@ -15497,6 +15497,7 @@ rankmaniac
 \bsiteseodirectory\.com\b
 \bsaintpaultarsus\.in\b
 \bdesenredandolamarana\.blogspot\.com
+\buntanglingtheweb-es\.blogspot\.com
 \bmy-affiliate-empire\.com\b
 \bboards\.4chan\.org\b
 \bxist\.org\b
