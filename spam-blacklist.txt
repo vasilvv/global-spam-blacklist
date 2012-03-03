@@ -4637,7 +4637,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \ballmartialart\.com\b
 \bfreefighting\.org\b
 \bclosedefenceart\.org\b
-\beirikur\.info\b
 \bmesothelioma\.pl\b
 \bcube2007\.com\b
 \bwypadek\.info\b
