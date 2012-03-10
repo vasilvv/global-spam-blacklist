@@ -15631,6 +15631,21 @@ d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
 \bu2l\.in\b
 \bv\.gd\b
 \bmusictorunto\.net\b
+# manually added by billinghurst
+\bbajubatiktulis\.com\b
+\bgrosirbatik\.info\b
+\bgrosirbatikmurah\.info\b
+\bbatiksemarang\.info\b
+\bbatiksarimbit\.info\b
+\bkampungseo\.com\b
+\bjualjam\.net\b
+\bbmdstreet\.com\b
+\btrainingiso\.asia\b
+\bekodokcell\.com\b
+\brayaagrifarm\.com\b
+\btokoherbalhifa\.com\b
+\bharganissanmarch\.com\b
+\bjabonkendal\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
