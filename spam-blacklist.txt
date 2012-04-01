@@ -15709,6 +15709,7 @@ d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
 \brapidweightlosswithhcg\.com\b
 \bholidays-info\.info\b
 \bsource-werbeartikel\.com\b
+\bphoto-travels\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
