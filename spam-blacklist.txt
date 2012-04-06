@@ -15402,7 +15402,7 @@ diamondlinks\.net
 commissionbreakthrough
 \b\d+\w+facts?\.com\b
 whatisamoneytree
-\b(easy)?(hairgrowth|golf-|bodybuilding|weightloss?|mafiawar|sixpackabs)(secret)?\b
+\b(easy)?(hairgrowth|bodybuilding|weightloss?|mafiawar|sixpackabs)(secret)?\b
 ultimatemuscletrainer
 globalrealearning
 \bhowtomakemoney\b
