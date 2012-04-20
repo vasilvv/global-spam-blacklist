@@ -15541,6 +15541,9 @@ rankmaniac
 \bvlondonescorts\.co\.uk\b
 \bbarrieknowledgenow\.com\b
 
+#Emergency listing - cross wiki issue 2012-4-20
+\bvivaty\.wordpress\.com\b
+
 #Added by Jyothis on Feb 20, 2012
 \bundo\.it\b
 \bamirite\.biz\b
