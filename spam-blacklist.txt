@@ -7090,7 +7090,6 @@ ayahuascadistribution\.org
 \b(lmgtfy|letmegooglethatforyou)\.com.*[?&]l=1
 \bhacibektas\.de\b
 \bkaracaahmet\.com\b
-\balevi\.com\b
 \bgeminimanagementnv\.com\b
 \b4images\.gen\.tr\b
 \bpublic-domain-image\.com\b
