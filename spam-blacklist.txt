@@ -15822,6 +15822,12 @@ d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
 \bmy-destination\.info\b
 \belwazefa\.com\b
 \bhats-world\.net\b
+\bbustarhymes\.us\b
+\bice-t\.org\b
+\bflo-rida\.info\b
+\bjessie-j\.info\b
+\bgymclassheroes\.net\b
+\bgameservers\.al\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
