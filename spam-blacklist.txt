@@ -4575,7 +4575,6 @@ digilander\.libero\.it/andrea\.nardo1977
 \btheflowersofromance\.tk\b
 \bdcc\.ttu\.ee/Bands/get\.asp\?ident=2555\b
 \bmyspace\.com/(tfor|vennaskond)\b
-\bgportal\.hu\b
 \bexpo2010kina\.hu\b
 \bbeginner-sql-tutorial\.com\b
 \brxmedsoffer\.com\b
