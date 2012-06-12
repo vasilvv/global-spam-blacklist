@@ -7275,7 +7275,7 @@ lexikon\.calsky\.com
 \bindex\.com\.pe\b
 \bsocuteurl\.com\b
 (?<=//|\.)to\.net\b
-\bgoo\.gl\b
+\bgoo\.gl\b(?!/maps\b)
 \bfunurl\.com\b
 \brihannanow\.fr\.cr\b
 \bairsoft-cube\.com\b
