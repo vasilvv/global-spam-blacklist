@@ -6869,7 +6869,6 @@ mongolische-jurten\.de
 \burdu\.ourdou\.free\.fr\b
 \bzulu\.zoulou\.free\.fr\b
 \bhidanime\.comli\.com\b
-\bdenizmuzeleri\.tsk\.tr\b
 \bjordandi\.com\b
 \btiffany(?:hot|ou)\.com\b
 \blnk\.ms\b
@@ -12929,7 +12928,6 @@ d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
 \bemcollections\.net\b
 \bideascosasymascosas\.blogspot\.com\.es\b
 \baldservice\.com\b
-\baltafsir\.com\b
 \bberlin-1945\.de\b
 \bmoslemhytech\.blogspot\.com\b
 \bviolinconcerto\.de\b
