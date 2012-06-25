@@ -13018,6 +13018,8 @@ d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
 \blivexxxstrip\.com\b
 \bbizplancorner\.com\b
 \bbarringtongifts\.com\b
+\bpillowholiday\.info\b
+\bpodestination\.info\b
 \bvlholiday\.info\b
 \bpozvacation\.info\b
 ## sbhandler_end
