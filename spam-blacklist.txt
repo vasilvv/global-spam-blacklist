@@ -13028,7 +13028,7 @@ d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
 \bhementaksit\.com\b
 \bkredikartiborclari\.com\b
 \bkredikartiborctaksit\.com\b
-\bauto-verzekeringvergelijken\.com\b
+-verzekeringvergelijke.\..{2,3}\b
 \bcvcos\.com\b
 \byogaforweightlosses\.com\b
 \bposteriorfossa\.com\b
