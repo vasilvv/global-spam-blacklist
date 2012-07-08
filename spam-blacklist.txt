@@ -13081,6 +13081,8 @@ authenticstore\.com\b
 \bcollegesmalaysia\.com\.my\b
 \bbookofraspielen\.info\b
 \bin-disguise\.com\b
+\bnikefreerunfr\.net\b
+\bjordanpascherfr\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
