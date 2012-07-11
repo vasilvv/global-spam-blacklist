@@ -13084,6 +13084,7 @@ authenticstore\.com\b
 \bnikefreerunfr\.net\b
 \bjordanpascherfr\.com\b
 \bbg-dest\.us\b
+\bserfinaz\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
