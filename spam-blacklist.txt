@@ -13042,7 +13042,7 @@ d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
 \bniceplaces\.ro\b
 \bekalk\.eu\b
 \bekalk\.pl\b
-officialnfl\w{1,10}teamstore\.com\b
+officialnfl\w{1,10}(proshop|teamstore)\.com\b
 authenticstore\.com\b
 \bsingaporetourismpackages\.co\.in\b
 \bdubaitourpackages\.co\.in\b
