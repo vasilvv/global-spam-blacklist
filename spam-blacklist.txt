@@ -13090,6 +13090,7 @@ authenticstore\.com\b
 \bmedicanadirectory\.com\b
 \bkrebsvideo\.com\b
 \bmedicanalife\.us\b
+\bbgvacation\.info\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
