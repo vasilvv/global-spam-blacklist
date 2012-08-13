@@ -13112,6 +13112,7 @@ authenticstore\.com\b
 \bvuittonbagsonlinesoldes\.com\b
 \bcheapmkoutlet\.com\b
 \bpoloralphlauren
+\bsdrv\.ms\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
