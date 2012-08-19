@@ -6196,7 +6196,7 @@ viagra-?(drugs|online|billig)
 \bco(ast-?mail|inclicks|lor-mail|mpactmails|okie-mails|operativemail|pymails|smicwealth|splaymails|verclicks|wboy-mail)\.(com|info)
 \bcr(abmails|ash-cash|azy-4-cash|azyclicks|eam-mails)\.(com|us)
 \bearn3\.com
-\begyptp(ost\.org|tc\.com)
+\begyptptc\.com
 \bisabelmarco\.com
 \bp2cdaily\.com
 \bperfectbux\.com
