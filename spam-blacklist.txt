@@ -13095,7 +13095,6 @@ authenticstore\.com\b
 \bprofi-fachuebersetzung\.de\b
 \bprofischnell\.com\b
 \balquilerdeyatesenibiza\.com\b
-\balmaty-kazakhstan\.net\b
 \bopgg\.nazwa\.pl\b
 \bprima-aprilis\.com\.pl\b
 \bts3card-business\.jp\b
