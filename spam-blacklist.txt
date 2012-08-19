@@ -6498,7 +6498,6 @@ xxxxxx/
 \bgivemeknol\.com\b
 \bmaxreading\.com\b
 \btrucchi-e-consigli-msn\.spaces\.live\.com\b
-\bphilatino\.com\b
 \bspeechcorrector\.org\b
 \bmcdo3333\.blogspot\.com\b
 \blitlurl\.net\b
