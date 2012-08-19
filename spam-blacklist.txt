@@ -13115,6 +13115,7 @@ authenticstore\.com\b
 \bsdrv\.ms\b
 \bboreaudio\.com\b
 \bvideo-izle\.web\.tr\b
+\bslinky\.me\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
