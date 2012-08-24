@@ -13116,6 +13116,7 @@ authenticstore\.com\b
 \bactgruppe-es\.de\b
 \bstubbags\.com\b
 \bglobal-offensive-codes\.com\b
+\bthephen375blog\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
