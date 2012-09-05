@@ -13121,6 +13121,7 @@ authenticstore\.com\b
 \bvietnamvisa\.org\.vn\b
 \bforexbroker\.info\b
 \bahoi\.es\b
+\baffiliatefuture\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
