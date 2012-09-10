@@ -13123,6 +13123,7 @@ authenticstore\.com\b
 \bahoi\.es\b
 \baffiliatefuture\.com\b
 \bszechenyispabaths\.com
+\b(jazz|trance|rock)-radio.50webs\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
