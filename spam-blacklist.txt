@@ -12450,7 +12450,7 @@ diamondlinks\.net
 \bvoip-sip-sdk\.com\b
 \btrakai-visit\.lt\b
 \b360cities\.net\b
-\bbet-at-home\.(?:at|es)\b
+\bbet-at-home\.(?:at|com|es)\b
 \bvolley24\.com\b
 \bcuba-linda\.com\b
 \btipbet\.vn\b
