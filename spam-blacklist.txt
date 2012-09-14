@@ -13126,6 +13126,7 @@ authenticstore\.com\b
 \b(jazz|trance|rock)-radio.50webs\.com\b
 \bmulberrycheapoutlet\.com\b
 \btaourl\.com\b
+\bfbfriendblaster\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
