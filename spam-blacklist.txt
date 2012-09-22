@@ -13129,6 +13129,7 @@ authenticstore\.com\b
 \bfbfriendblaster\.com\b
 \badmitad\.com\b
 \benjoycanaryislands\.com\b
+\bfastprofitpages\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
