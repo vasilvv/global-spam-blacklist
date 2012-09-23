@@ -13130,6 +13130,18 @@ authenticstore\.com\b
 \badmitad\.com\b
 \benjoycanaryislands\.com\b
 \bfastprofitpages\.com\b
+\bund-recht\.info\b
+\berbbaurechtsgesetz\.de\b
+\bheilberufsrecht\.de\b
+\bkanzleifeser\.de\b
+\bversicherung-recht\.de\b
+\barzthaftung-recht\.de\b
+\bnachlass-rechtsfragen\.de\b
+\bschenkkreis-recht\.de\b
+\bstalker-recht\.de\b
+\bkanzlei-feser\.info\b
+\banwalt-feser\.de\b
+\banwalt-recht-und-gesetz\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
