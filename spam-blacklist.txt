@@ -13146,6 +13146,8 @@ authenticstore\.com\b
 \bswemine\.tk\b
 \bswelands\.co\.cc\b
 \bdigitalsatis\.com\b
+\bhoaphat\.net\.vn\b
+\bnoithathoaphat\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
