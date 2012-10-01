@@ -13151,6 +13151,7 @@ authenticstore\.com\b
 \burls\.co\.il\b
 \bwanttoknow\.info\b
 \belal3ab\.com\b
+\bco\.cc\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
