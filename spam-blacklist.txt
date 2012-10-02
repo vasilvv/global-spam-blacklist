@@ -13153,6 +13153,7 @@ authenticstore\.com\b
 \belal3ab\.com\b
 \bco\.cc\b
 \bcheapfootballshirtonline\.co\.uk\b
+\bhowtogetridofacneproblem\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
