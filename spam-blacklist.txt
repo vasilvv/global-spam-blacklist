@@ -13154,6 +13154,7 @@ authenticstore\.com\b
 \bco\.cc\b
 \bcheapfootballshirtonline\.co\.uk\b
 \bhowtogetridofacneproblem\.com\b
+\bseychellesprestige\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
