@@ -13161,6 +13161,7 @@ authenticstore\.com\b
 \bthoitrangf5\.com\b
 \bvst\.tv\b
 \bplusooo\.com\b
+\bfie-r\.it\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
