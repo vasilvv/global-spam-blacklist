@@ -13177,6 +13177,7 @@ authenticstore\.com\b
 \bkurzurl\.net\b
 \bfixurl\.de\b
 \bunurl\.org\b
+\bhkclarksinn\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
