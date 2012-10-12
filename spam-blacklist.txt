@@ -13168,6 +13168,7 @@ authenticstore\.com\b
 \bvistarecords\.us\b
 \bfazzt\.biz\b
 \bipir\.at\b
+\bl\.hh\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
