@@ -13173,6 +13173,7 @@ authenticstore\.com\b
 \bkleinerlink\.de\b
 \bayak\.org\b
 \b3ai\.de\b
+\bmikiurl\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
