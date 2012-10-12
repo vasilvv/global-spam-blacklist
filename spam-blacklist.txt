@@ -13166,6 +13166,7 @@ authenticstore\.com\b
 \bmariaciobanu\.tk\b
 \bfanclubmariaciobanu\.tk\b
 \bvistarecords\.us\b
+\bfazzt\.biz\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
