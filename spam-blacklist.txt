@@ -13179,6 +13179,7 @@ authenticstore\.com\b
 \bunurl\.org\b
 \bhkclarksinn\.in\b
 \boua\.be\b
+\bel32\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
