@@ -13175,6 +13175,7 @@ authenticstore\.com\b
 \b3ai\.de\b
 \bmikiurl\.com\b
 \bkurzurl\.net\b
+\bfixurl\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
