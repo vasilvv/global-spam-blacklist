@@ -13181,6 +13181,12 @@ authenticstore\.com\b
 \boua\.be\b
 \bel32\.com\b
 \bfilz\.fr\b
+\blichnosbeach\.com\b
+\blichnosbeach\.gr\b
+\blichnosbeachhotel\.reserve-online\.net\b
+\bparga-hotels\.blogspot\.com\b
+\bpargalichnos\.com\b
+\bpargagreece\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
