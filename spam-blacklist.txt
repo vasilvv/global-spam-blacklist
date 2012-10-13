@@ -13187,6 +13187,9 @@ authenticstore\.com\b
 \bparga-hotels\.blogspot\.com\b
 \bpargalichnos\.com\b
 \bpargagreece\.net\b
+\bitconnexion\.com\b
+\bdinez\.co\.uk\b
+\bxmas\.cpilondon\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
