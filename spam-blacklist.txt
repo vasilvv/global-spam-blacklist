@@ -13194,6 +13194,7 @@ authenticstore\.com\b
 \bkuvaton\.com\b
 \burly\.fi\b
 \bpara\.ms\b
+\bdft\.ba\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
