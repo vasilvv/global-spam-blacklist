@@ -13198,6 +13198,8 @@ authenticstore\.com\b
 \bcnubloquefolle\.canalblog\.com\b
 \b5url\.net\b
 \bmichelerosica\.altervista\.org\b
+\bpro-*\.ru\b
+\bgorod-scherbinka\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
