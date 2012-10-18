@@ -13200,6 +13200,7 @@ authenticstore\.com\b
 \bmichelerosica\.altervista\.org\b
 \bpro-.*?\.ru\b
 \bgorod-scherbinka\.ru\b
+\bscientific-library\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
