@@ -13203,7 +13203,6 @@ authenticstore\.com\b
 \bscientific-library\.com\b
 \bprintsasia\.com\b
 \bprintsasia\.co\.uk\b
-\bkpvz7ki2v5agwt35\.onion\b
 \bwww-weightlosssecrets\.com\b
 \b31daysfatlosscures\.com\b
 ## sbhandler_end
