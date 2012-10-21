@@ -13205,6 +13205,7 @@ authenticstore\.com\b
 \bprintsasia\.co\.uk\b
 \bkpvz7ki2v5agwt35\.onion\b
 \bwww-weightlosssecrets\.com\b
+\b31daysfatlosscures\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
