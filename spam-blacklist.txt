@@ -4360,7 +4360,6 @@ boylovernet
 \bplay-asia\.com/SOap\b
 \bpacino\.narod\.ru\b
 \bmustang\.te\.ua\b
-\bcaesarstone(us)?\.com\b
 \blacalabria\.biz\b
 \bvacanzeatropea\.biz\b
 \bcapovaticano\.info\b
