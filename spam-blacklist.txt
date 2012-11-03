@@ -12700,7 +12700,7 @@ rankmaniac
 \bhop\.clickbank\.net\b
 \bpp4l\.me\b
 \bmy-weight-loss-secrets\.webs\.com\b
-\b➡\.ws\b
+[/\.]➡\.ws\b
 \bxn--hgi\.ws\b
 \b›\.ws\b
 \bxn--cwg\.ws\b
