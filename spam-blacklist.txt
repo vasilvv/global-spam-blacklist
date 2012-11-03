@@ -13208,6 +13208,7 @@ authenticstore\.com\b
 \bs\.tt\b
 \blisastansfieldexperience\.com\b
 \bexcel-avanzado\.com\b
+\ballmoviesforyou\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
