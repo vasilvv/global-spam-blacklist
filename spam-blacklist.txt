@@ -13210,6 +13210,7 @@ authenticstore\.com\b
 \bexcel-avanzado\.com\b
 \ballmoviesforyou\.com\b
 \blnk\.do\b
+\bzondergekheid\.tk\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
