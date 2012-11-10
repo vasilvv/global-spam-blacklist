@@ -3270,7 +3270,7 @@ ultime-notizie\.eu
 \bmyphoneservice\.net
 \bcheap(-travel-4u|computeruk|laptopuk|notebookuk)\.co\.uk\b
 \bcheap-(?:abercrombie|chanel-watchers|chanel|flights4u|louis-lv|luxury-bag|mbt-shop|playstation|sat-nav|vanguard-gold|wow-accounts|x-box)\.com\b
-nfl(teams)?-?jerseysales?\b.com\b # no starting \b so it captures all prefixed components too
+nfl(teams)?-?jerseysales?\.com\b # no starting \b so it captures all prefixed components too
 \bcheap-(?:air-jordan\.cn|airline-tickets\.be|bags\.org|goods\.org|online\.net|tv-uk\.co\.uk)\b
 \bcheap(?:airjordanstore|antimbtsale|bagsestore|chloe|christian|cl|est4ffxigil|estwowgoldworld|handbags2009|jordansneaker|juciyshop|kingdom|lvsale|mar?ket|moncler|poolproducts|stores2u|valuemeds|watches4sale|wears|wholesalejersey|wow-gold-us-eu)\.com\b
 \bcheap(?:ed\.ru|estpill\.net|estwowgold\.org|jimmychoo\.net)\b
