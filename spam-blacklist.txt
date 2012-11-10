@@ -13212,6 +13212,7 @@ authenticstore\.com\b
 \ballmoviesforyou\.com\b
 \blnk\.do\b
 \bzondergekheid\.tk\b
+\bscmresearch\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
