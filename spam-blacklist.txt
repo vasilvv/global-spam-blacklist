@@ -13215,6 +13215,7 @@ authenticstore\.com\b
 \bscmresearch\.org\b
 \blajk\.ba\b
 \bdanhotels\.com\b
+\bdanhotels\.co\.il\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
