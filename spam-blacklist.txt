@@ -13089,7 +13089,7 @@ authenticstore\.com\b
 \bkrebsvideo\.com\b
 \bmedicanalife\.us\b
 \bbgvacation\.info\b
-\bminecraftcodes\.me\b
+\bminecraftcodes\.(info|me)\b
 \bwebhostingw\.com
 \brajpromotions\.com\b
 \bprofi-fachuebersetzung\.de\b
