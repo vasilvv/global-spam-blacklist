@@ -13217,6 +13217,7 @@ authenticstore\.com\b
 (\bnewbalance(japan|(hot)?sale)|\bcoach(outlet|online)|jersey|uniform)\.asia\b
 \bantiagingcreaminfo\.blogspot\.com\b
 stell?iss?imo
+\bbrig\.co\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
