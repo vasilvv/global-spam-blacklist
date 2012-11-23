@@ -13216,7 +13216,7 @@ authenticstore\.com\b
 \blajk\.ba\b
 (\bnewbalance(japan|(hot)?sale)|\bcoach(outlet|online)|jersey|uniform)\.asia\b
 \bantiagingcreaminfo\.blogspot\.com\b
-\b.*stell?iss?imo.*
+.*stell?iss?imo.*
 \bbrig\.co\b
 ## sbhandler_end
 ## leave the above line as is
