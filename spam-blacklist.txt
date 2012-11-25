@@ -13220,6 +13220,7 @@ authenticstore\.com\b
 \bbrig\.co\b
 \bgrem\.io\b
 \bredirectingat\.com\b
+\bsynqk\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
