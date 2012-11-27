@@ -11279,7 +11279,6 @@ btopfoot\.ch\b
 \bhyv\.es\b
 \bhyves\.nl/api/shorturl\b
 \bcartusialover\.wordpress\.com\b
-\bcartusialover\.altervista\.org\b
 \bcabinetfiscal\.com\b
 \btilpark\.com\b
 \bsudety\.veus\.pl\b
