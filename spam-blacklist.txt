@@ -13222,6 +13222,7 @@ authenticstore\.com\b
 \bsynqk\.com\b
 \bsteroids-online\.net\b
 \b67\.55\.108\.167\b
+\boceangirltv\.narod\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
