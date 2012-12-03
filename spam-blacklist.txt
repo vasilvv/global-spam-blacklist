@@ -13197,7 +13197,7 @@ authenticstore\.com\b
 \bcnubloquefolle\.canalblog\.com\b
 \b5url\.net\b
 \bmichelerosica\.altervista\.org\b
-\bpro-(?!speleo).*?\.ru\
+\bpro-(?!speleo).*?\.ru
 \bgorod-scherbinka\.ru\b
 \bscientific-library\.com\b
 \bprintsasia\.com\b
