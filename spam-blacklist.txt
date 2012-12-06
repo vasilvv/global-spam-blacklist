@@ -13224,6 +13224,8 @@ authenticstore\.com\b
 \b67\.55\.108\.167\b
 \boceangirltv\.narod\.ru\b
 \bvietnamimmigration\.net\b
+\bmozaik\.info\.hu\b
+\bmozaweb\.hu\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
