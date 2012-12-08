@@ -13226,6 +13226,20 @@ authenticstore\.com\b
 \bvietnamimmigration\.net\b
 \bmozaik\.info\.hu\b
 \bmozaweb\.hu\b
+\btraditionalindianherbs\.com\b
+\bhome-remedies\.in\b
+\btelugu-news\.com\b
+\bmasetty\.com\b
+\bwebsiteoutlook\.in\b
+\bgumagumalu\.com\b
+\btelugudb\.com\b
+\b4virtuagirl\.com\b
+\bthevod\.net\b
+\bjennavideos\.net\b
+\b4strippers\.net\b
+\bporndvd-stores\.com\b
+\bsugardvd\.info\b
+\ballgovernmentjobs\.co\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
