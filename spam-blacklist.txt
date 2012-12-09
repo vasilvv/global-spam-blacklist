@@ -13241,6 +13241,8 @@ authenticstore\.com\b
 \bsugardvd\.info\b
 \ballgovernmentjobs\.co\.in\b
 \bzombie-loan\.com\b
+\bklassik-resampled\.de\b
+\bs-fahl\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
