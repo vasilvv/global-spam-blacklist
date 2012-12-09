@@ -5895,7 +5895,6 @@ setif\.forumactif\.info
 giurgiuro\.blogspot\.com
 \bnegox\.com\b
 \boomoto\.ucoz\.ru\b
-\btalk\.to\b
 \bklimenro\.0fees\.net\b
 \bw-ru\.com\b
 (russian-?|\bru-)(bride|girls|ladies|lady|single|wife|wives|wom[ae]n)
