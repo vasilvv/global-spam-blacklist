@@ -13242,6 +13242,16 @@ authenticstore\.com\b
 \bzombie-loan\.com\b
 \bklassik-resampled\.de\b
 \bs-fahl\.de\b
+\bmakingpeopledance\.com\b
+\bdiscoverunsigned\.com\b
+\btrafficdr\.com\b
+\bbellimbusto\.co\b
+\brecov-er\.tumblr\.com\b
+\bducksnstuff\.tumblr\.com\b
+\bfyeahoatmeal\.tumblr\.com\b
+\bownedax\.tumblr\.com\b
+\bfalling-yet-again\.tumblr\.com\b
+\bscheherazade-khanum\.tumblr\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
