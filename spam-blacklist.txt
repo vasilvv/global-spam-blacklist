@@ -13263,6 +13263,7 @@ authenticstore\.com\b
 \be-redstar\.net\b
 \bfoutapedia\.org\b 
 \bkoreanroyal\.org\b
+\bthejinan\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
