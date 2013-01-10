@@ -13221,7 +13221,7 @@ authenticstore\.com\b
 \bsynqk\.com\b
 \bsteroids-online\.net\b
 \b67\.55\.108\.167\b
-\boceangirltv\.narod\.ru\b
+\b(oceangirltv|lauren-hewett)\.narod\.ru\b
 \bvietnamimmigration\.net\b
 \bmozaik\.info\.hu\b
 \bmozaweb\.hu\b
