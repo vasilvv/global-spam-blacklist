@@ -12579,6 +12579,7 @@ authenticstore\.com\b
 \bdarkknightreturnsdvd\.com\b
 \bpluginprofitsite\.com\b
 \bprobamope\.info\b
+\bambersail\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
