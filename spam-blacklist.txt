@@ -12582,6 +12582,7 @@ authenticstore\.com\b
 \bambersail\.com\b
 \bwikiperle\.blogspot\.com
 \bvgn\.me\b
+\bbeatles\.ru
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
