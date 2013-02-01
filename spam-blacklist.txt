@@ -12572,7 +12572,6 @@ authenticstore\.com\b
 \betourismsolutions\.com\b
 \be-redstar\.net\b
 \bfoutapedia\.org\b 
-\bkoreanroyal\.org\b
 \bthejinan\.org\b
 \bkoreanroyal\.com\b
 \bthejinan\.com\b
