@@ -12586,9 +12586,8 @@ authenticstore\.com\b
 \b0cn\.de\b
 \bkoreanroyals\.org\b
 \btrick\.ly\b
-\bthekoreanroyalty\.org\b
+\bthekoreanroyalty\.(com|org)\b
 \burban-vin\.ucoz\.ua\b
-\bfaacebook\.com\b
 \bfaacebook\.com\b
 ## sbhandler_end
 ## leave the above line as is
