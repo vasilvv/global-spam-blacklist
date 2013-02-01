@@ -12585,7 +12585,7 @@ authenticstore\.com\b
 \b0cn\.de\b
 \bkoreanroyals\.org\b
 \btrick\.ly\b
-\bthekoreanroyalty\.(com|org)\b
+\bthekoreanroyal(ty)?\.(com|org)\b
 \burban-vin\.ucoz\.ua\b
 \bfaacebook\.com\b
 ## sbhandler_end
