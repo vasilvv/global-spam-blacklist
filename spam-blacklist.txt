@@ -12589,6 +12589,7 @@ authenticstore\.com\b
 \bthekoreanroyalty\.org\b
 \burban-vin\.ucoz\.ua\b
 \bfaacebook\.com\b
+\bfaacebook\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
