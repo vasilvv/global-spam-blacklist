@@ -12587,6 +12587,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 #korean royalty end
 \burban-vin\.ucoz\.ua\b
 \bfaacebook\.com\b
+\bvideolegend\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
