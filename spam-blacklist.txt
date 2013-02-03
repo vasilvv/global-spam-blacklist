@@ -12588,6 +12588,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \burban-vin\.ucoz\.ua\b
 \bfaacebook\.com\b
 \bvideolegend\.net\b
+\burlx\.ru\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
