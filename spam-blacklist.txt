@@ -37,7 +37,7 @@ casino-online
 online-casino
 cheap(?:-airfares|coach|est-phone|ghd|holidayaccommodation|jerseys|sneaker|-xanax)
 #jerseys type spam (clumping)
-official[a-z\d]{,12}shop.com
+\bofficial[a-z\d]{,12}shop\.(com|us|org|net)\b
 nfl(teams)?-?jerseysales?\.com\b # no starting \b so it captures all prefixed components too
 \bjerseys\.(com|us|org|net)\b
 \b(int|rayrice|hello|two|god)jerseys?\.(com|us|org|net)\b
