@@ -8778,7 +8778,6 @@ buy[a-z0-9-]*replica
 \bitbag-online\.com\b
 \bpopbrands\.net\b
 \bchopardshop\.com\b
-\bhavewatches\.com\b
 \bjordand1\.com\b
 \bsell-brand-bag\.com\b
 \bwto-sell\.com\b
@@ -8789,7 +8788,8 @@ buy[a-z0-9-]*replica
 \bjrhandbags\.com\b
 \bdshandbags\.com\b
 \blinksinns\.com\b
-\bomega-watches-replica\.com\
+\bomega-watches-replica\.com\b
+\bhavewatches\.com\b
 \bzapposbag\.com\b
 \balyshop\.com\b
 \boktiffany\.com\b
