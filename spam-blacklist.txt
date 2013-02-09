@@ -12511,6 +12511,11 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bvideolegend\.net\b
 \burlx\.ru\b
 \bgotoplus\.me\b
+
+## COIBot test - will revert in a minute
+\bpornographicfireparrot\.com\b
+## End COIBot test
+
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
