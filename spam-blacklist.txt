@@ -12513,7 +12513,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bgotoplus\.me\b
 
 ## COIBot test - will revert in a minute
-\bpornographicfireparrot\.com\b
+\bpornographicfireparrot\.com\a\b\c\d\e\f\g\b
 ## End COIBot test
 
 ## sbhandler_end
