@@ -11995,7 +11995,6 @@ rankmaniac
 \bgainmoneyfast\.com\b
 \bilike\.com\b
 d\.{0,1}e\.{0,1}a\.{0,1}t\.{0,1}h\.{0,1}t\.{0,1}o\.{0,1}j\.{0,1}e\.ws
-\bamirite\.biz\b
 \bgetrank\.org\b
 \binstrumentalhiphopbeats\.com
 \bcc\.bingj\.com\b
