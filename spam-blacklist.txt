@@ -11972,7 +11972,6 @@ rankmaniac
 \bacademic-writing\.net\b
 \bmcprovider\.gr\b
 \bsmirt\.ch
-\balways\.killje\.ws\b
 \bdickslist\.com\.au
 \ballowed\.org
 \bvlondonescorts\.co\.uk\b
