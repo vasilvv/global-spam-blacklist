@@ -11967,7 +11967,6 @@ rankmaniac
 \bt9k\.me\b
 \bsearch\.twitter\.com\b
 \bhowmanycaloriesshouldieatx\.com\b
-\baddr\.co\b
 \bl\.to\b
 \bmappamundi\.free\.fr\b
 \bacademic-writing\.net\b
