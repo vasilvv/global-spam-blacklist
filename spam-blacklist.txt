@@ -12316,6 +12316,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \burlx\.ru\b
 \bgotoplus\.me\b
 \balbak\.net\b
+\binstitute-for-competitive-intelligence\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
