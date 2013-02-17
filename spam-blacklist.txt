@@ -12323,6 +12323,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bqtpbook\.com\b
 \bplaymemorygame\.com\b
 \bcosta-linda\.net\b
+\btanzaniamovies\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
