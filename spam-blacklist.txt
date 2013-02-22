@@ -12330,6 +12330,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bmarable\.pl\b
 \bpureplatinummodels\.com\b
 \bkuehntopf\.ch
+\be-weddingplan\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
