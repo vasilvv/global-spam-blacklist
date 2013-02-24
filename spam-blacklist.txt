@@ -12333,6 +12333,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \be-weddingplan\.com\b
 \bmake\.my\b
 \bseo-rankwarrior\.co\.uk\b
+\bpaperbouyent\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
