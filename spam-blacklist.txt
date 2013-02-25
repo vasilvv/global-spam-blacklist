@@ -12337,6 +12337,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bourmess\.net\b
 \btinapa\.com\.ng\b
 \bevent-factory\.ch\b
+\bmusicletter\.it
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
