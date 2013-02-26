@@ -12338,6 +12338,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \btinapa\.com\.ng\b
 \bevent-factory\.ch\b
 \bmusicletter\.it
+\bcouponstellar\.in\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
