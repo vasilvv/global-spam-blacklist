@@ -12339,9 +12339,26 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bevent-factory\.ch\b
 \bmusicletter\.it
 \bcouponstellar\.in\b
+#series of commercial spambot additions
 \babercrombieandfitchoutlet5\.webs\.com\b
 \babercrombieuk52\.webs\.com\b
 \babercrombieandfitchuk3\.webs\.com\b
+\bchristianlouboutinpascher8s\.com\b
+\bhollisterecosfrancea.com\b
+\bfranceumagasins\.com\b
+\bhollisterpascheres\.com\b
+\babercrombie-usa\.com\b
+\babercrombie-malls.com\b
+\bmy-abercrombie\.com\b
+\bfitch-abercrombie\.com\b
+\bcheap-abercrombie\.com\b
+\babercrombie-fitch\.cc\b
+\bus-abercrombie\.com\b
+\babercrombie-kids\.org\b
+\babercrombie-kids\.net\b
+\babercrombie-sale\.uk\.com\b
+\babercrombierfranceusolde\.com\b
+\babercrombieetfitchmagasins\.com\b
 \bsearch4sun\.com\b
 ## sbhandler_end
 ## leave the above line as is
