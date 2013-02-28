@@ -12367,6 +12367,12 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bballgownsoutlet\.com\b
 \bformalgownsuk\.com\b
 \bresearchessay\.org\b
+\bgreatessays\.org\b
+\blux-essay\.com\b
+\blux-dissertation\.com\b
+\bediting-services\.us\b
+\buk-essays\.org\b
+\btoppapers\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
