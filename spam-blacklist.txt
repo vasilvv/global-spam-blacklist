@@ -12361,6 +12361,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \babercrombieetfitchmagasins\.com\b
 \bsearch4sun\.com\b
 \bhollisterzoutletsale\.co\.uk\b
+\bdeplayer\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
