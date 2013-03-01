@@ -12374,6 +12374,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \buk-essays\.org\b
 \btoppapers\.org\b
 \bbadcreditloansyes\.com\b
+\belephate\.pl\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
