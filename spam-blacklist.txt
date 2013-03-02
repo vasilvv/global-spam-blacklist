@@ -12376,6 +12376,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bbadcreditloansyes\.com\b
 \belephate\.pl\b
 \bperth-removals\.com\.au\b
+\bvolcanovaporizerreviews\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
