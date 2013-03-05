@@ -600,11 +600,10 @@ skocz\.pl
 s-url\.net
 \.switch\.to
 thrill\.to
-tiny\.cc
 tiny(click|link)\.com
 \.tinyr\.us
-\btinyurl\.(co\.uk|com)\b
-tiny\.vj\.e\.pl
+\b(?:mobile|really)tinyurls?\.(?:co\.uk|com|ru|tw|us)\b
+tiny\.(?:cc|vj\.e\.pl)
 \.tip\.nu
 \.tny\.se
 tophonors\.com
@@ -1530,7 +1529,6 @@ wapurl\.co\.uk
 liteurl\.com
 zippedurl\.com
 32url\.com
-\btinyurl\.us\b
 relurl\.com
 urlkick\.com
 1url\.org
@@ -6399,7 +6397,6 @@ xxxxxx/
 \bn-spa(?:re|er)s\.ru\b
 \blytdybr\.com\.ua\b
 \b250\.org\.ua\b
-\bmobiletinyurl\.com\b
 \balexander-klaws\.pl\b
 \bnobrain\.dk\b
 \bslki\.ru\b
@@ -6688,7 +6685,6 @@ mongolische-jurten\.de
 \bjordandi\.com\b
 \btiffany(?:hot|ou)\.com\b
 \blnk\.ms\b
-\btinyurl\.ru\b
 \btiny9\.com\b
 \bf1ru\.net\b
 \bgo2cut\.com\b
@@ -8398,7 +8394,6 @@ louis-?vuitton[a-z0-9-]
 \bjeveuxque\.com\b
 \bvisaforum\.freeforums\.org\b
 \bshortmyurl\.net\b
-\btinyurls\.co\.uk\b
 \bownbrandshop\.com\b
 \bnewgoing\.com\b
 \b10[02]bhshoe\.com\b
@@ -9723,7 +9718,6 @@ buy[a-z0-9-]*replica
 \br\.im\b
 \bread\.bi\b
 \bread\.im\b
-\breallytinyurl\.com\b
 \brnm\.me\b
 \bru\.ly\b
 \brww\.tw\b
