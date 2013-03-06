@@ -12375,6 +12375,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \btopendmarket\.se\b
 \bcur\.lv\b
 \bairjordanfrstore\.com\b
+\bnflsuperbowlravens\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
