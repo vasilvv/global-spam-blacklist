@@ -12376,7 +12376,6 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bcur\.lv\b
 \bairjordanfrstore\.com\b
 \bnflsuperbowlravens\.com\b
-\btinyurl\.tw\b
 \btriestelibera\.org
 ## sbhandler_end
 ## leave the above line as is
