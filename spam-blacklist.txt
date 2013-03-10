@@ -2608,7 +2608,6 @@ federazionepagana\.(it|com)
 free-ringtones\.aqhhhh\.info
 loan\.ododf\.info
 yourmerchandise\.org
-exploring-[a-z]+\.com
 melano(?:(?:corp|planet)\.com|tan\.com\.au)
 12987\.rapidforum\.com
 teens\.fr33host\.net
