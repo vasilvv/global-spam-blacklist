@@ -12377,6 +12377,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bnflsuperbowlravens\.com\b
 \btriestelibera\.org
 \byourbusinessbefound\.info\b
+\binterculturecapital\.de\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
