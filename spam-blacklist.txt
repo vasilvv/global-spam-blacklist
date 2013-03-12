@@ -12382,6 +12382,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bpinkfoams\.com\b
 \boffersbookmarks\.com\b
 \bmoney-moguls\.com\b
+\btheorlandopersonalinjurylawyer\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
