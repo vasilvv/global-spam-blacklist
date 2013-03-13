@@ -12384,6 +12384,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bmoney-moguls\.com\b
 \btheorlandopersonalinjurylawyer\.com\b
 \bremediation\.co\b
+\bbringlogodesign\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
