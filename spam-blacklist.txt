@@ -12294,7 +12294,7 @@ authenticstore\.com\b
 \bpluginprofitsite\.com\b
 \bprobamope\.info\b
 \bambersail\.com\b
-\bwikiperle\.blogspot\.com
+\bwikiperle\.blogspot\.*
 \bvgn\.me\b
 \bbeatles\.ru
 \b0cn\.de\b
