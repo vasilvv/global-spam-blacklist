@@ -12386,6 +12386,7 @@ koreanroyal(ty|s)?\.(com|org)\b
 \bremediation\.co\b
 \bbringlogodesign\.com\b
 \bhc-porn\.com\b
+\bhowtodieteasily\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
