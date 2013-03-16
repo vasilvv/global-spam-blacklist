@@ -602,7 +602,7 @@ s-url\.net
 thrill\.to
 tiny(click|link)\.com
 \.tinyr\.us
-\b(?:mobile|really)tinyurls?\.(?:co\.uk|com|ru|tw|us)\b
+\b(?:mobile|really)?tinyurls?\.(?:co\.uk|com|ru|tw|us)\b
 tiny\.(?:cc|vj\.e\.pl)
 \.tip\.nu
 \.tny\.se
