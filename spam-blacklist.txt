@@ -12401,6 +12401,7 @@ linkshrink\.de
 #Emergency listing - current user page spam across wikis
 \bgenericviagra123\.com\b
 
+\bcasino-review\.org\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
