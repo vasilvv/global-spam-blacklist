@@ -12403,6 +12403,7 @@ linkshrink\.de
 
 \bcasino-review\.org\b
 \be-iban\.com\b
+\bmp3sdown\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
