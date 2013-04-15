@@ -12405,6 +12405,7 @@ linkshrink\.de
 \be-iban\.com\b
 \bmp3sdown\.com\b
 \bgrupodsp\.net\b
+\bdiendansimdep\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
