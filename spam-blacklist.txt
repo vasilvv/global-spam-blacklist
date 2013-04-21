@@ -12411,6 +12411,7 @@ linkshrink\.de
 \bstores\.ebay\.com\b
 \bursnauer\.ch\b
 \bqr\.net\b
+\beverythingfou\.net\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
