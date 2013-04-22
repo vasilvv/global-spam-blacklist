@@ -49,7 +49,6 @@ nfl(teams)?-?jerseysales?\.com\b # no starting \b so it captures all prefixed co
 \bjerseysco\.com\b
 \buniform-jersey\.com\b
 \bjerseys-guide\.com\b
-\bjersey\.com\b
 #next 3 purposefully open ended
 (fancy|open|reebok|wholesale|two|whole|china|ebuy|you|and|b2b|20|affordable|shopping|fans|wonderful|c2c|footballworldcup|superbowl)-?jerseys?\.(com|us|org|net)\b
 jerseys?(mvp|-)?(nba|shops?|goods|whole|wholesale|soho|release|zones|sale|com|pick|cn|export|supply|trade|site|warehouse|stop|faves|4u|kk|cc|ab|usa|outlets?|clubhouse|only|buy|planet|911)\.(com|us|org|net)\b
