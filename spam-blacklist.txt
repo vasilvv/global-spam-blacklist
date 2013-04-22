@@ -12412,6 +12412,7 @@ linkshrink\.de
 \bursnauer\.ch\b
 \bqr\.net\b
 \beverythingfou\.net\b
+\bwebsite-submission-seo\.blogspot\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
