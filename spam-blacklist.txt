@@ -12412,8 +12412,9 @@ linkshrink\.de
 \bqr\.net\b
 \beverythingfou\.net\b
 \bwebsite-submission-seo\.blogspot\.com\b
-\bappetitecontrolpills\.com\b
+appetitecontrolpills
 \badsonmap\.com\b
+uniforms2u\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
