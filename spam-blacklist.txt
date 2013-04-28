@@ -12419,6 +12419,7 @@ uniforms2u\.com\b
 \binthessaloniki\.com\b
 \bfindspermdonor\.com\b
 \b100pour100aviron\.com\b
+\b100pour100canoe-kayak\.com\b
 ## sbhandler_end
 ## leave the above line as is
 ## end of [[Spam blacklist/Log]] section
